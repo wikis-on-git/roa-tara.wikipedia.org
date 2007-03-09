@@ -1,0 +1,103 @@
+<table border="1" cellspacing="0" cellpadding="1">
+</tr>
+
+<tr>
+ <th>Phylum*</td>
+ <th>Classis*</td><th>Subclassis*</td>
+ <th>Ordo*</td>
+</td>
+
+<tr>
+ <th>1</td>
+ <th>2</td>
+<th>3</td>
+<th>4</td>
+</td>
+
+<tr>
+ <th rowspan="35"> [[Mollusca]]</td>
+ <th>[[Poliplacofore|Polyplacophora]]</th><th>-</td>
+ <th>-</td>
+</td>
+
+<tr>
+ <th>[[Monoplacophora]]</td>
+ <th>-</th><th>-</td>
+ </td>
+
+<tr>
+ <th>[[Aplacophora]]</td>
+ <th>-</th><th>-</td>
+</td>
+
+<tr>
+ <th rowspan="7">[[Gasteropoda]]</td>
+ <th rowspan="3">[[Prosobranchiata]]</th><th>[[Archaesgastropoda]]</td>
+</td>
+
+<tr>
+ <th>[[Mesogasteropoda]] [[Pectinibranchia]]</th>
+</td>
+
+<tr>
+ <th>[[Neogasteropoda]]</th>
+</td>
+
+<tr>
+ <th rowspan="2">[[Opisthobranchiata]]</th>
+ <th>[[Tectibranchiata]]</td>
+ </td>
+
+<tr>
+ <th>[[Nudibranchiata]]</th>
+ </td>
+
+<tr>
+ <th rowspan="2">[[Pulmonata]]</th><th>[[Basommatophora]]</td>
+</td>
+
+<tr>
+ <th>[[Stylommatophora]]</td>
+</td>
+
+<tr>
+ <th rowspan="3">[[Bivalvia]] ([[Lammelibranchia]])</td>
+<th>[[Protobranchiata]]</td>
+<th>-</td>
+</td>
+
+<tr>
+ <th >[[Filibranchiata]]</td>
+<th>-</td>
+</td>
+
+<tr>
+ <th >[[Eulamellibranchiata]]</td>
+<th>-</td>
+</td>
+
+<tr>
+ <th >[[Scaphopoda]]</td>
+<th>[[Septibranchiata]]</td>
+<th>-</td>
+</td>
+
+<tr>
+ <th rowspan="3">[[Cephalopoda]]</td>
+<th>[[Tetrabranchiata]]</td>
+<th>-</td>
+</td>
+
+<tr>
+ </td>
+<th rowspan="2">[[Dibranchiata]]</td>
+<th>[[Decapoda]]</td>
+</td>
+
+<tr>
+ </td>
+<th>[[Octopoda]]</td>
+</td>
+
+
+</table>
