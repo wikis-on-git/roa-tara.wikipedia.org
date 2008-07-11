@@ -1,8 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Brinnese}}
-{{GeoBox NomeOriginale|Brindisi}} 
-{{GeoBox Mappa|PUG-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Brinnese
+|linkStemma = Brindisi-Stemma.png
+|siglaRegione = PUG
+|siglaProvincia = BR
+|latitudineGradi = 40
+|latitudineMinuti = 38
+|latitudineSecondi = 0
+|longitudineGradi = 17
+|longitudineMinuti = 56
+|longitudineSecondi = 0
+|mappaX = 276
+|mappaY = 213
+|altitudine = 15
+|superficie = 328
+|abitanti = 90.175
+|anno = 31-05-2007  (Fonte: ISTAT)
+|densita = 275
+|frazioni = [[Tuturano]]
+|comuniLimitrofi = [[Carovigno]], [[Mesagne]], [[San Donaci]], [[San Pietro Vernotico]], [[San Vito dei Normanni]]
+|cap = 72100
+|prefisso = 0831
+|istat = 074001
+|fiscale = B180
+|nomeAbitanti = brindisini
+|patrono = [[San Lorenzo da Brindisi]], [[San Teodoro d'Amasea]]
+|festivo = Primo week-end di settembre
+|sito = http://www.comune.brindisi.it/
+|panorama= HPIM0477.JPG
+}} 
 
 '''Brìnnese''' (tagliàne: ''Brindisi'') éte 'nu comune [[Italie|tagliáne]] de 94.439  crestiáne.
 [[Category:Puglia]]
