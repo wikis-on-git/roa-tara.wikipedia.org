@@ -1,9 +1,35 @@
 {{S}}
-{{GeoBox NomeCitta|Matera}}
-{{GeoBox NomeOriginale|Matera}} 
-{{GeoBox Mappa|BAS-Mappa.png}}
-{{GeoBox Fine}}
-
+{{Comune
+|nomeComune = Matera
+|panorama = IMGMater 1723.JPG
+|linkStemma = Matera-Stemma.png
+|siglaRegione = BAS
+|siglaProvincia = MT
+|latitudineGradi = 40
+|latitudineMinuti = 40
+|latitudineSecondi = 0
+|longitudineGradi = 16
+|longitudineMinuti = 36
+|longitudineSecondi = 0
+|mappaX = 244
+|mappaY = 212
+|altitudine = 401
+|superficie = 387,40
+|abitanti = 60.171
+|anno = 31-12-2007
+|densita = 154,2
+|frazioni = La Martella, Picciano A, Picciano B, Venusio
+|comuniLimitrofi = [[Altamura]] (BA), [[Ginosa]] (TA), [[Gravina in Puglia]] (BA), [[Grottole]], [[Laterza]] (TA), [[Miglionico]], [[Montescaglioso]], [[Santeramo in Colle]] (BA)
+|cap = 75100
+|prefisso = 0835
+|istat = 077014
+|fiscale = F052
+|nomeAbitanti = materani
+|patrono = [[Madonna della Bruna]], [[S.Eustachio]]
+|festivo = [[2 luglio]]
+|sindaco = Emilio Nicola Buccico
+|sito = http://www.comune.matera.it/
+}} 
 '''Matera''' éte 'nu comune [[Italie|tagliáne]] de 59.738 crestiáne.
 
 [[Category:Basilicata]]
