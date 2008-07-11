@@ -1,7 +1,34 @@
-{{GeoBox NomeCitta|Bari}}
-{{GeoBox NomeOriginale|Bari}} 
-{{GeoBox Mappa|PUG-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Bari
+|panorama = Bari02.jpg
+|linkStemma = Bari-Stemma.png
+|linkBandiera = Flag of Bari.svg
+|siglaRegione = PUG
+|siglaProvincia = BA
+|latitudineGradi = 41
+|latitudineMinuti = 7
+|latitudineSecondi = 31
+|longitudineGradi = 16
+|longitudineMinuti = 52
+|longitudineSecondi = 0
+|mappaX = 249
+|mappaY = 199
+|altitudine = 5
+|superficie = 116,20
+|abitanti = 322.511
+|anno = 31/12/2007
+|densita = 2.778,7
+|frazioni = <small>Il comune di Bari non comprende frazioni</small><!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Adelfia]], [[Bitonto]], [[Bitritto]], [[Capurso]], [[Giovinazzo]], [[Modugno]], [[Mola di Bari]], [[Noicattaro]], [[Triggiano]], [[Valenzano]]
+|cap = 70121-70131
+|prefisso = 080
+|istat = 072006
+|fiscale = A662
+|nomeAbitanti = baresi
+|patrono = [[San Nicola di Mira|San Nicola]], [[Maria Ss. Odegitria]] e [[San Sabino]]
+|festivo = [[8 maggio]]
+|sito = http://www.comune.bari.it/
+}}
 '''Bari''' è nu comun de 328.458 cristien, capelueche da reggione Puglia e dell'ononm provingie.
 [[Category:Puglia]]
 [[Category:Gëografije]]
