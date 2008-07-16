@@ -1,9 +1,34 @@
 {{S}}
 
-{{GeoBox NomeCitta|Frosinone}}
-{{GeoBox NomeOriginale|Frosinone}} 
-{{GeoBox Mappa|LAZ-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Frosinone
+|linkStemma = Frosinone-Stemma.png
+|siglaRegione = LAZ
+|siglaProvincia = FR
+|latitudineGradi = 41
+|latitudineMinuti = 38
+|latitudineSecondi = 0
+|longitudineGradi = 13
+|longitudineMinuti = 21
+|longitudineSecondi = 0
+|mappaX = 166
+|mappaY = 181
+|altitudine = 291
+|superficie = 47,02
+|abitanti = 48.760
+|anno = 2007
+|densita = 1.462,35
+|frazioni =  Cavoni, Colle Cottorino, Madonna della Neve, Maniano,  Stazione
+|comuniLimitrofi = [[Alatri]], [[Arnara]], [[Ceccano]], [[Ferentino]], [[Patrica]], [[Supino]], [[Torrice]], [[Veroli]]
+|cap = 03100
+|prefisso = 0775
+|istat = 060038
+|fiscale = D810
+|nomeAbitanti = frusinati
+|patrono = [[Papa Silverio|San Silverio]] e [[Papa Ormisda|Sant'Ormisda]]
+|festivo = [[20 giugno]]
+|sito = http://www.comune.frosinone.it/
+}}
 
 '''Frosinone''' éte 'nu comune [[Italie|tagliáne]] de 48.600 crestiáne.
 
