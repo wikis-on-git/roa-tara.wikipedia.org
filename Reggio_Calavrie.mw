@@ -1,9 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Reggio Calabria}}
-{{GeoBox NomeOriginale|Reggio Calabria}} 
-{{GeoBox Mappa|CAL-Mappa.png}}
-{{GeoBox Fine}}
-
+{{Comune
+|nomeComune         = Reggio Calavrie
+|linkStemma         = Reggio Calabria Stemma.png
+|siglaRegione       = CAL
+|siglaProvincia     = RC
+|latitudineGradi    = 38
+|latitudineMinuti   = 6
+|latitudineSecondi  = 41
+|longitudineGradi   = 15
+|longitudineMinuti  = 39
+|longitudineSecondi = 43
+|mappaX             = 221
+|mappaY             = 295
+|altitudine         = 31
+|superficie         = 236,02
+|abitanti           = 184.937
+|anno               = 2007
+|densita            = 783,56
+|frazioni           = [[Archi (Quartiere di Reggio Calabria)|Archi]],  [[Catona]], [[Gallico (quartiere di Reggio Calabria)|Gallico]], [[Gallina (quartiere di Reggio Calabria)|Gallina]], [[Mosorrofa]], [[Ortì]], [[Pellaro]], [[Pentimele (quartiere di Reggio Calabria)|Pentimele]],  [[Saracinello]]
+|comuniLimitrofi    = [[Bagaladi]], [[Calanna]], [[Campo Calabro]], [[Cardeto]], [[Fiumara (RC)|Fiumara]], [[Laganadi]], [[Montebello Ionico]], [[Motta San Giovanni]], [[Roccaforte del Greco]], [[Sant'Alessio in Aspromonte]], [[Santo Stefano in Aspromonte]], [[Villa San Giovanni]]
+|cap                = 89121-89135
+|prefisso           = 0965
+|istat              = 080063
+|fiscale            = H224
+|nomeAbitanti       = reggini<br /><small>(in [[dialetto reggino|reggino]]: '''riggitani'')<br />(anticamente: ''[[aschenazi]]'', ''[[ausoni]]'')</small>
+|patrono            = [[San Giorgio]]
+|festivo            = [[23 aprile]]
+|sito               = http://www.reggiocal.it
+|panorama           = Reggio calabria panorama dal fortino.jpg
+}}
 '''Reggio Calabria''' ète nu comune de 184.937 crisitane.
 
 [[Category:Calabria]]
