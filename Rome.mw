@@ -1,11 +1,49 @@
 {{S}}
 
-{{GeoBox NomeCitta|Rome}}
-{{GeoBox Panorama|Colosseum in Rome, Italy - April 2007.jpg}}
-{{GeoBox Stemma e Bandiera|Comuneroma.jpg|Flag of Rome.svg}}
-{{GeoBox NomeOriginale|Roma}} 
-{{GeoBox Mappa|LAZ-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|portale=
+|nomeComune = Rrome
+|linkStemma = Comuneroma.jpg
+|linkBandiera = Flag of Rome.svg
+|panorama = Colosseum in Rome, Italy - April 2007.jpg
+|siglaRegione = LAZ 	 
+|siglaProvincia = RM 	 
+|latitudineGradi = 41 	 
+|latitudineMinuti = 53	 
+|latitudineSecondi = 35 	 
+|longitudineGradi = 12 	 
+|longitudineMinuti = 29 	 
+|longitudineSecondi = 00
+|mappaX = 160
+|mappaY = 172
+|altitudine = 20
+|superficie = 1.285,30
+|abitanti = 2.718.768
+|anno= 31 dicembre 2007
+|densita = 2.115,3
+|frazioni = Vedi [[:Categoria:Zone di Roma|categoria]]
+|comuniLimitrofi = [[Albano Laziale]], [[Anguillara Sabazia]], [[Ardea]], [[Campagnano di Roma]], [[Castel Gandolfo]], [[Castel San Pietro Romano]], [[Ciampino]], [[Città del Vaticano]] (SCV), [[Colonna (RM)|Colonna]], [[Fiumicino]], [[Fonte Nuova]], [[Formello]], [[Frascati]], [[Gallicano nel Lazio]], [[Grottaferrata]], [[Guidonia Montecelio]], [[Marino (RM)|Marino]], [[Mentana]], [[Monte Porzio Catone]], [[Monte Compatri]], [[Monterotondo]], [[Palestrina]], [[Poli]], [[Pomezia]], [[Riano]], [[Sacrofano]], [[San Gregorio da Sassola]], [[Tivoli]], [[Trevignano Romano]], [[Zagarolo]]
+|cap = 00118-00199
+|prefisso = 06
+|istat = 058091
+|fiscale = H501
+|nomeAbitanti = romani o ''capitolini''
+|patrono = Santi [[San Pietro|Pietro]] e [[Paolo di Tarso|Paolo]]
+|festivo = [[29 giugno]]
+|sito = http://www.comune.roma.it
+}} <!-- fine della tabella - per la compilazione vedi -> Aiuto:Comune -->
+{{UNESCO
+|tipoBene = patrimonio
+|nome = Centro storico di Roma, le proprietà extraterritoriali della Santa Sede nella città e la Basilica di San Paolo fuori le mura<br />Estensione del patrimonio di Roma ai beni compresi entro le mura di Urbano VIII
+|nomeInglese = Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura
+|immagine = Colosseum-2003-07-09.jpg
+|anno = 1980 (estensione 1990)
+|tipologia = Architettonico
+|criterio = (i)(ii)(iii)(iv)(vi)
+|pericolo = Nessuna indicazione
+|link = 91
+|stato = Italia
+}}
 
 '''Rome''' ([[Italie|tagliáne]]: ''Roma'') éte 'nu comune [[Italie|tagliáne]] de 2.718.768 crestiáne.
 
