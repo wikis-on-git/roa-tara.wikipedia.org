@@ -1,8 +1,33 @@
 {{S}}
-{{GeoBox NomeCitta|Salerno}}
-{{GeoBox NomeOriginale|Salerno}} 
-{{GeoBox Mappa|CAM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Salerno
+|linkStemma = Salerno-Stemma.png
+|siglaRegione = CAM
+|siglaProvincia = SA
+|latitudineGradi = 40
+|latitudineMinuti = 41
+|latitudineSecondi = 0
+|longitudineGradi = 14
+|longitudineMinuti = 46
+|longitudineSecondi = 0
+|mappaX = 200
+|mappaY = 211
+|altitudine = 4
+|superficie = 58,96
+|abitanti = 140.580  
+|anno = 31 dicembre 2007
+|densita = 2384,33
+|frazioni = Brignano, Casa D'Amato, Corte Iandolo, Croce,  Fuorni, Giovi Altimari, Giovi Bottiglieri, Giovi Piegolelle, Matierno, Ogliara, Pastorano, Rufoli, Sant'Angelo, Sordina
+|comuniLimitrofi =  [[Baronissi]], [[Castiglione del Genovesi]], [[Cava de' Tirreni]], [[Giffoni Valle Piana]], [[Pellezzano]],  [[Pontecagnano Faiano]], [[San Cipriano Picentino]], [[San Mango Piemonte]], [[Vietri sul Mare]]
+|cap = 84121-84135
+|prefisso = 089
+|istat = 065116|
+|fiscale = H703
+|nomeAbitanti = salernitani
+|patrono = [[San Matteo apostolo ed evangelista|San Matteo]]
+|festivo = [[21 settembre]]
+|sito = http://www.comune.salerno.it/
+}}
 
 '''Salerno''' (dialetto salernidane ''Salierno'') éte 'nu comune [[Italie|tagliáne]] de 146.324 crestiáne.
 [[Category:Campania]]
