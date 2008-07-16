@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Terni}}
-{{GeoBox NomeOriginale|Terni}} 
-{{GeoBox Mappa|UMB-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Terni
+|panorama = PanoramicaEst terni.jpg
+|linkStemma = Terni-Stemma.png
+|siglaRegione = UMB
+|siglaProvincia = TR
+|latitudineGradi = 42
+|latitudineMinuti = 34
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 39
+|longitudineSecondi = 0
+|mappaX = 149
+|mappaY = 151
+|altitudine = 130
+|superficie = 211
+|abitanti = 110.638
+|anno = 31-08-2007
+|densita = 524,4
+|frazioni = [[Battiferro]], Cecalocco, [[Cesi]], [[Collescipoli]], [[Collestatte]], Gabelletta, Giuncano Scalo, Giuncano Alto [[Marmore]], Miranda, [[Papigno]], [[Piediluco]], Poggio Lavarino, Porzano, Collegiacone, Polenaco, [[Appecano]], Acquapalombo, Pracchia, Titurano, Rivo, [[Rocca San Zenone]], San Carlo, San Liberatore, [[Torreorsina]], Valenza
+|comuniLimitrofi = [[Acquasparta]], [[Arrone]], [[Colli sul Velino]] (RI), [[Labro]] (RI), [[Montecastrilli]], [[Montefranco]], [[Narni]], [[Rieti]] (RI), [[San Gemini]], [[Spoleto]] (PG), [[Stroncone]]
+|cap = 05100
+|prefisso = 0744
+|istat = 055032
+|fiscale = L117
+|nomeAbitanti = ternani
+|patrono = [[San Valentino]]
+|festivo = [[14 febbraio]]
+|sito = http://www.comune.terni.it/
+}} 
 
 '''Terni''' éte 'nu comune [[Italie|tagliáne]] de 109.000 crestiáne.
 
