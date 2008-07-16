@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Pescara}}
-{{GeoBox NomeOriginale|Pescara}} 
-{{GeoBox Mappa|ABR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Pescara
+|panorama = pescara_hafen.jpg
+|linkStemma = Pescara-Stemma.png
+|siglaRegione = ABR
+|siglaProvincia = PE
+|latitudineGradi = 42
+|latitudineMinuti = 27
+|latitudineSecondi = 50
+|longitudineGradi = 14
+|longitudineMinuti = 12
+|longitudineSecondi = 51
+|mappaX = 187
+|mappaY = 154
+|altitudine = 4
+|superficie = 33,62
+|abitanti = 122.363
+|anno = 2007
+|densita = 3639,58
+|frazioni = Colle della Pietra, Colle di Mezzo, Colle Marino, Colle San Donato, Collescorrano, Fontanelle, Fontanelle Alta, Madonna del Fuoco, San Donato, San Silvestro, San Silvestro Spiaggia, Santa Filomena 
+|comuniLimitrofi = [[Chieti]] (CH), [[Francavilla al Mare]] (CH), [[Montesilvano]], [[San Giovanni Teatino]] (CH), [[Spoltore]]
+|cap = 65100
+|prefisso = 085
+|istat = 068028
+|fiscale = G482
+|nomeAbitanti = pescaresi
+|patrono = [[San Cetteo]]
+|festivo = [[10 ottobre]]
+|sito = http://www.comune.pescara.it
+}}
 
 '''Pescara''' éte 'nu comune [[Italie|tagliáne]] de 122.363 crestiáne.
 
