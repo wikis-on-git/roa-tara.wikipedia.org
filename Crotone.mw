@@ -1,9 +1,34 @@
 {{S}}
 
-{{GeoBox NomeCitta|Crotone}}
-{{GeoBox NomeOriginale|Crotone}} 
-{{GeoBox Mappa|CAL-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Crotone
+|linkStemma = 450px-Crotone-Stemma.png
+|siglaRegione = CAL
+|siglaProvincia = KR
+|latitudineGradi = 39
+|latitudineMinuti = 5
+|latitudineSecondi = 0
+|longitudineGradi = 17
+|longitudineMinuti = 7
+|longitudineSecondi = 0
+|mappaX = 257
+|mappaY = 264
+|altitudine = 8
+|superficie = 179,8
+|abitanti = 60.673
+|anno = 31-12-06
+|densita = 337
+|frazioni = Apriglianello, Carpentieri, Cipolla, Farina, Gabella Grande, Iannello, Maiorano, Margherita, Papanice
+|comuniLimitrofi = [[Cutro]], [[Isola di Capo Rizzuto]], [[Rocca di Neto]], [[Scandale]], [[Strongoli]]
+|cap = 88900
+|prefisso = 0962
+|istat = 101010
+|fiscale = D122
+|nomeAbitanti = crotonesi
+|patrono = [[San Dionigi di Parigi|San Dionigi]]
+|festivo = [[9 ottobre]]
+|sito = http://www.comune.crotone.it/
+}}
 
 '''Crotone''' éte 'nu comune [[Italie|tagliáne]] de 60.517 crestiáne.
 [[Category:Calabria]]
