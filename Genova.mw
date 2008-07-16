@@ -1,9 +1,37 @@
 {{S}}
 
-{{GeoBox NomeCitta|Genova}}
-{{GeoBox NomeOriginale|Genova}} 
-{{GeoBox Mappa|LIG-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Genova
+|panorama=Genova - Panorama da Righi.JPG
+|portale= Genova
+|linkBandiera = Flag of Genoa.svg
+|linkStemma = Genova-Stemma.png
+|siglaRegione = LIG
+|siglaProvincia = GE
+|latitudineGradi = 44
+|latitudineMinuti = 24
+|latitudineSecondi = 40.16
+|longitudineGradi = 8
+|longitudineMinuti = 55
+|longitudineSecondi = 57.58
+|mappaX = 60
+|mappaY = 91
+|altitudine = 19
+|superficie = 243,60
+|abitanti = 610.887
+|anno = 31-12-2007 <ref name= statistica_genova>[http://www.comune.genova.it/portal/template/viewTemplate?templateId=4vh9n9c8es_layout_j3mz5ekbd1.psml Unità Organizzativa Statistica del Comune di Genova]</ref>
+|densita = 2.512,10
+|frazioni = vedi: [[:categoria:quartieri di Genova|quartieri di Genova]]
+|comuniLimitrofi = [[Arenzano]], [[Bargagli]], [[Bogliasco]], [[Bosio]] (AL), [[Campomorone]], [[Ceranesi]], [[Davagna]], [[Masone]], [[Mele]], [[Mignanego]], [[Montoggio]], [[Sant'Olcese]], [[Sassello]] (SV), [[Serra Riccò]], [[Sori]], [[Tiglieto]], [[Urbe]] (SV)
+|cap = 16100
+|prefisso = 010
+|istat = 010025
+|fiscale = D969
+|nomeAbitanti = genovesi (in [[Lingua ligure|ligure]]: ''zeneixi'')
+|patrono = [[San Giovanni Battista]]
+|festivo = [[24 giugno]]
+|sito = http://www.comune.genova.it/
+}}
 
 '''Genova''' éte 'nu comune [[Italie|tagliáne]] de 615.686 crestiáne.
 
