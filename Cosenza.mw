@@ -1,10 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Cosenza}}
-{{GeoBox Panorama|Centro-storico cosenza5.jpg}}
-{{GeoBox Stemma|Cosenza-Stemma.png}}
-{{GeoBox NomeOriginale|Cosenza}} 
-{{GeoBox Mappa|CAL-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune         = Cosenza
+|panorama = Centro-storico cosenza5.jpg
+|linkStemma         = Cosenza-Stemma.png
+|siglaRegione       = CAL
+|siglaProvincia     = CS
+|latitudineGradi    = 39
+|latitudineMinuti   = 18
+|latitudineSecondi  = 0
+|longitudineGradi   = 16
+|longitudineMinuti  = 15
+|longitudineSecondi = 0
+|mappaX             = 236
+|mappaY             = 256
+|altitudine         = 238
+|superficie         = 37,24
+|abitanti           = 69.868 (Municipio) / 257.249 (Area urbana) 
+|anno               =(2007)
+|densita            = 1873,71
+|frazioni           = [[Borgo Partenope]], [[Donnici]], [[Sant'Ippolito (CS)|Sant'Ippolito]]
+|comuniLimitrofi    = [[Aprigliano]], [[Casole Bruzio]], [[Castrolibero]], [[Dipignano]], [[Mendicino]], [[Paterno Calabro]], [[Pedace]], [[Piane Crati]], [[Pietrafitta]], [[Rende]], [[Rovito]], [[Trenta (CS)|Trenta]], [[Zumpano]]
+|cap                = 87100
+|prefisso           = 0984
+|istat              = 078045
+|fiscale            = D086
+|nomeAbitanti       = cosentini<br /><small>(in [[dialetto cosentino|cosentino]]: '''cusentini'')<br />
+|patrono            = [[Madonna del Pilerio]]
+|festivo            = [[12 febbraio]]
+|sito               = http://www.comune.cosenza.it/
+}}
 
 '''Cosenza''' ète nu comune de 70.000 cristiane più o meno.
 
