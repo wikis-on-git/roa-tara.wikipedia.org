@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Prato}}
-{{GeoBox NomeOriginale|Prato}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Prato
+|panorama = Prato0003.jpg
+|linkStemma = Prato-Stemma.png
+|siglaRegione = TOS
+|siglaProvincia = PO
+|latitudineGradi = 43
+|latitudineMinuti = 52
+|latitudineSecondi = 50.93
+|longitudineGradi = 11
+|longitudineMinuti = 5
+|longitudineSecondi = 47.62
+|mappaX = 113
+|mappaY = 112
+|altitudine = 61
+|superficie = 97,59
+|abitanti = 185.603<ref>{{cita web|http://www.comune.prato.it/prato/htm/abit.htm|Residenti a Prato in data 31-12-2007|24-03-2008}}</ref>
+|anno = 31-12-2007
+|densita = 1.901,9
+|frazioni = Borgonuovo, Cafaggio, Canneto, Capezzana, Carteano, Cavagliano, Casale, Castelnuovo, Campostino, Cerreto, Chiesanuova, Coiano, Figline di Prato, Filettole, Fontanelle, Galcetello, Galceti, Galciana, Gli Abatoni, Gonfienti, Grignano, I Ciliani, Il Calice, Il Cantiere, I Lecci, Il Ferro, Il Guado, Il Palco, Il Pino, Il Soccorso, [[Iolo]], La Castellina, La Dogaia, La Macine, La Pietà, La Querce, Le Badie, Le Caserane, Le Colombaie, Le Fonti, Le Fornaci, Le Lastre, Le Pantanelle, Le Sacca, [[Maliseti]], Mazzone, Mezzana, [[Narnali]], [[Paperino (Prato)|Paperino]], Pizzidimonte, Ponte alle Vanne, Ponzano, Popolino, Purgatorio, Reggiana, [[San Giorgio a Colonica]], San Giusto, San Martino, San Paolo, Sacra Famiglia, Santa Cristina a Pimonte, Santa Gonda, Santa Lucia, Santa Maria a Colonica, Sant'Andrea, Sant'Ippolito, [[Tavola (Prato)|Tavola]], [[Tobbiana]], [[Vergaio]], Viaccia, Villa Fiorita 
+|comuniLimitrofi = [[Agliana]] ([[Provincia di Pistoia|PT]]), [[Calenzano]] ([[Provincia di Firenze|FI]]), [[Campi Bisenzio]] (FI), [[Carmignano (PO)|Carmignano]], [[Montemurlo]], [[Poggio a Caiano]], [[Quarrata]] (PT), [[Vaiano (PO)|Vaiano]]
+|cap = 59100
+|prefisso = 0574
+|istat = 100005
+|fiscale = G999
+|nomeAbitanti = Pratesi
+|patrono = [[Santo Stefano]]
+|festivo = [[26 dicembre]]
+|sito = http://www.comune.prato.it/
+}} 
+
 
 '''Prato''' éte 'nu comune [[Italie|tagliáne]] de 185.538 crestiáne.
 
