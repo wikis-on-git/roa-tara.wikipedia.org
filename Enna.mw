@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Enna}}
-{{GeoBox NomeOriginale|Enna}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Enna
+|panorama = Enna Pano.jpg
+|linkBandiera = Enna-Gonfalone.png
+|linkStemma = Enna-Stemma.png
+|siglaRegione = SIC
+|siglaProvincia = EN
+|latitudineGradi = 37
+|latitudineMinuti = 34
+|latitudineSecondi = 0
+|longitudineGradi = 14
+|longitudineMinuti = 16
+|longitudineSecondi = 0
+|mappaX = 188
+|mappaY = 312
+|altitudine = 931
+|superficie = 357,18
+|abitanti = 28.157
+|anno = 31-05-2007
+|densita = 78,83
+|frazioni = Borgo Cascino, Calderari, [[Pergusa (Enna)|Pergusa]]
+|comuniLimitrofi = [[Agira]], [[Aidone]], [[Assoro]], [[Calascibetta]], [[Caltanissetta]] (CL), [[Gangi]] (PA), [[Leonforte]],[[Nissoria]], [[Piazza Armerina]], [[Pietraperzia]], [[Santa Caterina Villarmosa]] (CL), [[Valguarnera Caropepe]], [[Villarosa]]
+|cap = 94100 
+|prefisso = 0935
+|istat = 086009
+|fiscale = C342
+|nomeAbitanti = Ennesi (dal latino ''Hennensis'', variante di ''Hennaeus'')
+|patrono = [[Madonna della Visitazione|Santa Maria della Visitazione]]
+|festivo = [[2 luglio]]
+|sito = http://www.comune.enna.it/
+}}
 
 '''Enna''' éte 'nu comune [[Italie|tagliáne]] de 29.072 crestiáne.
 [[Category:Sicilia]]
