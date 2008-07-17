@@ -1,9 +1,34 @@
 {{S}}
 
-{{GeoBox NomeCitta|Cesena}}
-{{GeoBox NomeOriginale|Cesena}} 
-{{GeoBox Mappa|EMR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Cesena
+|panorama = Cesena01.jpg
+|linkStemma = Cesena-Stemma.png
+|siglaRegione = EMR
+|siglaProvincia = FC|latitudineGradi = 44
+|latitudineMinuti = 8
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 14
+|longitudineSecondi = 0
+|mappaX = 139
+|mappaY = 100
+|altitudine = 44
+|superficie = 249,47
+|abitanti = 95.177
+|anno = 30/06/2008
+|densita = 381,39
+|frazioni = Acquarola, Aie, [[Bagnile]], [[Borello (Cesena)|Borello]], Borgo delle Rose, Borgo di Ronta, Borgo Paglia, Botteghino, Budrio, Bulgaria, Bulgarnò, Calabrina, Calisese, [[Capannaguzzo]], [[Carpineta]], Casalbono, [[Casale (Cesena)|Casale]], Case Castagnoli, Case Frini, Case Gentili, Case Missiroli, Case Scuola Vecchia, Celincordia, Celletta, Diegaro (e Diegaro I), Formignano, Gattolino, Gualdo, Il Trebbo, [[Lizzano (Cesena)|Lizzano]], Luogoraro, Luzzena, [[Macerone]], Madonna dell'Olivo, Martorano, Massa, Molino Cento, Monte Aguzzo, Montereale, Monte Vecchio, Monticino, Oriola, Osteria di Piavola, Paderno, [[Pievesestina]], [[Pioppa]], [[Ponte Abbadesse]], Pontecucco, Ponte Pietra, Provezza, Rio Eremo, Rio Marano, [[Ronta (Cesena)|Ronta]], [[Roversano]], Ruffio (distinto in Ruffio I e Ruffio II), Saiano, San Carlo, San Cristoforo, San Demetrio, [[San Giorgio di Cesena|San Giorgio]], San Mamante, San Martino in Fiume, San Matteo, San Mauro in Valle, Santa Lucia, Sant'Andrea in Bagnolo, San Tomaso, San Vittore, Settecrociari, Tessello, Tipano, [[Torre del Moro]], Trebbo, Valdinoce, Villa Calabra, Villa Casone
+|comuniLimitrofi = [[Bertinoro]], [[Cervia]] ([[Provincia di Ravenna|RA]]), [[Cesenatico]], [[Civitella di Romagna]], [[Gambettola]], [[Longiano]], [[Meldola]], [[Mercato Saraceno]], [[Montiano]], [[Ravenna]] ([[Provincia di Ravenna|RA]]), [[Roncofreddo]], [[Sarsina]]
+|cap = 47023
+|prefisso = 0547
+|istat = 040007
+|fiscale = C573
+|nomeAbitanti = Cesenati
+|patrono = [[San Giovanni Battista]]
+|festivo = [[24 giugno]]
+|sito = http://www.comune.cesena.fc.it/
+}}
 
 '''Cesena''' éte 'nu comune [[Italie|tagliáne]] de 94.078 crestiáne.
 
