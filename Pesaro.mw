@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Pesaro}}
-{{GeoBox NomeOriginale|Pesaro}} 
-{{GeoBox Mappa|MAR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Pesaro
+|linkStemma = Pesaro-Stemma.png
+|panorama = Piazza del Popolo, Pesaro, Italy.jpg
+|siglaRegione = MAR
+|siglaProvincia = PU
+|latitudineGradi = 43
+|latitudineMinuti = 55
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 54
+|longitudineSecondi = 0
+|mappaX = 155
+|mappaY = 107
+|altitudine = 11
+|superficie = 126,58
+|abitanti = 93.918
+|anno = 2008
+|densita = 731,33
+|frazioni = Borgo Santa Maria, Candelara, Case Bruciate, Casteldimezzo, Cattabrighe, Chiusa di Ginestreto, Colombarone, [[Fiorenzuola di Focara]], Ginestreto, Novilara, Ponte Valle, Pozzo Alto, Santa Maria dell'Arzilla, Santa Marina Alta, [[Santa Veneranda (Pesaro)|Santa Veneranda]], [[Trebbiantico]], Tre Ponti, Villa Ceccolini, Villa Fastiggi 
+|comuniLimitrofi = [[Fano]], [[Gabicce Mare]], [[Gradara]], [[Mombaroccio]], [[Monteciccardo]], [[Montelabbate]], [[Sant'Angelo in Lizzola]], [[Tavullia]]
+|cap = 61100
+|prefisso = 0721
+|istat = 041044
+|fiscale = G479
+|nomeAbitanti = pesaresi
+|patrono = [[San Terenzio]]
+|festivo = [[24 settembre]]
+|sito = http://www.comune.pesaro.pu.it/
+}} 
 
 '''Pesaro''' éte 'nu comune [[Italie|tagliáne]] de 92.220 crestiáne.
 
