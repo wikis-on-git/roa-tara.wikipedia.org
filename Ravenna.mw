@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Ravenna}}
-{{GeoBox NomeOriginale|Ravenna}} 
-{{GeoBox Mappa|EMR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Ravenna
+|panorama = PiazzaPopulo01.jpg
+|linkStemma = Ravenna-Stemma.png
+|siglaRegione = EMR
+|siglaProvincia = RA
+|latitudineGradi = 44
+|latitudineMinuti = 25
+|latitudineSecondi = 4
+|longitudineGradi = 12
+|longitudineMinuti = 11
+|longitudineSecondi = 58
+|mappaX = 139
+|mappaY = 91
+|altitudine = 4
+|superficie = 652,83
+|abitanti = 153.551
+|anno = 2007 
+|densita = 232,82
+|frazioni =  Ammonite, Borgo Faina, Borgo Masotti, Borgo Montone, Camerlona, Campiano, Carraie, [[Casal Borsetti]]-Primaro, [[Casemurate]], [[Castiglione di Ravenna]], [[Classe (Ravenna)|Classe]], [[Coccolia]], Conventello, [[Filetto (Ravenna)|Filetto]], Fornace Zarattini, Fosso Ghiaia, Gambellara, [[Ghibullo]], Grattacoppa, [[La Bottega della Guarniera]], [[Lido Adriano]], [[Lido di Classe]], Lido di Dante, Lido di Magnavacca, [[Lido di Savio]], [[Longana (Ravenna)|Longana]], Madonna dell'Albero, Mandriole, [[Marina di Ravenna]], [[Marina Romea]], Matellica, Mensa, [[Mezzano (Ravenna)|Mezzano]], [[Mirabilandia]], Osteria, Pialassa Baiona, Pialassa Piombone, [[Piangipane]], [[Pilastro (Ravenna)|Pilastro]], Pineta San Vitale, [[Ponte Nuovo (Ravenna)|Ponte Nuovo]], [[Porto Corsini]], Porto Fuori, [[Punta Marina Terme]], [[Ragone (Ravenna)|Ragone]], [[Roncalceci]], San Bartolo, San Michele, San Pietro in Campiano, [[San Pietro in Trento]], San Pietro in Vincoli, San Romualdo, [[Sant'Alberto (Ravenna)|Sant'Alberto]], Sant'Antonio, [[Santerno (Ravenna)|Santerno]], [[Santo Stefano (Ravenna)|Santo Stefano]], San Zaccaria, Savarna, Torri
+|comuniLimitrofi = [[Alfonsine]], [[Argenta]] (FE), [[Bagnacavallo]], [[Bertinoro]] (FC), [[Cervia]], [[Cesena]] (FC), [[Comacchio]] (FE), [[Forlì]] (FC), [[Russi (RA)|Russi]]
+|cap = 48100
+|prefisso = 0544
+|istat = 039014
+|fiscale = H199
+|nomeAbitanti = ravennati
+|patrono = [[Sant'Apollinare (santo)|Sant'Apollinare]]
+|festivo = [[23 luglio]]
+|sito = http://www.comune.ravenna.it/
+}}
 
 '''Ravenna''' éte 'nu comune [[Italie|tagliáne]] de 151.055 crestiáne.
 
