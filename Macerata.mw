@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Macerata}}
-{{GeoBox NomeOriginale|Macerata}} 
-{{GeoBox Mappa|MAR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Macerata
+|linkStemma = Macerata1-Stemma.png
+|panorama = Maceratapiazza.jpg
+|siglaRegione = MAR
+|siglaProvincia = MC
+|latitudineGradi = 43
+|latitudineMinuti = 18
+|latitudineSecondi = 0
+|longitudineGradi = 13
+|longitudineMinuti = 27
+|longitudineSecondi = 0
+|mappaX = 169
+|mappaY = 127
+|altitudine = 315
+|superficie = 92
+|abitanti = 43.057
+|anno = 12-2007
+|densita = 463
+|frazioni = Sforzacosta, Piediripa, Villa Potenza
+Località: Madonna del Monte, Montanello, Pieve
+|comuniLimitrofi = [[Appignano]], [[Corridonia]], [[Montecassiano]], [[Montelupone]], [[Morrovalle]], [[Pollenza]], [[Recanati]], [[Tolentino]], [[Treia]]
+|cap = 62100
+|prefisso = 0733
+|istat = 043023
+|fiscale = E783
+|nomeAbitanti = maceratesi
+|patrono = [[San Giuliano l'ospitaliere]]
+|festivo = [[31 agosto]]
+|sito = http://www.comune.macerata.it/
+}} 
 
 '''Macerata''' éte 'nu comune [[Italie|tagliáne]] de 42.361 crestiáne.
 
