@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Asti}}
-{{GeoBox NomeOriginale|Asti}} 
-{{GeoBox Mappa|PMN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Asti
+|panorama = Torre Troyana1.jpg
+|linkStemma = Asti-Stemma.png
+|siglaRegione = PMN
+|siglaProvincia = AT
+|latitudineGradi = 44
+|latitudineMinuti = 53
+|latitudineSecondi = 56
+|longitudineGradi = 8
+|longitudineMinuti = 12
+|longitudineSecondi = 28
+|mappaX = 43
+|mappaY = 75
+|altitudine = 123
+|superficie = 151,82
+|abitanti = 74.416
+|anno = 31-10-2007 (fonte Istat)
+|densita = 490
+|frazioni = Bramairate, Bricco Fassio, Bricco Roasio, Ca' dei Coppi, Caniglie, Carretti, Casabianca, Castiglione, Madonna di Viatosto, Mombarone, Mongardino Stazione, Montegrosso Cinaglio, Montemarzo, Migliandolo, Poggio d'Asti, Portacomaro Stazione, Quarto, Quarto Superiore,[[Revignano]], Rioscone, San Grato di Sessant, San Marzanotto, San Marzanotto Piana, San Vito - Poggio, Santo Spirito, Serravalle, Sessant, Torrazzo, Trincere, Vaglierano, Valenzani, Valfea, Valgera,  Valle Andona, Valle Tanaro, Valmaggiore, Valmairone, Valmanera, Valterza, Variglie
+|comuniLimitrofi = [[Azzano d'Asti]], [[Baldichieri d'Asti]], [[Calliano (AT)|Calliano]], [[Castagnole Monferrato]], [[Castell'Alfero]], [[Castello di Annone]], [[Celle Enomondo]], [[Chiusano d'Asti]], [[Cinaglio]], [[Cossombrato]], [[Isola d'Asti]], [[Monale]], [[Mongardino]], [[Montegrosso d'Asti]], [[Portacomaro]], [[Refrancore]], [[Revigliasco d'Asti]], [[Rocca d'Arazzo]], [[San Damiano d'Asti]], [[Settime]], [[Tigliole]], [[Vigliano d'Asti]]
+|cap = 14100
+|prefisso = 0141
+|istat = 005005
+|fiscale = A479
+|nomeAbitanti = astigiani
+|patrono = [[San Secondo di Asti|San Secondo]]
+|festivo = primo martedi del mese di maggio
+|sito = http://www.comune.asti.it/
+}}
 
 '''Asti''' éte 'nu comune [[Italie|tagliáne]] de 74.392 crestiáne.
 
