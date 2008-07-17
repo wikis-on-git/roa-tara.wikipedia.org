@@ -1,8 +1,32 @@
 {{S}}
-{{GeoBox NomeCitta|Olbia}}
-{{GeoBox NomeOriginale|Olbia}} 
-{{GeoBox Mappa|SAR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Olbia
+|linkStemma = Olbia-Stemma.png
+|siglaRegione = SAR
+|siglaProvincia = OT
+|latitudineGradi = 40
+|latitudineMinuti = 55
+|latitudineSecondi = 0
+|longitudineGradi = 9
+|longitudineMinuti = 30
+|longitudineSecondi = 0
+|mappaX = 74
+|mappaY = 204
+|altitudine = 10
+|superficie = 376,10
+|abitanti = 53.008|anno = 2008-06-07
+|densita = 140,94
+|frazioni = Berchiddeddu, Murta Maria, Pittulongu, Rudalza-[[Porto Rotondo]], [[San Pantaleo (Olbia)|San Pantaleo]]
+|comuniLimitrofi = [[Alà dei Sardi]], [[Arzachena]], [[Golfo Aranci]], [[Loiri Porto San Paolo]], [[Monti]], [[Padru]], [[Sant'Antonio di Gallura]], [[Telti]]
+|cap = 07026
+|prefisso = 0789
+|istat = 104017
+|fiscale = G015
+|nomeAbitanti = olbiesi o olbiensi
+|patrono = [[San Simplicio di Olbia|San Simplicio]]
+|festivo = [[15 maggio]]
+|sito = http://www.comune.olbia.ot.it
+}}
 
 '''Olbia''' éte 'nu comune [[Italie|tagliáne]] de 51.429 crestiáne.
 
