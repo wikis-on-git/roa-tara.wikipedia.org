@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Belluno}}
-{{GeoBox NomeOriginale|Belluno}} 
-{{GeoBox Mappa|VEN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Belluno
+|panorama = Belluno-Schiara.jpg
+|linkStemma = Belluno-Stemma.png
+|siglaRegione = VEN
+|siglaProvincia = BL
+|latitudineGradi = 46
+|latitudineMinuti = 8
+|latitudineSecondi = 27
+|longitudineGradi = 12
+|longitudineMinuti = 12
+|longitudineSecondi = 56
+|mappaX = 139
+|mappaY = 36
+|altitudine = 389
+|superficie = 147,19
+|abitanti = 36.042
+|anno = 2007
+|densita = 244,86
+|frazioni = Antole, Bes, Bolzano Bellunese, Caleipo-Sossai, Castion, Castoi, Cavessago, Cet, Chiesurazza, [[Cirvoi]], Col di Piana, Col di Salce, Collungo, Faverga, Fiammoi, Giamosa, Giazzoi, Levego, Madeago, Miér, Nevegal, Orzes, [[Pedeserva]], Pra de Luni, Rivamaor, Safforze, Sala, Salce, San Pietro in Campo, [[Sois]], Sopracroda, Sossai, Tassei, [[Tisoi]], Vezzano, Vignole, Visome
+|comuniLimitrofi = [[Farra d'Alpago]], [[Limana]], [[Longarone]], [[Ponte nelle Alpi]], [[Sedico]], [[Sospirolo]], [[Vittorio Veneto]] (TV)
+|cap = 32100, 32024
+|prefisso = 0437
+|istat = 025006
+|fiscale = A757
+|nomeAbitanti = bellunesi/belumat
+|patrono = [[Martino di Tours|San Martino]]
+|festivo = [[11 novembre]]
+|sito = http://www.comune.belluno.it/
+}} 
 
 '''Belluno''' éte 'nu comune [[Italie|tagliáne]] de 35.598 crestiáne.
 
