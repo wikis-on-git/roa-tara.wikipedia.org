@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Udine}}
-{{GeoBox NomeOriginale|Udine}} 
-{{GeoBox Mappa|FVG-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Udine
+|panorama = Piazza_Liberta_Udine.jpg
+|linkStemma = Udine-Stemma.png
+|linkBandiera = Udine-Gonfalone.png
+|siglaRegione = FVG
+|siglaProvincia = UD
+|latitudineGradi = 46
+|latitudineMinuti = 4
+|latitudineSecondi = 0
+|longitudineGradi = 13
+|longitudineMinuti = 14
+|longitudineSecondi = 0
+|mappaX = 163
+|mappaY = 38
+|altitudine = 113
+|superficie = 56,65
+|abitanti = 97.880
+|anno = 31-12-2007
+|densita = 1.727,80
+|frazioni = vedi [[#Frazioni|elenco]]
+|comuniLimitrofi = [[Campoformido]], [[Martignacco]], [[Pagnacco]], [[Pasian di Prato]], [[Pavia di Udine]], [[Povoletto]], [[Pozzuolo del Friuli]], [[Pradamano]], [[Reana del Rojale]], [[Remanzacco]], [[Tavagnacco]]
+|cap = 33100
+|prefisso = 0432
+|istat = 030129
+|fiscale = L483
+|nomeAbitanti = udinesi
+|patrono = [[Santi Ermacora e Fortunato]]
+|festivo = [[12 luglio]]
+|sito = http://www.comune.udine.it
+}} 
 
 '''Udine''' éte 'nu comune [[Italie|tagliáne]] de 96.750 crestiáne.
 
