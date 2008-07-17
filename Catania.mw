@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Catania}}
-{{GeoBox NomeOriginale|Catania}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Catania
+|linkStemma = Catania-Stemma-Alt.png
+|panorama = panoramadicatania.jpg
+|siglaRegione = SIC
+|siglaProvincia = CT
+|latitudineGradi = 37
+|latitudineMinuti = 31
+|latitudineSecondi = 0
+|longitudineGradi = 15
+|longitudineMinuti = 4
+|longitudineSecondi = 0
+|mappaX = 207
+|mappaY = 314
+|altitudine = 7
+|superficie = 180,88
+|abitanti = 300.601
+|anno = 08-2007
+|densita = 1661,88
+|frazioni = [[San Giovanni Galermo]]
+|comuniLimitrofi = [[Aci Castello]], [[Belpasso]], [[Carlentini]], [[Gravina di Catania]], [[Lentini]], [[Mascalucia]], [[Misterbianco]], [[Motta Sant'Anastasia]], [[San Gregorio di Catania]], [[San Pietro Clarenza]], [[Sant'Agata li Battiati]], [[Tremestieri Etneo]]
+|cap = 95100
+|prefisso = 095
+|istat = 087015
+|fiscale = C351
+|nomeAbitanti = catanesi
+|patrono = [[Sant'Agata]]
+|festivo = [[5 febbraio]]
+|sito = http://www.comune.catania.it/
+}}
 
 '''Catania''' éte 'nu comune [[Italie|tagliáne]] de 302.884 crestiáne.
 
