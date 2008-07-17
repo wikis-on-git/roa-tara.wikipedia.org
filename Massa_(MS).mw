@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Massa}}
-{{GeoBox NomeOriginale|Massa}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Massa
+|panorama = Massa Cybo Malaspina.jpg
+|linkStemma = Massa-Stemma.png
+|siglaRegione = TOS
+|siglaProvincia = MS
+|latitudineGradi = 44
+|latitudineMinuti = 2
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 8
+|longitudineSecondi = 0
+|mappaX = 89
+|mappaY = 103
+|altitudine = 65
+|superficie = 94,02
+|abitanti = 70.144
+|anno = 14-03-2008 
+|densita = 746,05
+|frazioni = [[Altagnana]], Antona, Gronda,  Guadine, [[Marina di Massa]], Pariana, Redicesi, Resceto, San Carlo Po, Turano
+|comuniLimitrofi = [[Carrara]], [[Fivizzano]], [[Minucciano]] (LU), [[Montignoso]], [[Seravezza]] (LU), [[Stazzema]] (LU), [[Vagli Sotto]] (LU)
+|cap = 54100
+|prefisso = 0585
+|istat = 045010
+|fiscale = F023
+|nomeAbitanti = massesi
+|patrono = [[San Francesco d'Assisi]]
+|festivo = [[4 ottobre]]
+|sito = http://www.comune.massa.ms.it/
+}}
 
 '''Massa (MS)''' éte 'nu comune [[Italie|tagliáne]] de 70.159 crestiáne.
 
