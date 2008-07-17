@@ -1,9 +1,34 @@
 {{S}}
 
-{{GeoBox NomeCitta|Rimini}}
-{{GeoBox NomeOriginale|Rimini}} 
-{{GeoBox Mappa|EMR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Rimini
+|panorama = Rimini_grattacielo.jpg
+|linkStemma = Rimini-Stemma.png
+|siglaRegione = EMR
+|siglaProvincia = RN
+|latitudineGradi = 44
+|latitudineMinuti = 3
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 34
+|longitudineSecondi = 0|mappaX = 147
+|mappaY = 103
+|altitudine = 5
+|superficie = 135,48
+|abitanti = 139.420
+|anno = 30-06-2008
+|densita = 1.031,62
+|frazioni = Bellariva, Corpolò, Marebello, Miramare di Rimini, Rivabella, San Fortunato, San Giuliano a Mare, San Lorenzo a Monte, San Lorenzo in Correggiano, San Martino in Venti, San Paolo, Santa Cristina, Santa Giustina, San Vito, Spadarolo, Torre Pedrera, Vergiano, Villaggio Primo Maggio, Viserba, Viserbella
+|comuniLimitrofi = [[Bellaria-Igea Marina]], [[Coriano]], [[Riccione]], [[San Mauro Pascoli]] ([[Provincia di Forlì-Cesena|FC]]), [[Santarcangelo di Romagna]], [[Serravalle (San Marino)|Serravalle]] ([[Repubblica di San Marino|RSM]]), [[Verucchio]]
+|cap = 47900
+|prefisso = 0541
+|istat = 099014
+|fiscale = H294
+|nomeAbitanti = riminesi
+|patrono = [[San Gaudenzio di Rimini]]
+|festivo = [[14 ottobre]]
+|sito = http://www.comune.rimini.it/
+}} 
 
 '''Rimini''' éte 'nu comune [[Italie|tagliáne]] de 137.523 crestiáne.
 
