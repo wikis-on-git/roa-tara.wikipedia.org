@@ -1,11 +1,39 @@
 {{S}}
 
-{{GeoBox NomeCitta|Firenze}}
-{{GeoBox Panorama|Florence.jpg}}
-{{GeoBox Stemma e Bandiera|Firenze-Stemma.png|Flag of Florence.svg}}
-{{GeoBox NomeOriginale|Firenze}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Firenze
+|portale = Firenze
+|panorama = Florence.jpg
+|linkStemma = Firenze-Stemma.png
+|linkBandiera = Flag of Florence.svg
+|siglaRegione = TOS
+|siglaProvincia = FI
+|latitudineGradi = 43
+|latitudineMinuti = 47
+|latitudineSecondi = 0
+|longitudineGradi = 11
+|longitudineMinuti = 15
+|longitudineSecondi = 0
+|mappaX = 116
+|mappaY = 111
+|altitudine = 50
+|superficie = 102,41
+|abitanti = 364.052
+|anno = 31-08-2007 
+|densita = 3.554,9
+|frazioni = [[Brozzi]], [[Careggi]], [[Galluzzo]], [[Gavinana]], [[Isolotto]], [[Legnaia]], [[Le Piagge]], [[Novoli]], [[Oltrarno]], [[Peretola]], [[Ponte a Greve]], [[Rifredi]], [[Rovezzano]], [[San Frediano]], [[Settignano]], [[Soffiano]], [[Sollicciano]],  [[Trespiano]]
+|comuniLimitrofi = [[Bagno a Ripoli]], [[Campi Bisenzio]], [[Fiesole]], [[Impruneta]], [[Scandicci]], [[Sesto Fiorentino]]
+|cap = 50100
+|prefisso = 055
+|istat = 048017
+|fiscale = D612
+|nomeAbitanti = Fiorentini
+|patrono = [[San Giovanni Battista]]
+|festivo = [[24 giugno]]
+|sito = http://www.comune.firenze.it
+|panorama = Florenz weitwinkel.jpg
+}}
+
 
 '''Firenze''' éte 'nu comune [[Italie|tagliáne]] de 366.488 crestiáne.
 
