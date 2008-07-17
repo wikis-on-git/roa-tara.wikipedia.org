@@ -1,10 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Trapani}}
-{{GeoBox NomeOriginale|Trapani}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
-
+{{Comune
+|nomeComune = Trapani
+|panorama = Veduta di Trapani.JPG
+|linkStemma = Trapani-Stemma.png
+|siglaRegione = SIC
+|siglaProvincia = TP
+|latitudineGradi = 38
+|latitudineMinuti = 1
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 31
+|longitudineSecondi = 0
+|mappaX = 146
+|mappaY = 298
+|altitudine = 3
+|superficie = 271,72
+|abitanti = 70.672
+|anno = 2007 
+|densita = 260,09
+|frazioni = Marausa, [[Xitta]], Palma, Fontanasalsa, [[Guarrato]], [[Fulgatore]], Salinagrande, Locogrande, Rilievo,Pietretagliate, Borgo Fazio, Ummari
+|comuniLimitrofi = [[Buseto Palizzolo]], [[Calatafimi-Segesta]], [[Erice]], [[Marsala (TP)|Marsala]], [[Paceco]], [[Salemi]], [[Valderice]]
+|cap = 91100
+|prefisso = 0923
+|istat = 081021
+|fiscale = L331
+|nomeAbitanti = trapanesi
+|patrono = [[Sant'Alberto degli Abati]]
+|festivo = [[7 agosto]]
+|sito = http://www.comune.trapani.it/
+}}
 '''Trapene''' éte 'nu comune [[Italie|tagliáne]] de 70.872 crestiáne.
 
 [[Category:Sicilia]]
