@@ -1,9 +1,37 @@
 {{S}}
 
-{{GeoBox NomeCitta|Melàne}}
-{{GeoBox NomeOriginale|Milano}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune          = Milano
+|panorama            = Milano_Duomo_1.jpg
+|portale             = Milano
+|linkStemma          = Milano-Stemma.png
+|linkBandiera        = Flag of Milan.svg
+|siglaRegione        = LOM
+|siglaProvincia      = MI
+|latitudineGradi     = 45
+|latitudineMinuti    = 27
+|latitudineSecondi   = 50.56
+|longitudineGradi    = 9
+|longitudineMinuti   = 11
+|longitudineSecondi  = 29.64
+|mappaX              = 66
+|mappaY              = 57
+|altitudine          = 121,6<ref>{{it}}{{cita web|url=http://www.comune.milano.it/portale/wps/wcm/jsp/fibm-cdm/FDWL.jsp?cdm_cid=com.ibm.workplace.wcm.api.WCM_Content/Banche%20dati%20e%20statistiche_Pubblicazioni_Milano%20in%20breve/83cb2100483925b19e99df0548c2ac94/false&cdm_acid=com.ibm.workplace.wcm.api.WCM_Content/Milano%20in%20breve%202006-2007%20-%20fb86b2804937c6bc8988cd9c8589a8c0/fb86b2804937c6bc8988cd9c8589a8c0/false|titolo=Milano in breve 2006/2007 - Altitudine sul livello del mare (Piazza del Duomo)|autore=Comune di Milano - Settore Statistica|data=01/2008|accesso=09/04/2008|formato=PDF}}</ref>
+|superficie          = 182
+|abitanti            = 1.299.633
+|anno                = 31-12-07
+|densita             = 7140,8
+|frazioni = Nessuna
+|comuniLimitrofi = [[Assago]], [[Baranzate]], [[Bollate]], [[Bresso]], [[Buccinasco]], [[Cesano Boscone]], [[Cinisello Balsamo]], [[Cologno Monzese]], [[Corsico]], [[Cormano]], [[Cusago]], [[Novate Milanese]], [[Opera (MI)|Opera]], [[Pero (MI)|Pero]], [[Peschiera Borromeo]], [[Rho]], [[Rozzano]], [[San Donato Milanese]], [[Segrate]], [[Sesto San Giovanni]], [[Settimo Milanese]], [[Trezzano sul Naviglio]], [[Vimodrone]]
+|cap = 20100, 20121-20162
+|prefisso = 02
+|istat = 015146
+|fiscale = F205
+|nomeAbitanti = Milanesi o ''[[meneghino|Meneghini]]''
+|patrono = [[Sant'Ambrogio da Milano]]
+|festivo = [[7 dicembre]]
+|sito = http://www.comune.milano.it/
+}}
 
 '''Meláne''' (tagliáne: '''''Milano''''') éte 'nu comune [[Italie|tagliáne]] de 1.303.670 crestiáne.
 
