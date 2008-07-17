@@ -1,8 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Cremona}}
-{{GeoBox NomeOriginale|Creamona}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Cremona
+|panorama = Cremona centro.jpg
+|linkStemma = Cremona-Stemma.png
+|siglaRegione = LOM
+|siglaProvincia = CR
+|latitudineGradi = 45
+|latitudineMinuti = 8
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 2
+|longitudineSecondi = 0
+|mappaX = 87
+|mappaY = 68
+|altitudine = 45
+|superficie = 70,39
+|abitanti = 71.699
+|anno = 2007
+|densita = 1018,59
+|frazioni = <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Bonemerse]], [[Castelverde]], [[Castelvetro Piacentino]] (PC), [[Gadesco-Pieve Delmona]], [[Gerre de' Caprioli]], [[Malagnino]], [[Monticelli d'Ongina]] (PC), [[Persico Dosimo]], [[Sesto ed Uniti]], [[Spinadesco]], [[Stagno Lombardo]]
+|cap = 26100
+|prefisso = 0372
+|istat = 019036
+|fiscale = D150
+|nomeAbitanti = cremonesi
+|patrono = [[Sant'Omobono]]
+|festivo = [[13 novembre]]
+|sito = http://www.comune.cremona.it
+}}
 
 '''Cremona''' éte 'nu comune [[Italie|tagliáne]] de 71.052 crestiáne.
 
