@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Cagliari}}
-{{GeoBox NomeOriginale|Cagliari}} 
-{{GeoBox Mappa|SAR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Cagliari 
+|panorama = Cagliari_porto.jpg
+|linkStemma = Cagliari-Stemma.png
+|siglaRegione = SAR
+|siglaProvincia = CA
+|latitudineGradi = 39
+|latitudineMinuti = 13
+|latitudineSecondi = 0
+|longitudineGradi = 9
+|longitudineMinuti = 7
+|longitudineSecondi = 0
+|mappaX = 65
+|mappaY = 259
+|altitudine = 6 <!-- altitudine media -->
+|superficie = 85,45
+|abitanti = 158.221
+|anno = 2007
+|densita = 1857,05 <!-- solo valore numerico della densità -->
+|frazioni = [[Pirri]]
+|comuniLimitrofi = [[Assemini]], [[Capoterra]], [[Elmas]], [[Monserrato]], [[Quartu Sant'Elena]], [[Quartucciu]], [[Selargius]], [[Sestu]]
+|cap = 09100
+|prefisso = 070
+|istat = 092009
+|fiscale = B354
+|nomeAbitanti = cagliaritani
+|patrono = [[San Saturnino]], compatrono [[San Francesco di Paola]]
+|festivo = [[30 ottobre]]
+|sito = http://www.comune.cagliari.it
+}} 
 
 '''Cagliari''' éte 'nu comune [[Italie|tagliáne]] de 159.312 crestiáne.
 
