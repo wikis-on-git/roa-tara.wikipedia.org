@@ -1,9 +1,32 @@
 {{S}}
 
-{{GeoBox NomeCitta|Caltanissetta}}
-{{GeoBox NomeOriginale|Caltanissetta}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Caltanissetta
+|linkStemma = Caltanissetta-Stemma.png
+|siglaRegione = SIC
+|siglaProvincia = CL
+|latitudineGradi = 37
+|latitudineMinuti = 29
+|latitudineSecondi = 0
+|longitudineGradi = 14
+|longitudineMinuti = 4
+|longitudineSecondi = 0
+|altitudine = 568
+|superficie = 416
+|abitanti = 60.281
+|anno = 2007
+|densita = 145
+|frazioni = Borgo Petilia, Canicassè-Casale, Cozzo di Naro, Favarella, Prestianni, Santa Barbara, Santa Rita, Xirbi
+|comuniLimitrofi = [[Canicattì]] (AG), [[Delia (CL)|Delia]], [[Enna]] (EN), [[Marianopoli]], [[Mazzarino]], [[Mussomeli]], [[Naro]] (AG), [[Petralia Sottana]] (PA), [[Pietraperzia]] (EN), [[San Cataldo (CL)|San Cataldo]], [[Santa Caterina Villarmosa]], [[Serradifalco]], [[Sommatino]]
+|cap = 93100
+|prefisso = 0934
+|istat = 085004
+|fiscale = B429
+|nomeAbitanti = nisseni
+|patrono = [[San Michele arcangelo]]
+|festivo = [[29 settembre]]
+|sito = http://www.comune.caltanissetta.it
+}}
 
 '''Caltanissetta''' éte 'nu comune [[Italie|tagliáne]] de 60.519 crestiáne.
 [[Category:Sicilia]]
