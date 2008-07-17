@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Aosta}}
-{{GeoBox NomeOriginale|Aosta}} 
-{{GeoBox Mappa|VAO-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Aosta
+|linkStemma = Aosta-Stemma.png
+|panorama = Arco Augusto Aosta.jpg
+|siglaRegione = VAO
+|siglaProvincia = <!-- la provincia non esiste -->
+|latitudineGradi = 45
+|latitudineMinuti = 44
+|latitudineSecondi = 14
+|longitudineGradi = 7
+|longitudineMinuti = 19
+|longitudineSecondi = 14
+|mappaX = 21
+|mappaY = 48
+|altitudine = 583
+|superficie = 21,37
+|abitanti = 34.631
+|anno = 2007
+|densita = 1620,54
+|frazioni = Arpuilles, Cache, Champailler, Cossan, Entrebin, Excenex, Laravoire, Porossan, Seyssinod, Signayes, Vignole
+|comuniLimitrofi = [[Charvensod]], [[Gignod]], [[Gressan]], [[Pollein]], [[Roisan]], [[Saint-Christophe (AO)|Saint-Christophe]], [[Sarre]]
+|cap = 11100
+|prefisso = 0165
+|istat = 007003
+|fiscale = A326
+|nomeAbitanti = aostani o aostois
+|patrono = [[San Grato]]
+|festivo = [[7 settembre]]
+|sito = http://www.comune.aosta.it/
+}} 
+
 
 '''Aosta''' éte 'nu comune [[Italie|tagliáne]] de 34.610 crestiáne.
 
