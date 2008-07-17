@@ -1,9 +1,33 @@
 {{S}}
 
-{{GeoBox NomeCitta|Bologna}}
-{{GeoBox NomeOriginale|Bologna}} 
-{{GeoBox Mappa|EMR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Bologna
+|panorama = Bologna-SanPetronioPiazzaMaggiore1.jpg
+|linkStemma = Bologna-Stemma.png
+|siglaRegione = EMR
+|siglaProvincia = BO
+|latitudineGradi = 44
+|latitudineMinuti = 30
+|latitudineSecondi = 27
+|longitudineGradi = 11
+|longitudineMinuti = 21
+|longitudineSecondi = 5
+|altitudine = 54
+|superficie = 140,73
+|abitanti = 373.170
+|anno = 31-05-2007 
+|densita = 2.651,67
+|frazioni = Frabazza, Monte Donato, Paderno, Rigosa <br/>Il comune è suddiviso in nove [[Quartieri di Bologna|quartieri]].
+|comuniLimitrofi = [[Anzola dell'Emilia]], [[Calderara di Reno]], [[Casalecchio di Reno]], [[Castel Maggiore]], [[Castenaso]], [[Granarolo dell'Emilia]], [[Pianoro]], [[San Lazzaro di Savena]], [[Sasso Marconi]], [[Zola Predosa]]
+|cap = 40100
+|prefisso = 051
+|istat = 037006
+|fiscale = A944
+|nomeAbitanti = bolognesi
+|patrono = [[san Petronio]]
+|festivo = [[4 ottobre]]
+|sito = http://www.comune.bologna.it/
+}} 
 
 '''Bolognè''' (tagliáne: '''''Bologna''''') éte 'nu comune [[Italie|tagliáne]] de 373.026 crestiáne.
 
