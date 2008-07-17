@@ -1,9 +1,33 @@
 {{S}}
-{{GeoBox NomeCitta|Tempio Pausania}}
-{{GeoBox NomeOriginale|Tempio Pausania}} 
-{{GeoBox Mappa|SAR-Mappa.png}}
-{{GeoBox Fine}}
-
+{{Comune
+|nomeComune = Tempio Pausania
+|linkStemma = Tempio Pausania-Stemma.png
+|siglaRegione = SAR
+|siglaProvincia = OT
+|latitudineGradi = 40
+|latitudineMinuti = 54
+|latitudineSecondi = 0
+|longitudineGradi = 9
+|longitudineMinuti = 6
+|longitudineSecondi = 0
+|mappaX = 64
+|mappaY = 204
+|altitudine = 566
+|superficie = 213,69
+|abitanti = 14.241
+|anno = 2008-06-12<!-- solo valore numerico dell'anno di riferimento  -->
+|densita = 66,64
+|frazioni = [[Bassacutena (Tempio Pausania)|Bassacutena]], [[Nuchis]], San Pasquale
+|comuniLimitrofi = [[Aggius]], [[Aglientu]], [[Arzachena]], [[Berchidda]], [[Bortigiadas]], [[Calangianus]], [[Erula]] (SS), [[Luogosanto]], [[Luras]], [[Oschiri]], [[Palau (OT)|Palau]], [[Perfugas]] (SS), [[Santa Teresa Gallura]], [[Tula (SS)|Tula]] (SS)
+|cap = 07029
+|prefisso = 079
+|istat = 104025
+|fiscale = L093
+|nomeAbitanti = tempiesi
+|patrono = [[San Paolo di Tebe|San Paolo Eremita]] e Vergine del Buon Cammino
+|festivo = [[30 agosto]]
+|sito = http://www.comune.tempiopausania.ot.it
+}}
 '''Tempio Pausania''' éte 'nu comune [[Italie|tagliáne]] de 14.128 crestiáne.
 
 [[Category:Sardegna]]
