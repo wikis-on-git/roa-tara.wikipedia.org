@@ -1,8 +1,35 @@
 {{S}}
-{{GeoBox NomeCitta|Mantova}}
-{{GeoBox NomeOriginale|Mantova}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Mantova
+|panorama = Mantova Skyline.jpg
+|linkStemma = Mantova-Stemma.png
+|siglaRegione = LOM
+|siglaProvincia = MN
+|latitudineGradi = 45
+|latitudineMinuti = 10
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 48
+|longitudineSecondi = 0
+|mappaX = 105
+|mappaY = 67
+|altitudine = 19
+|superficie = 63,97
+|abitanti = 47.542
+|anno = 31-08-2007
+|densita = 743
+|quartieri = Belfiore, Borgo Angeli, Borgo Belgioioso, Borgochiesanuova, Cinciana, Cittadella, Dosso del Corso, Due Pini, Frassino, Lunetta, Te Brunetti, Trincerone, Valletta Valsecchi, Valletta Paiolo, Virgiliana
+|frazioni = Castelletto Borgo, Cittadella, Formigosa, Frassino, Gambarara, Lunetta, Virgiliana
+|comuniLimitrofi = [[Bagnolo San Vito]], [[Curtatone]], [[Porto Mantovano]], [[Roncoferraro]], [[San Giorgio di Mantova]], [[Virgilio (MN)|Virgilio]]
+|cap = 46100
+|prefisso = 0376
+|istat = 020030
+|fiscale = E897
+|nomeAbitanti = mantovani
+|patrono = [[Sant'Anselmo da Baggio]]
+|festivo = [[18 marzo]]
+|sito = http://www.comune.mantova.it
+}}
 
 '''Mantova''' éte 'nu comune [[Italie|tagliáne]] de 48.103 crestiáne.
 
