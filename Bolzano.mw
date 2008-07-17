@@ -1,9 +1,37 @@
 {{S}}
 
-{{GeoBox NomeCitta|Bolzano}}
-{{GeoBox NomeOriginale|Bolzano, Bozen}} 
-{{GeoBox Mappa|TAA-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Bolzano
+|panorama = DOM Bozen.JPG
+|portale = Bolzano
+|linkStemma = Bozen.svg
+|nomeUfficiale = Bolzano/Bozen
+|siglaRegione = TAA
+|siglaProvincia = BZ
+|latitudineGradi = 46
+|latitudineMinuti = 30
+|latitudineSecondi = 0
+|longitudineGradi = 11
+|longitudineMinuti = 21
+|longitudineSecondi = 0
+|mappaX = 118
+|mappaY = 24
+|altitudine = 262
+|superficie = 52,33
+|abitanti = 101.063
+|anno = 31-03-2008
+|densita = 1.928,89
+|frazioni = ''nessuna''
+|comuniLimitrofi = [[Appiano sulla Strada del Vino]], [[Cornedo all'Isarco]], [[Laives]], [[Nova Ponente]], [[Renon]], [[San Genesio Atesino]], [[Terlano]], [[Vadena]]
+|cap = 39100
+|prefisso = 0471
+|istat = 021008
+|fiscale = A952
+|nomeAbitanti = bolzanini/Bozner
+|patrono = ''nessuno''<!-- nessuno -->
+|festivo = lunedì di [[Pentecoste]] <!-- 30 febbraio-->
+|sito = http://www.comune.bolzano.it/
+}}
 
 '''Bolzano''' éte 'nu comune [[Italie|tagliáne]] de 100.268 crestiáne.
 
