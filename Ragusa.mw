@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Ragusa}}
-{{GeoBox NomeOriginale|Ragusa}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Ragusa
+|linkStemma = Ragusa-Stemma.png
+|panorama = Ibla.jpg
+|siglaRegione = SIC
+|siglaProvincia = RG
+|latitudineGradi = 36
+|latitudineMinuti = 56
+|latitudineSecondi = 0
+|longitudineGradi = 14
+|longitudineMinuti = 45
+|longitudineSecondi = 0
+|mappaX = 200
+|mappaY = 333
+|altitudine = da 385 a 440 m [[s.l.m]] [[Ragusa Ibla]], Ragusa superiore  da 502 a 680 
+|superficie = 442,37
+|abitanti = 72.526<ref>[[Istat]] [http://demo.istat.it/bil2006/index04.html]</ref>
+|anno = 08-07
+|densita = 162,2
+|frazioni = [[Marina di Ragusa]], San Giacomo Bellocozzo 
+|comuniLimitrofi = [[Chiaramonte Gulfi]], [[Comiso]], [[Giarratana]], [[Modica]], [[Monterosso Almo]], [[Santa Croce Camerina]], [[Scicli]], [[Vittoria (RG)|Vittoria]], [[Rosolini]] (SR)
+|cap = 97100
+|prefisso = 0932
+|istat = 088009
+|fiscale = H163
+|nomeAbitanti = ragusani
+|patrono = [[San Giovanni Battista]]
+|festivo = [[29 agosto]]
+|sito = http://www.comune.ragusa.it/
+}}
 
 '''Ragusa''' éte 'nu comune [[Italie|tagliáne]] de 72.168 crestiáne.
 
