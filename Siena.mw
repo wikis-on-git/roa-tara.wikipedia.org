@@ -1,8 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Siena}}
-{{GeoBox NomeOriginale|Siena}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Siena
+|panorama = Siena-panorama.jpg
+|linkStemma = Siena-Stemma.png
+|siglaRegione = TOS
+|siglaProvincia = SI
+|latitudineGradi = 43
+|latitudineMinuti = 20
+|latitudineSecondi = 0
+|longitudineGradi = 11
+|longitudineMinuti = 20
+|longitudineSecondi = 0
+|mappaX = 118
+|mappaY = 126
+|altitudine = 322
+|superficie = 118
+|abitanti = 53.893
+|anno = 31-08-07
+|densita = 456,7
+|frazioni = Costalpino, Isola d'Arbia, Ruffolo, San Miniato, Taverne d'Arbia,  Vignano 
+|comuniLimitrofi = [[Asciano]], [[Castelnuovo Berardenga]], [[Monteriggioni]], [[Monteroni d'Arbia]], [[Sovicille]]
+|cap = 53100, 53010
+|prefisso = 0577
+|istat = 052032
+|fiscale = I726
+|nomeAbitanti = senesi
+|patrono = [[Sant'Ansano]]
+|festivo = [[1 dicembre]]
+|sito = http://www.comune.siena.it/
+}}
 
 '''Siena''' éte 'nu comune [[Italie|tagliáne]] de 54.498 crestiáne.
 
