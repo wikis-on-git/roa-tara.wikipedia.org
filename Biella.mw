@@ -1,8 +1,36 @@
 {{S}}
-{{GeoBox NomeCitta|Biella}}
-{{GeoBox NomeOriginale|Biella}} 
-{{GeoBox Mappa|PMN-Mappa.png}}
-{{GeoBox Fine}}
+
+{{Comune
+|nomeComune = Biella
+|panorama = Biella-Panorama da Chiavazza.JPG
+|linkStemma = Biella-Stemma.png
+|siglaRegione = PMN
+|siglaProvincia = BI
+|latitudineGradi = 45
+|latitudineMinuti = 34
+|latitudineSecondi = 0
+|longitudineGradi = 8
+|longitudineMinuti = 4
+|longitudineSecondi = 0
+|mappaX = 39
+|mappaY = 52
+|altitudine = 420
+|superficie = 46,68
+|abitanti = 46.112
+|anno = 31/05/07
+|densita = 987
+|frazioni = <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Andorno Micca]], [[Candelo]], [[Fontainemore]] (AO), [[Gaglianico]], [[Occhieppo Inferiore]], [[Occhieppo Superiore]], [[Pettinengo]], [[Pollone (BI)|Pollone]], [[Ponderano]], [[Pralungo]], [[Ronco Biellese]], [[Sagliano Micca]], [[San Paolo Cervo]], [[Sordevolo]], [[Tollegno]], [[Vigliano Biellese]], [[Zumaglia]]
+|cap = 13900
+|prefisso = 015
+|istat = 096004
+|fiscale = A859
+|Ici = 5%
+|nomeAbitanti = biellesi
+|patrono = [[Santo Stefano martire]]
+|festivo = [[26 dicembre]]
+|sito = http://www.comune.biella.it/
+}}
 
 '''Biella''' éte 'nu comune [[Italie|tagliáne]] de 45.822 al 31/12/06 crestiáne.
 
