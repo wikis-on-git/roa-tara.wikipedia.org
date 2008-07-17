@@ -1,9 +1,37 @@
 {{S}}
 
-{{GeoBox NomeCitta|Ancona}}
-{{GeoBox NomeOriginale|Ancona}} 
-{{GeoBox Mappa|MAR-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Ancona
+|panorama = AnkonPanorama.jpg
+|linkStemma = Ancona-Stemma.png
+|linkBandiera = Flag of Ancona.svg
+|siglaRegione = MAR
+|siglaProvincia = AN
+|latitudineGradi = 43
+|latitudineMinuti = 37
+|latitudineSecondi = 01
+|longitudineGradi = 13
+|longitudineMinuti = 31
+|longitudineSecondi = 00
+|mappaX = 172
+|mappaY = 123
+|altitudine = 16
+|superficie = 123,71
+|abitanti = 101.210
+|anno = 31-08-2007
+|densita = 818,1
+|frazioni = Angeli di Varano, Aspio, Baraccola, Candia, Casine di Paterno, Gallignano, Ghettarello, Madonna delle Grazie, Massignano, Montacuto, [[Montesicuro]], [[Paterno d'Ancona|Paterno]], Poggio di Ancona, Pontelungo, Sappanico, Taglio di Barcaglione, [[Torrette (Ancona)|Torrette]], Varano 
+|comuniLimitrofi = [[Agugliano]], [[Camerano (AN)|Camerano]], [[Camerata Picena]], [[Falconara Marittima]], [[Offagna]], [[Osimo]], [[Polverigi]], [[Sirolo]]
+|cap = 60100
+|prefisso = 071
+|istat = 042002
+|fiscale = A271
+|nomeAbitanti = anconetani, anconitani
+|patrono = [[San Ciriaco di Gerusalemme]]
+|festivo = [[4 maggio]]
+|sito = http://www.comune.ancona.it
+}}
+
 
 '''Ancona''' éte 'nu comune [[Italie|tagliáne]] de 101&nbsp;490 crestiáne.
 
