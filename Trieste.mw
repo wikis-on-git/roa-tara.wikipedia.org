@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Trieste}}
-{{GeoBox NomeOriginale|Trieste}} 
-{{GeoBox Mappa|FVG-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Trieste
+|panorama = PiazzaUnità 1.jpg
+|linkStemma = Trieste-Stemma.png
+|siglaRegione = FVG
+|siglaProvincia = TS
+|latitudineGradi = 45
+|latitudineMinuti = 38
+|latitudineSecondi = 10
+|longitudineGradi = 13
+|longitudineMinuti = 48
+|longitudineSecondi = 15
+|mappaX = 177
+|mappaY = 52
+|altitudine = 2
+|superficie = 84,49
+|abitanti = 208.614
+|anno = 31-12-2007
+|densita = 2.469 
+|frazioni = [[#Circoscrizioni e rioni|vedi elenco]] 
+|comuniLimitrofi = [[Duino-Aurisina]] (''Devin Nabrežina''), [[Monrupino]] (''Repentabor''), [[Muggia]], [[San Dorligo della Valle]] (''Dolina''), [[Sesana]] (''Sežana'') (SLO), [[Sgonico]] (''Zgonik'')
+|cap = 34100
+|prefisso = 040
+|istat = 032006
+|fiscale = L424
+|nomeAbitanti = triestini
+|patrono = [[San Giusto martire|San Giusto]]
+|festivo = [[3 novembre]]
+|sito = http://www.comune.trieste.it/
+}} 
 
 '''Trieste''' éte 'nu comune [[Italie|tagliáne]] de 208.621 crestiáne.
 
