@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Venezia}}
-{{GeoBox NomeOriginale|Venezia}} 
-{{GeoBox Mappa|VEN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+| nomeComune = Venezia
+| panorama = Gondola.arp.750pix.jpg
+| linkStemma = Venezia-Stemma.png
+| siglaRegione = VEN
+| siglaProvincia = VE
+| latitudineGradi = 45
+| latitudineMinuti = 26
+| latitudineSecondi =15
+| longitudineGradi = 12
+| longitudineMinuti = 20
+| longitudineSecondi = 9
+| mappaX = 141
+| mappaY = 58
+| altitudine = 2
+| superficie = 412,54
+| abitanti = 268.864
+| anno = 2007
+| densita = 650,88
+| frazioni = [[Burano]], [[Chirignago]], [[Favaro Veneto]], [[Giudecca]], [[Lido di Venezia|Lido]], [[Marghera]], [[Mestre]], [[Murano]], [[Zelarino]]
+| comuniLimitrofi = [[Campagna Lupia]], [[Cavallino-Treporti]], [[Chioggia]], [[Jesolo]], [[Marcon]], [[Martellago]], [[Mira (VE)|Mira]], [[Mogliano Veneto]], [[Musile di Piave]], [[Quarto d'Altino]], [[Scorzè]], [[Spinea]]
+| cap = 30100
+| prefisso = 041
+| istat = 027042
+| fiscale = L736
+| nomeAbitanti = veneziani
+| patrono = [[San Marco Evangelista]]
+| festivo = [[25 aprile]]
+| sito = http://www.comune.venezia.it/
+}}
 
 '''Venezia''' éte 'nu comune [[Italie|tagliáne]] de 268.684 crestiáne.
 
