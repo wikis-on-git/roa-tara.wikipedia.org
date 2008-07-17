@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Livorno}}
-{{GeoBox NomeOriginale|Livorno}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Livorno
+|panorama = Pisa-barche01.jpg
+|linkStemma = Livorno-Stemma.png
+|siglaRegione = TOS
+|siglaProvincia = LI
+|latitudineGradi = 43
+|latitudineMinuti = 33
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 19
+|longitudineSecondi = 0
+|mappaX = 93
+|mappaY = 119
+|altitudine = 3
+|superficie = 104,79
+|abitanti = 160.774
+|anno = 31-08-2007
+|densita = 1544,4
+|frazioni= Castellaccio, [[Gorgona]], Limoncino, [[Quercianella]],  Valle Benedetta
+|comuniLimitrofi = [[Collesalvetti]], [[Pisa]] (PI), [[Rosignano Marittimo]]
+|cap = 57100, 57121-57128
+|prefisso = 0586
+|istat = 049009
+|fiscale = E625
+|nomeAbitanti = livornesi o labronici
+|patrono = [[Santa Giulia|Santa Giulia da Corsica]]
+|festivo = [[22 maggio]]
+|sito = http://www.comune.livorno.it/
+}} 
+
 
 '''Livorno''' éte 'nu comune [[Italie|tagliáne]] de 155.986 crestiáne.
 
