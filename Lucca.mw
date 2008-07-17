@@ -1,9 +1,37 @@
 {{S}}
 
-{{GeoBox NomeCitta|Lucca}}
-{{GeoBox NomeOriginale|Lucca}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Lucca
+|panorama = Panorama da San Quirico.JPG
+|linkStemma = Lucca-Stemma.png
+|linkBandiera = Flag of Lucca.svg
+|siglaRegione = TOS
+|siglaProvincia = LU
+|latitudineGradi = 43
+|latitudineMinuti = 51
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 31
+|longitudineSecondi = 0
+|mappaX = 98
+|mappaY = 109
+|altitudine = 19
+|superficie = 185,53
+|abitanti = 82.960
+|anno = 31-08-2007
+|densita = 447,1
+|frazioni = Antraccoli, Aquilea, Arancio, Arliano, Arsina, Balbano, Cappella, Carignano, Castagnori, Castiglioncello, Cerasomma, Chiatri, Ciciana, Deccio di Brancoli, Fagnano, Farneta, Gattaiola, Gignano di Brancoli, Maggiano, Massa Pisana, Mastiano, Meati, Monte San Quirico, Montuolo, Mutigliano, Mugnano, Nave, Nozzano, Nozzano San Pietro, Nozzano Vecchia, Ombreglio di Brancoli, Palmata, [[Piaggione]], Piazza di Brancoli, Piazzano, Picciorana, Pieve di Brancoli, Pieve Santo Stefano, Ponte a Moriano, Ponte del Giglio, Ponte San Pietro, Pontetetto, Saltocchio, San Cassiano a Vico, San Cassiano di Moriano, San Concordio di Moriano, San Donato, San Filippo, San Gemignano, San Giusto di Brancoli, San Lorenzo a Vaccoli, San Lorenzo di Moriano, San Macario in Monte, San Macario in Piano, San Michele di Moriano, San Michele in Escheto, San Pancazio, San Pietro a Vico, San Quirico di Moriano, [[Sant'Alessio (Lucca)|Sant'Alessio]], Sant'Angelo in Campo, Santa Maria a Colle, Santa Maria del Giudice, Sant'Ilario di Brancoli, Santissima Annunziata, Santo Stefano di Moriano, San Vito, Sesto di Moriano, Sorbano del Giudice, Sorbano del Vescovo, Stabbiano, Tempagnano di Lunata, Torre, Torre alla Maddalena, Torre Alta, Tramonte, Tramonte di Brancoli, Vallebuia, Vecoli, Vicopelago, Vinchiana
+|comuniLimitrofi = [[Borgo a Mozzano]], [[Camaiore]], [[Capannori]], [[Massarosa]], [[Pescaglia]], [[San Giuliano Terme]] (PI), [[Vecchiano]] (PI)
+|cap = 55100
+|prefisso = 0583
+|istat = 046017
+|fiscale = E715
+|nomeAbitanti = Lucchesi
+|patrono = [[San Paolino di Lucca]]
+|festivo = [[12 luglio]]
+|sito = http://www.comune.lucca.it/
+}} 
+
 
 '''Lucca''' éte 'nu comune [[Italie|tagliáne]] de 79.783 crestiáne.
 
