@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Agrigento}}
-{{GeoBox NomeOriginale|Agrigento}} 
-{{GeoBox Mappa|SIC-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Agrigento
+|panorama = Agrigente Temple concord coté.jpg
+|linkStemma = Agrigento-Stemma.png
+|siglaRegione = SIC
+|siglaProvincia = AG
+|latitudineGradi = 37
+|latitudineMinuti = 19
+|latitudineSecondi = 19
+|longitudineGradi = 13
+|longitudineMinuti = 35
+|longitudineSecondi = 23
+|mappaX = 172
+|mappaY = 320
+|altitudine = 230
+|superficie = 244,57
+|abitanti = 59.212
+|anno = 2007
+|densita = 242,10
+|frazioni = Cannatello, Fontanelle, Giardina Gallotti, Monserrato, [[Montaperto]], Quadrivio Spinasanta, San Giusippuzzu, San Leone, Villaggio La Loggia, Villaggio Mosè, Villaggio Peruzzo, Villaseta,  Zingarello
+|comuniLimitrofi = [[Aragona (AG)|Aragona]], [[Cattolica Eraclea]], [[Favara]], [[Joppolo Giancaxio]], [[Montallegro]], [[Naro]], [[Palma di Montechiaro]], [[Porto Empedocle]], [[Raffadali]], [[Realmonte]], [[Sant'Angelo Muxaro]], [[Siculiana]], [[Sciacca]]
+|cap = 92100
+|prefisso = 0922
+|istat = 084001
+|fiscale = A089
+|nomeAbitanti = agrigentini
+|patrono = [[San Gerlando]]
+|festivo = [[25 febbraio]]
+|sito = http://www.comune.agrigento.it/
+}} 
 
 '''Agrigento''' éte 'nu comune [[Italie|tagliáne]] de 59.082 crestiáne.
 [[Category:Sicilia]]
