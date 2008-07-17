@@ -1,8 +1,32 @@
 {{S}}
-{{GeoBox NomeCitta|Monza}}
-{{GeoBox NomeOriginale|Monza}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Monza|linkStemma = Monza-Stemma.png
+|siglaRegione = LOM
+|siglaProvincia = MB
+|latitudineGradi = 45
+|latitudineMinuti = 35
+|latitudineSecondi = 0
+|longitudineGradi = 9
+|longitudineMinuti = 16
+|longitudineSecondi = 0
+|mappaX = 68
+|mappaY = 53
+|altitudine = 162
+|superficie = 33,03
+|abitanti = 121.445
+|anno = 31-12-2006
+|densita = 3676,81
+|frazioni =  <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Brugherio]], [[Cinisello Balsamo]] (MI), [[Concorezzo]], [[Lissone]], [[Muggiò]], [[Sesto San Giovanni]] (MI), [[Vedano al Lambro]], [[Villasanta]] 
+|cap = 20052
+|prefisso = 039
+|istat = 015149
+|fiscale = F704
+|nomeAbitanti = monzesi
+|patrono = [[San Giovanni Battista]] e [[San Gerardo dei Tintori]]
+|festivo = [[24 giugno]] e [[6 giugno]]
+|sito = http://www.comune.monza.mi.it/
+}} 
 
 '''Monza''' éte 'nu comune [[Italie|tagliáne]] de 121.961 crestiáne.
 
