@@ -1,8 +1,35 @@
 {{S}}
-{{GeoBox NomeCitta|Brescia}}
-{{GeoBox NomeOriginale|Brescia}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Brescia
+|panorama = Brescia.jpg
+|linkStemma = Brescia-Stemma.png
+|linkBandiera = Flag of Brescia.svg
+|siglaRegione = LOM
+|siglaProvincia = BS
+|latitudineGradi = 45
+|latitudineMinuti = 32
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 14
+|longitudineSecondi = 0
+|mappaX = 91
+|mappaY = 55
+|altitudine = 149
+|superficie = 90,68
+|abitanti = 189.742
+|anno = 31/12/2007 - ISTAT
+|densita = 2093,96
+|frazioni = [[Buffalora]], Fornaci, Mompiano, Noce, Sant'Eufemia della Fonte, Stocchetta, Verziano
+|comuniLimitrofi = [[Borgosatollo]], [[Botticino]], [[Bovezzo]], [[Castel Mella]], [[Castenedolo]], [[Cellatica]], [[Collebeato]], [[Concesio]], [[Flero]], [[Gussago]], [[Nave (BS)|Nave]], [[Rezzato]], [[Roncadelle]], [[San Zeno Naviglio]]
+|cap = 25100
+|prefisso = 030
+|istat = 017029
+|fiscale = B157
+|nomeAbitanti = bresciani
+|patrono = [[Santi Faustino e Giovita]]
+|festivo = [[15 febbraio]]
+|sito = http://www.comune.brescia.it/
+}}
 
 '''Brescia''' éte 'nu comune [[Italie|tagliáne]] de 191.059 crestiáne.
 
