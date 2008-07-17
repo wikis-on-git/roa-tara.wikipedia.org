@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Treviso}}
-{{GeoBox NomeOriginale|Treviso}} 
-{{GeoBox Mappa|VEN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Treviso
+|panorama = 20050528-015-treviso-sile.jpg
+|linkStemma = Treviso-Stemma.png
+|siglaRegione = VEN
+|siglaProvincia = TV
+|latitudineGradi = 45
+|latitudineMinuti = 40
+|latitudineSecondi = 0
+|longitudineGradi = 12
+|longitudineMinuti = 15
+|longitudineSecondi = 0
+|mappaX = 140
+|mappaY = 51
+|altitudine = 15
+|superficie = 55,50
+|abitanti = 81.627
+|anno = 2007
+|densita = 1.470,75
+|frazioni = 
+|comuniLimitrofi = [[Carbonera]], [[Casier]], [[Paese (TV)|Paese]], [[Ponzano Veneto]], [[Preganziol]], [[Quinto di Treviso]], [[Silea]], [[Villorba]]
+|cap = 31100
+|prefisso = 0422
+|istat = 026086
+|fiscale = L407
+|nomeAbitanti = Trevigiani o Trevisani (ant. Trivigiani)
+|patrono = [[San Liberale]]
+|festivo = [[27 aprile]]
+|sito = http://www.comune.treviso.it/
+}}
 
 '''Treviso''' éte 'nu comune [[Italie|tagliáne]] de 82.399 crestiáne.
 
