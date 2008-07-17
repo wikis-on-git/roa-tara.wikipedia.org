@@ -1,9 +1,36 @@
 {{S}}
 
-{{GeoBox NomeCitta|Pisa}}
-{{GeoBox NomeOriginale|Pisa}} 
-{{GeoBox Mappa|TOS-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Pisa
+|panorama = Lungarno, Pisa - middle bridge.JPG
+|linkStemma = Pisa-Stemma.png
+|siglaRegione = TOS
+|siglaProvincia = PI
+|latitudineGradi = 43
+|latitudineMinuti = 43
+|latitudineSecondi = 0
+|longitudineGradi = 10
+|longitudineMinuti = 24
+|longitudineSecondi = 0
+|mappaX = 95
+|mappaY = 114
+|altitudine = 4
+|superficie = 185,27
+|abitanti = 87.506
+|anno = 31/08/2007
+|densita = 472,3
+|frazioni = [[Calambrone]], [[Coltano]], [[Marina di Pisa]], [[Oratoio]], Ospedaletto, Putignano, Riglione, [[San Piero a Grado]], Sant'Ermete, [[Tirrenia]]   
+|comuniLimitrofi = [[Cascina]], [[Collesalvetti]] (LI), [[Livorno]] (LI), [[San Giuliano Terme]]
+|cap = 56100
+|prefisso = 050
+|istat = 050026
+|fiscale = G702
+|nomeAbitanti = pisani
+|patrono = [[San Ranieri]]
+|festivo = [[17 giugno]]
+|sito = http://www.comune.pisa.it/
+}} 
+
 
 '''Pisa''' éte 'nu comune [[Italie|tagliáne]] de 88.363 crestiáne.
 
