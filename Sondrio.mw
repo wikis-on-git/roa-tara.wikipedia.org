@@ -1,9 +1,34 @@
 {{S}}
 
-{{GeoBox NomeCitta|Sondrio}}
-{{GeoBox NomeOriginale|Sondrio}} 
-{{GeoBox Mappa|LOM-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Sondrio
+|linkStemma = Sondrio-Stemma.png
+|siglaRegione = LOM
+|siglaProvincia = SO
+|latitudineGradi = 46
+|latitudineMinuti = 10
+|latitudineSecondi = 0
+|longitudineGradi = 9
+|longitudineMinuti = 52
+|longitudineSecondi = 0
+|mappaX = 83
+|mappaY = 34
+|altitudine = da 286 a 360 <!-- solo valore numerico dell'altitudine -->
+|superficie = 20
+|abitanti = 21.978
+|anno = 31-12-06
+|densita = 1071
+|frazioni = [[Triangia]], Ligari, Moroni, S. Anna, Colda, Ponchiera, Mossini, Arquino
+|comuniLimitrofi = [[Albosaggia]], [[Caiolo]], [[Castione Andevenno]], [[Faedo Valtellino]], [[Montagna in Valtellina]], [[Spriana]], [[Torre di Santa Maria]] 
+|cap = 23100
+|prefisso = 0342
+|istat = 014061
+|fiscale = I829
+|nomeAbitanti = sondriesi, sondrini o sondriotti
+|patrono = [[Santi Gervasio e Protasio]]
+|festivo = [[19 giugno]]
+|sito = http://www.comune.sondrio.it
+}}
 
 '''Sondrio''' éte 'nu comune [[Italie|tagliáne]] de 21.790 crestiáne.
 
