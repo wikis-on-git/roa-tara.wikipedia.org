@@ -1,8 +1,34 @@
 {{S}}
-{{GeoBox NomeCitta|Cuneo}}
-{{GeoBox NomeOriginale|Cuneo}} 
-{{GeoBox Mappa|PMN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Cuneo
+|panorama = Cuneo Marktplatz01.jpg
+|linkStemma = Cuneo-Stemma.png
+|siglaRegione = PMN
+|siglaProvincia = CN
+|latitudineGradi = 44
+|latitudineMinuti = 23
+|latitudineSecondi = 0
+|longitudineGradi = 7
+|longitudineMinuti = 33
+|longitudineSecondi = 0
+|mappaX = 27
+|mappaY = 92
+|altitudine = 534
+|superficie = 119
+|abitanti = 54.911
+|anno = 31-08-2007 (fonte Istat)
+|densita = 461
+|frazioni = Bombonina, Borgo San Giuseppe, Cerialdo, Confreria, Madonna delle Grazie, Madonna dell'Olmo, Passatore, Roata Canale, Roata Rossi, Ronchi, San Benigno, San Pietro del Gallo, San Rocco Castagnaretta, Spinetta, Tetti Pesio <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Boves]], [[Busca]], [[Cervasca]], [[Vignolo]], [[Beinette]], [[Peveragno]], [[Castelletto Stura]], [[Caraglio]], [[Tarantasca]], [[Borgo San Dalmazzo]], [[Centallo]], [[Morozzo]]
+|cap = 12100
+|prefisso = 0171
+|istat = 004078
+|fiscale = D205
+|nomeAbitanti = cuneesi
+|patrono = [[San Michele arcangelo]]
+|festivo = [[29 settembre]]
+|sito = http://www.comune.cuneo.it
+}}
 
 '''Cuneo''' éte 'nu comune [[Italie|tagliáne]] de 54.817 (dati ISTAT)  crestiáne.
 
