@@ -1,9 +1,35 @@
 {{S}}
 
-{{GeoBox NomeCitta|Novara}}
-{{GeoBox NomeOriginale|Novara}} 
-{{GeoBox Mappa|PMN-Mappa.png}}
-{{GeoBox Fine}}
+{{Comune
+|nomeComune = Novara
+|panorama = Novara_panoramica08.jpg
+|linkStemma = Novara-Stemma.png
+|siglaRegione = PMN
+|siglaProvincia = NO
+|latitudineGradi = 45
+|latitudineMinuti = 27
+|latitudineSecondi = 0
+|longitudineGradi = 8
+|longitudineMinuti = 37
+|longitudineSecondi = 0
+|mappaX = 53
+|mappaY = 58
+|altitudine = 162
+|superficie = 103,02
+|abitanti = 102.639
+|anno = 2007
+|densita = 996,30
+|frazioni = Agognate, Casalgiate, Cascina Montà, Cascina Roggia Mora, [[Gionzana]], [[Vignale (NO)|Isarno]], Lumellogno, Olengo, Pagliate, [[Pernate]], [[Torrion Quartara]], [[Veveri]], [[Vignale (NO)|Vignale]]  
+|comuniLimitrofi = [[Caltignaga]], [[Cameri]], [[Casalino]], [[Galliate (NO)|Galliate]], [[Garbagna Novarese]], [[Granozzo con Monticello]], [[Nibbiola]], [[Romentino]], [[San Pietro Mosezzo]], [[Trecate]]
+|cap = 28100
+|prefisso = 0321
+|istat = 003106
+|fiscale = F952
+|nomeAbitanti = novaresi
+|patrono = [[San Gaudenzio]]
+|festivo = [[22 gennaio]]
+|sito = http://www.comune.novara.it
+}}
 
 '''Novara''' éte 'nu comune [[Italie|tagliáne]] de 102.630 crestiáne.
 
