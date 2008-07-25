@@ -759,14 +759,15 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 |}
 
 == Listë dë lë codecë riservëtë ==
-Oltre ai codici ufficialmente assegnati, ci sono degli altri codici che sono stati riservati o sono diventati obsoleti. I codici riservati sono codici che, pur non facendo parte ufficialmente dell'ISO 3166-1, sono in uso per alcune applicazioni, per renderli compatibili con i codici ISO 3166-1 ed aggiungere flessibilità al sistema. Di solito si riferiscono alle organizzazioni internazionali e ad alcuni territori d'oltremare.
+Suverchië 'a lë codecë assignëtë, stonne otre codecë ca onne statë riservëtë o s'onne fattë vicchië. Le codecë riservëtë sonde codecë ca, purë ca non ge fannë propriamende partë de l'ISO 3166-1, avenénë ausatë pë ote mutivë, pë rennërë combatibbili cu le codecë ISO 3166-1 e dà flessibilità a 'u sistemë. A'u solitë se rëferiscenë a l'organizzazioni ndernaziunëlë e a quacche paisë ret a 'u màrë.
 
-Anche i codici '''obsoleti''', cioè i codici usati in passato, possono essere conservati come riservati, per compatibilità con i sistemi precedenti.
+Purë le codecë '''vicchië''', le codecë ca no së ausanë cchiù, pònnë esserë stipëtë cummë riservëtë, pë combatibilità cu le sistemë d'apprim.
 
-Per vedere i codici riservati dello standard ISO 3166-1 vedere le corrispondenti sezioni in:
+Pë vëdé le codecë riservëtë d'u stàndàrd ISO 3166-1 ve vidë le sezionë satte-satte ca stonne jndr'à:
 * ''[[ISO 3166-1 alpha-2#Lista dei codici riservati|ISO 3166-1 Alpha-2 Lista dei codici riservati]]''
 * ''[[ISO 3166-1 alpha-3#Lista dei codici riservati|ISO 3166-1 Alpha-3 Lista dei codici riservati]]''
-mentre l'''ISO 3166-1 numerico'' non ha codici riservati.
+
+l'''ISO 3166-1 numerichë'' no ténë codecë riservëtë.
 
 ==Modifiche==
 Un paese o territorio può ottenere un nuovo codice se cambia il proprio nome o i propri confini territoriali. I cambiamenti sono annunciati in newsletters dall'Agenzia per il mantenimento dell'ISO 3166. Questo l'elenco delle newsletter pubblicate:
