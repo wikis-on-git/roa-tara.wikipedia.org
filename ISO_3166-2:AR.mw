@@ -1,0 +1,75 @@
+'''ISO 3166-2:AR''' is an [[International Organization for Standardization|ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Argentina]].
+It describes 1 federal district (AR-C) and 23 [[Provinces of Argentina|provinces]]. The first part is the [[ISO 3166-1]] code AR for Argentina, the second part of the code is one-digit-alphabetic. The letters have their origin in the [[Argentine license plates]] system.
+
+{| class="wikitable sortable"
+! Code !! Province
+|-
+| <code>AR-A</code> || [[Salta Province|Salta]]
+|-
+| <code>AR-B</code> || [[Buenos Aires Province]]
+|-
+| <code>AR-C</code> || [[Buenos Aires|Capital Federal]]
+|-
+| <code>AR-D</code> || [[San Luis Province|San Luis]]
+|-
+| <code>AR-E</code> || [[Entre Ríos Province|Entre Ríos]]
+|-
+| <code>AR-F</code> || [[La Rioja Province (Argentina)|La Rioja]]
+|-
+| <code>AR-G</code> || [[Santiago del Estero Province|Santiago del Estero]]
+|-
+| <code>AR-H</code> || [[Chaco Province|Chaco]]
+|-
+| <code>AR-J</code> || [[San Juan Province (Argentina)|San Juan]]
+|-
+| <code>AR-K</code> || [[Catamarca Province|Catamarca]]
+|-
+| <code>AR-L</code> || [[La Pampa Province|La Pampa]]
+|-
+| <code>AR-M</code> || [[Mendoza Province|Mendoza]]
+|-
+| <code>AR-N</code> || [[Misiones Province|Misiones]]
+|-
+| <code>AR-P</code> || [[Formosa Province|Formosa]]
+|-
+| <code>AR-Q</code> || [[Neuquén Province|Neuquén]]
+|-
+| <code>AR-R</code> || [[Río Negro Province|Río Negro]]
+|-
+| <code>AR-S</code> || [[Santa Fe Province|Santa Fe]]
+|-
+| <code>AR-T</code> || [[Tucumán Province|Tucumán]]
+|-
+| <code>AR-U</code> || [[Chubut Province|Chubut]]
+|-
+| <code>AR-V</code> || [[Tierra del Fuego Province (Argentina)|Tierra del Fuego]] 
+|-
+| <code>AR-W</code> || [[Corrientes Province|Corrientes]]
+|-
+| <code>AR-X</code> || [[Córdoba Province (Argentina)|Córdoba]]
+|-
+| <code>AR-Y</code> || [[Jujuy Province|Jujuy]]
+|-
+| <code>AR-Z</code> || [[Santa Cruz Province (Argentina)|Santa Cruz]]
+|}
+
+==See also==
+
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[Provinces of Argentina]]
+*[[UN/LOCODE:AR]]
+
+[[Category:Communications in Argentina]]
+[[Category:ISO 3166|2:AR]]
+
+[[ca:ISO 3166-2:AR]]
+[[cs:ISO 3166-2:AR]]
+[[de:ISO 3166-2:AR]]
+[[es:ISO 3166-2:AR]]
+[[fr:ISO 3166-2:AR]]
+[[ja:ISO 3166-2:AR]]
+[[sk:ISO 3166-2:AR]]
+[[th:ISO 3166-2:AR]]
+[[vi:ISO 3166-2:AR]]
+[[uk:ISO 3166-2:AR]]
