@@ -20,25 +20,25 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 !width=100|Codici ISO locali
 |- 
 |{{AFG}}
-| 004 || AFG || AF || [[ISO 3166-2:AF]]
+| 004 || AFG || AF || [[ISO 3166-2:AF]]*
 |-
 |{{ALB}}
 | 008 || ALB || AL || [[ISO 3166-2:AL]]
 |-
 |{{DZA}}
-| 012 || DZA || DZ || [[ISO 3166-2:DZ]]
+| 012 || DZA || DZ || [[ISO 3166-2:DZ]]*
 |-
 |{{AND}}
-| 020 || AND || AD || [[ISO 3166-2:AD]]
+| 020 || AND || AD || [[ISO 3166-2:AD]]*
 |-
 |{{AGO}}
-| 024 || AGO || AO || [[ISO 3166-2:AO]]
+| 024 || AGO || AO || [[ISO 3166-2:AO]]*
 |-
 |{{AIA}}
-| 660 || AIA || AI || [[ISO 3166-2:AI]]
+| 660 || AIA || AI || [[ISO 3166-2:AI]]*
 |-
 |{{ATA}}
-| 010 || ATA || AQ || [[ISO 3166-2:AQ]]
+| 010 || ATA || AQ || [[ISO 3166-2:AQ]]*
 |-
 |{{ATG}}
 | 028 || ATG || AG || [[ISO 3166-2:AG]]
@@ -757,6 +757,8 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 |{{ZWE}}
 | 716 || ZWE || ZW || [[ISO 3166-2:ZW]]
 |}
+
+<sup>*</sup>da Tradurre
 
 == Listë dë lë codecë riservëtë ==
 Suverchië 'a lë codecë assignëtë, stonne otre codecë ca onne statë riservëtë o s'onne fattë vicchië. Le codecë riservëtë sonde codecë ca, purë ca non ge fannë propriamende partë de l'ISO 3166-1, avenénë ausatë pë ote mutivë, pë rennërë combatibbili cu le codecë ISO 3166-1 e dà flessibilità a 'u sistemë. A'u solitë se rëferiscenë a l'organizzazioni ndernaziunëlë e a quacche paisë ret a 'u màrë.
