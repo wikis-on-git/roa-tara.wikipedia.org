@@ -1,0 +1,45 @@
+'''ISO 3166-2:AG''' is an [[ISO]] standard which defines [[geocode]]s.  It is the subset of [[ISO 3166-2]] that applies to [[Antigua and Barbuda]].  Each two-part code consists of the [[ISO 3166-1]] code for Antigua and Barbuda ('''AG''') and a two-digit number.
+
+== Newsletters ==
+*[[ISO 3166-2:2007-04-17]] - for Antigua and Barbuda, this introduced codes for the subdivisions.
+
+==Codes ==
+The codes consist of six parishes and one dependency (marked with *).
+
+{|
+! <code>AG-03</code>
+| [[Saint George Parish, Antigua and Barbuda|Saint George]]
+|-
+! <code>AG-04</code>
+| [[Saint John Parish, Antigua and Barbuda|Saint John's]]
+|-
+! <code>AG-05</code>
+| [[Saint Mary Parish, Antigua and Barbuda|Saint Mary]]
+|-
+! <code>AG-06</code>
+| [[Saint Paul Parish, Antigua and Barbuda|Saint Paul]]
+|-
+! <code>AG-07</code>
+| [[Saint Peter Parish, Antigua and Barbuda|Saint Peter]]
+|-
+! <code>AG-08</code>
+| [[Saint Philip Parish, Antigua and Barbuda|Saint Philip]]
+|-
+! <code>AG-10</code>
+| [[Barbuda]]*
+|}
+
+==See also==
+*[[ISO 3166-1]], the reference table for all country codes
+*[[ISO 3166-2]], the reference table for all country region codes
+*[[Parishes of Antigua and Barbuda]]
+
+[[Category:Geography of Antigua and Barbuda]]
+[[Category:ISO 3166|2:AG]]
+
+[[cs:ISO 3166-2:AG]]
+[[fr:ISO 3166-2:AG]]
+[[ja:ISO 3166-2:AG]]
+[[pl:ISO 3166-2:AG]]
+[[sk:ISO 3166-2:AG]]
+[[vi:ISO 3166-2:AG]]
