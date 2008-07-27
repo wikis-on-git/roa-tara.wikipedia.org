@@ -1,0 +1,101 @@
+'''ISO 3166-2:AU''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Australia]].
+It describes six [[States and territories of Australia|states]] and two territories. The first part is the [[ISO 3166-1]] code '''AU''' for Australia, the second part of the code was two-digit-alphabetic. Now it varies. 
+
+{| class="wikitable sortable"
+! Code !! Region !! Type
+|-
+| <code>AU-ACT</code> || [[Australian Capital Territory]] || Territory
+|-
+| <code>AU-NSW</code> || [[New South Wales]] || State
+|-
+| <code>AU-NT</code> || [[Northern Territory]] || Territory
+|-
+| <code>AU-QLD</code> || [[Queensland]] || State
+|-
+| <code>AU-SA</code> || [[South Australia]] || State
+|-
+| <code>AU-TAS</code> || [[Tasmania]] || State
+|-
+| <code>AU-VIC</code> || [[Victoria (Australia)|Victoria]] || State
+|-
+| <code>AU-WA</code> || [[Western Australia]] || State
+|}
+
+Four external territories of Australia have [[ISO 3166-1 alpha-2]] codes:
+{| class="wikitable"
+! Code !! External Territory
+|-
+| <code>CC</code> || [[Cocos (Keeling) Islands]]
+|-
+| <code>CX</code> || [[Christmas Island]]
+|-
+| <code>HM</code> || [[Heard Island and McDonald Islands]]
+|-
+| <code>NF</code> || [[Norfolk Island]]
+|}
+
+== Comparison with postal abbreviations ==
+Australia also uses 4-digit numeric postcodes, such as Sydney NSW 2000.
+
+Note these were different from the standard Australian postal abbreviations. Now ISO 3166-2:AU is in accordance with Australian Standard AS 4212-1994. Those changes were announced in ISO [[ISO 3166-2:2004-03-08]] Newsletter I-6. 
+{|
+|-
+! State/Territory
+! ISO 3166-2 (old)
+! Postal & ISO 3166-2 (new)
+|-
+| [[New South Wales]]
+| <code>AU-NS</code>
+| <code>NSW</code>
+|-
+| [[Queensland]]
+| <code>AU-QL</code>
+| <code>QLD</code>
+|-
+| [[South Australia]]
+| <code>AU-SA</code>
+| <code>SA</code>
+|-
+| [[Tasmania]]
+| <code>AU-TS</code>
+| <code>TAS</code>
+|-
+| [[Victoria (Australia)|Victoria]]
+| <code>AU-VI</code>
+| <code>VIC</code>
+|-
+| [[Western Australia]]
+| <code>AU-WA</code>
+| <code>WA</code>
+|-
+| [[Australian Capital Territory]]
+| <code>AU-CT</code>
+| <code>ACT</code>
+|-
+| [[Northern Territory]]
+| <code>AU-NT</code>
+| <code>NT</code>
+|}
+
+== Vidë pure ==
+*[[Ashmore and Cartier Islands]], an Australian external territory
+*[[Australian Antarctic Territory]], an Australian external territory
+*[[Coral Sea Islands Territory]], an Australian external territory
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, mostly as used for domain names on the [[Internet]].
+
+{{Unreferenced|date=April 2007}}
+[[Category:Sciugrafije de l'Australia]]
+[[Category:ISO 3166|2:AU]]
+
+[[cs:ISO 3166-2:AU]]
+[[de:ISO 3166-2:AU]]
+[[es:ISO 3166-2:AU]]
+[[eo:ISO 3166-2:AU]]
+[[fr:ISO 3166-2:AU]]
+[[ja:ISO 3166-2:AU]]
+[[pl:ISO 3166-2:AU]]
+[[sk:ISO 3166-2:AU]]
+[[th:ISO 3166-2:AU]]
+[[vi:ISO 3166-2:AU]]
+[[zh:ISO 3166-2:AU]]
