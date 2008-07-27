@@ -1,0 +1,176 @@
+'''ISO 3166-2:AZ''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Azerbaijan]].
+It describes 1 autonomous republic, 11 cities, and 65 [[raion|rayon]]s.
+
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+
+{| class="wikitable sortable"
+! Code !! Region !! Type
+|-
+| <code>AZ-AB</code> || [[Əli Bayramlı]] || City
+|-
+| <code>AZ-ABS</code> || [[Abşeron]] || Rayon
+|-
+| <code>AZ-AGA</code> || [[Ağstafa]] || Rayon
+|-
+| <code>AZ-AGC</code> || [[Ağcabədi]] || Rayon
+|-
+| <code>AZ-AGM</code> || [[Ağdam]] || Rayon
+|-
+| <code>AZ-AGS</code> || [[Ağdaş]] || Rayon
+|-
+| <code>AZ-AGU</code> || [[Ağsu]] || Rayon
+|-
+| <code>AZ-AST</code> || [[Astara (rayon)|Astara]] || Rayon
+|-
+| <code>AZ-BA</code> || [[Baku|Bakı]] || City
+|-
+| <code>AZ-BAB</code> || [[Babak Region|Babək]] † || Rayon
+|-
+| <code>AZ-BAL</code> || [[Balakan|Balakən]] || Rayon
+|-
+| <code>AZ-BAR</code> || [[Barda|Bərdə]] || Rayon
+|-
+| <code>AZ-BEY</code> || [[Beylaqan|Beyləqan]] || Rayon
+|-
+| <code>AZ-BIL</code> || [[Bilasuvar|Biləsuvar]] || Rayon
+|-
+| <code>AZ-CAB</code> || [[Cabrayil|Cəbrayıl]] || Rayon
+|-
+| <code>AZ-CAL</code> || [[Calilabad|Cəlilabab]] || Rayon
+|-
+| <code>AZ-CUL</code> || [[Julfa]] † || Rayon
+|-
+| <code>AZ-DAS</code> || [[Daskasan|Daşkəsən]] || Rayon
+|-
+| <code>AZ-DAV</code> || [[Davaci|Dəvəçi]] || Rayon
+|-
+| <code>AZ-FUZ</code> || [[Fuzuli|Füzuli]] || Rayon
+|-
+| <code>AZ-GA</code> || [[Ganca|Gəncə]] || City
+|-
+| <code>AZ-GAD</code> || [[Gadabay|Gədəbəy]] || Rayon
+|-
+| <code>AZ-GOR</code> || [[Goranboy]] || Rayon
+|-
+| <code>AZ-GOY</code> || [[Goycay|Göyçay]] || Rayon
+|-
+| <code>AZ-HAC</code> || [[Haciqabul|Hacıqabul]] || Rayon
+|-
+| <code>AZ-IMI</code> || [[Imisli|İmişli]] || Rayon
+|-
+| <code>AZ-ISM</code> || [[Ismayilli|İsmayıllı]] || Rayon
+|-
+| <code>AZ-KAL</code> || [[Kalbacar|Kəlbəcər]] || Rayon
+|-
+| <code>AZ-KUR</code> || [[Kurdamir|Kürdəmir]] || Rayon
+|-
+| <code>AZ-LA</code> || [[Lankaran Sahari|Lənkəran]] || City
+|-
+| <code>AZ-LAC</code> || [[Lacin|Laçın]] || Rayon
+|-
+| <code>AZ-LAN</code> || [[Lankaran Region|Lənkəran]] || Rayon
+|-
+| <code>AZ-LER</code> || [[Lerik]] || Rayon
+|-
+| <code>AZ-MAS</code> || [[Masalli|Masallı]] || Rayon
+|-
+| <code>AZ-MI</code> || [[Mingacevir|Mingəçevir]] || City
+|-
+| <code>AZ-NA</code> || [[Naftalan (Azerbaijan)|Naftalan]] || City
+|-
+| <code>AZ-NEF</code> || [[Neftcala|Neftçala]] || Rayon
+|-
+| <code>AZ-OGU</code> || [[Oguz|Oğuz]] || Rayon
+|-
+| <code>AZ-ORD</code> || [[Ordubad]] † || Rayon
+|-
+| <code>AZ-QAB</code> || [[Qabala Region|Qəbələ]] || Rayon
+|-
+| <code>AZ-QAX</code> || [[Qax]] || Rayon
+|-
+| <code>AZ-QAZ</code> || [[Qazax]] || Rayon
+|-
+| <code>AZ-QBA</code> || [[Quba]] || Rayon
+|-
+| <code>AZ-QBI</code> || [[Qubadli|Qubadlı]] || Rayon
+|-
+| <code>AZ-QOB</code> || [[Qobustan]] || Rayon
+|-
+| <code>AZ-QUS</code> || [[Qusar]] || Rayon
+|-
+| <code>AZ-SA</code> || [[Saki Sahari|Şəki]] || City
+|-
+| <code>AZ-SAB</code> || [[Sabirabad]] || Rayon
+|-
+| <code>AZ-SAD</code> || [[Sadarak|Sədərək]] † || Rayon
+|-
+| <code>AZ-SAH</code> || [[Shahbuz|Şahbuz]] † || Rayon
+|-
+| <code>AZ-SAK</code> || [[Saki Region|Şəki]] || Rayon
+|-
+| <code>AZ-SAL</code> || [[Salyan]] || Rayon
+|-
+| <code>AZ-SAT</code> || [[Saatli|Saatlı]] || Rayon
+|-
+| <code>AZ-SAR</code> || [[Sharur|Şərur]] † || Rayon
+|-
+| <code>AZ-SIY</code> || [[Siyazan|Siyəzən]] || Rayon
+|-
+| <code>AZ-SKR</code> || [[Samkir|Şəmkir]] || Rayon
+|-
+| <code>AZ-SM</code> || [[Sumqayit|Sumqayıt]] || City
+|-
+| <code>AZ-SMI</code> || [[Samaxi|Şamaxı]] || Rayon
+|-
+| <code>AZ-SMX</code> || [[Samux]] || Rayon
+|-
+| <code>AZ-SS</code> || [[Susa Sahari|Şuşa]] || City
+|-
+| <code>AZ-SUS</code> || [[Susa Region|Şuşa]] || Rayon
+|-
+| <code>AZ-TAR</code> || [[Tartar Region|Tərtər]] || Rayon
+|-
+| <code>AZ-TOV</code> || [[Tovuz]] || Rayon
+|-
+| <code>AZ-UCA</code> || [[Ucar, Azerbaijan|Ucar]] || Rayon
+|-
+| <code>AZ-XA</code> || [[Xankandi|Xankəndi]] || City
+|-
+| <code>AZ-XAC</code> || [[Xacmaz|Xaçmaz]] || Rayon
+|-
+| <code>AZ-XAN</code> || [[Xanlar]] || Rayon
+|-
+| <code>AZ-XCI</code> || [[Xocali|Xocalı]] || Rayon
+|-
+| <code>AZ-XIZ</code> || [[Xizi|Xızı]] || Rayon
+|-
+| <code>AZ-XVD</code> || [[Xocavand|Xocavənd]] || Rayon
+|-
+| <code>AZ-YAR</code> || [[Yardimli|Yardımlı]] || Rayon
+|-
+| <code>AZ-YE</code> || [[Yevlax Sahari|Yevlax]] || City
+|-
+| <code>AZ-YEV</code> || [[Yevlax Region|Yevlax]] || Rayon
+|-
+| <code>AZ-ZAN</code> || [[Zangilan|Zəngilan]] || Rayon
+|-
+| <code>AZ-ZAQ</code> || [[Zaqatala (rayon)|Zaqatala]] || Rayon
+|-
+| <code>AZ-ZAR</code> || [[Zardab|Zərdab]] || Rayon
+|-
+| <code>NX</code> || [[Nakhichevan]] || Autonomous republic
+|}
+† signifies those rayons within the autonomous republic of [[Nakhichevan]]
+
+==Vidë pure==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
+*[[Administrative divisions of Azerbaijan]]
+[[Category:Sciugrafije dë l'Azerbaijan]]
+[[Category:ISO 3166|2:AZ]]
+
+[[cs:ISO 3166-2:AZ]]
+[[fr:ISO 3166-2:AZ]]
+[[sk:ISO 3166-2:AZ]]
+[[vi:ISO 3166-2:AZ]]
