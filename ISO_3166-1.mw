@@ -29,7 +29,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 012 || DZA || DZ || [[ISO 3166-2:DZ]]*
 |-
 |{{AND}}
-| 020 || AND || AD || [[ISO 3166-2:AD]]*
+| 020 || AND || AD || [[ISO 3166-2:AD]]
 |-
 |{{AGO}}
 | 024 || AGO || AO || [[ISO 3166-2:AO]]*
@@ -808,7 +808,7 @@ l'''ISO 3166-1 numerichë'' no ténë codecë riservëtë.
 *{{en}} [http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm Aggiornamenti all'ISO 3166]
 
 [[Category:Standard ISO]]
-[[Category:Liste di codici nazionali|ISO 3166-1]]
+[[Category:Liste di codici nazionali|1:ISO 3166-1]]
 [[Category:ISO 3166|3166-1]]
 
 [[af:ISO 3166-1]]
