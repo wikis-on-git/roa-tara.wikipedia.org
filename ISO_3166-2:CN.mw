@@ -1,0 +1,255 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:CN'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+the [[People's Republic of China]].
+
+Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-character code for the PRC) followed by a 2-digit numeric code.
+
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2004-03-08]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>CN-11</code>
+| [[Beijing Municipality|Beijing]]
+|-
+! <code>CN-12</code>
+| [[Tianjin Municipality|Tianjin]]
+|-
+! <code>CN-13</code>
+| [[Hebei]]
+|-
+! <code>CN-14</code>
+| [[Shanxi]]
+|-
+! <code>CN-15</code>
+| [[Nei Mongol]]
+|-
+! <code>CN-21</code>
+| [[Liaoning]]
+|-
+! <code>CN-22</code>
+| [[Jilin]]
+|-
+! <code>CN-23</code>
+| [[Heilongjiang]]
+|-
+! <code>CN-31</code>
+| [[Shanghai Municipality|Shanghai]]
+|-
+! <code>CN-32</code>
+| [[Jiangsu]]
+|-
+! <code>CN-33</code>
+| [[Zhejiang]]
+|-
+! <code>CN-34</code>
+| [[Anhui]]
+|-
+! <code>CN-35</code>
+| [[Fujian]]
+|-
+! <code>CN-36</code>
+| [[Jiangxi]]
+|-
+! <code>CN-37</code>
+| [[Shandong]]
+|-
+! <code>CN-41</code>
+| [[Henan]]
+|-
+! <code>CN-42</code>
+| [[Hubei]]
+|-
+! <code>CN-43</code>
+| [[Hunan]]
+|-
+! <code>CN-44</code>
+| [[Guangdong]]
+|-
+! <code>CN-45</code>
+| [[Guangxi]]
+|-
+! <code>CN-46</code>
+| [[Hainan]]
+|-
+! <code>CN-50</code>
+| [[Chongqing Municipality|Chongqing]]
+|-
+! <code>CN-51</code>
+| [[Sichuan]]
+|-
+! <code>CN-52</code>
+| [[Guizhou]]
+|-
+! <code>CN-53</code>
+| [[Yunnan]]
+|-
+! <code>CN-54</code>
+| [[Xizang]]
+|-
+! <code>CN-61</code>
+| [[Shaanxi]]
+|-
+! <code>CN-62</code>
+| [[Gansu]]
+|-
+! <code>CN-63</code>
+| [[Qinghai]]
+|-
+! <code>CN-64</code>
+| [[Ningxia]]
+|-
+! <code>CN-65</code>
+| [[Xinjiang]]
+|-
+! <code>CN-71</code>
+| [[Taiwan]] †
+|-
+! <code>CN-91</code>
+| [[Hong Kong]]
+|-
+! <code>CN-92</code>
+| [[Macau]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:ccc;" | Municipalities (4)
+|-
+! [[Beijing Municipality|Beijing]]
+| <code>CN-11</code>
+|-
+! [[Chongqing Municipality|Chongqing]]
+| <code>CN-50</code>
+|-
+! [[Shanghai Municipality|Shanghai]]
+| <code>CN-31</code>
+|-
+! [[Tianjin Municipality|Tianjin]]
+| <code>CN-12</code>
+|-
+! colspan="2" style="background-color:ccc;" | Provinces (23)
+|-
+! [[Anhui]]
+| <code>CN-34</code>
+|-
+! [[Fujian]]
+| <code>CN-35</code>
+|-
+! [[Gansu]]
+| <code>CN-62</code>
+|-
+! [[Guangdong]]
+| <code>CN-44</code>
+|-
+! [[Guizhou]]
+| <code>CN-52</code>
+|-
+! [[Hainan]]
+| <code>CN-46</code>
+|-
+! [[Hebei]]
+| <code>CN-13</code>
+|-
+! [[Heilongjiang]]
+| <code>CN-23</code>
+|-
+! [[Henan]]
+| <code>CN-41</code>
+|-
+! [[Hubei]]
+| <code>CN-42</code>
+|-
+! [[Hunan]]
+| <code>CN-43</code>
+|-
+! [[Jiangsu]]
+| <code>CN-32</code>
+|-
+! [[Jiangxi]]
+| <code>CN-36</code>
+|-
+! [[Jilin]]
+| <code>CN-22</code>
+|-
+! [[Liaoning]]
+| <code>CN-21</code>
+|-
+! [[Qinghai]]
+| <code>CN-63</code>
+|-
+! [[Shaanxi]]
+| <code>CN-61</code>
+|-
+! [[Shandong]]
+| <code>CN-37</code>
+|-
+! [[Shanxi]]
+| <code>CN-14</code>
+|-
+! [[Sichuan]]
+| <code>CN-51</code>
+|-
+! [[Taiwan]] †
+| <code>CN-71</code>
+|-
+! [[Yunnan]]
+| <code>CN-53</code>
+|-
+! [[Zhejiang]]
+| <code>CN-33</code>
+|-
+! colspan="2" style="background-color:ccc;" | Autonomous Regions (5)
+|-
+! [[Guangxi]]
+| <code>CN-45</code>
+|-
+! [[Nei Mongol]]
+| <code>CN-15</code>
+|-
+! [[Ningxia]]
+| <code>CN-64</code>
+|-
+! [[Xinjiang]]
+| <code>CN-65</code>
+|-
+! [[Xizang]]
+| <code>CN-54</code>
+|-
+! colspan="2" style="background-color:ccc;" | Special administrative regions (2)
+|-
+! [[Hong Kong]]
+| <code>CN-91</code>
+|-
+! [[Macau]]
+| <code>CN-92</code>
+|}
+|-
+| colspan="2" align="center" |†: not administered by PRC (see also [[ISO 3166-2:TW]])
+|}
+
+==See also==
+*[[ISO 3166-2:HK]] and [[ISO 3166-2:MO]] for Hong Kong and Macao.
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[Political divisions of China]]
+
+[[Category:Sciugrafije d'a Repubblica Popolare d'a Cina]]
+[[Category:ISO 3166|2:CN]]
+
+[[cs:ISO 3166-2:CN]]
+[[de:ISO 3166-2:CN]]
+[[fr:ISO 3166-2:CN]]
+[[id:ISO 3166-2:CN]]
+[[ja:ISO 3166-2:CN]]
+[[sk:ISO 3166-2:CN]]
+[[zh:ISO 3166-2:CN]]
