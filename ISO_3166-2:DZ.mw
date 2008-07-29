@@ -1,13 +1,9 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:DZ'''
-is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Algeria]].
-It covers the country's 48 [[Provinces of Algeria|provinces]]. 
+'''ISO 3166-2:DZ''' ète 'n' [[International Organization for Standardization|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Algeria]]. 
+Lë codecë sondë riferitë 'a lë 48 [[Provinge dë l'Algeria|provinge dë l'Algeria]].
 
-The first part of each code is the [[ISO 3166-1]] code '''DZ''' for Algeria ('''Dz'''ayar), the second part is the provincial code. (The names of the provinces alphabetically)
-
-==Codes ==
+== Codecë ==
 {|
 | [[Adrar Province|Adrar]]
 | DZ-01
@@ -154,10 +150,10 @@ The first part of each code is the [[ISO 3166-1]] code '''DZ''' for Algeria ('''
 | DZ-15
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Provinces of Algeria]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Provinge dë l'Algeria]]
 
 [[Category:Provinces of Algeria| ISO]]
 [[Category:ISO 3166|2:DZ]]
