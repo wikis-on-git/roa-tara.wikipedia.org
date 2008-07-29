@@ -1,0 +1,63 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:ZA'''
+is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[South Africa]].
+It covers 9 provinces.
+
+Each two-part code consists of the [[ISO 3166-1 alpha-2]] code for 
+South Africa ('''ZA''')
+and a 2-character-alphabetic subcode, hyphenated together.
+
+==Newsletters==
+* [[ISO 3166-2:2004-03-08]]
+* [[ISO 3166-2:2007-11-28]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>ZA-EC</code>
+| [[Eastern Cape]] (Oos-Kaap)
+|-
+! <code>ZA-FS</code>
+| [[Free State]] (Vrystaat)
+|-
+! <code>ZA-GT</code>
+| [[Gauteng]]
+|-
+! <code>ZA-NL</code>
+| [[KwaZulu-Natal]]
+|-
+! <code>ZA-LP</code>
+| [[Limpopo]]
+|-
+! <code>ZA-MP</code>
+| [[Mpumalanga]]
+|-
+! <code>ZA-NC</code>
+| [[Northern Cape]] (Noord-Kaap)
+|-
+! <code>ZA-NW</code>
+| [[North West (South African province)|North-West]] (Noord-Wes)
+|-
+! <code>ZA-WC</code>
+| [[Western Cape]] (Wes-Kaap)
+|}
+|}
+
+==See also==
+*[[Provinces of South Africa]]
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+[[Category:ISO 3166|2:ZA]]
+
+[[cs:ISO 3166-2:ZA]]
+[[de:ISO 3166-2:ZA]]
+[[fr:ISO 3166-2:ZA]]
+[[id:ISO 3166-2:ZA]]
+[[ja:ISO 3166-2:ZA]]
+[[sk:ISO 3166-2:ZA]]
