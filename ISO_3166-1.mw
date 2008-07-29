@@ -176,43 +176,43 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 192 || CUB || CU || [[ISO 3166-2:CU]]*
 |-
 |{{DNK}}
-| 208 || DNK || DK || [[ISO 3166-2:DK]]
+| 208 || DNK || DK || [[ISO 3166-2:DK]]*
 |-
 |{{DMA}}
-| 212 || DMA || DM || [[ISO 3166-2:DM]]
+| 212 || DMA || DM || [[ISO 3166-2:DM]]*
 |-
 |{{ECU}}
-| 218 || ECU || EC || [[ISO 3166-2:EC]]
+| 218 || ECU || EC || [[ISO 3166-2:EC]]*
 |-
 |{{EGY}}
-| 818 || EGY || EG || [[ISO 3166-2:EG]]
+| 818 || EGY || EG || [[ISO 3166-2:EG]]*
 |-
 |{{SLV}}
-| 222 || SLV || SV || [[ISO 3166-2:SV]]
+| 222 || SLV || SV || [[ISO 3166-2:SV]]*
 |-
 |{{ARE}}
 | 784 || ARE || AE || [[ISO 3166-2:AE]]
 |-
 |{{ERI}}
-| 232 || ERI || ER || [[ISO 3166-2:ER]]
+| 232 || ERI || ER || [[ISO 3166-2:ER]]*
 |-
 |{{EST}}
-| 233 || EST || EE || [[ISO 3166-2:EE]]
+| 233 || EST || EE || [[ISO 3166-2:EE]]*
 |-
 |{{ETH}}
-| 231 || ETH || ET || [[ISO 3166-2:ET]]
+| 231 || ETH || ET || [[ISO 3166-2:ET]]*
 |-
 |{{FJI}}
-| 242 || FJI || FJ || [[ISO 3166-2:FJ]]
+| 242 || FJI || FJ || [[ISO 3166-2:FJ]]*
 |-
 |{{PHL}}
 | 608 || PHL || PH || [[ISO 3166-2:PH]]
 |-
 |{{FIN}}
-| 246 || FIN || FI || [[ISO 3166-2:FI]]
+| 246 || FIN || FI || [[ISO 3166-2:FI]]*
 |-
 |{{FRA}}
-| 250 || FRA || FR || [[ISO 3166-2:FR]]
+| 250 || FRA || FR || [[ISO 3166-2:FR]]*
 |-
 |{{GAB}}
 | 266 || GAB || GA || [[ISO 3166-2:GA]]
@@ -242,7 +242,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 292 || GIB || GI || [[ISO 3166-2:GI]]
 |-
 |{{DJI}}
-| 262 || DJI || DJ || [[ISO 3166-2:DJ]]
+| 262 || DJI || DJ || [[ISO 3166-2:DJ]]*
 |- 
 |{{JOR}}
 | 400 || JOR || JO || [[ISO 3166-2:JO]]
@@ -275,7 +275,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 624 || GNB || GW || [[ISO 3166-2:GW]]
 |-
 |{{GNQ}}
-| 226 || GNQ || GQ || [[ISO 3166-2:GQ]]
+| 226 || GNQ || GQ || [[ISO 3166-2:GQ]]*
 |-
 |{{GUY}}
 | 328 || GUY || GY || [[ISO 3166-2:GY]]
@@ -569,7 +569,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 178 || COG || CG || [[ISO 3166-2:CG]]*
 |-
 |{{DOM}}
-| 214 || DOM || DO || [[ISO 3166-2:DO]]
+| 214 || DOM || DO || [[ISO 3166-2:DO]]*
 |-
 |{{REU}}
 | 638 || REU || RE || [[ISO 3166-2:RE]]
