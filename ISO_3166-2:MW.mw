@@ -1,0 +1,123 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:MW'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Malawi]].
+
+== Regions (3) ==
+{|
+|-
+! <code>MW-C</code>
+| [[Central Region, Malawi|Central]]
+|-
+! <code>MW-N</code>
+| [[Northern Region, Malawi|Northern]]
+|-
+! <code>MW-S</code>
+| [[Southern Region, Malawi|Southern]]
+|}
+
+== Districts (27) ==
+{|
+|-
+! Code&nbsp;
+! Name&nbsp;
+! Region&nbsp;
+|- 
+! MW-BA
+||[[Balaka District|Balaka]]||S
+|-
+! MW-BL
+||[[Blantyre District|Blantyre]]||S
+|-
+! MW-CK
+||[[Chikwawa District|Chikwawa]]||S
+|-
+! MW-CR
+||[[Chiradzulu District|Chiradzulu]]||S
+|-
+! MW-CT
+||[[Chitipa District|Chitipa]]||N
+|-
+! MW-DE
+||[[Dedza District|Dedza]]||C
+|-
+! MW-DO
+||[[Dowa District|Dowa]]||C
+|-
+! MW-KR
+||[[Karonga District|Karonga]]||N
+|-
+! MW-KS
+||[[Kasungu District|Kasungu]]||C
+|-
+! MW-LK
+||[[Likoma District|Likoma Island]]||N
+|-
+! MW-LI
+||[[Lilongwe District|Lilongwe]]||C
+|-
+! MW-MH
+||[[Machinga District|Machinga]]||S
+|-
+! MW-MG
+||[[Mangochi District|Mangochi]]||S
+|-
+! MW-MC
+||[[Mchinji District|Mchinji]]||C
+|-
+! MW-MU
+||[[Mulanje District|Mulanje]]||S
+|-
+! MW-MW
+||[[Mwanza District|Mwanza]]||S
+|-
+! MW-MZ
+||[[Mzimba District|Mzimba]]||N
+|-
+! MW-NB
+||[[Nkhata Bay District|Nkhata]]||N
+|-
+! MW-NK
+||[[Nkhotakota District|Nkhotakota]]||C
+|-
+! MW-NS
+||[[Nsanje District|Nsanje]]||S
+|-
+! MW-NU
+||[[Ntcheu District|Ntcheu]]||C
+|-
+! MW-NI
+||[[Ntchisi District|Ntchisi]]||C
+|-
+! MW-PH
+||[[Phalombe District|Phalombe]]||S
+|-
+! MW-RU
+||[[Rumphi District|Rumphi]]||N
+|-
+! MW-SA
+||[[Salima District|Salima]]||C
+|-
+! MW-TH
+||[[Thyolo District|Thyolo]]||S
+|-
+! MW-ZO
+||[[Zomba District|Zomba]]||S
+|}
+
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+{{standard-stub}}
+[[Category:Geography of Malawi]]
+[[Category:ISO 3166|2:MW]]
+
+[[cs:ISO 3166-2:MW]]
+[[de:ISO 3166-2:MW]]
+[[fr:ISO 3166-2:MW]]
+[[id:ISO 3166-2:MW]]
+[[sk:ISO 3166-2:MW]]
