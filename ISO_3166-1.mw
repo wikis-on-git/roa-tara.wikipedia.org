@@ -32,22 +32,22 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 020 || AND || AD || [[ISO 3166-2:AD]]
 |-
 |{{AGO}}
-| 024 || AGO || AO || [[ISO 3166-2:AO]]*
+| 024 || AGO || AO || [[ISO 3166-2:AO]]
 |-
 |{{AIA}}
-| 660 || AIA || AI || [[ISO 3166-2:AI]]
+| 660 || AIA || AI || [[ISO 3166-2:AI]]**
 |-
 |{{ATA}}
-| 010 || ATA || AQ || [[ISO 3166-2:AQ]]
+| 010 || ATA || AQ || [[ISO 3166-2:AQ]]**
 |-
 |{{ATG}}
 | 028 || ATG || AG || [[ISO 3166-2:AG]]*
 |-
 |{{ANT}}
-| 530 || ANT || AN || [[ISO 3166-2:AN]]
+| 530 || ANT || AN || [[ISO 3166-2:AN]]**
 |-
 |{{SAU}}
-| 682 || SAU || SA || [[ISO 3166-2:SA]]
+| 682 || SAU || SA || [[ISO 3166-2:SA]]**
 |-
 |{{ARG}}
 | 032 || ARG || AR || [[ISO 3166-2:AR]]*
@@ -56,7 +56,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 051 || ARM || AM || [[ISO 3166-2:AM]]*
 |-
 |{{ABW}}
-| 533 || ABW || AW || [[ISO 3166-2:AW]]
+| 533 || ABW || AW || [[ISO 3166-2:AW]]**
 |-
 |{{AUS}}
 | 036 || AUS || AU || [[ISO 3166-2:AU]]*
@@ -89,7 +89,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 204 || BEN || BJ || [[ISO 3166-2:BJ]]*
 |-
 |{{BMU}}
-| 060 || BMU || BM || [[ISO 3166-2:BM]]
+| 060 || BMU || BM || [[ISO 3166-2:BM]]**
 |-
 |{{BTN}}
 | 064 || BTN || BT || [[ISO 3166-2:BT]]*
@@ -98,13 +98,13 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 112 || BLR || BY || [[ISO 3166-2:BY]]*
 |-
 |{{MMR}}
-| 104 || MMR || MM || [[ISO 3166-2:MM]]
+| 104 || MMR || MM || [[ISO 3166-2:MM]]**
 |-
 |{{BOL}}
 | 068 || BOL || BO || [[ISO 3166-2:BO]]*
 |-
 |{{BIH}}
-| 070 || BIH || BA || [[ISO 3166-2:BA]]
+| 070 || BIH || BA || [[ISO 3166-2:BA]]**
 |-
 |{{BWA}}
 | 072 || BWA || BW || [[ISO 3166-2:BW]]*
@@ -119,7 +119,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 100 || BGR || BG || [[ISO 3166-2:BG]]*
 |-
 |{{BFA}}
-| 854 || BFA || BF || [[ISO 3166-2:BF]]
+| 854 || BFA || BF || [[ISO 3166-2:BF]]**
 |-
 |{{BDI}}
 | 108 || BDI || BI || [[ISO 3166-2:BI]]*
@@ -149,7 +149,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 196 || CYP || CY || [[ISO 3166-2:CY]]*
 |-
 |{{VAT}}
-| 336 || VAT || VA || [[ISO 3166-2:VA]]
+| 336 || VAT || VA || [[ISO 3166-2:VA]]**
 |- 
 |{{COL}}
 | 170 || COL || CO || [[ISO 3166-2:CO]]*
@@ -158,10 +158,10 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 174 || COM || KM || [[ISO 3166-2:KM]]*
 |-
 |{{PRK}}
-| 408 || PRK || KP || [[ISO 3166-2:KP]]
+| 408 || PRK || KP || [[ISO 3166-2:KP]]**
 |-
 |{{KOR}}
-| 410 || KOR || KR || [[ISO 3166-2:KR]]
+| 410 || KOR || KR || [[ISO 3166-2:KR]]**
 |-
 |{{CIV}}
 | 384 || CIV || CI || [[ISO 3166-2:CI]]*
@@ -191,7 +191,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 222 || SLV || SV || [[ISO 3166-2:SV]]*
 |-
 |{{ARE}}
-| 784 || ARE || AE || [[ISO 3166-2:AE]]
+| 784 || ARE || AE || [[ISO 3166-2:AE]]**
 |-
 |{{ERI}}
 | 232 || ERI || ER || [[ISO 3166-2:ER]]*
@@ -206,7 +206,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 242 || FJI || FJ || [[ISO 3166-2:FJ]]*
 |-
 |{{PHL}}
-| 608 || PHL || PH || [[ISO 3166-2:PH]]
+| 608 || PHL || PH || [[ISO 3166-2:PH]]**
 |-
 |{{FIN}}
 | 246 || FIN || FI || [[ISO 3166-2:FI]]*
@@ -215,349 +215,349 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 250 || FRA || FR || [[ISO 3166-2:FR]]*
 |-
 |{{GAB}}
-| 266 || GAB || GA || [[ISO 3166-2:GA]]
+| 266 || GAB || GA || [[ISO 3166-2:GA]]**
 |-
 |{{GMB}}
-| 270 || GMB || GM || [[ISO 3166-2:GM]]
+| 270 || GMB || GM || [[ISO 3166-2:GM]]**
 |-
 |{{GEO}}
-| 268 || GEO || GE || [[ISO 3166-2:GE]]
+| 268 || GEO || GE || [[ISO 3166-2:GE]]**
 |-
 |{{SGS}}
-| 239 || SGS || GS || [[ISO 3166-2:GS]]
+| 239 || SGS || GS || [[ISO 3166-2:GS]]**
 |-
 |{{DEU}}
-| 276 || DEU || DE || [[ISO 3166-2:DE]]
+| 276 || DEU || DE || [[ISO 3166-2:DE]]**
 |-
 |{{GHA}}
-| 288 || GHA || GH || [[ISO 3166-2:GH]]
+| 288 || GHA || GH || [[ISO 3166-2:GH]]**
 |-
 |{{JAM}}
-| 388 || JAM || JM || [[ISO 3166-2:JM]]
+| 388 || JAM || JM || [[ISO 3166-2:JM]]**
 |-
 |{{JPN}}
-| 392 || JPN || JP || [[ISO 3166-2:JP]]
+| 392 || JPN || JP || [[ISO 3166-2:JP]]**
 |-
 |{{GIB}}
-| 292 || GIB || GI || [[ISO 3166-2:GI]]
+| 292 || GIB || GI || [[ISO 3166-2:GI]]**
 |-
 |{{DJI}}
 | 262 || DJI || DJ || [[ISO 3166-2:DJ]]*
 |- 
 |{{JOR}}
-| 400 || JOR || JO || [[ISO 3166-2:JO]]
+| 400 || JOR || JO || [[ISO 3166-2:JO]]**
 |-
 |{{GRC}}
-| 300 || GRC || GR || [[ISO 3166-2:GR]]
+| 300 || GRC || GR || [[ISO 3166-2:GR]]**
 |-
 |{{GRD}}
-| 308 || GRD || GD || [[ISO 3166-2:GD]]
+| 308 || GRD || GD || [[ISO 3166-2:GD]]**
 |-
 |{{GRL}}
-| 304 || GRL || GL || [[ISO 3166-2:GL]]
+| 304 || GRL || GL || [[ISO 3166-2:GL]]**
 |-
 |{{GLP}}
-| 312 || GLP || GP || [[ISO 3166-2:GP]]
+| 312 || GLP || GP || [[ISO 3166-2:GP]]**
 |-
 |{{GUM}}
-| 316 || GUM || GU || [[ISO 3166-2:GU]]
+| 316 || GUM || GU || [[ISO 3166-2:GU]]**
 |-
 |{{GTM}}
-| 320 || GTM || GT || [[ISO 3166-2:GT]]
+| 320 || GTM || GT || [[ISO 3166-2:GT]]**
 |-
 |{{GGY}}
-| 831 || GGY || GG || [[ISO 3166-2:GG]]
+| 831 || GGY || GG || [[ISO 3166-2:GG]]**
 |-
 |{{GIN}}
-| 324 || GIN || GN || [[ISO 3166-2:GN]]
+| 324 || GIN || GN || [[ISO 3166-2:GN]]**
 |-
 |{{GNB}}
-| 624 || GNB || GW || [[ISO 3166-2:GW]]
+| 624 || GNB || GW || [[ISO 3166-2:GW]]**
 |-
 |{{GNQ}}
 | 226 || GNQ || GQ || [[ISO 3166-2:GQ]]*
 |-
 |{{GUY}}
-| 328 || GUY || GY || [[ISO 3166-2:GY]]
+| 328 || GUY || GY || [[ISO 3166-2:GY]]**
 |-
 |{{GUF}}
-| 254 || GUF || GF || [[ISO 3166-2:GF]]
+| 254 || GUF || GF || [[ISO 3166-2:GF]]**
 |-
 |{{HTI}}
-| 332 || HTI || HT || [[ISO 3166-2:HT]]
+| 332 || HTI || HT || [[ISO 3166-2:HT]]**
 |-
 |{{HND}}
-| 340 || HND || HN || [[ISO 3166-2:HN]]
+| 340 || HND || HN || [[ISO 3166-2:HN]]**
 |-
 |{{HKG}}
-| 344 || HKG || HK || [[ISO 3166-2:HK]]
+| 344 || HKG || HK || [[ISO 3166-2:HK]]**
 |-
 |{{IND}}
-| 356 || IND || IN || [[ISO 3166-2:IN]]
+| 356 || IND || IN || [[ISO 3166-2:IN]]**
 |-
 |{{IDN}}
-| 360 || IDN || ID || [[ISO 3166-2:ID]]
+| 360 || IDN || ID || [[ISO 3166-2:ID]]**
 |-
 |{{IRN}}
-| 364 || IRN || IR || [[ISO 3166-2:IR]]
+| 364 || IRN || IR || [[ISO 3166-2:IR]]**
 |-
 |{{IRQ}}
-| 368 || IRQ || IQ || [[ISO 3166-2:IQ]]
+| 368 || IRQ || IQ || [[ISO 3166-2:IQ]]**
 |-
 |{{IRL}}
-| 372 || IRL || IE || [[ISO 3166-2:IE]]
+| 372 || IRL || IE || [[ISO 3166-2:IE]]**
 |-
 |{{ISL}}
-| 352 || ISL || IS || [[ISO 3166-2:IS]]
+| 352 || ISL || IS || [[ISO 3166-2:IS]]**
 |-
 |{{BVT}}
-| 074 || BVT || BV || [[ISO 3166-2:BV]]
+| 074 || BVT || BV || [[ISO 3166-2:BV]]**
 |-
 |{{IMN}}
-| 833 || IMN || IM || [[ISO 3166-2:IM]]
+| 833 || IMN || IM || [[ISO 3166-2:IM]]**
 |-
 |{{CXR}}
-| 162 || CXR || CX || [[ISO 3166-2:CX]]
+| 162 || CXR || CX || [[ISO 3166-2:CX]]**
 |-
 |{{NFK}}
-| 574 || NFK || NF || [[ISO 3166-2:NF]]
+| 574 || NFK || NF || [[ISO 3166-2:NF]]**
 |-
 |{{ALA}}
-| 248 || ALA || AX || [[ISO 3166-2:AX]]
+| 248 || ALA || AX || [[ISO 3166-2:AX]]**
 |-
 |{{CYM}}
-| 136 || CYM || KY || [[ISO 3166-2:KY]]
+| 136 || CYM || KY || [[ISO 3166-2:KY]]**
 |-
 |{{CCK}}
-| 166 || CCK || CC || [[ISO 3166-2:CC]]
+| 166 || CCK || CC || [[ISO 3166-2:CC]]**
 |-
 |{{COK}}
-| 184 || COK || CK || [[ISO 3166-2:CK]]
+| 184 || COK || CK || [[ISO 3166-2:CK]]**
 |-
 |{{FRO}}
-| 234 || FRO || FO || [[ISO 3166-2:FO]]
+| 234 || FRO || FO || [[ISO 3166-2:FO]]**
 |-
 |{{FLK}}
-| 238 || FLK || FK || [[ISO 3166-2:FK]]
+| 238 || FLK || FK || [[ISO 3166-2:FK]]**
 |-
 |{{HMD}}
-| 334 || HMD || HM || [[ISO 3166-2:HM]]
+| 334 || HMD || HM || [[ISO 3166-2:HM]]**
 |-
 |{{MNP}}
-| 580 || MNP || MP || [[ISO 3166-2:MP]]
+| 580 || MNP || MP || [[ISO 3166-2:MP]]**
 |-
 |{{MHL}}
-| 584 || MHL || MH || [[ISO 3166-2:MH]]
+| 584 || MHL || MH || [[ISO 3166-2:MH]]**
 |-
 |{{UMI}}
-| 581 || UMI || UM || [[ISO 3166-2:UM]]
+| 581 || UMI || UM || [[ISO 3166-2:UM]]**
 |-
 |{{PCN}}
-| 612 || PCN || PN || [[ISO 3166-2:PN]]
+| 612 || PCN || PN || [[ISO 3166-2:PN]]**
 |-
 |{{SLB}}
-| 090 || SLB || SB || [[ISO 3166-2:SB]]
+| 090 || SLB || SB || [[ISO 3166-2:SB]]**
 |-
 |{{VGB}}
-| 092 || VGB || VG || [[ISO 3166-2:VG]]
+| 092 || VGB || VG || [[ISO 3166-2:VG]]**
 |-
 |{{VIR}}
-| 850 || VIR || VI || [[ISO 3166-2:VI]]
+| 850 || VIR || VI || [[ISO 3166-2:VI]]**
 |-
 |{{ISR}}
-| 376 || ISR || IL || [[ISO 3166-2:IL]]
+| 376 || ISR || IL || [[ISO 3166-2:IL]]**
 |-
 |{{ITA}}
 | 380 || ITA || IT || [[ISO 3166-2:IT]]
 |-
 |{{JEY}}
-| 832 || JEY || JE || [[ISO 3166-2:JE]]
+| 832 || JEY || JE || [[ISO 3166-2:JE]]**
 |-
 |{{KAZ}}
-| 398 || KAZ || KZ || [[ISO 3166-2:KZ]]
+| 398 || KAZ || KZ || [[ISO 3166-2:KZ]]**
 |-
 |{{KEN}}
-| 404 || KEN || KE || [[ISO 3166-2:KE]]
+| 404 || KEN || KE || [[ISO 3166-2:KE]]**
 |-
 |{{KGZ}}
-| 417 || KGZ || KG || [[ISO 3166-2:KG]]
+| 417 || KGZ || KG || [[ISO 3166-2:KG]]**
 |- 
 |{{KIR}}
-| 296 || KIR || KI || [[ISO 3166-2:KI]]
+| 296 || KIR || KI || [[ISO 3166-2:KI]]**
 |-
 |{{KWT}}
-| 414 || KWT || KW || [[ISO 3166-2:KW]]
+| 414 || KWT || KW || [[ISO 3166-2:KW]]**
 |-
 |{{LAO}}
-| 418 || LAO || LA || [[ISO 3166-2:LA]]
+| 418 || LAO || LA || [[ISO 3166-2:LA]]**
 |-
 |{{LSO}}
-| 426 || LSO || LS || [[ISO 3166-2:LS]]
+| 426 || LSO || LS || [[ISO 3166-2:LS]]**
 |-
 |{{LVA}}
-| 428 || LVA || LV || [[ISO 3166-2:LV]]
+| 428 || LVA || LV || [[ISO 3166-2:LV]]**
 |-
 |{{LBN}}
-| 422 || LBN || LB || [[ISO 3166-2:LB]]
+| 422 || LBN || LB || [[ISO 3166-2:LB]]**
 |-
 |{{LBR}}
-| 430 || LBR || LR || [[ISO 3166-2:LR]]
+| 430 || LBR || LR || [[ISO 3166-2:LR]]**
 |-
 |{{LBY}}
-| 434 || LBY || LY || [[ISO 3166-2:LY]]
+| 434 || LBY || LY || [[ISO 3166-2:LY]]**
 |-
 |{{LIE}}
-| 438 || LIE || LI || [[ISO 3166-2:LI]]
+| 438 || LIE || LI || [[ISO 3166-2:LI]]**
 |-
 |{{LTU}}
-| 440 || LTU || LT || [[ISO 3166-2:LT]]
+| 440 || LTU || LT || [[ISO 3166-2:LT]]**
 |-
 |{{LUX}}
-| 442 || LUX || LU || [[ISO 3166-2:LU]]
+| 442 || LUX || LU || [[ISO 3166-2:LU]]**
 |-
 |{{MAC}}
-| 446 || MAC || MO || [[ISO 3166-2:MO]]
+| 446 || MAC || MO || [[ISO 3166-2:MO]]**
 |-
 |{{MKD}}
-| 807 || MKD || MK || [[ISO 3166-2:MK]]
+| 807 || MKD || MK || [[ISO 3166-2:MK]]**
 |-
 |{{MDG}}
-| 450 || MDG || MG || [[ISO 3166-2:MG]]
+| 450 || MDG || MG || [[ISO 3166-2:MG]]**
 |-
 |{{MWI}}
-| 454 || MWI || MW || [[ISO 3166-2:MW]]
+| 454 || MWI || MW || [[ISO 3166-2:MW]]**
 |-
 |{{MYS}}
-| 458 || MYS || MY || [[ISO 3166-2:MY]]
+| 458 || MYS || MY || [[ISO 3166-2:MY]]**
 |-
 |{{MDV}}
-| 462 || MDV || MV || [[ISO 3166-2:MV]]
+| 462 || MDV || MV || [[ISO 3166-2:MV]]**
 |-
 |{{MLI}}
-| 466 || MLI || ML || [[ISO 3166-2:ML]]
+| 466 || MLI || ML || [[ISO 3166-2:ML]]**
 |-
 |{{MLT}}
-| 470 || MLT || MT || [[ISO 3166-2:MT]]
+| 470 || MLT || MT || [[ISO 3166-2:MT]]**
 |-
 |{{MAR}}
-| 504 || MAR || MA || [[ISO 3166-2:MA]]
+| 504 || MAR || MA || [[ISO 3166-2:MA]]**
 |-
 |{{MTQ}}
-| 474 || MTQ || MQ || [[ISO 3166-2:MQ]]
+| 474 || MTQ || MQ || [[ISO 3166-2:MQ]]**
 |-
 |{{MRT}}
-| 478 || MRT || MR || [[ISO 3166-2:MR]]
+| 478 || MRT || MR || [[ISO 3166-2:MR]]**
 |-
 |{{MUS}}
-| 480 || MUS || MU || [[ISO 3166-2:MU]]
+| 480 || MUS || MU || [[ISO 3166-2:MU]]**
 |-
 |{{MYT}}
-| 175 || MYT || YT || [[ISO 3166-2:YT]]
+| 175 || MYT || YT || [[ISO 3166-2:YT]]**
 |-
 |{{MEX}}
-| 484 || MEX || MX || [[ISO 3166-2:MX]]
+| 484 || MEX || MX || [[ISO 3166-2:MX]]**
 |-
 |{{FSM}}
-| 583 || FSM || FM || [[ISO 3166-2:FM]]
+| 583 || FSM || FM || [[ISO 3166-2:FM]]**
 |-
 |{{MDA}}
-| 498 || MDA || MD || [[ISO 3166-2:MD]]
+| 498 || MDA || MD || [[ISO 3166-2:MD]]**
 |-
 |{{MNG}}
-| 496 || MNG || MN || [[ISO 3166-2:MN]]
+| 496 || MNG || MN || [[ISO 3166-2:MN]]**
 |-
 |{{MNE}}
-| 499 || MNE || ME || [[ISO 3166-2:ME]]
+| 499 || MNE || ME || [[ISO 3166-2:ME]]**
 |-
 |{{MSR}}
-| 500 || MSR || MS || [[ISO 3166-2:MS]]
+| 500 || MSR || MS || [[ISO 3166-2:MS]]**
 |-
 |{{MOZ}}
-| 508 || MOZ || MZ || [[ISO 3166-2:MZ]]
+| 508 || MOZ || MZ || [[ISO 3166-2:MZ]]**
 |-
 |{{NAM}}
-| 516 || NAM || NA || [[ISO 3166-2:NA]]
+| 516 || NAM || NA || [[ISO 3166-2:NA]]**
 |-
 |{{NRU}}
-| 520 || NRU || NR || [[ISO 3166-2:NR]]
+| 520 || NRU || NR || [[ISO 3166-2:NR]]**
 |-
 |{{NPL}}
-| 524 || NPL || NP || [[ISO 3166-2:NP]]
+| 524 || NPL || NP || [[ISO 3166-2:NP]]**
 |-
 |{{NIC}}
-| 558 || NIC || NI || [[ISO 3166-2:NI]]
+| 558 || NIC || NI || [[ISO 3166-2:NI]]**
 |-
 |{{NER}}
-| 562 || NER || NE || [[ISO 3166-2:NE]]
+| 562 || NER || NE || [[ISO 3166-2:NE]]**
 |-
 |{{NGA}}
-| 566 || NGA || NG || [[ISO 3166-2:NG]]
+| 566 || NGA || NG || [[ISO 3166-2:NG]]**
 |-
 |{{NIU}}
-| 570 || NIU || NU || [[ISO 3166-2:NU]]
+| 570 || NIU || NU || [[ISO 3166-2:NU]]**
 |-
 |{{NOR}}
-| 578 || NOR || NO || [[ISO 3166-2:NO]]
+| 578 || NOR || NO || [[ISO 3166-2:NO]]**
 |-
 |{{NCL}}
-| 540 || NCL || NC || [[ISO 3166-2:NC]]
+| 540 || NCL || NC || [[ISO 3166-2:NC]]**
 |-
 |{{NZL}}
-| 554 || NZL || NZ || [[ISO 3166-2:NZ]]
+| 554 || NZL || NZ || [[ISO 3166-2:NZ]]**
 |-
 |{{OMN}}
-| 512 || OMN || OM || [[ISO 3166-2:OM]]
+| 512 || OMN || OM || [[ISO 3166-2:OM]]**
 |-
 |{{NLD}}
-| 528 || NLD || NL || [[ISO 3166-2:NL]]
+| 528 || NLD || NL || [[ISO 3166-2:NL]]**
 |-
 |{{PAK}}
-| 586 || PAK || PK || [[ISO 3166-2:PK]]
+| 586 || PAK || PK || [[ISO 3166-2:PK]]**
 |-
 |{{PLW}}
-| 585 || PLW || PW || [[ISO 3166-2:PW]]
+| 585 || PLW || PW || [[ISO 3166-2:PW]]**
 |-
 |{{PSE}}
-| 275 || PSE || PS || [[ISO 3166-2:PS]]
+| 275 || PSE || PS || [[ISO 3166-2:PS]]**
 |-
 |{{PAN}}
-| 591 || PAN || PA || [[ISO 3166-2:PA]]
+| 591 || PAN || PA || [[ISO 3166-2:PA]]**
 |-
 |{{PNG}}
-| 598 || PNG || PG || [[ISO 3166-2:PG]]
+| 598 || PNG || PG || [[ISO 3166-2:PG]]**
 |-
 |{{PRY}}
-| 600 || PRY || PY || [[ISO 3166-2:PY]]
+| 600 || PRY || PY || [[ISO 3166-2:PY]]**
 |-
 |{{PER}}
-| 604 || PER || PE || [[ISO 3166-2:PE]]
+| 604 || PER || PE || [[ISO 3166-2:PE]]**
 |-
 |{{PYF}}
-| 258 || PYF || PF || [[ISO 3166-2:PF]]
+| 258 || PYF || PF || [[ISO 3166-2:PF]]**
 |-
 |{{POL}}
-| 616 || POL || PL || [[ISO 3166-2:PL]]
+| 616 || POL || PL || [[ISO 3166-2:PL]]**
 |-
 |{{PRI}}
-| 630 || PRI || PR || [[ISO 3166-2:PR]]
+| 630 || PRI || PR || [[ISO 3166-2:PR]]**
 |-
 |{{PRT}}
-| 620 || PRT || PT || [[ISO 3166-2:PT]]
+| 620 || PRT || PT || [[ISO 3166-2:PT]]**
 |-
 |{{MCO}}
-| 492 || MCO || MC || [[ISO 3166-2:MC]]
+| 492 || MCO || MC || [[ISO 3166-2:MC]]**
 |-
 |{{QAT}}
-| 634 || QAT || QA || [[ISO 3166-2:QA]]
+| 634 || QAT || QA || [[ISO 3166-2:QA]]**
 |-
 |{{GBR}}
-| 826 || GBR || GB || [[ISO 3166-2:GB]]
+| 826 || GBR || GB || [[ISO 3166-2:GB]]**
 |-
 |{{COD}}
 | 180 || COD || CD || [[ISO 3166-2:CD]]*
 |-
 |{{TWN}}
-| 158 || TWN || TW || [[ISO 3166-2:TW]]
+| 158 || TWN || TW || [[ISO 3166-2:TW]]**
 |-
 |{{CZE}}
 | 203 || CZE || CZ || [[ISO 3166-2:CZ]]*
@@ -572,193 +572,194 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 214 || DOM || DO || [[ISO 3166-2:DO]]*
 |-
 |{{REU}}
-| 638 || REU || RE || [[ISO 3166-2:RE]]
+| 638 || REU || RE || [[ISO 3166-2:RE]]**
 |-
 |{{ROU}}
-| 642 || ROU || RO || [[ISO 3166-2:RO]]
+| 642 || ROU || RO || [[ISO 3166-2:RO]]**
 |-
 |{{RWA}}
-| 646 || RWA || RW || [[ISO 3166-2:RW]]
+| 646 || RWA || RW || [[ISO 3166-2:RW]]**
 |-
 |{{RUS}}
-| 643 || RUS || RU || [[ISO 3166-2:RU]]
+| 643 || RUS || RU || [[ISO 3166-2:RU]]**
 |-
 |{{ESH}}
-| 732 || ESH || EH || [[ISO 3166-2:EH]]
+| 732 || ESH || EH || [[ISO 3166-2:EH]]**
 |-
 |{{KNA}}
-| 659 || KNA || KN || [[ISO 3166-2:KN]]
+| 659 || KNA || KN || [[ISO 3166-2:KN]]**
 |-
 |{{LCA}}
-| 662 || LCA || LC || [[ISO 3166-2:LC]]
+| 662 || LCA || LC || [[ISO 3166-2:LC]]**
 |-
 |{{SHN}}
-| 654 || SHN || SH || [[ISO 3166-2:SH]]
+| 654 || SHN || SH || [[ISO 3166-2:SH]]**
 |-
 |{{VCT}}
-| 670 || VCT || VC || [[ISO 3166-2:VC]]
+| 670 || VCT || VC || [[ISO 3166-2:VC]]**
 |-
 |{{BLM}}
-| 652 || BLM || BL || [[ISO 3166-2:BL]]
+| 652 || BLM || BL || [[ISO 3166-2:BL]]**
 |-
 |{{MAF}}
-| 663 || MAF || MF || [[ISO 3166-2:MF]]
+| 663 || MAF || MF || [[ISO 3166-2:MF]]**
 |-
 |{{SPM}}
-| 666 || SPM || PM || [[ISO 3166-2:PM]]
+| 666 || SPM || PM || [[ISO 3166-2:PM]]**
 |-
 |{{WSM}}
-| 882 || WSM || WS || [[ISO 3166-2:WS]]
+| 882 || WSM || WS || [[ISO 3166-2:WS]]**
 |-
 |{{ASM}}
-| 016 || ASM || AS || [[ISO 3166-2:AS]]
+| 016 || ASM || AS || [[ISO 3166-2:AS]]**
 |-
 |{{SMR}}
-| 674 || SMR || SM || [[ISO 3166-2:SM]]
+| 674 || SMR || SM || [[ISO 3166-2:SM]]**
 |-
 |{{STP}}
-| 678 || STP || ST || [[ISO 3166-2:ST]]
+| 678 || STP || ST || [[ISO 3166-2:ST]]**
 |-
 |{{SEN}}
-| 686 || SEN || SN || [[ISO 3166-2:SN]]
+| 686 || SEN || SN || [[ISO 3166-2:SN]]**
 |-
 |{{SRB}}
-| 688 || SRB || RS || [[ISO 3166-2:RS]]
+| 688 || SRB || RS || [[ISO 3166-2:RS]]**
 |-
 |{{SYC}}
-| 690 || SYC || SC || [[ISO 3166-2:SC]]
+| 690 || SYC || SC || [[ISO 3166-2:SC]]**
 |-
 |{{SLE}}
-| 694 || SLE || SL || [[ISO 3166-2:SL]]
+| 694 || SLE || SL || [[ISO 3166-2:SL]]**
 |-
 |{{SGP}}
-| 702 || SGP || SG || [[ISO 3166-2:SG]]
+| 702 || SGP || SG || [[ISO 3166-2:SG]]**
 |-
 |{{SYR}}
-| 760 || SYR || SY || [[ISO 3166-2:SY]]
+| 760 || SYR || SY || [[ISO 3166-2:SY]]**
 |-
 |{{SVK}}
-| 703 || SVK || SK || [[ISO 3166-2:SK]]
+| 703 || SVK || SK || [[ISO 3166-2:SK]]**
 |-
 |{{SVN}}
-| 705 || SVN || SI || [[ISO 3166-2:SI]]
+| 705 || SVN || SI || [[ISO 3166-2:SI]]**
 |-
 |{{SOM}}
-| 706 || SOM || SO || [[ISO 3166-2:SO]]
+| 706 || SOM || SO || [[ISO 3166-2:SO]]**
 |-
 |{{ESP}}
-| 724 || ESP || ES || [[ISO 3166-2:ES]]
+| 724 || ESP || ES || [[ISO 3166-2:ES]]**
 |-
 |{{LKA}}
-| 144 || LKA || LK || [[ISO 3166-2:LK]]
+| 144 || LKA || LK || [[ISO 3166-2:LK]]**
 |-
 |{{USA}}
-| 840 || USA || US || [[ISO 3166-2:US]]
+| 840 || USA || US || [[ISO 3166-2:US]]**
 |-
 |{{ZAF}}
-| 710 || ZAF || ZA || [[ISO 3166-2:ZA]]
+| 710 || ZAF || ZA || [[ISO 3166-2:ZA]]**
 |-
 |{{SDN}}
-| 736 || SDN || SD || [[ISO 3166-2:SD]]
+| 736 || SDN || SD || [[ISO 3166-2:SD]]**
 |-
 |{{SUR}}
-| 740 || SUR || SR || [[ISO 3166-2:SR]]
+| 740 || SUR || SR || [[ISO 3166-2:SR]]**
 |-
 |{{SJM}}
-| 744 || SJM || SJ || [[ISO 3166-2:SJ]]
+| 744 || SJM || SJ || [[ISO 3166-2:SJ]]**
 |-
 |{{SWE}}
-| 752 || SWE || SE || [[ISO 3166-2:SE]]
+| 752 || SWE || SE || [[ISO 3166-2:SE]]**
 |-
 |{{CHE}}
-| 756 || CHE || CH || [[ISO 3166-2:CH]]
+| 756 || CHE || CH || [[ISO 3166-2:CH]]**
 |-
 |{{SWZ}}
-| 748 || SWZ || SZ || [[ISO 3166-2:SZ]]
+| 748 || SWZ || SZ || [[ISO 3166-2:SZ]]**
 |-
 |{{TJK}}
-| 762 || TJK || TJ || [[ISO 3166-2:TJ]]
+| 762 || TJK || TJ || [[ISO 3166-2:TJ]]**
 |-
 |{{TZA}}
-| 834 || TZA || TZ || [[ISO 3166-2:TZ]]
+| 834 || TZA || TZ || [[ISO 3166-2:TZ]]**
 |-
 |{{ATF}}
-| 260 || ATF || TF || [[ISO 3166-2:TF]]
+| 260 || ATF || TF || [[ISO 3166-2:TF]]**
 |-
 |{{IOT}}
-| 086 || IOT || IO || [[ISO 3166-2:IO]]
+| 086 || IOT || IO || [[ISO 3166-2:IO]]**
 |-
 |{{THA}}
-| 764 || THA || TH || [[ISO 3166-2:TH]]
+| 764 || THA || TH || [[ISO 3166-2:TH]]**
 |-
 |{{TLS}}
-| 626 || TLS || TL || [[ISO 3166-2:TL]]
+| 626 || TLS || TL || [[ISO 3166-2:TL]]**
 |-
 |{{TGO}}
-| 768 || TGO || TG || [[ISO 3166-2:TG]]
+| 768 || TGO || TG || [[ISO 3166-2:TG]]**
 |-
 |{{TKL}}
-| 772 || TKL || TK || [[ISO 3166-2:TK]]
+| 772 || TKL || TK || [[ISO 3166-2:TK]]**
 |-
 |{{TON}}
-| 776 || TON || TO || [[ISO 3166-2:TO]]
+| 776 || TON || TO || [[ISO 3166-2:TO]]**
 |-
 |{{TTO}}
-| 780 || TTO || TT || [[ISO 3166-2:TT]]
+| 780 || TTO || TT || [[ISO 3166-2:TT]]**
 |-
 |{{TUN}}
-| 788 || TUN || TN || [[ISO 3166-2:TN]]
+| 788 || TUN || TN || [[ISO 3166-2:TN]]**
 |-
 |{{TUR}}
-| 792 || TUR || TR || [[ISO 3166-2:TR]]
+| 792 || TUR || TR || [[ISO 3166-2:TR]]**
 |-
 |{{TKM}}
-| 795 || TKM || TM || [[ISO 3166-2:TM]]
+| 795 || TKM || TM || [[ISO 3166-2:TM]]**
 |-
 |{{TCA}}
-| 796 || TCA || TC || [[ISO 3166-2:TC]]
+| 796 || TCA || TC || [[ISO 3166-2:TC]]**
 |-
 |{{TUV}}
-| 798 || TUV || TV || [[ISO 3166-2:TV]]
+| 798 || TUV || TV || [[ISO 3166-2:TV]]**
 |-
 |{{UKR}}
-| 804 || UKR || UA || [[ISO 3166-2:UA]]
+| 804 || UKR || UA || [[ISO 3166-2:UA]]**
 |-
 |{{UGA}}
-| 800 || UGA || UG || [[ISO 3166-2:UG]]
+| 800 || UGA || UG || [[ISO 3166-2:UG]]**
 |-
 |{{HUN}}
-| 348 || HUN || HU || [[ISO 3166-2:HU]]
+| 348 || HUN || HU || [[ISO 3166-2:HU]]**
 |-
 |{{URY}}
-| 858 || URY || UY || [[ISO 3166-2:UY]]
+| 858 || URY || UY || [[ISO 3166-2:UY]]**
 |- 
 |{{UZB}}
-| 860 || UZB || UZ || [[ISO 3166-2:UZ]]
+| 860 || UZB || UZ || [[ISO 3166-2:UZ]]**
 |-
 |{{VUT}}
-| 548 || VUT || VU || [[ISO 3166-2:VU]]
+| 548 || VUT || VU || [[ISO 3166-2:VU]]**
 |-
 |{{VEN}}
-| 862 || VEN || VE || [[ISO 3166-2:VE]]
+| 862 || VEN || VE || [[ISO 3166-2:VE]]**
 |- 
 |{{VNM}}
-| 704 || VNM || VN || [[ISO 3166-2:VN]]
+| 704 || VNM || VN || [[ISO 3166-2:VN]]**
 |-
 |{{WLF}}
-| 876 || WLF || WF || [[ISO 3166-2:WF]]
+| 876 || WLF || WF || [[ISO 3166-2:WF]]**
 |-
 |{{YEM}}
-| 887 || YEM || YE || [[ISO 3166-2:YE]]
+| 887 || YEM || YE || [[ISO 3166-2:YE]]**
 |-
 |{{ZMB}}
-| 894 || ZMB || ZM || [[ISO 3166-2:ZM]]
+| 894 || ZMB || ZM || [[ISO 3166-2:ZM]]**
 |-
 |{{ZWE}}
-| 716 || ZWE || ZW || [[ISO 3166-2:ZW]]
+| 716 || ZWE || ZW || [[ISO 3166-2:ZW]]**
 |}
 
 <sup>*</sup>da Tradurre
+<sup>**</sup>da Implementare
 
 == Listë dë lë codecë riservëtë ==
 Suverchië 'a lë codecë assignëtë, stonne otre codecë ca onne statë riservëtë o s'onne fattë vicchië. Le codecë riservëtë sonde codecë ca, purë ca non ge fannë propriamende partë de l'ISO 3166-1, avenénë ausatë pë ote mutivë, pë rennërë combatibbili cu le codecë ISO 3166-1 e dà flessibilità a 'u sistemë. A'u solitë se rëferiscenë a l'organizzazioni ndernaziunëlë e a quacche paisë ret a 'u màrë.
