@@ -1,0 +1,207 @@
+{{torna a|ISO 3166-1}}
+'''ISO 3166-2:BG'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Bulgaria]].
+
+The [[Provinces of Bulgaria|provinces]] (''oblasti'', singular - ''[[oblast]]'') are numbered according to their position in the Bulgarian alphabet.
+
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2007-11-28]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>BG-01</code> E
+| [[Blagoevgrad Province|Blagoevgrad]]
+|-
+! <code>BG-02</code> A
+| [[Burgas Province|Burgas]] 
+|-
+! <code>BG-03</code> B
+| [[Varna Province|Varna]] 
+|-
+! <code>BG-04</code> BT
+| [[Veliko Tarnovo Province|Veliko Tarnovo]] 
+|- 
+! <code>BG-05</code> BH
+| [[Vidin Province|Vidin]] 
+|-
+! <code>BG-06</code> BP
+| [[Vratsa Province|Vratsa]] 
+|-
+! <code>BG-07</code> EB
+| [[Gabrovo Province|Gabrovo]] 
+|-
+! <code>BG-08</code> TX
+| [[Dobrich Province|Dobrich]] 
+|-
+! <code>BG-09</code> K
+| [[Kardzhali Province|Kardzhali]] 
+|-
+! <code>BG-10</code> KH
+| [[Kyustendil Province|Kyustendil]] 
+|-
+! <code>BG-11</code> OB 
+| [[Lovech Province|Lovech]] 
+|-
+! <code>BG-12</code> M
+| [[Montana Province|Montana]] 
+|-
+! <code>BG-13</code> PA
+| [[Pazardzhik Province|Pazardzhik]] 
+|-
+! <code>BG-14</code> PK
+| [[Pernik Province|Pernik]] 
+|-
+! <code>BG-15</code> EH
+| [[Pleven Province|Pleven]] 
+|-
+! <code>BG-16</code> PB
+| [[Plovdiv Province|Plovdiv]] 
+|-
+! <code>BG-17</code> PP
+| [[Razgrad Province|Razgrad]] 
+|-
+! <code>BG-18</code> P
+| [[Ruse Province|Ruse]] 
+|-
+! <code>BG-19</code> CC 
+| [[Silistra Province|Silistra]] 
+|-
+! <code>BG-20</code> CH 
+| [[Sliven Province|Sliven]] 
+|-
+! <code>BG-21</code> CM 
+| [[Smolyan Province|Smolyan]] 
+|-
+! <code>BG-23</code> C
+| [[Sofia]] 
+|-
+! <code>BG-22</code> CO
+| [[Sofia Province]] 
+|-
+! <code>BG-24</code> CT
+| [[Stara Zagora Province|Stara Zagora]] 
+|-
+! <code>BG-25</code> T 
+| [[Targovishte Province|Targovishte]] 
+|-
+! <code>BG-26</code> X
+| [[Haskovo Province|Haskovo]] 
+|-
+! <code>BG-27</code> H
+| [[Shumen Province|Shumen]] 
+|-
+! <code>BG-28</code> Y
+| [[Yambol Province|Yambol]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! [[Blagoevgrad Province|Blagoevgrad]]
+| <code>BG-01</code>
+|-
+! [[Burgas Province|Burgas]] 
+| <code>BG-02</code>
+|-
+! [[Dobrich Province|Dobrich]] 
+| <code>BG-08</code>
+|-
+! [[Gabrovo Province|Gabrovo]] 
+| <code>BG-07</code>
+|-
+! [[Haskovo Province|Haskovo]] 
+| <code>BG-26</code>
+|-
+! [[Kardzhali Province|Kardzhali]] 
+| <code>BG-09</code>
+|-
+! [[Kyustendil Province|Kyustendil]] 
+| <code>BG-10</code>
+|-
+! [[Lovech Province|Lovech]] 
+| <code>BG-11</code>
+|-
+! [[Montana Province|Montana]] 
+| <code>BG-12</code>
+|-
+! [[Pazardzhik Province|Pazardzhik]] 
+| <code>BG-13</code>
+|-
+! [[Pernik Province|Pernik]] 
+| <code>BG-14</code>
+|-
+! [[Pleven Province|Pleven]] 
+| <code>BG-15</code>
+|-
+! [[Plovdiv Province|Plovdiv]] 
+| <code>BG-16</code>
+|-
+! [[Razgrad Province|Razgrad]] 
+| <code>BG-17</code>
+|-
+! [[Ruse Province|Ruse]] 
+| <code>BG-18</code>
+|-
+! [[Shumen Province|Shumen]] 
+| <code>BG-27</code>
+|-
+! [[Silistra Province|Silistra]] 
+| <code>BG-19</code>
+|-
+! [[Sliven Province|Sliven]] 
+| <code>BG-20</code>
+|-
+! [[Smolyan Province|Smolyan]] 
+| <code>BG-21</code>
+|-
+! [[Sofia]] 
+| <code>BG-23</code>
+|-
+! [[Sofia Province]] 
+| <code>BG-22</code>
+|-
+! [[Stara Zagora Province|Stara Zagora]] 
+| <code>BG-24</code>
+|-
+! [[Targovishte Province|Targovishte]] 
+| <code>BG-25</code>
+|-
+! [[Varna Province|Varna]] 
+| <code>BG-03</code>
+|-
+! [[Veliko Tarnovo Province|Veliko Tarnovo]] 
+| <code>BG-04</code>
+|-
+! [[Vidin Province|Vidin]] 
+| <code>BG-05</code>
+|-
+! [[Vratsa Province|Vratsa]] 
+| <code>BG-06</code>
+|-
+! [[Yambol Province|Yambol]]
+| <code>BG-28</code>
+|}
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+[[Category:Sciugrafije d'a Bulgaria]]
+[[Category:ISO 3166|2:BG]]
+
+[[bg:ISO 3166-2:BG]]
+[[cs:ISO 3166-2:BG]]
+[[de:ISO 3166-2:BG]]
+[[el:ISO 3166-2:BG]]
+[[fr:ISO 3166-2:BG]]
+[[it:ISO 3166-2:BG]]
+[[hu:ISO 3166-2:BG]]
+[[sk:ISO 3166-2:BG]]
+[[vi:ISO 3166-2:BG]]
