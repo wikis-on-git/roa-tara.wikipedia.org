@@ -1,0 +1,352 @@
+{{torna a|ISO 3166-1}}
+'''ISO 3166-2:GR'''
+is an [[International Organization for Standardization |ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Greece]].
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+Greece ('''GR''')
+and a 2-alphanumeric-character subcode, hyphenated together.
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>GR-01</code>
+| [[Aetolia-Acarnania]]
+|-
+! <code>GR-03</code>
+| [[Boeotia]]
+|-
+! <code>GR-04</code>
+| [[Euboea]]
+|-
+! <code>GR-05</code>
+| [[Evrytania]]
+|-
+! <code>GR-06</code>
+| [[Phthiotis]]
+|-
+! <code>GR-07</code>
+| [[Phocis]]
+|-
+! <code>GR-11</code>
+| [[Argolis]]
+|-
+! <code>GR-12</code>
+| [[Arcadia]]
+|-
+! <code>GR-13</code>
+| [[Achaea]]
+|-
+! <code>GR-14</code>
+| [[Ilia]]
+|-
+! <code>GR-15</code>
+| [[Corinthia]]
+|-
+! <code>GR-16</code>
+| [[Laconia]]
+|-
+! <code>GR-17</code>
+| [[Messinia]]
+|-
+! <code>GR-21</code>
+| [[Zakynthos]]
+|-
+! <code>GR-22</code>
+| [[Corfu]]
+|-
+! <code>GR-23</code>
+| [[Kefallinia]]
+|-
+! <code>GR-24</code>
+| [[Lefkada]]
+|-
+! <code>GR-31</code>
+| [[Arta Prefecture|Arta]]
+|-
+! <code>GR-32</code>
+| [[Thesprotia]]
+|-
+! <code>GR-33</code>
+| [[Ioannina Prefecture|Ioannina]]
+|-
+! <code>GR-34</code>
+| [[Preveza Prefecture|Preveza]]
+|-
+! <code>GR-41</code>
+| [[Karditsa Prefecture|Karditsa]]
+|-
+! <code>GR-42</code>
+| [[Larissa Prefecture|Larissa]]
+|-
+! <code>GR-43</code>
+| [[Magnesia]]
+|-
+! <code>GR-44</code>
+| [[Trikala Prefecture|Trikala]]
+|-
+! <code>GR-51</code>
+| [[Grevena Prefecture|Grevena]]
+|-
+! <code>GR-52</code>
+| [[Drama Prefecture|Drama]]
+|-
+! <code>GR-53</code>
+| [[Imathia Prefecture|Imathia]]
+|-
+! <code>GR-54</code>
+| [[Thessaloniki Prefecture|Thessaloniki]]
+|-
+! <code>GR-55</code>
+| [[Kavala Prefecture|Kavala]]
+|-
+! <code>GR-56</code>
+| [[Kastoria Prefecture|Kastoria]]
+|-
+! <code>GR-57</code>
+| [[Kilkis Prefecture|Kilkis]]
+|-
+! <code>GR-58</code>
+| [[Kozani Prefecture|Kozani]]
+|-
+! <code>GR-59</code>
+| [[Pella Prefecture|Pella]]
+|-
+! <code>GR-61</code>
+| [[Pieria]]
+|-
+! <code>GR-62</code>
+| [[Serres Prefecture|Serres]]
+|-
+! <code>GR-63</code>
+| [[Florina Prefecture|Florina]]
+|-
+! <code>GR-64</code>
+| [[Chalcidice]]
+|-
+! <code>GR-69</code>
+| [[Mount Athos]]
+|-
+! <code>GR-71</code>
+| [[Evros Prefecture|Evros]]
+|-
+! <code>GR-72</code>
+| [[Xanthi Prefecture|Xanthi]]
+|-
+! <code>GR-73</code>
+| [[Rhodope Prefecture|Rhodope]]
+|-
+! <code>GR-81</code>
+| [[Dodecanese]]
+|-
+! <code>GR-82</code>
+| [[Cyclades]]
+|-
+! <code>GR-83</code>
+| [[Lesbos Prefecture|Lesbos]]
+|-
+! <code>GR-84</code>
+| [[Samos Prefecture|Samos]]
+|-
+! <code>GR-85</code>
+| [[Chios]]
+|-
+! <code>GR-91</code>
+| [[Heraklion]]
+|-
+! <code>GR-92</code>
+| [[Lasithi]]
+|-
+! <code>GR-93</code>
+| [[Rethymno Prefecture|Rethymno]]
+|-
+! <code>GR-94</code>
+| [[Chania Prefecture|Chania]]
+|-
+! <code>GR-A1</code>
+| [[Attica]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | Prefectures
+|-
+! [[Achaea]]
+| <code>GR-13</code>
+|-
+! [[Aetolia-Acarnania]]
+| <code>GR-01</code>
+|-
+! [[Arcadia]]
+| <code>GR-12</code>
+|-
+! [[Argolis]]
+| <code>GR-11</code>
+|-
+! [[Arta Prefecture|Arta]]
+| <code>GR-31</code>
+|-
+! [[Attica]]
+| <code>GR-A1</code>
+|-
+! [[Boeotia]]
+| <code>GR-03</code>
+|-
+! [[Chalcidice]]
+| <code>GR-64</code>
+|-
+! [[Chania Prefecture|Chania]]
+| <code>GR-94</code>
+|-
+! [[Chios]]
+| <code>GR-85</code>
+|-
+! [[Corfu]]
+| <code>GR-22</code>
+|-
+! [[Corinthia]]
+| <code>GR-15</code>
+|-
+! [[Cyclades]]
+| <code>GR-82</code>
+|-
+! [[Dodecanese]]
+| <code>GR-81</code>
+|-
+! [[Drama Prefecture|Drama]]
+| <code>GR-52</code>
+|-
+! [[Euboea]]
+| <code>GR-04</code>
+|-
+! [[Evros Prefecture|Evros]]
+| <code>GR-71</code>
+|-
+! [[Evrytania]]
+| <code>GR-05</code>
+|-
+! [[Florina Prefecture|Florina]]
+| <code>GR-63</code>
+|-
+! [[Grevena Prefecture|Grevena]]
+| <code>GR-51</code>
+|-
+! [[Heraklion]]
+| <code>GR-91</code>
+|-
+! [[Ilia]]
+| <code>GR-14</code>
+|-
+! [[Imathia Prefecture|Imathia]]
+| <code>GR-53</code>
+|-
+! [[Ioannina Prefecture|Ioannina]]
+| <code>GR-33</code>
+|-
+! [[Karditsa Prefecture|Karditsa]]
+| <code>GR-41</code>
+|-
+! [[Kastoria Prefecture|Kastoria]]
+| <code>GR-56</code>
+|-
+! [[Kavala Prefecture|Kavala]]
+| <code>GR-55</code>
+|-
+! [[Kefallinia]]
+| <code>GR-23</code>
+|-
+! [[Kilkis Prefecture|Kilkis]]
+| <code>GR-57</code>
+|-
+! [[Kozani Prefecture|Kozani]]
+| <code>GR-58</code>
+|-
+! [[Laconia]]
+| <code>GR-16</code>
+|-
+! [[Larissa Prefecture|Larissa]]
+| <code>GR-42</code>
+|-
+! [[Lasithi]]
+| <code>GR-92</code>
+|-
+! [[Lefkada]]
+| <code>GR-24</code>
+|-
+! [[Lesbos Prefecture|Lesbos]]
+| <code>GR-83</code>
+|-
+! [[Magnesia]]
+| <code>GR-43</code>
+|-
+! [[Messinia]]
+| <code>GR-17</code>
+|-
+! [[Pella]]
+| <code>GR-59</code>
+|-
+! [[Phocis]]
+| <code>GR-07</code>
+|-
+! [[Phthiotis]]
+| <code>GR-06</code>
+|-
+! [[Pieria]]
+| <code>GR-61</code>
+|-
+! [[Preveza Prefecture|Preveza]]
+| <code>GR-34</code>
+|-
+! [[Rethymno Prefecture|Rethymno]]
+| <code>GR-93</code>
+|-
+! [[Rhodope Prefecture|Rhodope]]
+| <code>GR-73</code>
+|-
+! [[Samos Prefecture|Samos]]
+| <code>GR-84</code>
+|-
+! [[Serres Prefecture|Serres]]
+| <code>GR-62</code>
+|-
+! [[Thesprotia]]
+| <code>GR-32</code>
+|-
+! [[Thessaloniki Prefecture|Thessaloniki]]
+| <code>GR-54</code>
+|-
+! [[Trikala Prefecture|Trikala]]
+| <code>GR-44</code>
+|-
+! [[Xanthi Prefecture|Xanthi]]
+| <code>GR-72</code>
+|-
+! [[Zakynthos]]
+| <code>GR-21</code>
+|-
+! colspan="2" style="background-color:silver;" | Autonomous Region
+|-
+! [[Mount Athos]]
+| <code>GR-69</code>
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Prefectures of Greece]]
+[[Category:Geography of Greece]]
+[[Category:ISO 3166|2:GR]]
+
+[[cs:ISO 3166-2:GR]]
+[[de:ISO 3166-2:GR]]
+[[el:ISO 3166-2:GR]]
+[[fr:ISO 3166-2:GR]]
+[[it:ISO 3166-2:GR]]
+[[ja:ISO 3166-2:GR]]
+[[sk:ISO 3166-2:GR]]
