@@ -1,0 +1,1530 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:GB''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to the [[United Kingdom]].
+
+The codes correspond to the [[Subdivisions of the United Kingdom|administrative divisions of the UK]]:
+*[[England]]
+** 34 [[Counties of England|counties]] with [[county council]]s (all [[shire county|shire counties]] excluding [[Berkshire]])
+** 32 [[London borough]]s
+** 36 [[Metropolitan borough]]s
+** 47 [[Unitary authority|unitary authorities]] (including the [[Isles of Scilly]])
+** 1 city corporation (the [[City of London]])
+*[[Northern Ireland]]
+** 26 [[Subdivisions of Northern Ireland|district council areas]]
+*[[Scotland]]
+** 32 [[Council Areas of Scotland|council areas]]
+*[[Wales]]
+** 22 [[Unitary Authorities of Wales|unitary authorities]]
+The [[Channel Islands]] and the [[Isle of Man]] are not part of the UK, but ISO offers codes for them under "GB-".
+
+The first part of each code is the [[ISO 3166-1]] code GB for the United Kingdom, and the second part is a three-letter code, which is the same as in the [[British Standard]] BS 6879.
+
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2007-04-17]] - for the United Kingdom, redesignated "special area" as "city corporation".
+* [[ISO 3166-2:2007-11-28]] - for the United Kingdom, modified the administrative structure.
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>GB-ABD</code>
+| [[Aberdeenshire (unitary)|Aberdeenshire]]
+|-
+! <code>GB-ABE</code>
+| [[City of Aberdeen|Aberdeen]]
+|-
+! <code>GB-AGB</code>
+| [[Argyll and Bute]]
+|-
+! <code>GB-AGY</code>
+| [[Anglesey|Isle of Anglesey]]
+|-
+! <code>GB-ANS</code>
+| [[Angus]]
+|-
+! <code>GB-ANT</code>
+| [[County Antrim|Antrim]]
+|-
+! <code>GB-ARD</code>
+| [[Ards Borough Council|Ards]]
+|-
+! <code>GB-ARM</code>
+| [[Armagh]]
+|-
+! <code>GB-BAS</code>
+| [[Bath and North East Somerset]] (unitary authority)
+|-
+! <code>GB-BBD</code>
+| [[Blackburn with Darwen]]  (unitary authority)
+|-
+! <code>GB-BDF</code>
+| [[Bedfordshire]] (county)
+|-
+! <code>GB-BDG</code>
+| [[London Borough of Barking and Dagenham|Barking and Dagenham]] (London borough)
+|-
+! <code>GB-BEN</code>
+| [[London Borough of Brent|Brent]] (London borough)
+|-
+! <code>GB-BEX</code>
+| [[London Borough of Bexley|Bexley]] (London borough)
+|-
+! <code>GB-BFS</code>
+| [[Belfast]]
+|-
+! <code>GB-BGE</code>
+| [[Bridgend (county borough)|Bridgend]]
+|-
+! <code>GB-BGW</code>
+| [[Blaenau Gwent]] 
+|-
+! <code>GB-BIR</code>
+| [[Birmingham]] (West Midlands district)
+|-
+! <code>GB-BKM</code>
+| [[Buckinghamshire]] (county)
+|-
+! <code>GB-BLA</code>
+| [[Ballymena]]
+|-
+! <code>GB-BLY</code>
+| [[Ballymoney]]
+|-
+! <code>GB-BMH</code>
+| [[Bournemouth]] (unitary authority)
+|-
+! <code>GB-BNB</code>
+| [[Banbridge]]
+|-
+! <code>GB-BNE</code>
+| [[London Borough of Barnet|Barnet]] (London borough)
+|-
+! <code>GB-BNH</code>
+| [[Brighton and Hove]] (unitary authority)
+|-
+! <code>GB-BNS</code>
+| [[Barnsley (borough)|Barnsley]] (South Yorkshire district)
+|-
+! <code>GB-BOL</code>
+| [[Bolton (borough)|Bolton]] (Greater Manchester district)
+|-
+! <code>GB-BPL</code>
+| [[Blackpool]] (unitary authority)
+|-
+! <code>GB-BRC</code>
+| [[Bracknell Forest]] (unitary authority)
+|-
+! <code>GB-BRD</code>
+| [[Bradford, England|Bradford]] (West Yorkshire district)
+|-
+! <code>GB-BRY</code>
+| [[London Borough of Bromley|Bromley]] (London borough)
+|-
+! <code>GB-BST</code>
+| [[Bristol]], City of (unitary authority)
+|-
+! <code>GB-BUR</code>
+| [[Bury (borough)|Bury]] (Greater Manchester district)
+|-
+! <code>GB-CAM</code>
+| [[Cambridgeshire]] (county)
+|-
+! <code>GB-CAY</code>
+| [[Caerphilly (county borough)|Caerphilly]]
+|-
+! <code>GB-CGN</code>
+| [[Ceredigion]]
+|-
+! <code>GB-CGV</code>
+| [[Craigavon]]
+|-
+! <code>GB-CHS</code>
+| [[Cheshire]] (county)
+|-
+! <code>GB-CKF</code>
+| [[Carrickfergus]]
+|-
+! <code>GB-CKT</code>
+| [[Cookstown]]
+|-
+! <code>GB-CLD</code>
+| [[Calderdale]] (West Yorkshire district)
+|-
+! <code>GB-CLK</code>
+| [[Clackmannanshire]]
+|-
+! <code>GB-CLR</code>
+| [[Coleraine]]
+|-
+! <code>GB-CMA</code>
+| [[Cumbria]] (county)
+|-
+! <code>GB-CMD</code>
+| [[London Borough of Camden|Camden]] (London borough)
+|-
+! <code>GB-CMN</code>
+| [[Carmarthenshire]]
+|-
+! <code>GB-CON</code>
+| [[Cornwall]] (county)
+|-
+! <code>GB-COV</code>
+| [[Coventry]] (West Midlands district)
+|-
+! <code>GB-CRF</code>
+| [[Cardiff]]
+|-
+! <code>GB-CRY</code>
+| [[London Borough of Croydon|Croydon]] (London borough)
+|-
+! <code>GB-CSR</code>
+| [[Castlereagh Borough Council|Castlereagh]]
+|-
+! <code>GB-CWY</code>
+| [[Conwy (county borough)|Conwy]]
+|-
+! <code>GB-DAL</code>
+| [[Darlington]] (unitary authority)
+|-
+! <code>GB-DBY</code>
+| [[Derbyshire]] (county)
+|-
+! <code>GB-DEN</code>
+| [[Denbighshire]]
+|-
+! <code>GB-DER</code>
+| [[Derby, England|Derby]] (unitary authority)
+|-
+! <code>GB-DEV</code>
+| [[Devon]] (county)
+|-
+! <code>GB-DGN</code>
+| [[Dungannon and South Tyrone]]
+|-
+! <code>GB-DGY</code>
+| [[Dumfries and Galloway]]
+|-
+! <code>GB-DNC</code>
+| [[Doncaster (borough)|Doncaster]] (South Yorkshire district)
+|-
+! <code>GB-DND</code>
+| [[City of Dundee|Dundee]]
+|-
+! <code>GB-DOR</code>
+| [[Dorset]] (county)
+|-
+! <code>GB-DOW</code>
+| [[Down]]
+|-
+! <code>GB-DRY</code>
+| [[Derry]]
+|-
+! <code>GB-DUD</code>
+| [[Dudley (borough)|Dudley]] (West Midlands district)
+|-
+! <code>GB-DUR</code>
+| [[County Durham|Durham]] (county)
+|-
+! <code>GB-EAL</code>
+| [[London Borough of Ealing|Ealing]] (London borough)
+|-
+! <code>GB-EAY</code>
+| [[East Ayrshire]]
+|-
+! <code>GB-EDH</code>
+| [[City of Edinburgh|Edinburgh]]
+|-
+! <code>GB-EDU</code>
+| [[East Dunbartonshire]]
+|-
+! <code>GB-ELN</code>
+| [[East Lothian]]
+|-
+! <code>GB-ELS</code>
+| [[Eilean Siar]]
+|-
+! <code>GB-ENF</code>
+| [[London Borough of Enfield|Enfield]] (London borough)
+|-
+! <code>GB-ERW</code>
+| [[East Renfrewshire]]
+|-
+! <code>GB-ERY</code>
+| [[East Riding of Yorkshire]] (unitary authority)
+|-
+! <code>GB-ESS</code>
+| [[Essex, England|Essex]] (county)
+|-
+! <code>GB-ESX</code>
+| [[East Sussex]] (county)
+|-
+! <code>GB-FAL</code>
+| [[Falkirk]]
+|-
+! <code>GB-FER</code>
+| [[Fermanagh (district)|Fermanagh]]
+|-
+! <code>GB-FIF</code>
+| [[Fife]]
+|-
+! <code>GB-FLN</code>
+| [[Flintshire]]
+|-
+! <code>GB-GAT</code>
+| [[Gateshead (borough)|Gateshead]] (Tyne & Wear district)
+|-
+! <code>GB-GLG</code>
+| [[City of Glasgow|Glasgow]] 
+|-
+! <code>GB-GLS</code>
+| [[Gloucestershire]] (county)
+|-
+! <code>GB-GRE</code>
+| [[London Borough of Greenwich|Greenwich]] (London borough)
+|-
+! <code>GB-GSY</code>
+| [[Guernsey]]
+|-
+! <code>GB-GWN</code>
+| [[Gwynedd]]
+|-
+! <code>GB-HAL</code>
+| [[Halton (borough)|Halton]] (unitary authority)
+|-
+! <code>GB-HAM</code>
+| [[Hampshire]] (county)
+|-
+! <code>GB-HAV</code>
+| [[London Borough of Havering|Havering]] (London borough)
+|-
+! <code>GB-HCK</code>
+| [[London Borough of Hackney|Hackney]] (London borough)
+|-
+! <code>GB-HEF</code>
+| [[Herefordshire]], County of (unitary authority)
+|-
+! <code>GB-HIL</code>
+| [[London Borough of Hillingdon|Hillingdon]] (London borough)
+|-
+! <code>GB-HLD</code>
+| [[Highland (council area)|Highland]]
+|-
+! <code>GB-HMF</code>
+| [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] (London borough)
+|-
+! <code>GB-HNS</code>
+| [[London Borough of Hounslow|Hounslow]] (London borough)
+|-
+! <code>GB-HPL</code>
+| [[Hartlepool]]  (unitary authority)
+|-
+! <code>GB-HRT</code>
+| [[Hertfordshire]] (county)
+|-
+! <code>GB-HRW</code>
+| [[London Borough of Harrow|Harrow]] (London borough)
+|-
+! <code>GB-HRY</code>
+| [[London Borough of Haringey|Haringey]] (London borough)
+|-
+! <code>GB-IOS</code>
+| [[Isles of Scilly]] (unitary authority)
+|-
+! <code>GB-IOW</code>
+| [[Isle of Wight]] (unitary authority)
+|-
+! <code>GB-ISL</code>
+| [[London Borough of Islington|Islington]] (London borough)
+|-
+! <code>GB-IVC</code>
+| [[Inverclyde]]
+|-
+! <code>GB-JSY</code>
+| [[Jersey]]
+|-
+! <code>GB-KEC</code>
+| [[London Borough of Kensington and Chelsea|Kensington and Chelsea]] (London borough)
+|-
+! <code>GB-KEN</code>
+| [[Kent]] (county)
+|-
+! <code>GB-KHL</code>
+| [[Kingston upon Hull]], City of (unitary authority)
+|-
+! <code>GB-KIR</code>
+| [[Kirklees]] (West Yorkshire district)
+|-
+! <code>GB-KTT</code>
+| [[Royal Borough of Kingston upon Thames|Kingston upon Thames]] (London borough)
+|-
+! <code>GB-KWL</code>
+| [[Knowsley (borough)|Knowsley]] (Merseyside district)
+|-
+! <code>GB-LAN</code>
+| [[Lancashire]] (county)
+|-
+! <code>GB-LBH</code>
+| [[London Borough of Lambeth|Lambeth]] (London borough)
+|-
+! <code>GB-LCE</code>
+| [[Leicester]] (unitary authority)
+|-
+! <code>GB-LDS</code>
+| [[City of Leeds|Leeds]] (West Yorkshire district)
+|-
+! <code>GB-LEC</code>
+| [[Leicestershire]] (county)
+|-
+! <code>GB-LEW</code>
+| [[London Borough of Lewisham|Lewisham]] (London borough)
+|-
+! <code>GB-LIN</code>
+| [[Lincolnshire]] (county)
+|-
+! <code>GB-LIV</code>
+| [[Liverpool]] (Merseyside district)
+|-
+! <code>GB-LMV</code>
+| [[Limavady]]
+|-
+! <code>GB-LND</code>
+| [[City of London|London, City of]] (city corporation)
+|-
+! <code>GB-LRN</code>
+| [[Larne]]
+|-
+! <code>GB-LSB</code>
+| [[Lisburn]]
+|-
+! <code>GB-LUT</code>
+| [[Luton]] (unitary authority)
+|-
+! <code>GB-MAN</code>
+| [[Manchester]] (Greater Manchester district)
+|-
+! <code>GB-MDB</code>
+| [[Middlesbrough]] (unitary authority)
+|-
+! <code>GB-MDW</code>
+| [[Medway]] (unitary authority)
+|-
+! <code>GB-MFT</code>
+| [[Magherafelt]]
+|-
+! <code>GB-MIK</code>
+| [[Milton Keynes (borough)|Milton Keynes]] (unitary authority)
+|-
+! <code>GB-MLN</code>
+| [[Midlothian]]
+|-
+! <code>GB-MON</code>
+| [[Monmouthshire]]
+|-
+! <code>GB-MRT</code>
+| [[London Borough of Merton|Merton]] (London borough)
+|-
+! <code>GB-MRY</code>
+| [[Moray]]
+|-
+! <code>GB-MTY</code>
+| [[Merthyr Tydfil]]
+|-
+! <code>GB-MYL</code>
+| [[Moyle]]
+|-
+! <code>GB-NAY</code>
+| [[North Ayrshire]]
+|-
+! <code>GB-NBL</code>
+| [[Northumberland]] (county)
+|-
+! <code>GB-NDN</code>
+| [[North Down Borough Council|North Down]]
+|-
+! <code>GB-NEL</code>
+| [[North East Lincolnshire]] (unitary authority)
+|-
+! <code>GB-NET</code>
+| [[Newcastle upon Tyne]] (Tyne & Wear district)
+|-
+! <code>GB-NFK</code>
+| [[Norfolk]] (county)
+|-
+! <code>GB-NGM</code>
+| [[Nottingham]] (unitary authority)
+|-
+! <code>GB-NLK</code>
+| [[North Lanarkshire]]
+|-
+! <code>GB-NLN</code>
+| [[North Lincolnshire]]  (unitary authority)
+|-
+! <code>GB-NSM</code>
+| [[North Somerset]] (unitary authority)
+|-
+! <code>GB-NTA</code>
+| [[Newtownabbey]]
+|-
+! <code>GB-NTH</code>
+| [[Northamptonshire]] (county)
+|-
+! <code>GB-NTL</code>
+| [[Neath Port Talbot]]
+|-
+! <code>GB-NTT</code>
+| [[Nottinghamshire]] (county)
+|-
+! <code>GB-NTY</code>
+| [[North Tyneside]] (Tyne & Wear district)
+|-
+! <code>GB-NWM</code>
+| [[London Borough of Newham|Newham]] (London borough)
+|-
+! <code>GB-NWP</code>
+| [[Newport]]
+|-
+! <code>GB-NYK</code>
+| [[North Yorkshire]] (county)
+|-
+! <code>GB-NYM</code>
+| [[Newry and Mourne]]
+|-
+! <code>GB-OLD</code>
+| [[Oldham (borough)|Oldham]] (Greater Manchester district)
+|-
+! <code>GB-OMH</code>
+| [[Omagh]]
+|-
+! <code>GB-ORK</code>
+| [[Orkney Islands]]
+|-
+! <code>GB-OXF</code>
+| [[Oxfordshire]] (county)
+|-
+! <code>GB-PEM</code>
+| [[Pembrokeshire]]
+|-
+! <code>GB-PKN</code>
+| [[Perth and Kinross]]
+|-
+! <code>GB-PLY</code>
+| [[Plymouth]] (unitary authority)
+|-
+! <code>GB-POL</code>
+| [[Poole]] (unitary authority)
+|-
+! <code>GB-POR</code>
+| [[Portsmouth]] (unitary authority)
+|-
+! <code>GB-POW</code>
+| [[Powys]]
+|-
+! <code>GB-PTE</code>
+| [[City of Peterborough|Peterborough]] (unitary authority)
+|-
+! <code>GB-RCC</code>
+| [[Redcar and Cleveland]] (unitary authority)
+|-
+! <code>GB-RCH</code>
+| [[Rochdale (borough)|Rochdale]] (Greater Manchester district)
+|-
+! <code>GB-RCT</code>
+| [[Rhondda Cynon Taf]]
+|-
+! <code>GB-RDB</code>
+| [[London Borough of Redbridge|Redbridge]] (London borough)
+|-
+! <code>GB-RDG</code>
+| [[Reading, Berkshire|Reading]] (unitary authority)
+|-
+! <code>GB-RFW</code>
+| [[Renfrewshire]]
+|-
+! <code>GB-RIC</code>
+| [[London Borough of Richmond upon Thames|Richmond upon Thames]] (London borough)
+|-
+! <code>GB-ROT</code>
+| [[Rotherham (borough)|Rotherham]] (South Yorkshire district)
+|-
+! <code>GB-RUT</code>
+| [[Rutland]] (unitary authority)
+|-
+! <code>GB-SAW</code>
+| [[Sandwell]] (West Midlands district)
+|-
+! <code>GB-SAY</code>
+| [[South Ayrshire]]
+|-
+! <code>GB-SCB</code>
+| [[Scottish Borders]], The 
+|-
+! <code>GB-SFK</code>
+| [[Suffolk]] (county)
+|-
+! <code>GB-SFT</code>
+| [[Sefton]]  (Merseyside district)
+|-
+! <code>GB-SGC</code>
+| [[South Gloucestershire]] (unitary authority)
+|-
+! <code>GB-SHF</code>
+| [[City of Sheffield|Sheffield]] (South Yorkshire district)
+|-
+! <code>GB-SHN</code>
+| [[St Helens (borough)|St Helens]] (Merseyside district)
+|-
+! <code>GB-SHR</code>
+| [[Shropshire]] (county)
+|-
+! <code>GB-SKP</code>
+| [[Stockport]] (Greater Manchester district)
+|-
+! <code>GB-SLF</code>
+| [[City of Salford|Salford]] (Greater Manchester district)
+|-
+! <code>GB-SLG</code>
+| [[Slough]] (unitary authority)
+|-
+! <code>GB-SLK</code>
+| [[South Lanarkshire]]
+|-
+! <code>GB-SND</code>
+| [[City of Sunderland|Sunderland]] (Tyne & Wear district)
+|-
+! <code>GB-SOL</code>
+| [[Solihull (borough)|Solihull]] (West Midlands district)
+|-
+! <code>GB-SOM</code>
+| [[Somerset]] (county)
+|-
+! <code>GB-SOS</code>
+| [[Southend-on-Sea]] (unitary authority)
+|-
+! <code>GB-SRY</code>
+| [[Surrey]] (county)
+|-
+! <code>GB-STB</code>
+| [[Strabane]]
+|-
+! <code>GB-STE</code>
+| [[Stoke-on-Trent]] (unitary authority)
+|-
+! <code>GB-STG</code>
+| [[Stirling]]
+|-
+! <code>GB-STH</code>
+| [[Southampton]] (unitary authority)
+|-
+! <code>GB-STN</code>
+| [[London Borough of Sutton|Sutton]] (London borough)
+|-
+! <code>GB-STS</code>
+| [[Staffordshire]] (county)
+|-
+! <code>GB-STT</code>
+| [[Stockton-on-Tees (borough)|Stockton-on-Tees]] (unitary authority)
+|-
+! <code>GB-STY</code>
+| [[South Tyneside]] (Tyne & Wear district)
+|-
+! <code>GB-SWA</code>
+| [[Swansea]]
+|-
+! <code>GB-SWD</code>
+| [[Swindon (borough)|Swindon]] (unitary authority)
+|-
+! <code>GB-SWK</code>
+| [[London Borough of Southwark|Southwark]] (London borough)
+|-
+! <code>GB-TAM</code>
+| [[Tameside]] (Greater Manchester district)
+|-
+! <code>GB-TFW</code>
+| [[Telford and Wrekin]] (unitary authority)
+|-
+! <code>GB-THR</code>
+| [[Thurrock]] (unitary authority)
+|-
+! <code>GB-TOB</code>
+| [[Torbay]] (unitary authority)
+|-
+! <code>GB-TOF</code>
+| [[Torfaen]]
+|-
+! <code>GB-TRF</code>
+| [[Trafford]] (Greater Manchester district)
+|-
+! <code>GB-TWH</code>
+| [[London Borough of Tower Hamlets|Tower Hamlets]] (London borough)
+|-
+! <code>GB-VGL</code>
+| [[Vale of Glamorgan]]
+|-
+! <code>GB-WAR</code>
+| [[Warwickshire]] (county)
+|-
+! <code>GB-WBK</code>
+| [[West Berkshire]] (unitary authority)
+|-
+! <code>GB-WDU</code>
+| [[West Dunbartonshire]]
+|-
+! <code>GB-WFT</code>
+| [[London Borough of Waltham Forest|Waltham Forest]] (London borough)
+|-
+! <code>GB-WGN</code>
+| [[Wigan (borough)|Wigan]] (Greater Manchester district)
+|-
+! <code>GB-WIL</code>
+| [[Wiltshire]] (county)
+|-
+! <code>GB-WKF</code>
+| [[City of Wakefield|Wakefield]] (West Yorkshire district)
+|-
+! <code>GB-WLL</code>
+| [[Walsall (borough)|Walsall]] (West Midlands district)
+|-
+! <code>GB-WLN</code>
+| [[West Lothian]]
+|-
+! <code>GB-WLV</code>
+| [[Wolverhampton]] (West Midlands district)
+|-
+! <code>GB-WND</code>
+| [[London Borough of Wandsworth|Wandsworth]] (London borough)
+|-
+! <code>GB-WNM</code>
+| [[Windsor and Maidenhead]] (unitary authority)
+|-
+! <code>GB-WOK</code>
+| [[Wokingham (district)|Wokingham]] (unitary authority)
+|-
+! <code>GB-WOR</code>
+| [[Worcestershire]] (county)
+|-
+! <code>GB-WRL</code>
+| [[Wirral (borough)|Wirral]] (Merseyside district)
+|-
+! <code>GB-WRT</code>
+| [[Warrington]] (unitary authority)
+|-
+! <code>GB-WRX</code>
+| [[Wrexham (county borough)|Wrexham]]
+|-
+! <code>GB-WSM</code>
+| [[City of Westminster|Westminster]] (London borough)
+|-
+! <code>GB-WSX</code>
+| [[West Sussex]] (county)
+|-
+! <code>GB-YOR</code>
+| [[York]] (unitary authority)
+|-
+! <code>GB-ZET</code>
+| [[Shetland Islands]] 
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | England
+|-
+! [[London Borough of Barking and Dagenham|Barking and Dagenham]] (London borough)
+| <code>GB-BDG</code>
+|-
+! [[London Borough of Barnet|Barnet]] (London borough)
+| <code>GB-BNE</code>
+|-
+! [[Barnsley (borough)|Barnsley]] (South Yorkshire district)
+| <code>GB-BNS</code>
+|-
+! [[Bath and North East Somerset]] (unitary authority)
+| <code>GB-BAS</code>
+|-
+! [[Bedfordshire]] (county)
+| <code>GB-BDF</code>
+|-
+! [[London Borough of Bexley|Bexley]] (London borough)
+| <code>GB-BEX</code>
+|-
+! [[Birmingham]] (West Midlands district)
+| <code>GB-BIR</code>
+|-
+! [[Blackburn with Darwen]]  (unitary authority)
+| <code>GB-BBD</code>
+|-
+! [[Blackpool]] (unitary authority)
+| <code>GB-BPL</code>
+|-
+! [[Bolton (borough)|Bolton]] (Greater Manchester district)
+| <code>GB-BOL</code>
+|-
+! [[Bournemouth]] (unitary authority)
+| <code>GB-BMH</code>
+|-
+! [[Bracknell Forest]] (unitary authority)
+| <code>GB-BRC</code>
+|-
+! [[Bradford, England|Bradford]] (West Yorkshire district)
+| <code>GB-BRD</code>
+|-
+! [[London Borough of Brent|Brent]] (London borough)
+| <code>GB-BEN</code>
+|-
+! [[Brighton and Hove]] (unitary authority)
+| <code>GB-BNH</code>
+|-
+! [[Bristol]], City of (unitary authority)
+| <code>GB-BST</code>
+|-
+! [[London Borough of Bromley|Bromley]] (London borough)
+| <code>GB-BRY</code>
+|-
+! [[Buckinghamshire]] (county)
+| <code>GB-BKM</code>
+|-
+! [[Bury (borough)|Bury]] (Greater Manchester district)
+| <code>GB-BUR</code>
+|-
+! [[Calderdale]] (West Yorkshire district)
+| <code>GB-CLD</code>
+|-
+! [[Cambridgeshire]] (county)
+| <code>GB-CAM</code>
+|-
+! [[London Borough of Camden|Camden]] (London borough)
+| <code>GB-CMD</code>
+|-
+! [[Cheshire]] (county)
+| <code>GB-CHS</code>
+|-
+! [[Cornwall]] (county)
+| <code>GB-CON</code>
+|-
+! [[Coventry]] (West Midlands district)
+| <code>GB-COV</code>
+|-
+! [[London Borough of Croydon|Croydon]] (London borough)
+| <code>GB-CRY</code>
+|-
+! [[Cumbria]] (county)
+| <code>GB-CMA</code>
+|-
+! [[Darlington]] (unitary authority)
+| <code>GB-DAL</code>
+|-
+! [[Derby, England|Derby]] (unitary authority)
+| <code>GB-DER</code>
+|-
+! [[Derbyshire]] (county)
+| <code>GB-DBY</code>
+|-
+! [[Devon]] (county)
+| <code>GB-DEV</code>
+|-
+! [[Doncaster (borough)|Doncaster]] (South Yorkshire district)
+| <code>GB-DNC</code>
+|-
+! [[Dorset]] (county)
+| <code>GB-DOR</code>
+|-
+! [[Dudley (borough)|Dudley]] (West Midlands district)
+| <code>GB-DUD</code>
+|-
+! [[County Durham|Durham]] (county)
+| <code>GB-DUR</code>
+|-
+! [[London Borough of Ealing|Ealing]] (London borough)
+| <code>GB-EAL</code>
+|-
+! [[East Riding of Yorkshire]] (unitary authority)
+| <code>GB-ERY</code>
+|-
+! [[East Sussex]] (county)
+| <code>GB-ESX</code>
+|-
+! [[London Borough of Enfield|Enfield]] (London borough)
+| <code>GB-ENF</code>
+|-
+! [[Essex, England|Essex]] (county)
+| <code>GB-ESS</code>
+|-
+! [[Gateshead (borough)|Gateshead]] (Tyne & Wear district)
+| <code>GB-GAT</code>
+|-
+! [[Gloucestershire]] (county)
+| <code>GB-GLS</code>
+|-
+! [[London Borough of Greenwich|Greenwich]] (London borough)
+| <code>GB-GRE</code>
+|-
+! [[London Borough of Hackney|Hackney]] (London borough)
+| <code>GB-HCK</code>
+|-
+! [[Halton (borough)|Halton]] (unitary authority)
+| <code>GB-HAL</code>
+|-
+! [[London Borough of Hammersmith and Fulham|Hammersmith and Fulham]] (London borough)
+| <code>GB-HMF</code>
+|-
+! [[Hampshire]] (county)
+| <code>GB-HAM</code>
+|-
+! [[London Borough of Haringey|Haringey]] (London borough)
+| <code>GB-HRY</code>
+|-
+! [[London Borough of Harrow|Harrow]] (London borough)
+| <code>GB-HRW</code>
+|-
+! [[Hartlepool]]  (unitary authority)
+| <code>GB-HPL</code>
+|-
+! [[London Borough of Havering|Havering]] (London borough)
+| <code>GB-HAV</code>
+|-
+! [[Herefordshire]], County of (unitary authority)
+| <code>GB-HEF</code>
+|-
+! [[Hertfordshire]] (county)
+| <code>GB-HRT</code>
+|-
+! [[London Borough of Hillingdon|Hillingdon]] (London borough)
+| <code>GB-HIL</code>
+|-
+! [[London Borough of Hounslow|Hounslow]] (London borough)
+| <code>GB-HNS</code>
+|-
+! [[Isle of Wight]] (unitary authority)
+| <code>GB-IOW</code>
+|-
+! [[Isles of Scilly]] (unitary authority)
+| <code>GB-IOS</code>
+|-
+! [[London Borough of Islington|Islington]] (London borough)
+| <code>GB-ISL</code>
+|-
+! [[London Borough of Kensington and Chelsea|Kensington and Chelsea]] (London borough)
+| <code>GB-KEC</code>
+|-
+! [[Kent]] (county)
+| <code>GB-KEN</code>
+|-
+! [[Kingston upon Hull]], City of (unitary authority)
+| <code>GB-KHL</code>
+|-
+! [[Royal Borough of Kingston upon Thames|Kingston upon Thames]] (London borough)
+| <code>GB-KTT</code>
+|-
+! [[Kirklees]] (West Yorkshire district)
+| <code>GB-KIR</code>
+|-
+! [[Knowsley (borough)|Knowsley]] (Merseyside district)
+| <code>GB-KWL</code>
+|-
+! [[London Borough of Lambeth|Lambeth]] (London borough)
+| <code>GB-LBH</code>
+|-
+! [[Lancashire]] (county)
+| <code>GB-LAN</code>
+|-
+! [[City of Leeds|Leeds]] (West Yorkshire district)
+| <code>GB-LDS</code>
+|-
+! [[Leicester]] (unitary authority)
+| <code>GB-LCE</code>
+|-
+! [[Leicestershire]] (county)
+| <code>GB-LEC</code>
+|-
+! [[London Borough of Lewisham|Lewisham]] (London borough)
+| <code>GB-LEW</code>
+|-
+! [[Lincolnshire]] (county)
+| <code>GB-LIN</code>
+|-
+! [[Liverpool]] (Merseyside district)
+| <code>GB-LIV</code>
+|-
+! [[City of London|London, City of]] (city corporation)
+| <code>GB-LND</code>
+|-
+! [[Luton]] (unitary authority)
+| <code>GB-LUT</code>
+|-
+! [[Manchester]] (Greater Manchester district)
+| <code>GB-MAN</code>
+|-
+! [[Medway]] (unitary authority)
+| <code>GB-MDW</code>
+|-
+! [[London Borough of Merton|Merton]] (London borough)
+| <code>GB-MRT</code>
+|-
+! [[Middlesbrough]] (unitary authority)
+| <code>GB-MDB</code>
+|-
+! [[Milton Keynes (borough)|Milton Keynes]] (unitary authority)
+| <code>GB-MIK</code>
+|-
+! [[Newcastle upon Tyne]] (Tyne & Wear district)
+| <code>GB-NET</code>
+|-
+! [[London Borough of Newham|Newham]] (London borough)
+| <code>GB-NWM</code>
+|-
+! [[Norfolk]] (county)
+| <code>GB-NFK</code>
+|-
+! [[North East Lincolnshire]] (unitary authority)
+| <code>GB-NEL</code>
+|-
+! [[North Lincolnshire]]  (unitary authority)
+| <code>GB-NLN</code>
+|-
+! [[North Somerset]] (unitary authority)
+| <code>GB-NSM</code>
+|-
+! [[North Tyneside]] (Tyne & Wear district)
+| <code>GB-NTY</code>
+|-
+! [[North Yorkshire]] (county)
+| <code>GB-NYK</code>
+|-
+! [[Northamptonshire]] (county)
+| <code>GB-NTH</code>
+|-
+! [[Northumberland]] (county)
+| <code>GB-NBL</code>
+|-
+! [[Nottingham]] (unitary authority)
+| <code>GB-NGM</code>
+|-
+! [[Nottinghamshire]] (county)
+| <code>GB-NTT</code>
+|-
+! [[Oldham (borough)|Oldham]] (Greater Manchester district)
+| <code>GB-OLD</code>
+|-
+! [[Oxfordshire]] (county)
+| <code>GB-OXF</code>
+|-
+! [[City of Peterborough|Peterborough]] (unitary authority)
+| <code>GB-PTE</code>
+|-
+! [[Plymouth]] (unitary authority)
+| <code>GB-PLY</code>
+|-
+! [[Poole]] (unitary authority)
+| <code>GB-POL</code>
+|-
+! [[Portsmouth]] (unitary authority)
+| <code>GB-POR</code>
+|-
+! [[Reading, Berkshire|Reading]] (unitary authority)
+| <code>GB-RDG</code>
+|-
+! [[London Borough of Redbridge|Redbridge]] (London borough)
+| <code>GB-RDB</code>
+|-
+! [[Redcar and Cleveland]] (unitary authority)
+| <code>GB-RCC</code>
+|-
+! [[London Borough of Richmond upon Thames|Richmond upon Thames]] (London borough)
+| <code>GB-RIC</code>
+|-
+! [[Rochdale (borough)|Rochdale]] (Greater Manchester district)
+| <code>GB-RCH</code>
+|-
+! [[Rotherham (borough)|Rotherham]] (South Yorkshire district)
+| <code>GB-ROT</code>
+|-
+! [[Rutland]] (unitary authority)
+| <code>GB-RUT</code>
+|-
+! [[St Helens (borough)|St Helens]] (Merseyside district)
+| <code>GB-SHN</code>
+|-
+! [[City of Salford|Salford]] (Greater Manchester district)
+| <code>GB-SLF</code>
+|-
+! [[Sandwell]] (West Midlands district)
+| <code>GB-SAW</code>
+|-
+! [[Sefton]]  (Merseyside district)
+| <code>GB-SFT</code>
+|-
+! [[City of Sheffield|Sheffield]] (South Yorkshire district)
+| <code>GB-SHF</code>
+|-
+! [[Shropshire]] (county)
+| <code>GB-SHR</code>
+|-
+! [[Slough]] (unitary authority)
+| <code>GB-SLG</code>
+|-
+! [[Solihull (borough)|Solihull]] (West Midlands district)
+| <code>GB-SOL</code>
+|-
+! [[Somerset]] (county)
+| <code>GB-SOM</code>
+|-
+! [[South Gloucestershire]] (unitary authority)
+| <code>GB-SGC</code>
+|-
+! [[South Tyneside]] (Tyne & Wear district)
+| <code>GB-STY</code>
+|-
+! [[Southampton]] (unitary authority)
+| <code>GB-STH</code>
+|-
+! [[Southend-on-Sea]] (unitary authority)
+| <code>GB-SOS</code>
+|-
+! [[London Borough of Southwark|Southwark]] (London borough)
+| <code>GB-SWK</code>
+|-
+! [[Staffordshire]] (county)
+| <code>GB-STS</code>
+|-
+! [[Stockport]] (Greater Manchester district)
+| <code>GB-SKP</code>
+|-
+! [[Stockton-on-Tees (borough)|Stockton-on-Tees]] (unitary authority)
+| <code>GB-STT</code>
+|-
+! [[Stoke-on-Trent]] (unitary authority)
+| <code>GB-STE</code>
+|-
+! [[Suffolk]] (county)
+| <code>GB-SFK</code>
+|-
+! [[City of Sunderland|Sunderland]] (Tyne & Wear district)
+| <code>GB-SND</code>
+|-
+! [[Surrey]] (county)
+| <code>GB-SRY</code>
+|-
+! [[London Borough of Sutton|Sutton]] (London borough)
+| <code>GB-STN</code>
+|-
+! [[Swindon (borough)|Swindon]] (unitary authority)
+| <code>GB-SWD</code>
+|-
+! [[Tameside]] (Greater Manchester district)
+| <code>GB-TAM</code>
+|-
+! [[Telford and Wrekin]] (unitary authority)
+| <code>GB-TFW</code>
+|-
+! [[Thurrock]] (unitary authority)
+| <code>GB-THR</code>
+|-
+! [[Torbay]] (unitary authority)
+| <code>GB-TOB</code>
+|-
+! [[London Borough of Tower Hamlets|Tower Hamlets]] (London borough)
+| <code>GB-TWH</code>
+|-
+! [[Trafford]] (Greater Manchester district)
+| <code>GB-TRF</code>
+|-
+! [[City of Wakefield|Wakefield]] (West Yorkshire district)
+| <code>GB-WKF</code>
+|-
+! [[Walsall (borough)|Walsall]] (West Midlands district)
+| <code>GB-WLL</code>
+|-
+! [[London Borough of Waltham Forest|Waltham Forest]] (London borough)
+| <code>GB-WFT</code>
+|-
+! [[London Borough of Wandsworth|Wandsworth]] (London borough)
+| <code>GB-WND</code>
+|-
+! [[Warrington]] (unitary authority)
+| <code>GB-WRT</code>
+|-
+! [[Warwickshire]] (county)
+| <code>GB-WAR</code>
+|-
+! [[West Berkshire]] (unitary authority)
+| <code>GB-WBK</code>
+|-
+! [[West Sussex]] (county)
+| <code>GB-WSX</code>
+|-
+! [[City of Westminster|Westminster]] (London borough)
+| <code>GB-WSM</code>
+|-
+! [[Wigan (borough)|Wigan]] (Greater Manchester district)
+| <code>GB-WGN</code>
+|-
+! [[Wiltshire]] (county)
+| <code>GB-WIL</code>
+|-
+! [[Windsor and Maidenhead]] (unitary authority)
+| <code>GB-WNM</code>
+|-
+! [[Wirral (borough)|Wirral]] (Merseyside district)
+| <code>GB-WRL</code>
+|-
+! [[Wokingham (district)|Wokingham]] (unitary authority)
+| <code>GB-WOK</code>
+|-
+! [[Wolverhampton]] (West Midlands district)
+| <code>GB-WLV</code>
+|-
+! [[Worcestershire]] (county)
+| <code>GB-WOR</code>
+|-
+! [[York]] (unitary authority)
+| <code>GB-YOR</code>
+|-
+! colspan="2" style="background-color:silver;" | Northern Ireland
+|-
+! [[County Antrim|Antrim]]
+| <code>GB-ANT</code>
+|-
+! [[Ards Borough Council|Ards]]
+| <code>GB-ARD</code>
+|-
+! [[Armagh]]
+| <code>GB-ARM</code>
+|-
+! [[Ballymena]]
+| <code>GB-BLA</code>
+|-
+! [[Ballymoney]]
+| <code>GB-BLY</code>
+|-
+! [[Banbridge]]
+| <code>GB-BNB</code>
+|-
+! [[Belfast]]
+| <code>GB-BFS</code>
+|-
+! [[Carrickfergus]]
+| <code>GB-CKF</code>
+|-
+! [[Castlereagh Borough Council|Castlereagh]]
+| <code>GB-CSR</code>
+|-
+! [[Coleraine]]
+| <code>GB-CLR</code>
+|-
+! [[Cookstown]]
+| <code>GB-CKT</code>
+|-
+! [[Craigavon]]
+| <code>GB-CGV</code>
+|-
+! [[Derry]]
+| <code>GB-DRY</code>
+|-
+! [[Down]]
+| <code>GB-DOW</code>
+|-
+! [[Dungannon and South Tyrone]]
+| <code>GB-DGN</code>
+|-
+! [[Fermanagh (district)|Fermanagh]]
+| <code>GB-FER</code>
+|-
+! [[Larne]]
+| <code>GB-LRN</code>
+|-
+! [[Limavady]]
+| <code>GB-LMV</code>
+|-
+! [[Lisburn]]
+| <code>GB-LSB</code>
+|-
+! [[Magherafelt]]
+| <code>GB-MFT</code>
+|-
+! [[Moyle]]
+| <code>GB-MYL</code>
+|-
+! [[Newry and Mourne]]
+| <code>GB-NYM</code>
+|-
+! [[Newtownabbey]]
+| <code>GB-NTA</code>
+|-
+! [[North Down Borough Council|North Down]]
+| <code>GB-NDN</code>
+|-
+! [[Omagh]]
+| <code>GB-OMH</code>
+|-
+! [[Strabane]]
+| <code>GB-STB</code>
+|-
+! colspan="2" style="background-color:silver;" | Scotland
+|-
+! [[City of Aberdeen|Aberdeen]]
+| <code>GB-ABE</code>
+|-
+! [[Aberdeenshire (unitary)|Aberdeenshire]]
+| <code>GB-ABD</code>
+|-
+! [[Angus]]
+| <code>GB-ANS</code>
+|-
+! [[Argyll and Bute]]
+| <code>GB-AGB</code>
+|-
+! [[Clackmannanshire]]
+| <code>GB-CLK</code>
+|-
+! [[Dumfries and Galloway]]
+| <code>GB-DGY</code>
+|-
+! [[City of Dundee|Dundee]]
+| <code>GB-DND</code>
+|-
+! [[East Ayrshire]]
+| <code>GB-EAY</code>
+|-
+! [[East Dunbartonshire]]
+| <code>GB-EDU</code>
+|-
+! [[East Lothian]]
+| <code>GB-ELN</code>
+|-
+! [[East Renfrewshire]]
+| <code>GB-ERW</code>
+|-
+! [[City of Edinburgh|Edinburgh]]
+| <code>GB-EDH</code>
+|-
+! [[Eilean Siar]]
+| <code>GB-ELS</code>
+|-
+! [[Falkirk]]
+| <code>GB-FAL</code>
+|-
+! [[Fife]]
+| <code>GB-FIF</code>
+|-
+! [[City of Glasgow|Glasgow]] 
+| <code>GB-GLG</code>
+|-
+! [[Highland (council area)|Highland]]
+| <code>GB-HLD</code>
+|-
+! [[Inverclyde]]
+| <code>GB-IVC</code>
+|-
+! [[Midlothian]]
+| <code>GB-MLN</code>
+|-
+! [[Moray]]
+| <code>GB-MRY</code>
+|-
+! [[North Ayrshire]]
+| <code>GB-NAY</code>
+|-
+! [[North Lanarkshire]]
+| <code>GB-NLK</code>
+|-
+! [[Orkney Islands]]
+| <code>GB-ORK</code>
+|-
+! [[Perth and Kinross]]
+| <code>GB-PKN</code>
+|-
+! [[Renfrewshire]]
+| <code>GB-RFW</code>
+|-
+! [[Scottish Borders]], The 
+| <code>GB-SCB</code>
+|-
+! [[Shetland Islands]] 
+| <code>GB-ZET</code>
+|-
+! [[South Ayrshire]]
+| <code>GB-SAY</code>
+|-
+! [[South Lanarkshire]]
+| <code>GB-SLK</code>
+|-
+! [[Stirling]]
+| <code>GB-STG</code>
+|-
+! [[West Dunbartonshire]]
+| <code>GB-WDU</code>
+|-
+! [[West Lothian]]
+| <code>GB-WLN</code>
+|-
+! colspan="2" style="background-color:silver;" | Wales
+|-
+! [[Blaenau Gwent]] 
+| <code>GB-BGW</code>
+|-
+! [[Bridgend (county borough)|Bridgend]]
+| <code>GB-BGE</code>
+|-
+! [[Caerphilly (county borough)|Caerphilly]]
+| <code>GB-CAY</code>
+|-
+! [[Cardiff]]
+| <code>GB-CRF</code>
+|-
+! [[Carmarthenshire]]
+| <code>GB-CMN</code>
+|-
+! [[Ceredigion]]
+| <code>GB-CGN</code>
+|-
+! [[Conwy (county borough)|Conwy]]
+| <code>GB-CWY</code>
+|-
+! [[Denbighshire]]
+| <code>GB-DEN</code>
+|-
+! [[Flintshire]]
+| <code>GB-FLN</code>
+|-
+! [[Gwynedd]]
+| <code>GB-GWN</code>
+|-
+! [[Anglesey|Isle of Anglesey]]
+| <code>GB-AGY</code>
+|-
+! [[Merthyr Tydfil]]
+| <code>GB-MTY</code>
+|-
+! [[Monmouthshire]]
+| <code>GB-MON</code>
+|-
+! [[Neath Port Talbot]]
+| <code>GB-NTL</code>
+|-
+! [[Newport]]
+| <code>GB-NWP</code>
+|-
+! [[Pembrokeshire]]
+| <code>GB-PEM</code>
+|-
+! [[Powys]]
+| <code>GB-POW</code>
+|-
+! [[Rhondda Cynon Taf]]
+| <code>GB-RCT</code>
+|-
+! [[Swansea]]
+| <code>GB-SWA</code>
+|-
+! [[Torfaen]]
+| <code>GB-TOF</code>
+|-
+! [[Vale of Glamorgan]]
+| <code>GB-VGL</code>
+|-
+! [[Wrexham (county borough)|Wrexham]]
+| <code>GB-WRX</code>
+|-
+! colspan="2" style="background-color:silver;" | Channel Islands
+|-
+! [[Guernsey]]
+| <code>GB-GSY</code>
+|-
+! [[Jersey]]
+| <code>GB-JSY</code>
+|}
+|}
+
+===Alternate Welsh codes===
+The ISO has also issued codes for some areas with Welsh names and codes.
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>GB-POG</code>
+| Pen-y-bont ar Ogwr ([[Bridgend]])
+|-
+! <code>GB-CAF</code>
+| Caerffili ([[Caerphilly]])
+|-
+! <code>GB-CRD</code>
+| Caerdydd ([[Cardiff]])
+|- 
+! <code>GB-GFY</code>
+| Sir Gaerfyrddin ([[Carmarthenshire]])
+|-
+! <code>GB-DDB</code>
+| Sir Ddinbych ([[Denbighshire]])
+|-
+! <code>GB-FFL</code>
+| Sir y Fflint ([[Flintshire]])
+|-
+! <code>GB-YNM</code>
+| Sir Ynys Môn ([[Anglesey|Isle of Anglesey]])
+|-
+! <code>GB-MTU</code>
+| Merthyr Tudful ([[Merthyr Tydfil]])
+|-
+! <code>GB-FYN</code>
+| Sir Fynwy ([[Monmouthshire]])
+|-
+! <code>GB-CTL</code>
+| Castell-nedd Port Talbot ([[Neath Port Talbot]])
+|-
+! <code>GB-CNW</code>
+| Casnewydd ([[Newport]])
+|-
+! <code>GB-BNF</code>
+| Sir Benfro ([[Pembrokeshire]])
+|-
+! <code>GB-ATA</code>
+| Abertawe ([[Swansea]])
+|-
+! <code>GB-BMG</code>
+| Bro Morgannwg ([[Vale of Glamorgan]])
+|-
+! <code>GB-WRC</code>
+| Wrecsam ([[Wrexham]])
+|}
+
+==Other codes==
+
+These codes are used by the BS, and were added to ISO 3166-2 in Newsletter 9, with the exceptions of the Isle of Man and Channel Islands:
+
+*<code>GB-UKM</code> [[United Kingdom]]
+**<code>GB-GBN</code> [[Great Britain]]
+***<code>GB-EAW</code> [[England and Wales]]
+****<code>GB-ENG</code> [[England]]
+****<code>GB-WLS</code> [[Wales]] (ISO also includes the Welsh version, <code>CB-CYM for Cymru</code>)
+***<code>GB-SCT</code> [[Scotland]]
+**<code>GB-NIR</code> [[Northern Ireland]]
+*<code>GB-IOM</code> [[Isle of Man]]
+*<code>GB-CHA</code> [[Channel Islands]]
+
+BS also has [[Welsh language]] code for Welsh names of [[Wales]] and its subdivisions, where they differ from the [[English language]] names.  These are not listed here.
+
+==References==
+*"Gazetteer for the Reorganised Statistical Regions and Local Authorities in the United Kingdom", Office for National Statistics, June 1997.
+*[http://www.global-research.info/database/ShowRegions.php?cc=GB&Coding=ISO&order_by=RegionCode&order=ASC Global Research Info]
+
+==See also==
+*[[Subdivisions of the United Kingdom]]
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
+*[[List of FIPS region codes#UK: United Kingdom]]
+*[[NUTS:UK]], the [[Eurostat]] classification.
+*[[Chapman code]], usually used in genealogy
+
+[[Category:Geography of the United Kingdom]]
+[[Category:ISO 3166|2:GB]]
+
+[[cs:ISO 3166-2:GB]]
+[[de:ISO 3166-2:GB]]
+[[fr:ISO 3166-2:GB]]
+[[id:ISO 3166-2:GB]]
+[[it:ISO 3166-2:GB]]
+[[simple:ISO 3166-2:GB]]
+[[sk:ISO 3166-2:GB]]
