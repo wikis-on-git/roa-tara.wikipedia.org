@@ -1,0 +1,137 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:KP'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[North Korea]].
+
+It assigns codes to 9 provinces and 4 special cities.  (One of these cities has since been reclassified as an Industrial Region, and codes have not yet been assigned to 2 other special administrative regions.)
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+North Korea ('''KP''')
+and a 3-character sub-code, hyphenated together.
+
+==Newsletters==
+* [[ISO 3166-2:2002-12-10]]
+* [[ISO 3166-2:2004-03-08]]
+
+==Codes ==
+'''Note''': Names are not spelled according to the ISO list, but to the official [[McCune-Reischauer]] Romanization as used in North Korea.
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>KP-CHA</code>
+| [[Chagang|Chagang-do]]
+|-
+! <code>KP-HAB</code>
+| [[North Hamgyong|Hamgyŏng-bukto]]
+|-
+! <code>KP-HAN</code>
+| [[South Hamgyong|Hamgyŏng-namdo]]
+|-
+! <code>KP-HWB</code>
+| [[North Hwanghae|Hwanghae-bukto]]
+|-
+! <code>KP-HWN</code>
+| [[South Hwanghae|Hwanghae-namdo]]
+|-
+! <code>KP-KAE</code>
+| [[Kaesong|Kaesŏng (Directly Governed City)]] †
+|-
+! <code>KP-NAJ</code>
+| [[Rason|Rasŏn (Directly Governed City)]]
+|-
+! <code>KP-NAM</code>
+| [[Nampo|Nampo (Directly Governed City)]] ‡
+|-
+! <code>KP-KAN</code>
+| [[Kangwon-do (North Korea)|Kangwŏn-do]]
+|-
+! <code>KP-PYB</code>
+| [[North Pyongan|P'yŏngan-bukto]]
+|-
+! <code>KP-PYN</code>
+| [[South Pyongan|P'yŏngan-namdo]]
+|-
+! <code>KP-PYO</code>
+| [[Pyongyang|P'yŏngyang (Special City)]]
+|-
+! <code>KP-YAN</code>
+| [[Ryanggang|Ryanggang-do]] (Yanggang-do)
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:ccc;" | Provinces
+|-
+! KP-CHA
+| [[Chagang|Chagang-do]]
+|-
+! KP-HAB
+| [[North Hamgyong|Hamgyŏng-bukto]]
+|-
+! KP-HAN
+| [[South Hamgyong|Hamgyŏng-namdo]]
+|-
+! KP-HWB
+| [[North Hwanghae|Hwanghae-bukto]]
+|-
+! KP-HWN
+| [[South Hwanghae|Hwanghae-namdo]]
+|-
+! KP-KAN
+| [[Kangwon|Kangwŏn-do]]
+|-
+! KP-PYB
+| [[North Pyongan|P'yŏngan-bukto]]
+|-
+! KP-PYN
+| [[South Pyongan|P'yŏngan-namdo]]
+|-
+! KP-YAN
+| [[Ryanggang|Ryanggang-do]] (Yanggang-do)
+|-
+! colspan="2" style="background-color:ccc;" | Special and Directly Governed Cities
+|-
+! KP-KAE
+| [[Kaesong|Kaesŏng (DGC)]] †
+|-
+! KP-NAJ
+| [[Rason|Rasŏn (DGC)]]
+|-
+! KP-NAM
+| [[Nampo|Nampo (DGC)]] ‡
+|-
+! KP-PYO
+| [[Pyongyang|P'yŏngyang (SC)]]
+|-
+! colspan="2" style="background-color:ccc;" | Unencoded special administrative regions
+|-
+! &nbsp;
+| [[Sinuiju Special Administrative Region|Sinŭiju Special Administrative Region]] (formed in [[2002]])
+|-
+! &nbsp;
+| [[Kumgang-san Tourist Region|Kŭmgang-san Tourist Region]] (formed in [[2002]])
+|}
+|-
+| † now a part of [[North Hwanghae|Hwanghae-bukto]], as of [[2003]]
+|-
+| ‡ now a part of [[South Pyongan|P'yŏngan-namdo]], as of [[2004]]
+|}
+
+==See also==
+*[[Administrative divisions of North Korea]]
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-2:KR]], ISO codes for cities, regions, and provinces in [[South Korea]]
+[[Category:Geography of North Korea]]
+[[Category:ISO 3166|2:KP]]
+
+[[cs:ISO 3166-2:KP]]
+[[de:ISO 3166-2:KP]]
+[[fr:ISO 3166-2:KP]]
+[[ja:ISO 3166-2:KP]]
+[[sk:ISO 3166-2:KP]]
