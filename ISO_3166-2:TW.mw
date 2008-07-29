@@ -1,0 +1,187 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:TW'''
+is an [[International Organization for Standardization| ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+"[[Taiwan, Province of China]]".
+It covers the current jurisdiction of the [[Republic of China]] except the counties of [[Quemoy|Kinmen]] and [[Matsu Islands|Lienchiang]], which are historically and administratively part of [[Fujian]]. The designation "Taiwan, Province of China" has been made with pressure from the [[People's Republic of China]] over the [[political status of Taiwan]]. Another confusing problem is that [[ISO 3166-2:CN]] (for China) includes a code for "Taiwan" at <tt>CN-71</tt>.
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+Taiwan ('''TW''')
+and a 3-character-alphabetic sub-code, hyphenated together.
+
+==Newsletters ==
+* [[ISO 3166-2:2002-12-10]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! TW-CHA
+| [[Changhua County]]
+|-
+! TW-CYI
+| [[Chiayi City]]
+|-
+! TW-CYQ
+| [[Chiayi County]]
+|-
+! TW-HSQ
+| [[Hsinchu County]]
+|-
+! TW-HSZ
+| [[Hsinchu City]]
+|-
+! TW-HUA
+| [[Hualien County]]
+|-
+! TW-ILA
+| [[Ilan County]]
+|-
+! TW-KEE
+| [[Keelung City]]
+|-
+! TW-KHH
+| [[Kaohsiung City]] †
+|-
+! TW-KHQ
+| [[Kaohsiung County]]
+|-
+! TW-MIA
+| [[Miaoli County]]
+|-
+! TW-NAN
+| [[Nantou County]]
+|-
+! TW-PEN
+| [[Penghu County]]
+|-
+! TW-PIF
+| [[Pingtung County]]
+|-
+! TW-TAO
+| [[Taoyuan County]]
+|-
+! TW-TNN
+| [[Tainan City]]
+|-
+! TW-TNQ
+| [[Tainan County]]
+|-
+! TW-TPE
+| [[Taipei City]] †
+|-
+! TW-TPQ
+| [[Taipei County]]
+|-
+! TW-TTT
+| [[Taitung County]]
+|-
+! TW-TXG
+| [[Taichung City]]
+|-
+! TW-TXQ
+| [[Taichung County]]
+|-
+! TW-YUN
+| [[Yunlin County]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | Districts
+|-
+! TW-CHA
+| [[Changhua County|Changhua ]]
+|-
+! TW-CYQ
+| [[Chiayi County|Chiayi ]]
+|-
+! TW-HSQ
+| [[Hsinchu County|Hsinchu ]]
+|-
+! TW-HUA
+| [[Hualien County|Hualien ]]
+|-
+! TW-ILA
+| [[Ilan County|Ilan ]]
+|-
+! TW-KHQ
+| [[Kaohsiung County|Kaohsiung ]]
+|-
+! TW-MIA
+| [[Miaoli County|Miaoli ]]
+|-
+! TW-NAN
+| [[Nantou County|Nantou ]]
+|-
+! TW-PEN
+| [[Penghu County|Penghu ]]
+|-
+! TW-PIF
+| [[Pingtung County|Pingtung ]]
+|-
+! TW-TXQ
+| [[Taichung County|Taichung ]]
+|-
+! TW-TNQ
+| [[Tainan County|Tainan ]]
+|-
+! TW-TPQ
+| [[Taipei County|Taipei ]]
+|-
+! TW-TTT
+| [[Taitung County|Taitung ]]
+|-
+! TW-TAO
+| [[Taoyuan County|Taoyuan ]]
+|-
+! TW-YUN
+| [[Yunlin County|Yunlin ]]
+|-
+! colspan="2" style="background-color:silver;" | Municipalities
+|-
+! TW-CYI
+| [[Chiayi City|Chiayi ]]
+|-
+! TW-HSZ
+| [[Hsinchu City|Hsinchu ]]
+|-
+! TW-KEE
+| [[Keelung City|Keelung ]]
+|-
+! TW-TXG
+| [[Taichung City|Taichung ]]
+|-
+! TW-TNN
+| [[Tainan City|Tainan ]]
+|-
+! colspan="2" style="background-color:silver;" | Special municipalities †
+|-
+! TW-KHH
+| [[Kaohsiung City|Kaohsiung ]]
+|-
+! TW-TPE
+| [[Taipei City|Taipei ]]
+|}
+|-
+|}
+
+† These are [[Municipality of China|centrally-administered municipalities]] not actually part of the [[Taiwan Province|ROC's Province of Taiwan]]. Since they were elevated after 1949 by the [[Kuomintang]], the PRC considers them still to be part of the Province. They are nevertheless distinguished from the [[provincial city|provincial municipalities]] of Taiwan.
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[Administrative divisions of the Republic of China]]
+
+[[Category:Geography of Taiwan]]
+[[Category:ISO 3166|2:TW]]
+
+[[cs:ISO 3166-2:TW]]
+[[fr:ISO 3166-2:TW]]
+[[ja:ISO 3166-2:TW]]
+[[sk:ISO 3166-2:TW]]
+[[zh:ISO 3166-2:TW]]
