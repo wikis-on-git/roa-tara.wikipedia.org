@@ -1,0 +1,59 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:SR'''
+is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Suriname]].
+It covers 10 districts.
+
+Each two-part code consists of the [[ISO 3166-1 alpha-2]] code for 
+Suriname ('''SR''')
+and a 2-character-alphabetic subcode, hyphenated together.
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>SR-BR</code>
+| [[Brokopondo_District|Brokopondo]]
+|-
+! <code>SR-CM</code>
+| [[Commewijne_District|Commewijne]]
+|-
+! <code>SR-CR</code>
+| [[Coronie_District|Coronie]]
+|-
+! <code>SR-MA</code>
+| [[Marowijne_District|Marowijne]]
+|-
+! <code>SR-NI</code>
+| [[Nickerie_District|Nickerie]]
+|-
+! <code>SR-PR</code>
+| [[Para_District|Para]]
+|-
+! <code>SR-PM</code>
+| [[Paramaribo_District|Paramaribo]]
+|-
+! <code>SR-SI</code>
+| [[Sipaliwini_District|Sipaliwini]]
+|-
+! <code>SR-SR</code>
+| [[Saramacca_District|Saramacca]]
+|-
+! <code>SR-WA</code>
+| [[Wanica_District|Wanica]]
+|}
+|}
+
+==See also==
+*[[Districts of Suriname]]
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+[[Category:ISO 3166|2:SR]]
+
+[[cs:ISO 3166-2:SR]]
+[[de:ISO 3166-2:SR]]
+[[sk:ISO 3166-2:SR]]
