@@ -1,0 +1,500 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:TH''' is an [[International Organization for Standardization|ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Thailand]]. It covers the 75 [[Provinces of Thailand|provinces]] (''changwat'') and the city of [[Bangkok]], which is both a province and a municipality.
+
+The first part of the code is the [[ISO 3166-1]] [[country code]] TH for Thailand, the second part is two-digit-numeric (with trailing zeros). A special non-numeric code is used for the city of [[Pattaya]], which is in the province Chonburi, but other than all other communes it is administrated by a unique City Council.
+
+The numbers used are the same as the postal code for the province, except in the number range 11-19, where one have to subtract 1 to get the postal code from the ISO code. The number codes did change significantly between the first drafts of the ISO 3166-2 standard in 1988 and the first published version of 1993, including three new provinces which were created in the meantime. 
+
+The US standard [[Federal Information Processing Standard|FIPS]] 10-4 also includes designators for the provinces which use the same style ([[List of FIPS region codes (S-U)#TH:_Thailand|TH-xx]]), but the numbers are incompatible with the ISO standard. Thus the decoding table below does not apply to the FIPS codes. In fact the draft of the ISO 3166-2 was based upon the FIPS codes.
+
+The ''Department of Provincial Administration'' of the Thai Ministry of Interior uses a coding scheme based upon the ISO 3166-2 numbers to encode all the subsequent subdivisions of the provinces as well - two digits for the districts (''[[Amphoe]]''), two further digits of the subdistricts (''[[tambon]]''), and another two digits for the villages (''[[muban]]''). A trailing 00 marks the upper level division. Thus e.g. 20090000 is the code for the ''Amphoe Sattahip'' in the province Chonburi.
+
+The municipal (''[[thesaban]]'') areas are also encoded in a similar way like the ''Amphoe'', only starting with 99 and counting down. The code 99 usually encodes the capital of the province, thus 2099 is the town [[Chonburi (city)|Chonburi]].
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! TH-10
+| [[Bangkok]]
+|-
+! TH-11
+| [[Samut Prakan Province|Samut Prakan]]
+|-
+! TH-12
+| [[Nonthaburi Province|Nonthaburi]]
+|-
+! TH-13
+| [[Pathum Thani Province|Pathum Thani]]
+|-
+! TH-14
+| [[Ayutthaya Province|Phra Nakhon Si Ayutthaya]]
+|-
+! TH-15
+| [[Ang Thong Province|Ang Thong]]
+|-
+! TH-16
+| [[Lop Buri Province|Lop Buri]]
+|-
+! TH-17
+| [[Sing Buri Province|Sing Buri]]
+|-
+! TH-18
+| [[Chai Nat Province|Chai Nat]]
+|-
+! TH-19
+| [[Saraburi Province|Saraburi]]
+|-
+! TH-20
+| [[Chon Buri Province|Chon Buri]]
+|-
+! TH-21
+| [[Rayong Province|Rayong]]
+|-
+! TH-22
+| [[Chanthaburi Province|Chanthaburi]]
+|-
+! TH-23
+| [[Trat Province|Trat]]
+|-
+! TH-24
+| [[Chachoengsao Province|Chachoengsao]]
+|-
+! TH-25
+| [[Prachin Buri Province|Prachin Buri]]
+|-
+! TH-26
+| [[Nakhon Nayok Province|Nakhon Nayok]]
+|-
+! TH-27
+| [[Sa Kaeo Province|Sa Kaeo]]
+|-
+! TH-30
+| [[Nakhon Ratchasima Province|Nakhon Ratchasima]]
+|-
+! TH-31
+| [[Buriram Province|Buri Ram]]
+|-
+! TH-32
+| [[Surin Province|Surin]]
+|-
+! TH-33
+| [[Si Sa Ket Province|Si Sa Ket]]
+|-
+! TH-34
+| [[Ubon Ratchathani Province|Ubon Ratchathani]]
+|-
+! TH-35
+| [[Yasothon Province|Yasothon]]
+|-
+! TH-36
+| [[Chaiyaphum Province|Chaiyaphum]]
+|-
+! TH-37
+| [[Amnat Charoen Province|Amnat Charoen]]
+|-
+! TH-39
+| [[Nongbua Lamphu Province|Nong Bua Lam Phu]]
+|-
+! TH-40
+| [[Khon Kaen Province|Khon Kaen]]
+|-
+! TH-41
+| [[Udon Thani Province|Udon Thani]]
+|-
+! TH-42
+| [[Loei Province|Loei]]
+|-
+! TH-43
+| [[Nong Khai Province|Nong Khai]]
+|-
+! TH-44
+| [[Maha Sarakham Province|Maha Sarakham]]
+|-
+! TH-45
+| [[Roi Et Province|Roi Et]]
+|-
+! TH-46
+| [[Kalasin Province|Kalasin]]
+|-
+! TH-47
+| [[Sakon Nakhon Province|Sakon Nakhon]]
+|-
+! TH-48
+| [[Nakhon Phanom Province|Nakhon Phanom]]
+|-
+! TH-49
+| [[Mukdahan Province|Mukdahan]]
+|-
+! TH-50
+| [[Chiang Mai Province|Chiang Mai]]
+|-
+! TH-51
+| [[Lamphun Province|Lamphun]]
+|-
+! TH-52
+| [[Lampang Province|Lampang]]
+|-
+! TH-53
+| [[Uttaradit Province|Uttaradit]]
+|-
+! TH-54
+| [[Phrae Province|Phrae]]
+|-
+! TH-55
+| [[Nan Province|Nan]]
+|-
+! TH-56
+| [[Phayao Province|Phayao]]
+|-
+! TH-57
+| [[Chiang Rai Province|Chiang Rai]]
+|-
+! TH-58
+| [[Mae Hong Son Province|Mae Hong Son]]
+|-
+! TH-60
+| [[Nakhon Sawan Province|Nakhon Sawan]]
+|-
+! TH-61
+| [[Uthai Thani Province|Uthai Thani]]
+|-
+! TH-62
+| [[Kamphaeng Phet Province|Kamphaeng Phet]]
+|-
+! TH-63
+| [[Tak Province|Tak]]
+|-
+! TH-64
+| [[Sukhothai Province|Sukhothai]]
+|-
+! TH-65
+| [[Phitsanulok Province|Phitsanulok]]
+|-
+! TH-66
+| [[Phichit Province|Phichit]]
+|-
+! TH-67
+| [[Phetchabun Province|Phetchabun]]
+|-
+! TH-70
+| [[Ratchaburi Province|Ratchaburi]]
+|-
+! TH-71
+| [[Kanchanaburi Province|Kanchanaburi]]
+|-
+! TH-72
+| [[Suphanburi Province|Suphanburi]]
+|-
+! TH-73
+| [[Nakhon Pathom Province|Nakhon Pathom]]
+|-
+! TH-74
+| [[Samut Sakhon Province|Samut Sakhon]]
+|-
+! TH-75
+| [[Samut Songkhram Province|Samut Songkhram]]
+|-
+! TH-76
+| [[Phetchaburi Province|Phetchaburi]]
+|-
+! TH-77
+| [[Prachuap Khiri Khan Province|Prachuap Khiri Khan]]
+|-
+! TH-80
+| [[Nakhon Si Thammarat Province|Nakhon Si Thammarat]]
+|-
+! TH-81
+| [[Krabi Province|Krabi]]
+|-
+! TH-82
+| [[Phang Nga Province|Phang Nga]]
+|-
+! TH-83
+| [[Phuket Province|Phuket]]
+|-
+! TH-84
+| [[Surat Thani Province|Surat Thani]]
+|-
+! TH-85
+| [[Ranong Province|Ranong]]
+|-
+! TH-86
+| [[Chumphon Province|Chumpon]]
+|-
+! TH-90
+| [[Songkhla Province|Songkhla]]
+|-
+! TH-91
+| [[Satun Province|Satun]]
+|-
+! TH-92
+| [[Trang Province|Trang]]
+|-
+! TH-93
+| [[Phattalung Province|Phattalung]]
+|-
+! TH-94
+| [[Pattani Province|Pattani]]
+|-
+! TH-95
+| [[Yala Province|Yala]]
+|-
+! TH-96
+| [[Narathiwat Province|Narathiwat]]
+|-
+! TH-S
+| [[Pattaya]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! TH-37
+| [[Amnat Charoen Province|Amnat Charoen]]
+|-
+! TH-15
+| [[Ang Thong Province|Ang Thong]]
+|-
+! TH-14
+| [[Ayutthaya Province|Phra Nakhon Si Ayutthaya]]
+|-
+! TH-10
+| [[Bangkok]]
+|-
+! TH-31
+| [[Buriram Province|Buri Ram]]
+|-
+! TH-24
+| [[Chachoengsao Province|Chachoengsao]]
+|-
+! TH-18
+| [[Chai Nat Province|Chai Nat]]
+|-
+! TH-36
+| [[Chaiyaphum Province|Chaiyaphum]]
+|-
+! TH-22
+| [[Chanthaburi Province|Chanthaburi]]
+|-
+! TH-50
+| [[Chiang Mai Province|Chiang Mai]]
+|-
+! TH-57
+| [[Chiang Rai Province|Chiang Rai]]
+|-
+! TH-20
+| [[Chon Buri Province|Chon Buri]]
+|-
+! TH-86
+| [[Chumphon Province|Chumpon]]
+|-
+! TH-46
+| [[Kalasin Province|Kalasin]]
+|-
+! TH-62
+| [[Kamphaeng Phet Province|Kamphaeng Phet]]
+|-
+! TH-71
+| [[Kanchanaburi Province|Kanchanaburi]]
+|-
+! TH-40
+| [[Khon Kaen Province|Khon Kaen]]
+|-
+! TH-81
+| [[Krabi Province|Krabi]]
+|-
+! TH-52
+| [[Lampang Province|Lampang]]
+|-
+! TH-51
+| [[Lamphun Province|Lamphun]]
+|-
+! TH-42
+| [[Loei Province|Loei]]
+|-
+! TH-16
+| [[Lop Buri Province|Lop Buri]]
+|-
+! TH-58
+| [[Mae Hong Son Province|Mae Hong Son]]
+|-
+! TH-44
+| [[Maha Sarakham Province|Maha Sarakham]]
+|-
+! TH-49
+| [[Mukdahan Province|Mukdahan]]
+|-
+! TH-26
+| [[Nakhon Nayok Province|Nakhon Nayok]]
+|-
+! TH-73
+| [[Nakhon Pathom Province|Nakhon Pathom]]
+|-
+! TH-48
+| [[Nakhon Phanom Province|Nakhon Phanom]]
+|-
+! TH-30
+| [[Nakhon Ratchasima Province|Nakhon Ratchasima]]
+|-
+! TH-60
+| [[Nakhon Sawan Province|Nakhon Sawan]]
+|-
+! TH-80
+| [[Nakhon Si Thammarat Province|Nakhon Si Thammarat]]
+|-
+! TH-55
+| [[Nan Province|Nan]]
+|-
+! TH-96
+| [[Narathiwat Province|Narathiwat]]
+|-
+! TH-43
+| [[Nong Khai Province|Nong Khai]]
+|-
+! TH-39
+| [[Nongbua Lamphu Province|Nong Bua Lam Phu]]
+|-
+! TH-12
+| [[Nonthaburi Province|Nonthaburi]]
+|-
+! TH-13
+| [[Pathum Thani Province|Pathum Thani]]
+|-
+! TH-94
+| [[Pattani Province|Pattani]]
+|-
+! TH-S
+| [[Pattaya]]
+|-
+! TH-82
+| [[Phang Nga Province|Phang Nga]]
+|-
+! TH-93
+| [[Phattalung Province|Phattalung]]
+|-
+! TH-56
+| [[Phayao Province|Phayao]]
+|-
+! TH-67
+| [[Phetchabun Province|Phetchabun]]
+|-
+! TH-76
+| [[Phetchaburi Province|Phetchaburi]]
+|-
+! TH-66
+| [[Phichit Province|Phichit]]
+|-
+! TH-65
+| [[Phitsanulok Province|Phitsanulok]]
+|-
+! TH-54
+| [[Phrae Province|Phrae]]
+|-
+! TH-83
+| [[Phuket Province|Phuket]]
+|-
+! TH-25
+| [[Prachin Buri Province|Prachin Buri]]
+|-
+! TH-77
+| [[Prachuap Khiri Khan Province|Prachuap Khiri Khan]]
+|-
+! TH-85
+| [[Ranong Province|Ranong]]
+|-
+! TH-70
+| [[Ratchaburi Province|Ratchaburi]]
+|-
+! TH-21
+| [[Rayong Province|Rayong]]
+|-
+! TH-45
+| [[Roi Et Province|Roi Et]]
+|-
+! TH-27
+| [[Sa Kaeo Province|Sa Kaeo]]
+|-
+! TH-47
+| [[Sakon Nakhon Province|Sakon Nakhon]]
+|-
+! TH-11
+| [[Samut Prakan Province|Samut Prakan]]
+|-
+! TH-74
+| [[Samut Sakhon Province|Samut Sakhon]]
+|-
+! TH-75
+| [[Samut Songkhram Province|Samut Songkhram]]
+|-
+! TH-19
+| [[Saraburi Province|Saraburi]]
+|-
+! TH-91
+| [[Satun Province|Satun]]
+|-
+! TH-33
+| [[Si Sa Ket Province|Si Sa Ket]]
+|-
+! TH-17
+| [[Sing Buri Province|Sing Buri]]
+|-
+! TH-90
+| [[Songkhla Province|Songkhla]]
+|-
+! TH-64
+| [[Sukhothai Province|Sukhothai]]
+|-
+! TH-72
+| [[Suphanburi Province|Suphanburi]]
+|-
+! TH-84
+| [[Surat Thani Province|Surat Thani]]
+|-
+! TH-32
+| [[Surin Province|Surin]]
+|-
+! TH-63
+| [[Tak Province|Tak]]
+|-
+! TH-92
+| [[Trang Province|Trang]]
+|-
+! TH-23
+| [[Trat Province|Trat]]
+|-
+! TH-34
+| [[Ubon Ratchathani Province|Ubon Ratchathani]]
+|-
+! TH-41
+| [[Udon Thani Province|Udon Thani]]
+|-
+! TH-61
+| [[Uthai Thani Province|Uthai Thani]]
+|-
+! TH-53
+| [[Uttaradit Province|Uttaradit]]
+|-
+! TH-95
+| [[Yala Province|Yala]]
+|-
+! TH-35
+| [[Yasothon Province|Yasothon]]
+|}
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+[[Category:Geography of Thailand]]
+[[Category:ISO 3166|2:TH]]
+
+[[cs:ISO 3166-2:TH]]
+[[de:ISO 3166-2:TH]]
+[[fr:ISO 3166-2:TH]]
+[[sk:ISO 3166-2:TH]]
+[[th:ISO 3166-2:TH]]
