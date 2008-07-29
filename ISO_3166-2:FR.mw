@@ -1,0 +1,353 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:FR''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[France]].
+
+Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
+* 2 numbers for the metropolitan [[departments of France|department]]s (except the two departements on [[Corsica]] which have 2A and 2B). The codes are identical with the standard departement numbering.
+* 2 letters for the territorial collectivites and for the overseas territories, all of which have their own ISO 3166-2 entry.
+
+{{TOCright}}
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2007-11-28]]
+
+==Codes ==
+{| class="wikitable sortable"
+|+ Sorted by Code
+! Code
+! Department <br> Territorial collectivities <br>Overseas territories
+|-
+! <code>FR-01</code>
+| [[Ain]]
+|-
+! <code>FR-02</code>
+| [[Aisne]]
+|-
+! <code>FR-03</code>
+| [[Allier]]
+|-
+! <code>FR-04</code>
+| [[Alpes-de-Haute-Provence]]
+|-
+! <code>FR-05</code>
+| [[Hautes-Alpes]]
+|-
+! <code>FR-06</code>
+| [[Alpes-Maritimes]]
+|-
+! <code>FR-07</code>
+| [[Ardèche]]
+|-
+! <code>FR-08</code>
+| [[Ardennes (département)|Ardennes]]
+|-
+! <code>FR-09</code>
+| [[Ariège]]
+|-
+! <code>FR-10</code>
+| [[Aube]]
+|-
+! <code>FR-11</code>
+| [[Aude]]
+|-
+! <code>FR-12</code>
+| [[Aveyron]]
+|-
+! <code>FR-13</code>
+| [[Bouches-du-Rhône]]
+|-
+! <code>FR-14</code>
+| [[Calvados]]
+|-
+! <code>FR-15</code>
+| [[Cantal]]
+|-
+! <code>FR-16</code>
+| [[Charente]]
+|-
+! <code>FR-17</code>
+| [[Charente-Maritime]]
+|-
+! <code>FR-18</code>
+| [[Cher (département)|Cher]]
+|-
+! <code>FR-19</code>
+| [[Corrèze]]
+|-
+! <code>FR-21</code>
+| [[Côte-d'Or]]
+|-
+! <code>FR-22</code>
+| [[Côtes-d'Armor]]
+|-
+! <code>FR-23</code>
+| [[Creuse]]
+|-
+! <code>FR-24</code>
+| [[Dordogne]]
+|-
+! <code>FR-25</code>
+| [[Doubs (department)|Doubs]]
+|-
+! <code>FR-26</code>
+| [[Drôme]]
+|-
+! <code>FR-27</code>
+| [[Eure]]
+|-
+! <code>FR-28</code>
+| [[Eure-et-Loir]]
+|-
+! <code>FR-29</code>
+| [[Finistère]]
+|-
+! <code>FR-2A</code>
+| [[Corse-du-Sud]]
+|-
+! <code>FR-2B</code>
+| [[Haute-Corse]]
+|-
+! <code>FR-30</code>
+| [[Gard]]
+|-
+! <code>FR-31</code>
+| [[Haute-Garonne]]
+|-
+! <code>FR-32</code>
+| [[Gers]]
+|-
+! <code>FR-33</code>
+| [[Gironde]]
+|-
+! <code>FR-34</code>
+| [[Hérault]]
+|-
+! <code>FR-35</code>
+| [[Ille-et-Vilaine]]
+|-
+! <code>FR-36</code>
+| [[Indre]]
+|-
+! <code>FR-37</code>
+| [[Indre-et-Loire]]
+|-
+! <code>FR-38</code>
+| [[Isère]]
+|-
+! <code>FR-39</code>
+| [[Jura (département)|Jura]]
+|-
+! <code>FR-40</code>
+| [[Landes (department)|Landes]]
+|-
+! <code>FR-41</code>
+| [[Loir-et-Cher]]
+|-
+! <code>FR-42</code>
+| [[Loire]]
+|-
+! <code>FR-43</code>
+| [[Haute-Loire]]
+|-
+! <code>FR-44</code>
+| [[Loire-Atlantique]]
+|-
+! <code>FR-45</code>
+| [[Loiret]]
+|-
+! <code>FR-46</code>
+| [[Lot (département)|Lot]]
+|-
+! <code>FR-47</code>
+| [[Lot-et-Garonne]]
+|-
+! <code>FR-48</code>
+| [[Lozère]]
+|-
+! <code>FR-49</code>
+| [[Maine-et-Loire]]
+|-
+! <code>FR-50</code>
+| [[Manche]]
+|-
+! <code>FR-51</code>
+| [[Marne]]
+|-
+! <code>FR-52</code>
+| [[Haute-Marne]]
+|-
+! <code>FR-53</code>
+| [[Mayenne]]
+|-
+! <code>FR-54</code>
+| [[Meurthe-et-Moselle]]
+|-
+! <code>FR-55</code>
+| [[Meuse]]
+|-
+! <code>FR-56</code>
+| [[Morbihan]]
+|-
+! <code>FR-57</code>
+| [[Moselle]]
+|-
+! <code>FR-58</code>
+| [[Nièvre]]
+|-
+! <code>FR-59</code>
+| [[Nord (département)|Nord]]
+|-
+! <code>FR-60</code>
+| [[Oise]]
+|-
+! <code>FR-61</code>
+| [[Orne]]
+|-
+! <code>FR-62</code>
+| [[Pas-de-Calais]]
+|-
+! <code>FR-63</code>
+| [[Puy-de-Dôme]]
+|-
+! <code>FR-64</code>
+| [[Pyrénées-Atlantiques]]
+|-
+! <code>FR-65</code>
+| [[Hautes-Pyrénées]]
+|-
+! <code>FR-66</code>
+| [[Pyrenees-Orientales|Pyrénées-Orientales]]
+|-
+! <code>FR-67</code>
+| [[Bas-Rhin]]
+|-
+! <code>FR-68</code>
+| [[Haut-Rhin]]
+|-
+! <code>FR-69</code>
+| [[Rhone (département)|Rhône]]
+|-
+! <code>FR-70</code>
+| [[Haute-Saône]]
+|-
+! <code>FR-71</code>
+| [[Saône-et-Loire]]
+|-
+! <code>FR-72</code>
+| [[Sarthe]]
+|-
+! <code>FR-73</code>
+| [[Savoie]]
+|-
+! <code>FR-74</code>
+| [[Haute-Savoie]]
+|-
+! <code>FR-75</code>
+| [[Paris]]
+|-
+! <code>FR-76</code>
+| [[Seine-Maritime]]
+|-
+! <code>FR-77</code>
+| [[Seine-et-Marne]]
+|-
+! <code>FR-78</code>
+| [[Yvelines]]
+|-
+! <code>FR-79</code>
+| [[Deux-Sèvres]]
+|-
+! <code>FR-80</code>
+| [[Somme]]
+|-
+! <code>FR-81</code>
+| [[Tarn]]
+|-
+! <code>FR-82</code>
+| [[Tarn-et-Garonne]]
+|-
+! <code>FR-83</code>
+| [[Var (département)|Var]]
+|-
+! <code>FR-84</code>
+| [[Vaucluse]]
+|-
+! <code>FR-85</code>
+| [[Vendée]]
+|-
+! <code>FR-86</code>
+| [[Vienne]]
+|-
+! <code>FR-87</code>
+| [[Haute-Vienne]]
+|-
+! <code>FR-88</code>
+| [[Vosges]]
+|-
+! <code>FR-89</code>
+| [[Yonne]]
+|-
+! <code>FR-90</code>
+| [[Territoire de Belfort]]
+|-
+! <code>FR-91</code>
+| [[Essonne]]
+|-
+! <code>FR-92</code>
+| [[Hauts-de-Seine]]
+|-
+! <code>FR-93</code>
+| [[Seine-Saint-Denis]]
+|-
+! <code>FR-94</code>
+| [[Val-de-Marne]]
+|-
+! <code>FR-95</code>
+| [[Val-d'Oise]]
+|-
+! <code>FR-CP</code>
+| [[Clipperton Island]]
+|-
+! <code>FR-BL</code>
+| [[Saint Barthélemy]]
+|-
+! <code>FR-MF</code>
+| [[Saint Martin (France)|Saint Martin (French part)]]
+|-
+! <code>FR-NC</code>
+| [[New Caledonia]]
+|-
+! <code>FR-PF</code>
+| [[French Polynesia]]
+|-
+! <code>FR-PM</code>
+| [[Saint-Pierre and Miquelon]]
+|-
+! <code>FR-TF</code>
+| [[French Southern Territories]]
+|-
+! <code>FR-WF</code>
+| [[Wallis and Futuna]]
+|-
+! <code>FR-YT</code>
+| [[Mayotte]]
+|}
+
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[List of FIPS region codes#FR: France]]
+
+[[Category:Sciugrafije d'a Frangia]]
+[[Category:ISO 3166|2:FR]]
+[[Category:Dipartimendi d'a Frangia|*ISO 3166-2]]
+
+[[cs:ISO 3166-2:FR]]
+[[de:ISO 3166-2:FR]]
+[[es:ISO 3166-2:FR]]
+[[fr:ISO 3166-2:FR]]
+[[id:ISO 3166-2:FR]]
+[[it:ISO 3166-2:FR]]
+[[ja:ISO 3166-2:FR]]
+[[sk:ISO 3166-2:FR]]
