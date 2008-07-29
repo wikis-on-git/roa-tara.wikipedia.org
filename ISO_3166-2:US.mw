@@ -1,0 +1,222 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:US''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to the [[United States of America]]. It covers 50 states, 1 district, 6 outlying areas (including 9 minor outlying islands under separate [[ISO 3166-1]] [[country code]] UM). The second part of the code is two-letter alphabetic, and, except for UM, is the same as the [[U.S. postal abbreviations|U.S. postal abbreviation]].
+
+==Codes==
+{|class="sortable wikitable"
+|-
+! Code
+| Name
+|-
+! US-AK
+| {{flag|Alaska}}
+|-
+! US-AL
+| {{flag|Alabama}}
+|-
+! US-AR
+| {{flag|Arkansas}}
+|-
+! US-AS
+| {{flag|American Samoa}} † 
+|-
+! US-AZ
+| {{flag|Arizona}}
+|-
+! US-CA
+| {{flag|California}}
+|-
+! US-CO
+| {{flag|Colorado}}
+|-
+! US-CT
+| {{flag|Connecticut}}
+|-
+! US-DC
+| {{flag|Washington, D.C.|name=District of Columbia}}
+|-
+! US-DE
+| {{flag|Delaware}}
+|-
+! US-FL
+| {{flag|Florida}}
+|-
+! US-GA
+| {{flagcountry|Georgia (U.S. state)}}
+|-
+! US-GU
+| {{flag|Guam}} † 
+|-
+! US-HI
+| {{flag|Hawaii}}
+|-
+! US-IA
+| {{flag|Iowa}}
+|-
+! US-ID
+| {{flag|Idaho}}
+|-
+! US-IL
+| {{flag|Illinois}}
+|-
+! US-IN
+| {{flag|Indiana}}
+|-
+! [[US-KS]]
+| {{flag|Kansas}}
+|-
+! US-KY
+| {{flag|Kentucky}}
+|-
+! US-LA
+| {{flag|Louisiana}}
+|-
+! US-MA
+| {{flag|Massachusetts}}
+|-
+! US-MD
+| {{flag|Maryland}}
+|-
+! US-ME
+| {{flag|Maine}}
+|-
+! US-MI
+| {{flag|Michigan}}
+|-
+! US-MN
+| {{flag|Minnesota}}
+|-
+! US-MO
+| {{flag|Missouri}}
+|-
+! US-MP
+| {{flag|Northern Mariana Islands}} † 
+|-
+! US-MS
+| {{flag|Mississippi}}
+|-
+! US-MT
+| {{flag|Montana}}
+|-
+! US-NC
+| {{flag|North Carolina}}
+|-
+! US-ND
+| {{flag|North Dakota}}
+|-
+! US-NE
+| {{flag|Nebraska}}
+|-
+! US-NH
+| {{flag|New Hampshire}}
+|-
+! US-NJ
+| {{flag|New Jersey}}
+|-
+! US-NM
+| {{flag|New Mexico}}
+|-
+! US-NV
+| {{flag|Nevada}}
+|-
+! US-NY
+| {{flag|New York}}
+|-
+! US-OH
+| {{flag|Ohio}}
+|-
+! US-OK
+| {{flag|Oklahoma}}
+|-
+! US-OR
+| {{flag|Oregon}}
+|-
+! US-PA
+| {{flag|Pennsylvania}}
+|-
+! US-PR
+| {{flag|Puerto Rico}} † 
+|-
+! US-RI
+| {{flag|Rhode Island}}
+|-
+! US-SC
+| {{flag|South Carolina}}
+|-
+! US-SD
+| {{flag|South Dakota}}
+|-
+! US-TN
+| {{flag|Tennessee}}
+|-
+! US-TX
+| {{flag|Texas}}
+|-
+! US-UM
+| {{flag|United States|name=U.S. Minor Outlying Islands}} [[Flags of the United States#Insular_area_flags|*]] † 
+|-
+! US-UT
+| {{flag|Utah}}
+|-
+! US-VA
+| {{flag|Virginia}}
+|-
+! US-VI
+| {{flag|U.S. Virgin Islands}} † 
+|-
+! US-VT
+| {{flag|Vermont}}
+|-
+! US-WA
+| {{flag|Washington}}
+|-
+! US-WI
+| {{flag|Wisconsin}}
+|-
+! US-WV
+| {{flag|West Virginia}}
+|-
+! US-WY
+| {{flag|Wyoming}}
+|}
+
+{| style="text-align:left; margin-top:2em;"
+! colspan="2" align="center" | † See also separate entries for Outlying Areas of the United States
+|-
+! [[American Samoa]]
+| [[ISO 3166-2:AS]]
+|-
+! [[Guam]]
+| [[ISO 3166-2:GU]]
+|-
+! [[Northern Mariana Islands]]
+| [[ISO 3166-2:MP]]
+|-
+! [[Puerto Rico]] 
+| [[ISO 3166-2:PR]]
+|-
+! [[U.S. Minor Outlying Islands]] 
+| [[ISO 3166-2:UM]]
+|-
+! [[Virgin Islands of the U.S.]]
+| [[ISO 3166-2:VI]]
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
+* The U.S. ''Federal Information Processing Standard'' [[List of FIPS country codes|FIPS 10-4]], created by the U.S. Government for identifying certain countries and areas.
+* Federal Information Processing Standard [[FIPS state code|FIPS 5-2]], for identifying U.S. States.
+
+[[Category:ISO 3166|2:US]]
+
+[[cs:ISO 3166-2:US]]
+[[de:ISO 3166-2:US]]
+[[et:ISO 3166-2:US]]
+[[eo:ISO 3166-2:US]]
+[[fr:ISO 3166-2:US]]
+[[it:ISO 3166-2:US]]
+[[hu:ISO 3166-2:US]]
+[[ja:ISO 3166-2:US]]
+[[pl:ISO 3166-2:US]]
+[[sk:ISO 3166-2:US]]
