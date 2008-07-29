@@ -137,13 +137,13 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 132 || CPV || CV || [[ISO 3166-2:CV]]*
 |-
 |{{TCD}}
-| 148 || TCD || TD || [[ISO 3166-2:TD]]
+| 148 || TCD || TD || [[ISO 3166-2:TD]]*
 |-
 |{{CHL}}
-| 152 || CHL || CL || [[ISO 3166-2:CL]]
+| 152 || CHL || CL || [[ISO 3166-2:CL]]*
 |-
 |{{CHN}}
-| 156 || CHN || CN || [[ISO 3166-2:CN]]
+| 156 || CHN || CN || [[ISO 3166-2:CN]]*
 |-
 |{{CYP}}
 | 196 || CYP || CY || [[ISO 3166-2:CY]]
@@ -152,10 +152,10 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 336 || VAT || VA || [[ISO 3166-2:VA]]
 |- 
 |{{COL}}
-| 170 || COL || CO || [[ISO 3166-2:CO]]
+| 170 || COL || CO || [[ISO 3166-2:CO]]*
 |-
 |{{COM}}
-| 174 || COM || KM || [[ISO 3166-2:KM]]
+| 174 || COM || KM || [[ISO 3166-2:KM]]*
 |-
 |{{PRK}}
 | 408 || PRK || KP || [[ISO 3166-2:KP]]
@@ -164,10 +164,10 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 410 || KOR || KR || [[ISO 3166-2:KR]]
 |-
 |{{CIV}}
-| 384 || CIV || CI || [[ISO 3166-2:CI]]
+| 384 || CIV || CI || [[ISO 3166-2:CI]]*
 |-
 |{{CRI}}
-| 188 || CRI || CR || [[ISO 3166-2:CR]]
+| 188 || CRI || CR || [[ISO 3166-2:CR]]*
 |-
 |{{HRV}}
 | 191 || HRV || HR || [[ISO 3166-2:HR]]
@@ -554,7 +554,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 826 || GBR || GB || [[ISO 3166-2:GB]]
 |-
 |{{COD}}
-| 180 || COD || CD || [[ISO 3166-2:CD]]
+| 180 || COD || CD || [[ISO 3166-2:CD]]*
 |-
 |{{TWN}}
 | 158 || TWN || TW || [[ISO 3166-2:TW]]
@@ -563,10 +563,10 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 203 || CZE || CZ || [[ISO 3166-2:CZ]]
 |-
 |{{CAF}}
-| 140 || CAF || CF || [[ISO 3166-2:CF]]
+| 140 || CAF || CF || [[ISO 3166-2:CF]]*
 |-
 |{{COG}}
-| 178 || COG || CG || [[ISO 3166-2:CG]]
+| 178 || COG || CG || [[ISO 3166-2:CG]]*
 |-
 |{{DOM}}
 | 214 || DOM || DO || [[ISO 3166-2:DO]]
