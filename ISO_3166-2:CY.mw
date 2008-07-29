@@ -1,0 +1,50 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:CY''' is the subset of [[ISO 3166-2]] that defines [[geocode]]s for [[Cyprus]].
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+Cyprus (''':CY''') followed by a two-alphanumeric-character subcode. The parts are linked by a [[hyphen]].
+
+== Codes ==
+{| class="wikitable sortable"
+! Code !! Name
+|-
+! <code>CY-01</code>
+| [[Kyrenia District]]
+|-
+! <code>CY-02</code>
+| [[Nicosia District]]
+|-
+! <code>CY-03</code>
+| [[Famagusta District]]
+|-
+! <code>CY-04</code>
+| [[Larnaca District]]
+|-
+! <code>CY-05</code>
+| [[Limassol District]]
+|-
+! <code>CY-06</code>
+| [[Paphos District]]
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Districts of Cyprus]]
+
+
+<!--Categories-->
+[[Category:Sciugrafije dë Cipro| ]]
+[[Category:Dëstrittë dë Cipro| ]]
+[[Category:ISO 3166|2:CY]]
+
+<!--Other languages-->
+
+[[cs:ISO 3166-2:CY]]
+[[de:ISO 3166-2:CY]]
+[[el:ISO 3166-2:CY]]
+[[it:ISO 3166-2:CY]]
+[[ja:ISO 3166-2:CY]]
+[[pl:ISO 3166-2:CY]]
+[[sk:ISO 3166-2:CY]]
