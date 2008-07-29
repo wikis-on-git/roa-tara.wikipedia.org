@@ -1,0 +1,117 @@
+{{torna a|ISO 3166-1}}
+'''ISO 3166-2:BE'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Belgium]].
+It covers 5 provinces in [[Flanders]] and 5 provinces in [[Wallonia]] and the [[Brussels-Capital Region]].
+The first part is the [[ISO 3166-1]] code BE for Belgium, the second part is three-character-alphabetic, where the first letter marks the region: W is for [[Wallonia]], «'''V'''laanderen» for ([[Flemish Region]]).
+
+The following two regions have no ISO 3166-2 code.
+*<code>VLA</code> [[Flemish Region|Flemish Region (Flanders)]]
+*<code>WAL</code> [[Wallonia]]
+
+==Codes ==
+{| width="100%" cellspacing="0" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|style="margin-right:0px;padding-right:0px;width:58ex;"|
+{| align="left" cellspacing="2" style="margin-right:0px;padding-right:0px;width:58ex;"
+|colspan="3"|Sorted by code
+|-
+!<code>BE-BRU</code> 
+|colspan="2"|[[Brussels-Capital Region]]
+|-
+!<code>BE-VAN</code>
+|[[Antwerp (province)|Antwerpen]]
+|<span style="font-size:87%;">(a Flemish province)</span>
+|-
+!<code>BE-VBR</code>
+|[[Vlaams Brabant]]
+|<span style="font-size:87%;">(a Flemish province)</span>
+|-
+!<code>BE-VLI</code>
+|[[Limburg (Belgium)|Limburg]]
+|<span style="font-size:87%;">(a Flemish province)</span>
+|-
+!<code>BE-VOV</code>
+|[[Oost-Vlaanderen]]
+|<span style="font-size:87%;">(a Flemish province)</span>
+|-
+!<code>BE-VWV</code>
+|[[West-Vlaanderen]]
+|<span style="font-size:87%;">(a Flemish province)</span>
+|-
+!<code>BE-WBR</code>
+|[[Walloon Brabant|Brabant Wallon]]
+|<span style="font-size:87%;">(a Walloon province)</span>
+|-
+!<code>BE-WHT</code>
+|[[Hainaut (province)|Hainaut]]
+|<span style="font-size:87%;">(a Walloon province)</span>
+|-
+!<code>BE-WLG</code>
+|[[Liège (province)|Liège]]
+|<span style="font-size:87%;">(a Walloon province)</span>
+|-
+!<code>BE-WLX</code>
+|[[Luxembourg (Belgium)|Luxembourg]]
+|<span style="font-size:87%;">(a Walloon province)</span>
+|-
+!<code>BE-WNA</code>
+|[[Namur (province)|Namur]]
+|<span style="font-size:87%;">(a Walloon province)</span>
+|}
+|style="width:100%;"|
+{| align="right" style="width:35ex;"
+|style="text-align:center"|Sorted by name
+|
+|-
+![[Antwerp (province)|Antwerpen]]
+|<code>BE-VAN</code>
+|-
+![[Brabant Wallon]]
+|<code>BE-WBR</code>
+|-
+![[Brussels-Capital Region]]
+|<code>BE-BRU</code> 
+|-
+![[Hainaut (province)|Hainaut]]
+|<code>BE-WHT</code>
+|-
+![[Liège (province)|Liège]]
+|<code>BE-WLG</code>
+|-
+![[Limburg (Belgium)|Limburg]]
+|<code>BE-VLI</code>
+|-
+![[Luxembourg (Belgium)|Luxembourg]]
+|<code>BE-WLX</code>
+|-
+![[Namur (province)|Namur]]
+|<code>BE-WNA</code>
+|-
+![[Oost-Vlaanderen]]
+|<code>BE-VOV</code>
+|-
+![[Vlaams Brabant]]
+|<code>BE-VBR</code>
+|-
+![[West-Vlaanderen]]
+|<code>BE-VWV</code>
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the code reference table for subdivisions of countries (subnational entities) and dependent areas.
+* [[ISO 3166-1]], the code reference table for countries and dependent areas.
+* [[Regions of Belgium]]
+* [[Provinces of Belgium]]
+
+[[Category:Sciugrafije d'u Belgio]]
+[[Category:ISO 3166|2:BE]]
+
+[[cs:ISO 3166-2:BE]]
+[[de:ISO 3166-2:BE]]
+[[fr:ISO 3166-2:BE]]
+[[it:ISO 3166-2:BE]]
+[[nl:ISO 3166-2:BE]]
+[[ja:ISO 3166-2:BE]]
+[[sk:ISO 3166-2:BE]]
+[[vi:ISO 3166-2:BE]]
