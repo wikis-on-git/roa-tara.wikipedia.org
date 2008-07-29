@@ -1,0 +1,410 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s. The section that applies to Spain codes the [[provinces of Spain]]. There are codes provided for the [[autonomous communities of Spain]] but they are not part of the standard.
+
+==Newsletters==
+* [[ISO 3166-2:2000-06-21]]
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2002-12-10]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>ES-A</code> 
+| [[Alicante (province)|Alicante]]
+|-
+! <code>ES-AB</code>
+| [[Albacete (province)|Albacete]]
+|-
+! <code>ES-AL</code>
+| [[Almería (province)|Almería]]
+|-
+! <code>ES-AV</code>
+| [[Ávila (province)|Ávila]]
+|-
+! <code>ES-B</code> 
+| [[Barcelona (province)|Barcelona]]
+|-
+! <code>ES-BA</code>
+| [[Badajoz (province)|Badajoz]]
+|-
+! <code>ES-BI</code>
+| [[Biscay]]
+|-
+! <code>ES-BU</code>
+| [[Burgos (province)|Burgos]]
+|-
+! <code>ES-C</code> 
+| [[A Coruña (province)|A Coruña]]
+|-
+! <code>ES-CA</code>
+| [[Cádiz (province)|Cádiz]]
+|-
+! <code>ES-CC</code>
+| [[Cáceres (province)|Cáceres]]
+|-
+! <code>ES-CE</code>
+| [[Ceuta]]
+|-
+! <code>ES-CO</code>
+| [[Córdoba Province, Spain|Córdoba]]
+|-
+! <code>ES-CR</code>
+| [[Ciudad Real (province)|Ciudad Real]]
+|-
+! <code>ES-CS</code>
+| [[Castellón (province)|Castellón]]
+|-
+! <code>ES-CU</code>
+| [[Cuenca (province)|Cuenca]]
+|-
+! <code>ES-GC</code>
+| [[Las Palmas (province)|Las Palmas]]
+|-
+! <code>ES-GI</code>
+| [[Girona (province)|Girona]]
+|-
+! <code>ES-GR</code>
+| [[Granada (province)|Granada]]
+|-
+! <code>ES-GU</code>
+| [[Guadalajara (province)|Guadalajara]]
+|-
+! <code>ES-H</code> 
+| [[Huelva (province)|Huelva]]
+|-
+! <code>ES-HU</code>
+| [[Huesca (province)|Huesca]]
+|-
+! <code>ES-J</code> 
+| [[Jaén (province)|Jaén]]
+|-
+! <code>ES-L</code> 
+| [[Lleida (province)|Lleida]]
+|-
+! <code>ES-LE</code>
+| [[León (province)|León]]
+|-
+! <code>ES-LO</code>
+| [[La Rioja (autonomous community)|La Rioja]]
+|-
+! <code>ES-LU</code>
+| [[Lugo (province)|Lugo]]
+|-
+! <code>ES-M</code> 
+| [[Community of Madrid|Madrid]]
+|-
+! <code>ES-MA</code>
+| [[Málaga (province)|Málaga]]
+|-
+! <code>ES-ML</code>
+| [[Melilla]]
+|-
+! <code>ES-MU</code>
+| [[Region of Murcia|Murcia]]
+|-
+! <code>ES-NA</code>
+| [[Navarre]]
+|-
+! <code>ES-O</code> 
+| [[Asturias]]
+|-
+! <code>ES-OR</code>
+| [[Ourense (province)|Ourense]]
+|-
+! <code>ES-P</code> 
+| [[Palencia (province)|Palencia]]
+|-
+! <code>ES-PM</code>
+| [[Baleares]]
+|-
+! <code>ES-PO</code>
+| [[Pontevedra (province)|Pontevedra]]
+|-
+! <code>ES-S</code> 
+| [[Cantabria]]
+|-
+! <code>ES-SA</code>
+| [[Salamanca (province)|Salamanca]]
+|-
+! <code>ES-SE</code>
+| [[Seville (province)|Seville]]
+|-
+! <code>ES-SG</code>
+| [[Segovia (province)|Segovia]]
+|-
+! <code>ES-SO</code>
+| [[Soria (province)|Soria]]
+|-
+! <code>ES-SS</code>
+| [[Guipúzcoa]]
+|-
+! <code>ES-T</code> 
+| [[Tarragona (province)|Tarragona]]
+|-
+! <code>ES-TE</code>
+| [[Teruel (province)|Teruel]]
+|-
+! <code>ES-TF</code>
+| [[Santa Cruz de Tenerife (province)|Santa Cruz De Tenerife]]
+|-
+! <code>ES-TO</code>
+| [[Toledo (province)|Toledo]]
+|-
+! <code>ES-V</code> 
+| [[Valencia (province)|Valencia]]
+|-
+! <code>ES-VA</code>
+| [[Valladolid (province)|Valladolid]]
+|-
+! <code>ES-VI</code>
+| [[Álava]]
+|-
+! <code>ES-Z</code> 
+| [[Zaragoza (province)|Zaragoza]]
+|-
+! <code>ES-ZA</code>
+| [[Zamora (province)|Zamora]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | Autonomous communities †
+|-
+! ________________________
+| <code>_____ </code>
+|-
+! [[Andalusia|Andalucía]]
+| <code>ES-AN</code>
+|-
+! [[Aragon|Aragón]]
+| <code>ES-AR</code>
+|-
+! [[Asturias]]
+| <code>ES-O</code>
+|-
+! [[Balearic Islands]]
+| <code>ES-IB</code>
+|-
+! [[Basque Country (autonomous community)|Basque Country]]
+| <code>ES-PV</code>
+|-
+! [[Canary Islands]]
+| <code>ES-CN</code>
+|-
+! [[Cantabria]]
+| <code>ES-S</code>
+|-
+! [[Castile-La Mancha|Castilla-La Mancha]]
+| <code>ES-CM</code>
+|-
+! [[Castile and León|Castilla y León]]
+| <code>ES-CL</code>
+|-
+! [[Catalonia]]
+| <code>ES-CT</code>
+|-
+! [[Extremadura]]
+| <code>ES-EX</code>
+|-
+! [[Galicia (Spain)|Galicia]]
+| <code>ES-GA</code>
+|-
+! [[La Rioja (autonomous community)|La Rioja]]
+| <code>ES-LO</code>
+|-
+! [[Community of Madrid|Madrid]]
+| <code>ES-M</code>
+|-
+! [[Region of Murcia|Murcia]]
+| <code>ES-MU</code>
+|-
+! [[Navarre]]
+| <code>ES-NA</code>
+|-
+! [[Valencia (autonomous community)|Valencia]]
+| <code>ES-VC</code>
+|-
+! colspan="2" style="background-color:silver;" | Provinces
+|-
+! [[A Coruña (province)|A Coruña]]
+| <code>ES-C</code> 
+|-
+! [[Álava]]
+| <code>ES-VI</code>
+|-
+! [[Albacete (province)|Albacete]]
+| <code>ES-AB</code>
+|-
+! [[Alicante (province)|Alicante]]
+| <code>ES-A</code> 
+|-
+! [[Almería (province)|Almería]]
+| <code>ES-AL</code>
+|-
+! [[Asturias]]
+| <code>ES-O</code>
+|-
+! [[Ávila (province)|Ávila]]
+| <code>ES-AV</code>
+|-
+! [[Badajoz (province)|Badajoz]]
+| <code>ES-BA</code>
+|-
+! [[Baleares]]
+| <code>ES-PM</code>
+|-
+! [[Barcelona (province)|Barcelona]]
+| <code>ES-B</code>
+|-
+! [[Biscay]]
+| <code>ES-BI</code>
+|-
+! [[Burgos (province)|Burgos]]
+| <code>ES-BU</code>
+|-
+! [[Cáceres (province)|Cáceres]]
+| <code>ES-CC</code>
+|-
+! [[Cádiz (province)|Cádiz]]
+| <code>ES-CA</code>
+|-
+! [[Cantabria]]
+| <code>ES-S</code> 
+|-
+! [[Castellón (province)|Castellón]]
+| <code>ES-CS</code>
+|-
+! [[Ciudad Real (province)|Ciudad Real]]
+| <code>ES-CR</code>
+|-
+! [[Córdoba Province, Spain|Córdoba]]
+| <code>ES-CO</code>
+|-
+! [[Cuenca (province)|Cuenca]]
+| <code>ES-CU</code>
+|-
+! [[Girona (province)|Girona]]
+| <code>ES-GI</code>
+|-
+! [[Granada (province)|Granada]]
+| <code>ES-GR</code>
+|-
+! [[Guadalajara (province)|Guadalajara]]
+| <code>ES-GU</code>
+|-
+! [[Guipúzcoa]]
+| <code>ES-SS</code>
+|-
+! [[Huelva (province)|Huelva]]
+| <code>ES-H</code> 
+|-
+! [[Huesca (province)|Huesca]]
+| <code>ES-HU</code>
+|-
+! [[Jaén Province, Spain|Jaén]]
+| <code>ES-J</code> 
+|-
+! [[La Rioja (autonomous community)|La Rioja]]
+| <code>ES-LO</code>
+|-
+! [[Las Palmas (province)|Las Palmas]]
+| <code>ES-GC</code>
+|-
+! [[León (province)|León]]
+| <code>ES-LE</code>
+|-
+! [[Lleida (province)|Lleida]]
+| <code>ES-L</code> 
+|-
+! [[Lugo (province)|Lugo]]
+| <code>ES-LU</code>
+|-
+! [[Community of Madrid|Madrid]]
+| <code>ES-M</code> 
+|-
+! [[Málaga (province)|Málaga]]
+| <code>ES-MA</code>
+|-
+! [[Region of Murcia|Murcia]]
+| <code>ES-MU</code>
+|-
+! [[Navarre]]
+| <code>ES-NA</code>
+|-
+! [[Ourense (province)|Ourense]]
+| <code>ES-OR</code>
+|-
+! [[Palencia (province)|Palencia]]
+| <code>ES-P</code> 
+|-
+! [[Pontevedra (province)|Pontevedra]]
+| <code>ES-PO</code>
+|-
+! [[Salamanca (province)|Salamanca]]
+| <code>ES-SA</code>
+|-
+! [[Santa Cruz de Tenerife (province)|Santa Cruz De Tenerife]]
+| <code>ES-TF</code>
+|-
+! [[Segovia (province)|Segovia]]
+| <code>ES-SG</code>
+|-
+! [[Seville (province)|Seville]]
+| <code>ES-SE</code>
+|-
+! [[Soria (province)|Soria]]
+| <code>ES-SO</code>
+|-
+! [[Tarragona (province)|Tarragona]]
+| <code>ES-T</code> 
+|-
+! [[Teruel (province)|Teruel]]
+| <code>ES-TE</code>
+|-
+! [[Toledo (province)|Toledo]]
+| <code>ES-TO</code>
+|-
+! [[Valencia (province)|Valencia]]
+| <code>ES-V</code> 
+|-
+! [[Valladolid (province)|Valladolid]]
+| <code>ES-VA</code>
+|-
+! [[Zamora (province)|Zamora]]
+| <code>ES-ZA</code>
+|-
+! [[Zaragoza (province)|Zaragoza]]
+| <code>ES-Z</code> 
+|-
+! colspan="2" style="background-color:silver;" | Autonomous cities in North Africa
+|-
+! [[Ceuta]]
+| <code>ES-CE</code>
+|-
+! [[Melilla]]
+| <code>ES-ML</code>
+|}
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[Autonomous communities of Spain]], [[Provinces of Spain]], [[Plaza de soberanía]]
+[[Category:Autonomous communities of Spain|*]]
+[[Category:ISO 3166|2:ES]]
+
+[[ca:ISO 3166-2:ES]]
+[[cs:ISO 3166-2:ES]]
+[[de:ISO 3166-2:ES]]
+[[es:ISO 3166-2:ES]]
+[[eu:ISO 3166-2:ES]]
+[[fr:ISO 3166-2:ES]]
+[[it:ISO 3166-2:ES]]
+[[ja:ISO 3166-2:ES]]
+[[sk:ISO 3166-2:ES]]
