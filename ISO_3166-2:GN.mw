@@ -1,0 +1,248 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:GN'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Guinea]].
+==Newsletters==
+* [[ISO 3166-2:2002-05-21]]
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>GN-BE</code>
+| [[Beyla]]
+|-
+! <code>GN-BF</code>
+| [[Boffa]]
+|-
+! <code>GN-BK</code>
+| [[Boké]]
+|-
+! <code>GN-CO</code>
+| [[Coyah]]
+|-
+! <code>GN-DB</code>
+| [[Dabola]]
+|-
+! <code>GN-DI</code>
+| [[Dinguiraye]]
+|-
+! <code>GN-DL</code>
+| [[Dalaba]]
+|-
+! <code>GN-DU</code>
+| [[Dubréka]]
+|-
+! <code>GN-FA</code>
+| [[Faranah]]
+|-
+! <code>GN-FO</code>
+| [[Forécariah]]
+|-
+! <code>GN-FR</code>
+| [[Fria]]
+|-
+! <code>GN-GA</code>
+| [[Gaoual]]
+|-
+! <code>GN-GU</code>
+| [[Guékédou]]
+|-
+! <code>GN-KA</code>
+| [[Kankan]]
+|-
+! <code>GN-KB</code>
+| [[Koubia]]
+|-
+! <code>GN-KD</code>
+| [[Kindia]]
+|-
+! <code>GN-KE</code>
+| [[Kérouané]]
+|-
+! <code>GN-KN</code>
+| [[Koundara]]
+|-
+! <code>GN-KO</code>
+| [[Kouroussa]]
+|-
+! <code>GN-KS</code>
+| [[Kissidougou]]
+|-
+! <code>GN-LA</code>
+| [[Labé]]
+|-
+! <code>GN-LE</code>
+| [[Lélouma]]
+|-
+! <code>GN-LO</code>
+| [[Lola, Guinea|Lola]]
+|-
+! <code>GN-MC</code>
+| [[Macenta]]
+|-
+! <code>GN-MD</code>
+| [[Mandiana]]
+|-
+! <code>GN-ML</code>
+| [[Mali]]
+|-
+! <code>GN-MM</code>
+| [[Mamou]]
+|-
+! <code>GN-NZ</code>
+| [[Nzérékoré]]
+|-
+! <code>GN-PI</code>
+| [[Pita]]
+|-
+! <code>GN-SI</code>
+| [[Siguiri]]
+|-
+! <code>GN-TE</code>
+| [[Télimélé]]
+|-
+! <code>GN-TO</code>
+| [[Tougué]]
+|-
+! <code>GN-YO</code>
+| [[Yomou]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Boké]] (GN-B)
+|-
+! [[Boffa]]
+| <code>GN-BF</code>
+|-
+! [[Boké]]
+| <code>GN-BK</code>
+|-
+! [[Fria]]
+| <code>GN-FR</code>
+|-
+! [[Gaoual]]
+| <code>GN-GA</code>
+|-
+! [[Koundara]]
+| <code>GN-KN</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Faranah]] (GN-F)
+|-
+! [[Dabola]]
+| <code>GN-DB</code>
+|-
+! [[Dinguiraye]]
+| <code>GN-DI</code>
+|-
+! [[Faranah]]
+| <code>GN-FA</code>
+|-
+! [[Kissidougou]]
+| <code>GN-KS</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Conakry]] (GN-C)
+|-
+|
+| (only contains the city of <b>[[Conakry]]</b>)
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Kankan]] (GN-D)
+|-
+! [[Kankan]]
+| <code>GN-KA</code>
+|-
+! [[Kérouané]]
+| <code>GN-KE</code>
+|-
+! [[Kouroussa]]
+| <code>GN-KO</code>
+|-
+! [[Mandiana]]
+| <code>GN-MD</code>
+|-
+! [[Siguiri]]
+| <code>GN-SI</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Kindia]] (GN-D)
+|-
+! [[Coyah]]
+| <code>GN-CO</code>
+|-
+! [[Dubréka]]
+| <code>GN-DU</code>
+|-
+! [[Forécariah]]
+| <code>GN-FO</code>
+|-
+! [[Kindia]]
+| <code>GN-KD</code>
+|-
+! [[Télimélé]]
+| <code>GN-TE</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Labé]] (GN-L)
+|-
+! [[Koubia]]
+| <code>GN-KB</code>
+|-
+! [[Labé]]
+| <code>GN-LA</code>
+|-
+! [[Lélouma]]
+| <code>GN-LE</code>
+|-
+! [[Mali]]
+| <code>GN-ML</code>
+|-
+! [[Tougué]]
+| <code>GN-TO</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Mamou]] (GN-M)
+|-
+! [[Dalaba]]
+| <code>GN-DL</code>
+|-
+! [[Mamou]]
+| <code>GN-MM</code>
+|-
+! [[Pita]]
+| <code>GN-PI</code>
+|-
+! colspan="2" style="background-color:silver;" | [[Gouvernorat de Nzérékoré]] (GN-N)
+|-
+! [[Beyla]]
+| <code>GN-BE</code>
+|-
+! [[Guékédou]]
+| <code>GN-GU</code>
+|-
+! [[Lola, Guinea|Lola]]
+| <code>GN-LO</code>
+|-
+! [[Macenta]]
+| <code>GN-MC</code>
+|-
+! [[Nzérékoré]]
+| <code>GN-NZ</code>
+|-
+! [[Yomou]]
+| <code>GN-YO</code>
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Prefectures of Guinea]]
+[[Category:Geography of Guinea]]
+[[Category:ISO 3166|2:GN]]
+
+[[cs:ISO 3166-2:GN]]
+[[de:ISO 3166-2:GN]]
+[[fr:ISO 3166-2:GN]]
+[[sk:ISO 3166-2:GN]]
