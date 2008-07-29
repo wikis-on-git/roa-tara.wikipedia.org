@@ -47,7 +47,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 530 || ANT || AN || [[ISO 3166-2:AN]]**
 |-
 |{{SAU}}
-| 682 || SAU || SA || [[ISO 3166-2:SA]]**
+| 682 || SAU || SA || [[ISO 3166-2:SA]]*
 |-
 |{{ARG}}
 | 032 || ARG || AR || [[ISO 3166-2:AR]]*
@@ -356,7 +356,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 612 || PCN || PN || [[ISO 3166-2:PN]]**
 |-
 |{{SLB}}
-| 090 || SLB || SB || [[ISO 3166-2:SB]]**
+| 090 || SLB || SB || [[ISO 3166-2:SB]]*
 |-
 |{{VGB}}
 | 092 || VGB || VG || [[ISO 3166-2:VG]]**
@@ -587,16 +587,16 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 732 || ESH || EH || [[ISO 3166-2:EH]]**
 |-
 |{{KNA}}
-| 659 || KNA || KN || [[ISO 3166-2:KN]]**
+| 659 || KNA || KN || [[ISO 3166-2:KN]]*
 |-
 |{{LCA}}
 | 662 || LCA || LC || [[ISO 3166-2:LC]]**
 |-
 |{{SHN}}
-| 654 || SHN || SH || [[ISO 3166-2:SH]]**
+| 654 || SHN || SH || [[ISO 3166-2:SH]]*
 |-
 |{{VCT}}
-| 670 || VCT || VC || [[ISO 3166-2:VC]]**
+| 670 || VCT || VC || [[ISO 3166-2:VC]]*
 |-
 |{{BLM}}
 | 652 || BLM || BL || [[ISO 3166-2:BL]]**
@@ -608,73 +608,73 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 666 || SPM || PM || [[ISO 3166-2:PM]]**
 |-
 |{{WSM}}
-| 882 || WSM || WS || [[ISO 3166-2:WS]]**
+| 882 || WSM || WS || [[ISO 3166-2:WS]]*
 |-
 |{{ASM}}
 | 016 || ASM || AS || [[ISO 3166-2:AS]]**
 |-
 |{{SMR}}
-| 674 || SMR || SM || [[ISO 3166-2:SM]]**
+| 674 || SMR || SM || [[ISO 3166-2:SM]]*
 |-
 |{{STP}}
-| 678 || STP || ST || [[ISO 3166-2:ST]]**
+| 678 || STP || ST || [[ISO 3166-2:ST]]*
 |-
 |{{SEN}}
-| 686 || SEN || SN || [[ISO 3166-2:SN]]**
+| 686 || SEN || SN || [[ISO 3166-2:SN]]*
 |-
 |{{SRB}}
-| 688 || SRB || RS || [[ISO 3166-2:RS]]**
+| 688 || SRB || RS || [[ISO 3166-2:RS]]*
 |-
 |{{SYC}}
-| 690 || SYC || SC || [[ISO 3166-2:SC]]**
+| 690 || SYC || SC || [[ISO 3166-2:SC]]*
 |-
 |{{SLE}}
-| 694 || SLE || SL || [[ISO 3166-2:SL]]**
+| 694 || SLE || SL || [[ISO 3166-2:SL]]*
 |-
 |{{SGP}}
-| 702 || SGP || SG || [[ISO 3166-2:SG]]**
+| 702 || SGP || SG || [[ISO 3166-2:SG]]*
 |-
 |{{SYR}}
-| 760 || SYR || SY || [[ISO 3166-2:SY]]**
+| 760 || SYR || SY || [[ISO 3166-2:SY]]*
 |-
 |{{SVK}}
-| 703 || SVK || SK || [[ISO 3166-2:SK]]**
+| 703 || SVK || SK || [[ISO 3166-2:SK]]*
 |-
 |{{SVN}}
-| 705 || SVN || SI || [[ISO 3166-2:SI]]**
+| 705 || SVN || SI || [[ISO 3166-2:SI]]*
 |-
 |{{SOM}}
-| 706 || SOM || SO || [[ISO 3166-2:SO]]**
+| 706 || SOM || SO || [[ISO 3166-2:SO]]*
 |-
 |{{ESP}}
-| 724 || ESP || ES || [[ISO 3166-2:ES]]**
+| 724 || ESP || ES || [[ISO 3166-2:ES]]*
 |-
 |{{LKA}}
-| 144 || LKA || LK || [[ISO 3166-2:LK]]**
+| 144 || LKA || LK || [[ISO 3166-2:LK]]*
 |-
 |{{USA}}
 | 840 || USA || US || [[ISO 3166-2:US]]**
 |-
 |{{ZAF}}
-| 710 || ZAF || ZA || [[ISO 3166-2:ZA]]**
+| 710 || ZAF || ZA || [[ISO 3166-2:ZA]]*
 |-
 |{{SDN}}
-| 736 || SDN || SD || [[ISO 3166-2:SD]]**
+| 736 || SDN || SD || [[ISO 3166-2:SD]]*
 |-
 |{{SUR}}
-| 740 || SUR || SR || [[ISO 3166-2:SR]]**
+| 740 || SUR || SR || [[ISO 3166-2:SR]]*
 |-
 |{{SJM}}
 | 744 || SJM || SJ || [[ISO 3166-2:SJ]]**
 |-
 |{{SWE}}
-| 752 || SWE || SE || [[ISO 3166-2:SE]]**
+| 752 || SWE || SE || [[ISO 3166-2:SE]]*
 |-
 |{{CHE}}
-| 756 || CHE || CH || [[ISO 3166-2:CH]]**
+| 756 || CHE || CH || [[ISO 3166-2:CH]]*
 |-
 |{{SWZ}}
-| 748 || SWZ || SZ || [[ISO 3166-2:SZ]]**
+| 748 || SWZ || SZ || [[ISO 3166-2:SZ]]*
 |-
 |{{TJK}}
 | 762 || TJK || TJ || [[ISO 3166-2:TJ]]**
