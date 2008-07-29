@@ -1,0 +1,201 @@
+{{torna a|ISO 3166-1}}
+'''ISO 3166-2:BR'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Brazil]].
+It covers 1 Federal District and 26 [[state (non-sovereign)|state]]s.
+
+Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and a two-digit-alphabetic sub-code, hyphenated together.
+
+==Codes== 
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>BR-AC</code>
+| {{flag|Acre}}
+|-
+! <code>BR-AL</code>
+| {{flag|Alagoas}} 
+|-
+! <code>BR-AM</code>
+| {{flag|Amazonas}} 
+|-
+! <code>BR-AP</code>
+| {{flag|Amapá}}
+|-
+! <code>BR-BA</code>
+| {{flag|Bahia}}
+|-
+! <code>BR-CE</code>
+| {{flag|Ceará}}
+|-
+! <code>BR-DF</code>
+| {{flag|Distrito Federal}}
+|-
+! <code>BR-ES</code>
+| {{flag|Espírito Santo}}
+|-
+! <code>BR-GO</code>
+| {{flag|Goiás}}
+|-
+! <code>BR-MA</code>
+| {{flag|Maranhão}} 
+|-
+! <code>BR-MG</code>
+| {{flag|Minas Gerais}}
+|-
+! <code>BR-MS</code>
+| {{flag|Mato Grosso do Sul}}
+|-
+! <code>BR-MT</code>
+| {{flag|Mato Grosso}}
+|-
+! <code>BR-PA</code>
+| {{flag|Pará}}
+|-
+! <code>BR-PB</code>
+| {{flag|Paraíba}}
+|-
+! <code>BR-PE</code>
+| {{flag|Pernambuco}} 
+|-
+! <code>BR-PI</code>
+| {{flag|Piauí}}
+|-
+! <code>BR-PR</code>
+| {{flag|Paraná}}
+|-
+! <code>BR-RJ</code>
+| {{flag|Rio de Janeiro}} 
+|-
+! <code>BR-RN</code>
+| {{flag|Rio Grande do Norte}} 
+|-
+! <code>BR-RO</code>
+| {{flag|Rondônia}}
+|-
+! <code>BR-RR</code>
+| {{flag|Roraima}}
+|-
+! <code>BR-RS</code>
+| {{flag|Rio Grande do Sul}}
+|-
+! <code>BR-SC</code>
+| {{flag|Santa Catarina}} 
+|-
+! <code>BR-SE</code>
+| {{flag|Sergipe}}
+|-
+! <code>BR-SP</code>
+| {{flag|São Paulo}}
+|-
+! <code>BR-TO</code>
+| {{flag|Tocantins}}
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | Federal District
+|-
+! [[Brazilian Federal District|Distrito Federal]]
+| <code>BR-DF</code>
+|-
+! colspan="2" style="background-color:silver;" | States
+|-
+! [[Acre (state)|Acre]]
+| <code>BR-AC</code>
+|-
+! [[Alagoas]] 
+| <code>BR-AL</code>
+|-
+! [[Amapá]]
+| <code>BR-AP</code>
+|-
+! [[Amazonas (Brazilian state)|Amazonas]] 
+| <code>BR-AM</code>
+|-
+! [[Bahia]]
+| <code>BR-BA</code>
+|-
+! [[Ceará]]
+| <code>BR-CE</code>
+|-
+! [[Espírito Santo]]
+| <code>BR-ES</code>
+|-
+! [[Goiás]]
+| <code>BR-GO</code>
+|-
+! [[Maranhão]]
+| <code>BR-MA</code>
+|-
+! [[Mato Grosso]]
+| <code>BR-MT</code>
+|-
+! [[Mato Grosso do Sul]]
+| <code>BR-MS</code>
+|-
+! [[Minas Gerais]]
+| <code>BR-MG</code>
+|-
+! [[Pará]]
+| <code>BR-PA</code>
+|-
+! [[Paraíba]]
+| <code>BR-PB</code>
+|-
+! [[Paraná (state)|Paraná]]
+| <code>BR-PR</code>
+|-
+! [[Pernambuco]] 
+| <code>BR-PE</code>
+|-
+! [[Piauí]]
+| <code>BR-PI</code>
+|-
+! [[Rio de Janeiro (state)|Rio de Janeiro]] 
+| <code>BR-RJ</code>
+|-
+! [[Rio Grande do Norte]] 
+| <code>BR-RN</code>
+|-
+! [[Rio Grande do Sul]]
+| <code>BR-RS</code>
+|-
+! [[Rondônia]]
+| <code>BR-RO</code>
+|-
+! [[Roraima]]
+| <code>BR-RR</code>
+|-
+! [[Santa Catarina (state)|Santa Catarina]] 
+| <code>BR-SC</code>
+|-
+! [[São Paulo (state)|São Paulo]]
+| <code>BR-SP</code>
+|-
+! [[Sergipe]]
+| <code>BR-SE</code>
+|-
+! [[Tocantins (state)|Tocantins]] 
+| <code>BR-TO</code>
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes.
+* [[States of Brazil]]
+[[Category:Sciugrafije d'u Brasile]]
+[[Category:ISO 3166|2:BR]]
+
+[[cs:ISO 3166-2:BR]]
+[[de:ISO 3166-2:BR]]
+[[es:ISO 3166-2:BR]]
+[[fr:ISO 3166-2:BR]]
+[[pt:ISO 3166-2:BR]]
+[[simple:ISO 3166-2:BR]]
+[[sk:ISO 3166-2:BR]]
+[[vi:ISO 3166-2:BR]]
