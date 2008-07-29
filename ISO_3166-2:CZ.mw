@@ -1,0 +1,285 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:CZ'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+the [[Czech Republic]].
+It covers the 14 [[Regions of the Czech Republic]].
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+the Czech Republic ('''CZ''')
+and a 2-character (alphabetic) subcode, hyphenated together.
+
+'J' in 'jiho' stands for south.
+
+==Newsletters ==
+* [[ISO 3166-2:2002-05-21]]
+* [[ISO 3166-2:2002-08-20]]
+* [[ISO 3166-2:2003-09-05]]
+* [[ISO 3166-2:2007-11-28]]
+
+==Codes==
+{| style="white-space:nowrap;"
+|+ Codes for Regions
+|-
+! <code>CZ-JC</code>
+| [[South Bohemian Region]]
+| [[:cs:Jihočeský kraj|Jihočeský kraj]]
+|-
+! <code>CZ-JM</code>
+| [[South Moravian Region]]
+| [[:cs:Jihomoravský kraj|Jihomoravský kraj]]
+|-
+! <code>CZ-KA</code>
+| [[Carlsbad Region]]
+| [[:cs:Karlovarský kraj|Karlovarský kraj]]
+|-
+! <code>CZ-VY</code>
+| [[Vysočina Region]]
+| [[:cs:Kraj Vysočina|Kraj Vysočina]]
+|-
+! <code>CZ-KR</code>
+| [[Hradec Králové Region]]
+| [[:cs:Královéhradecký kraj|Královéhradecký kraj]]
+|-
+! <code>CZ-LI</code>
+| [[Liberec Region]]
+| [[:cs:Liberecký kraj|Liberecký kraj]]
+|-
+! <code>CZ-MO</code>
+| [[Moravian-Silesian Region]]
+| [[:cs:Moravskoslezský kraj|Moravskoslezský kraj]]
+|-
+! <code>CZ-OL</code>
+| [[Olomouc Region]]
+| [[:cs:Olomoucký kraj|Olomoucký kraj]]
+|-
+! <code>CZ-PA</code>
+| [[Pardubice Region]]
+| [[:cs:Pardubický kraj|Pardubický kraj]]
+|-
+! <code>CZ-PL</code>
+| [[Plzen Region|Plzeň Region]]
+| [[:cs:Plzeňský kraj|Plzeňský kraj]]
+|-
+! <code>CZ-PR</code>
+| [[Prague|Prague, the Capital]]
+| [[:cs:Praha|Praha, hlavní město]]
+|-
+! <code>CZ-ST</code>
+| [[Central Bohemian Region]]
+| [[:cs:Středočeský kraj|Středočeský kraj]]
+|-
+! <code>CZ-US</code>
+| [[Ústí nad Labem Region]]
+| [[:cs:Ústecký kraj|Ústecký kraj]]
+|-
+! <code>CZ-ZL</code>
+| [[Zlin Region|Zlín Region]]
+| [[:cs:Zlínský kraj|Zlínský kraj]]
+|}
+
+
+
+{| style="white-space:nowrap;"
+|+ Codes for Districts
+!Code!!District!!Region
+|-
+|CZ-201||[[Benešov]]||ST
+|-
+|CZ-202||[[Beroun]]||ST
+|-
+|CZ-203||[[Kladno]]||ST
+|-
+|CZ-204||[[Kolín]]||ST
+|-
+|CZ-205||[[Kutná Hora]]||ST
+|-
+|CZ-206||[[Mělník]]||ST
+|-
+|CZ-207||[[Mladá Boleslav]]||ST
+|-
+|CZ-208||[[Nymburk]]||ST
+|-
+|CZ-209||[[Praha-východ]]||ST
+|-
+|CZ-20A||[[Praha-západ]]||ST
+|-
+|CZ-20B||[[Příbram]]||ST
+|-
+|CZ-20C||[[Rakovník]]||ST
+|-
+|CZ-311||[[České Budějovice]]||JC
+|-
+|CZ-312||[[Český Krumlov]]||JC
+|-
+|CZ-313||[[Jindřichův Hradec]]||JC
+|-
+|CZ-314||[[Písek]]||JC
+|-
+|CZ-315||[[Prachatice]]||JC
+|-
+|CZ-316||[[Strakonice]]||JC
+|-
+|CZ-317||[[Tábor]]||JC
+|-
+|CZ-321||[[Domažlice]]||PL
+|-
+|CZ-322||[[Klatovy]]||PL
+|-
+|CZ-323||[[Plzeň-město]]||PL
+|-
+|CZ-324||[[Plzeň-jih]]||PL
+|-
+|CZ-325||[[Plzeň-sever]]||PL
+|-
+|CZ-326||[[Rokycany]]||PL
+|-
+|CZ-327||[[Tachov]]||PL
+|-
+|CZ-411||[[Cheb]]||KA
+|-
+|CZ-412||[[Karlovy Vary]]||KA
+|-
+|CZ-413||[[Sokolov]]||KA
+|-
+|CZ-421||[[Děčín]]||US
+|-
+|CZ-422||[[Chomutov]]||US
+|-
+|CZ-423||[[Litoměřice]]||US
+|-
+|CZ-424||[[Louny]]||US
+|-
+|CZ-425||[[Most]]||US
+|-
+|CZ-426||[[Teplice]]||US
+|-
+|CZ-427||[[Ústí nad Labem]]||US
+|-
+|CZ-511||[[Česká Lípa]]||LI
+|-
+|CZ-512||[[Jablonec nad Nisou]]||LI
+|-
+|CZ-513||[[Liberec]]||LI
+|-
+|CZ-514||[[Semily]]||LI
+|-
+|CZ-521||[[Hradec Králové]]||KR
+|-
+|CZ-522||[[Jičín]]||KR
+|-
+|CZ-523||[[Náchod]]||KR
+|-
+|CZ-524||[[Rychnov nad Kněžnou]]||KR
+|-
+|CZ-525||[[Trutnov]]||KR
+|-
+|CZ-531||[[Chrudim]]||PA
+|-
+|CZ-532||[[Pardubice]]||PA
+|-
+|CZ-533||[[Svitavy]]||PA
+|-
+|CZ-534||[[Ústí nad Orlicí]]||PA
+|-
+|CZ-621||[[Blansko]]||JM
+|-
+|CZ-622||[[Brno-město]]||JM
+|-
+|CZ-623||[[Brno-venkov]]||JM
+|-
+|CZ-624||[[Břeclav]]||JM
+|-
+|CZ-625||[[Hodonín]]||JM
+|-
+|CZ-626||[[Vyškov]]||JM
+|-
+|CZ-627||[[Znojmo]]||JM
+|-
+|CZ-711||[[Jeseník]]||OL
+|-
+|CZ-712||[[Olomouc]]||OL
+|-
+|CZ-713||[[Prostĕjov]]||OL
+|-
+|CZ-714||[[Přerov]]||OL
+|-
+|CZ-715||[[Šumperk]]||OL
+|-
+|CZ-721||[[Kromĕříž]]||ZL
+|-
+|CZ-722||[[Uherské Hradištĕ]]||ZL
+|-
+|CZ-723||[[Vsetín]]||ZL
+|-
+|CZ-724||[[Zlín]]||ZL
+|-
+|CZ-801||[[Bruntál]]||MO
+|-
+|CZ-802||[[Frýdek - Místek]]||MO
+|-
+|CZ-803||[[Karviná]]||MO
+|-
+|CZ-804||[[Nový Jičín]]||MO
+|-
+|CZ-805||[[Opava]]||MO
+|-
+|CZ-806||[[Ostrava - město]]||MO
+|-
+|CZ-101||[[Praha 1]]||PR
+|-
+|CZ-102||[[Praha 2]]||PR
+|-
+|CZ-103||[[Praha 3]]||PR
+|-
+|CZ-104||[[Praha 4]]||PR
+|-
+|CZ-105||[[Praha 5]]||PR
+|-
+|CZ-106||[[Praha 6]]||PR
+|-
+|CZ-107||[[Praha 7]]||PR
+|-
+|CZ-108||[[Praha 8]]||PR
+|-
+|CZ-109||[[Praha 9]]||PR
+|-
+|CZ-10A||[[Praha 10]]||PR
+|-
+|CZ-10B||[[Praha 11]]||PR
+|-
+|CZ-10C||[[Praha 12]]||PR
+|-
+|CZ-10D||[[Praha 13]]||PR
+|-
+|CZ-10E||[[Praha 14]]||PR
+|-
+|CZ-10F||[[Praha 15]]||PR
+|-
+|CZ-611||[[Havlíčkův Brod]]||VY
+|-
+|CZ-612||[[Jihlava]]||VY
+|-
+|CZ-613||[[Pelhřimov]]||VY
+|-
+|CZ-614||[[Třebíč]]||VY
+|-
+|CZ-615||[[Žd’ár nad Sázavou]]||VY
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+
+[[Category:Sciugrafije d'a Repubblica Ceca]]
+[[Category:ISO 3166|2:CZ]]
+
+[[cs:ISO 3166-2:CZ]]
+[[de:ISO 3166-2:CZ]]
+[[eo:ISO 3166-2:CZ]]
+[[fr:ISO 3166-2:CZ]]
+[[it:ISO 3166-2:CZ]]
+[[lt:ISO 3166-2:CZ]]
+[[ja:ISO 3166-2:CZ]]
+[[pl:ISO 3166-2:CZ]]
+[[sk:ISO 3166-2:CZ]]
