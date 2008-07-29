@@ -191,7 +191,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 222 || SLV || SV || [[ISO 3166-2:SV]]*
 |-
 |{{ARE}}
-| 784 || ARE || AE || [[ISO 3166-2:AE]]**
+| 784 || ARE || AE || [[ISO 3166-2:AE]]*
 |-
 |{{ERI}}
 | 232 || ERI || ER || [[ISO 3166-2:ER]]*
@@ -350,7 +350,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 584 || MHL || MH || [[ISO 3166-2:MH]]*
 |-
 |{{UMI}}
-| 581 || UMI || UM || [[ISO 3166-2:UM]]**
+| 581 || UMI || UM || [[ISO 3166-2:UM]]*
 |-
 |{{PCN}}
 | 612 || PCN || PN || [[ISO 3166-2:PN]]**
@@ -551,13 +551,10 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 634 || QAT || QA || [[ISO 3166-2:QA]]*
 |-
 |{{GBR}}
-| 826 || GBR || GB || [[ISO 3166-2:GB]]**
+| 826 || GBR || GB || [[ISO 3166-2:GB]]*
 |-
 |{{COD}}
 | 180 || COD || CD || [[ISO 3166-2:CD]]*
-|-
-|{{TWN}}
-| 158 || TWN || TW || [[ISO 3166-2:TW]]**
 |-
 |{{CZE}}
 | 203 || CZE || CZ || [[ISO 3166-2:CZ]]*
@@ -653,7 +650,7 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 144 || LKA || LK || [[ISO 3166-2:LK]]*
 |-
 |{{USA}}
-| 840 || USA || US || [[ISO 3166-2:US]]**
+| 840 || USA || US || [[ISO 3166-2:US]]*
 |-
 |{{ZAF}}
 | 710 || ZAF || ZA || [[ISO 3166-2:ZA]]*
@@ -677,10 +674,13 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 748 || SWZ || SZ || [[ISO 3166-2:SZ]]*
 |-
 |{{TJK}}
-| 762 || TJK || TJ || [[ISO 3166-2:TJ]]**
+| 762 || TJK || TJ || [[ISO 3166-2:TJ]]*
+|-
+|{{TWN}}
+| 158 || TWN || TW || [[ISO 3166-2:TW]]*
 |-
 |{{TZA}}
-| 834 || TZA || TZ || [[ISO 3166-2:TZ]]**
+| 834 || TZA || TZ || [[ISO 3166-2:TZ]]*
 |-
 |{{ATF}}
 | 260 || ATF || TF || [[ISO 3166-2:TF]]**
@@ -689,73 +689,73 @@ Sondë in ordene 'fabbeteco assecondë 'u nome tagliàne.
 | 086 || IOT || IO || [[ISO 3166-2:IO]]**
 |-
 |{{THA}}
-| 764 || THA || TH || [[ISO 3166-2:TH]]**
+| 764 || THA || TH || [[ISO 3166-2:TH]]*
 |-
 |{{TLS}}
-| 626 || TLS || TL || [[ISO 3166-2:TL]]**
+| 626 || TLS || TL || [[ISO 3166-2:TL]]*
 |-
 |{{TGO}}
-| 768 || TGO || TG || [[ISO 3166-2:TG]]**
+| 768 || TGO || TG || [[ISO 3166-2:TG]]*
 |-
 |{{TKL}}
 | 772 || TKL || TK || [[ISO 3166-2:TK]]**
 |-
 |{{TON}}
-| 776 || TON || TO || [[ISO 3166-2:TO]]**
+| 776 || TON || TO || [[ISO 3166-2:TO]]*
 |-
 |{{TTO}}
-| 780 || TTO || TT || [[ISO 3166-2:TT]]**
+| 780 || TTO || TT || [[ISO 3166-2:TT]]*
 |-
 |{{TUN}}
-| 788 || TUN || TN || [[ISO 3166-2:TN]]**
+| 788 || TUN || TN || [[ISO 3166-2:TN]]*
 |-
 |{{TUR}}
-| 792 || TUR || TR || [[ISO 3166-2:TR]]**
+| 792 || TUR || TR || [[ISO 3166-2:TR]]*
 |-
 |{{TKM}}
-| 795 || TKM || TM || [[ISO 3166-2:TM]]**
+| 795 || TKM || TM || [[ISO 3166-2:TM]]*
 |-
 |{{TCA}}
 | 796 || TCA || TC || [[ISO 3166-2:TC]]**
 |-
 |{{TUV}}
-| 798 || TUV || TV || [[ISO 3166-2:TV]]**
+| 798 || TUV || TV || [[ISO 3166-2:TV]]*
 |-
 |{{UKR}}
-| 804 || UKR || UA || [[ISO 3166-2:UA]]**
+| 804 || UKR || UA || [[ISO 3166-2:UA]]*
 |-
 |{{UGA}}
-| 800 || UGA || UG || [[ISO 3166-2:UG]]**
+| 800 || UGA || UG || [[ISO 3166-2:UG]]*
 |-
 |{{HUN}}
 | 348 || HUN || HU || [[ISO 3166-2:HU]]*
 |-
 |{{URY}}
-| 858 || URY || UY || [[ISO 3166-2:UY]]**
+| 858 || URY || UY || [[ISO 3166-2:UY]]*
 |- 
 |{{UZB}}
-| 860 || UZB || UZ || [[ISO 3166-2:UZ]]**
+| 860 || UZB || UZ || [[ISO 3166-2:UZ]]*
 |-
 |{{VUT}}
-| 548 || VUT || VU || [[ISO 3166-2:VU]]**
+| 548 || VUT || VU || [[ISO 3166-2:VU]]*
 |-
 |{{VEN}}
-| 862 || VEN || VE || [[ISO 3166-2:VE]]**
+| 862 || VEN || VE || [[ISO 3166-2:VE]]*
 |- 
 |{{VNM}}
-| 704 || VNM || VN || [[ISO 3166-2:VN]]**
+| 704 || VNM || VN || [[ISO 3166-2:VN]]*
 |-
 |{{WLF}}
 | 876 || WLF || WF || [[ISO 3166-2:WF]]**
 |-
 |{{YEM}}
-| 887 || YEM || YE || [[ISO 3166-2:YE]]**
+| 887 || YEM || YE || [[ISO 3166-2:YE]]*
 |-
 |{{ZMB}}
-| 894 || ZMB || ZM || [[ISO 3166-2:ZM]]**
+| 894 || ZMB || ZM || [[ISO 3166-2:ZM]]*
 |-
 |{{ZWE}}
-| 716 || ZWE || ZW || [[ISO 3166-2:ZW]]**
+| 716 || ZWE || ZW || [[ISO 3166-2:ZW]]*
 |}
 
 <sup>*</sup>da Tradurre
