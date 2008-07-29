@@ -1,0 +1,127 @@
+{{torna a|ISO 3166-1}}
+
+The part of '''[[International Organization for Standardization| ISO]] [[ISO 3166-2|3166-2]]''' that applies to [[Germany]] provides [[code]]s for the names of the 16 [[states of Germany|federal states of Germany]] ([[States of Germany|Bundesländer]]).
+
+Note: These ISO [[geocode]]s might be [[trademark]]ed.{{Fact|date=February 2008}}
+
+The first part is the [[ISO 3166-1]] code '''DE''' for Germany;
+the second part is two-digit-alphabetic.
+
+==Codes ==
+{| class="sortable" style="white-space:nowrap;"
+|-
+! code
+! name
+! name english
+! note
+|-
+! <code>DE-BE</code>
+|{{flag|Berlin}}
+| [[Berlin]]
+| [[city-state]]
+|-
+! <code>DE-BR</code>
+|{{flag|Brandenburg}}
+| [[Brandenburg]]
+|-
+! <code>DE-BW</code>
+|{{flag|Baden-Württemberg}}
+| [[Baden-Württemberg]]
+|-
+! <code>DE-BY</code>
+|{{flag|Bavaria}}
+| [[Bavaria]]
+| ''Bayern''
+|-
+! <code>DE-HB</code>
+|{{flag|Bremen}}
+| [[Bremen (state)|Bremen]]
+| city-state
+|-
+! <code>DE-HE</code>
+|{{flag|Hesse}}
+| [[Hesse]]
+| ''Hessen''
+|-
+! <code>DE-HH</code>
+|{{flag|Hamburg}}
+| [[Hamburg]]
+| city-state
+|-
+! <code>DE-MV</code>
+|{{flag|Mecklenburg-Vorpommern}}
+| [[Mecklenburg-Western Pomerania]]
+| ''Mecklenburg-Vorpommern''
+|-
+! <code>DE-NI</code>
+|{{flag|Lower Saxony}}
+| [[Lower Saxony]]
+| ''Niedersachsen''
+|-
+! <code>DE-NW</code>
+|{{flag|North Rhine-Westphalia}}
+| [[North Rhine-Westphalia]]
+| ''Nordrhein-Westfalen''
+|-
+! <code>DE-RP</code>
+|{{flag|Rhineland-Palatinate}}
+| [[Rhineland-Palatinate]]
+| ''Rheinland-Pfalz''
+|-
+! <code>DE-SH</code>
+|{{flag|Schleswig-Holstein}}
+| [[Schleswig-Holstein]]
+|-
+! <code>DE-SL</code>
+|{{flag|Saarland}}
+| [[Saarland]]
+|-
+! <code>DE-SN</code>
+|{{flag|Saxony}}
+| [[Saxony]]
+| ''Sachsen''
+|-
+! <code>DE-ST</code>
+|{{flag|Saxony-Anhalt}}
+| [[Saxony-Anhalt]]
+| ''Sachsen-Anhalt''
+|-
+! <code>DE-TH</code>
+|{{flag|Thuringia}}
+| [[Thuringia]]
+| ''Thüringen''
+|}
+
+==Notes==
+The codes for Bremen and Hamburg incorporate an "H" for ''[[Hansestadt]]'' as their first letter. The codes for Lower Saxony (''Niedersachsen''), Saxony and Saxony-Anhalt avoid the more intuitive but historically tainted NS (for ''[[Nazism|Nationalsozialismus]]'') and SA (for ''[[Sturmabteilung]]'').
+
+Deviant codes or abbreviations have been used traditionally especially for the (western) compound-named states and they remain in common use today. They often have three letters instead of two.
+{|
+|<code>B</code> 	|| Berlin
+|-
+|<code>BB</code>	|| Brandenburg (and failed proposal Berlin-Brandenburg)
+|-
+|<code>MVP</code>	|| Mecklenburg-Western Pomerania
+|-
+|<code>NDS</code>	|| Lower Saxony
+|-
+|<code>NRW</code>	|| North Rhine-Westphalia
+|-
+|<code>RLP</code>	|| Rhineland-Palatinate
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
+
+[[Category:Geography of Germany]]
+[[Category:ISO 3166|2:DE]]
+
+[[cs:ISO 3166-2:DE]]
+[[de:ISO 3166-2:DE]]
+[[es:ISO 3166-2:DE]]
+[[eo:ISO 3166-2:DE]]
+[[fr:ISO 3166-2:DE]]
+[[it:ISO 3166-2:DE]]
+[[pl:ISO 3166-2:DE]]
+[[sk:ISO 3166-2:DE]]
