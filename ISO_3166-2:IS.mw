@@ -1,0 +1,83 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:IS''' is an [[International Organization for Standardization |ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Iceland]]. Each two-part code consists of the [[ISO 3166-1]] code for Iceland ('''IS''') and a single character, hyphenated together.
+
+== Codes ==
+
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>IS-1</code>
+| [[Höfuðborgarsvæði|Capital region]]
+|-
+! <code>IS-2</code>
+| [[Suðurnes|Southern Peninsula]]
+|-
+! <code>IS-3</code>
+| [[Vesturland|Westland]]
+|-
+! <code>IS-4</code>
+| [[Vestfirðir|Western Fjords]]
+|-
+! <code>IS-5</code>
+| [[Norðurland vestra|Northwest]]
+|-
+! <code>IS-6</code>
+| [[Norðurland eystra|Northeast]]
+|-
+! <code>IS-7</code>
+| [[Austurland|East]] 
+|-
+! <code>IS-8</code>
+| [[Suðurland|South]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! [[Höfuðborgarsvæði|Capital region]]
+| <code>IS-1</code>
+|-
+! [[Austurland|East]] 
+| <code>IS-7</code>
+|-
+! [[Norðurland eystra|Northeast]]
+| <code>IS-6</code>
+|-
+! [[Norðurland vestra|Northwest]]
+| <code>IS-5</code>
+|-
+! [[Suðurland|South]]
+| <code>IS-8</code>
+|-
+! [[Suðurnes|Southern Peninsula]]
+| <code>IS-2</code>
+|-
+! [[Vesturland|West]]
+| <code>IS-3</code>
+|-
+! [[Vestfirðir|Western Fjords]]
+| <code>IS-4</code>
+|}
+|}
+
+==See also==
+
+* [[Regions of Iceland]]
+* [[ISO 3166-2]], the reference table for all country region codes
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]]
+
+{{Iceland-stub}}
+
+[[Category:Geography of Iceland]]
+[[Category:ISO 3166|2:IS]]
+
+[[cs:ISO 3166-2:IS]]
+[[de:ISO 3166-2:IS]]
+[[fr:ISO 3166-2:IS]]
+[[ja:ISO 3166-2:IS]]
+[[pt:ISO 3166-2:IS]]
+[[sk:ISO 3166-2:IS]]
