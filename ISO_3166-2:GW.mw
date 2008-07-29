@@ -1,0 +1,45 @@
+{{torna a|ISO 3166-1}}
+'''ISO 3166-2:GW''' is an [[ISO]] standard which defines [[geocode]]s.  It is the subset of [[ISO 3166-2]] that applies to [[Guinea-Bissau]].  Each two-part code consists of the [[ISO 3166-1]] code for Guinea-Bissau ('''GW''') and a two-digit number. 
+
+==Codes==
+The codes define eight [[Regions of Guinea-Bissau|regions]] ({{lang|pt|''regiões''}}) and one [[Autonomous entity|autonomous]] [[Sectors of Guinea-Bissau|sector]] ({{lang|pt|''sector autónomo''}}).
+
+{|
+! <code>GW-BA</code>
+| [[Bafata Region|Bafata]]
+|-
+! <code>GW-BM</code>
+| [[Biombo Region|Biombo]]
+|-
+! <code>GW-BS</code>
+| [[Bissau Region|Bissau]]*
+|-
+! <code>GW-BL</code>
+| [[Bolama Region|Bolama]]
+|-
+! <code>GW-CA</code>
+| [[Cacheu Region|Cacheu]]
+|-
+! <code>GW-GA</code>
+| [[Gabu Region|Gabu]]
+|-
+! <code>GW-OI</code>
+| [[Oio Region|Oio]]
+|-
+! <code>GW-QU</code>
+| [[Quinara Region|Quinara]]
+|-
+! <code>GW-TU</code>
+| [[Tombali Region|Tombali]]
+|-
+|}
+<small>* autonomous sector</small>
+
+
+{{standard-stub}}
+[[Category:ISO 3166|2:GW]]
+
+[[cs:ISO 3166-2:GW]]
+[[de:ISO 3166-2:GW]]
+[[it:ISO 3166-2:GW]]
+[[sk:ISO 3166-2:GW]]
