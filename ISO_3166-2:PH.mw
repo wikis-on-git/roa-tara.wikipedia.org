@@ -1,0 +1,621 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:PH''' is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to the [[Philippines]]. It covers the 79 [[Provinces of the Philippines|provinces]] (''lalawigan'') and 16 [[Regions of the Philippines|regions]] (''rehiyon'').
+
+In [[2002]], the [[Southern Tagalog]] region was divided into the [[CALABARZON]] and [[MIMAROPA]] regions. As of [[2005]], ISO 3166-2:PH has not yet been modified to reflect those changes.
+
+Each two-part code consists of the [[ISO 3166-1]] [[country code]] for the Philippines and a 3-character subcode, hyphenated together.
+
+==Newsletters==
+The newsletter [[ISO 3166-2:2002-05-21]] announced changes to ISO 3166-2:PH. This includes the addition of one region and six provinces, as well as minor spelling corrections.
+
+==Codes==
+===Regions===
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! 00
+| [[Metro Manila|National Capital Region (Manila)]]
+|-
+! 01
+| [[Ilocos Region|Ilocos]]
+|-
+! 02
+| [[Cagayan Valley]]
+|-
+! 03
+| [[Central Luzon]]
+|-
+! 04
+| [[Southern Tagalog]]
+|-
+! 05
+| [[Bicol Region|Bicol]]
+|-
+! 06
+| [[Western Visayas]]
+|-
+! 07
+| [[Central Visayas]]
+|-
+! 08
+| [[Eastern Visayas]]
+|-
+! 09
+| [[Zamboanga Peninsula|Western Mindanao]]
+|-
+! 10
+| [[Northern Mindanao]]
+|-
+! 11
+| [[Davao Region|Southern Mindanao]]
+|-
+! 12
+| [[SOCCSKSARGEN|Central Mindanao]]
+|-
+! 13
+| [[Caraga|CARAGA]]
+|-
+! 14
+| [[Autonomous Region in Muslim Mindanao|Autonomous Region in Muslim Mindanao (ARMM)]]
+|-
+! 15
+| [[Cordillera Administrative Region|Cordillera Administrative Region (CAR)]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! 14
+| [[Autonomous Region in Muslim Mindanao|Autonomous Region in Muslim Mindanao (ARMM)]]
+|-
+! 05
+| [[Bicol Region|Bicol]]
+|-
+! 02
+| [[Cagayan Valley]]
+|-
+! 13
+| [[Caraga|CARAGA]]
+|-
+! 03
+| [[Central Luzon]]
+|-
+! 12
+| [[SOCCSKSARGEN|Central Mindanao]]
+|-
+! 07
+| [[Central Visayas]]
+|-
+! 15
+| [[Cordillera Administrative Region|Cordillera Administrative Region (CAR)]]
+|-
+! 08
+| [[Eastern Visayas]]
+|-
+! 01
+| [[Ilocos Region|Ilocos]]
+|-
+! 00
+| [[Metro Manila|National Capital Region (Manila)]]
+|-
+! 10
+| [[Northern Mindanao]]
+|-
+! 11
+| [[Davao Region|Southern Mindanao]]
+|-
+! 04
+| [[Southern Tagalog]]
+|-
+! 09
+| [[Zamboanga Peninsula|Western Mindanao]]
+|-
+! 06
+| [[Western Visayas]]
+|}
+|}
+
+===Provinces===
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! PH-ABR
+| [[Abra province|Abra]]
+|-
+! PH-AGN
+| [[Agusan del Norte]]
+|-
+! PH-AGS
+| [[Agusan del Sur]]
+|-
+! PH-AKL
+| [[Aklan Province|Aklan]]
+|-
+! PH-ALB
+| [[Albay]]
+|-
+! PH-ANT
+| [[Antique province|Antique]]
+|-
+! PH-APA
+| [[Apayao Province|Apayao]]
+|-
+! PH-AUR
+| [[Aurora province|Aurora]]
+|-
+! PH-BAN
+| [[Bataan]]
+|-
+! PH-BAS
+| [[Basilan]]
+|-
+! PH-BEN
+| [[Benguet]]
+|-
+! PH-BIL
+| [[Biliran]]
+|-
+! PH-BOH
+| [[Bohol]]
+|-
+! PH-BTG
+| [[Batangas]]
+|-
+! PH-BTN
+| [[Batanes]]
+|-
+! PH-BUK
+| [[Bukidnon]]
+|-
+! PH-BUL
+| [[Bulacan]]
+|-
+! PH-CAG
+| [[Cagayan]]
+|-
+! PH-CAM
+| [[Camiguin]]
+|-
+! PH-CAN
+| [[Camarines Norte]]
+|-
+! PH-CAP
+| [[Capiz]]
+|-
+! PH-CAS
+| [[Camarines Sur]]
+|-
+! PH-CAT
+| [[Catanduanes]]
+|-
+! PH-CAV
+| [[Cavite]]
+|-
+! PH-CEB
+| [[Cebu Province|Cebu]]
+|-
+! PH-COM
+| [[Compostela Valley]]
+|-
+! PH-DAO
+| [[Davao Oriental]]
+|-
+! PH-DAS
+| [[Davao del Sur]]
+|-
+! PH-DAV
+| [[Davao del Norte]]
+|-
+! PH-EAS
+| [[Eastern Samar]]
+|-
+! PH-GUI
+| [[Guimaras]]
+|-
+! PH-IFU
+| [[Ifugao]]
+|-
+! PH-ILI
+| [[Iloilo]]
+|-
+! PH-ILN
+| [[Ilocos Norte]]
+|-
+! PH-ILS
+| [[Ilocos Sur]]
+|-
+! PH-ISA
+| [[Isabela]]
+|-
+! PH-KAL
+| [[Kalinga Province|Kalinga]]
+|-
+! PH-LAG
+| [[Laguna province|Laguna]]
+|-
+! PH-LAN
+| [[Lanao del Norte]]
+|-
+! PH-LAS
+| [[Lanao del Sur]]
+|-
+! PH-LEY
+| [[Leyte province|Leyte]]
+|-
+! PH-LUN
+| [[La Union province|La Union]]
+|-
+! PH-MAD
+| [[Marinduque]]
+|-
+! PH-MAG
+| [[Maguindanao]]
+|-
+! PH-MAS
+| [[Masbate]]
+|-
+! PH-MDC
+| [[Occidental Mindoro|Mindoro Occidental]]
+|-
+! PH-MDR
+| [[Oriental Mindoro|Mindoro Oriental]]
+|-
+! PH-MOU
+| [[Mountain Province]]
+|-
+! PH-MSC
+| [[Misamis Occidental]]
+|-
+! PH-MSR
+| [[Misamis Oriental]]
+|-
+! PH-NCO
+| [[Cotabato province|Cotabato]] (North Cotabato)
+|-
+! PH-NSA
+| [[Northern Samar]]
+|-
+! PH-NEC
+| [[Negros Occidental]]
+|-
+! PH-NER
+| [[Negros Oriental]]
+|-
+! PH-NUE
+| [[Nueva Ecija]]
+|-
+! PH-NUV
+| [[Nueva Vizcaya]]
+|-
+! PH-PAM
+| [[Pampanga]]
+|-
+! PH-PAN
+| [[Pangasinan]]
+|-
+! PH-PLW
+| [[Palawan]]
+|-
+! PH-QUE
+| [[Quezon]]
+|-
+! PH-QUI
+| [[Quirino]]
+|-
+! PH-RIZ
+| [[Rizal]]
+|-
+! PH-ROM
+| [[Romblon]]
+|-
+! PH-SAR
+| [[Sarangani]]
+|-
+! PH-SCO
+| [[South Cotabato]]
+|-
+! PH-SIG
+| [[Siquijor]]
+|-
+! PH-SLE
+| [[Southern Leyte]]
+|-
+! PH-SLU
+| [[Sulu]]
+|-
+! PH-SOR
+| [[Sorsogon]]
+|-
+! PH-SUK
+| [[Sultan Kudarat]]
+|-
+! PH-SUN
+| [[Surigao del Norte]]
+|-
+! PH-SUR
+| [[Surigao del Sur]]
+|-
+! PH-TAR
+| [[Tarlac]]
+|-
+! PH-TAW
+| [[Tawi-Tawi]]
+|-
+! PH-WSA
+| [[Samar province|Samar]] (Western Samar)
+|-
+! PH-ZAN
+| [[Zamboanga del Norte]]
+|-
+! PH-ZAS
+| [[Zamboanga del Sur]]
+|-
+! PH-ZMB
+| [[Zambales]]
+|-
+! PH-ZSI
+| [[Zamboanga Sibugay]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! PH-ABR
+| [[Abra province|Abra]]
+|-
+! PH-AGN
+| [[Agusan del Norte]]
+|-
+! PH-AGS
+| [[Agusan del Sur]]
+|-
+! PH-AKL
+| [[Aklan Province|Aklan]]
+|-
+! PH-ALB
+| [[Albay]]
+|-
+! PH-ANT
+| [[Antique province|Antique]]
+|-
+! PH-APA
+| [[Apayao Province|Apayao]]
+|-
+! PH-AUR
+| [[Aurora province|Aurora]]
+|-
+! PH-BAS
+| [[Basilan]]
+|-
+! PH-BAN
+| [[Bataan]]
+|-
+! PH-BTN
+| [[Batanes]]
+|-
+! PH-BTG
+| [[Batangas]]
+|-
+! PH-BEN
+| [[Benguet]]
+|-
+! PH-BIL
+| [[Biliran]]
+|-
+! PH-BOH
+| [[Bohol]]
+|-
+! PH-BUK
+| [[Bukidnon]]
+|-
+! PH-BUL
+| [[Bulacan]]
+|-
+! PH-CAG
+| [[Cagayan]]
+|-
+! PH-CAN
+| [[Camarines Norte]]
+|-
+! PH-CAS
+| [[Camarines Sur]]
+|-
+! PH-CAM
+| [[Camiguin]]
+|-
+! PH-CAP
+| [[Capiz]]
+|-
+! PH-CAT
+| [[Catanduanes]]
+|-
+! PH-CAV
+| [[Cavite]]
+|-
+! PH-CEB
+| [[Cebu Province|Cebu]]
+|-
+! PH-COM
+| [[Compostela Valley]]
+|-
+! PH-DAV
+| [[Davao del Norte]]
+|-
+! PH-DAS
+| [[Davao del Sur]]
+|-
+! PH-DAO
+| [[Davao Oriental]]
+|-
+! PH-EAS
+| [[Eastern Samar]]
+|-
+! PH-GUI
+| [[Guimaras]]
+|-
+! PH-IFU
+| [[Ifugao]]
+|-
+! PH-ILN
+| [[Ilocos Norte]]
+|-
+! PH-ILS
+| [[Ilocos Sur]]
+|-
+! PH-ILI
+| [[Iloilo]]
+|-
+! PH-ISA
+| [[Isabela]]
+|-
+! PH-KAL
+| [[Kalinga Province|Kalinga]]
+|-
+! PH-LAG
+| [[Laguna province|Laguna]]
+|-
+! PH-LAN
+| [[Lanao del Norte]]
+|-
+! PH-LAS
+| [[Lanao del Sur]]
+|-
+! PH-LUN
+| [[La Union province|La Union]]
+|-
+! PH-LEY
+| [[Leyte province|Leyte]]
+|-
+! PH-MAG
+| [[Maguindanao]]
+|-
+! PH-MAD
+| [[Marinduque]]
+|-
+! PH-MAS
+| [[Masbate]]
+|-
+! PH-MDC
+| [[Occidental Mindoro|Mindoro Occidental]]
+|-
+! PH-MDR
+| [[Oriental Mindoro|Mindoro Oriental]]
+|-
+! PH-MSC
+| [[Misamis Occidental]]
+|-
+! PH-MSR
+| [[Misamis Oriental]]
+|-
+! PH-MOU
+| [[Mountain Province]]
+|-
+! PH-NEC
+| [[Negros Occidental]]
+|-
+! PH-NER
+| [[Negros Oriental]]
+|-
+! PH-NCO
+| [[Cotabato province|Cotabato]] (North Cotabato)
+|-
+! PH-NSA
+| [[Northern Samar]]
+|-
+! PH-NUE
+| [[Nueva Ecija]]
+|-
+! PH-NUV
+| [[Nueva Vizcaya]]
+|-
+! PH-PLW
+| [[Palawan]]
+|-
+! PH-PAM
+| [[Pampanga]]
+|-
+! PH-PAN
+| [[Pangasinan]]
+|-
+! PH-QUE
+| [[Quezon]]
+|-
+! PH-QUI
+| [[Quirino]]
+|-
+! PH-RIZ
+| [[Rizal]]
+|-
+! PH-ROM
+| [[Romblon]]
+|-
+! PH-SAR
+| [[Sarangani]]
+|-
+! PH-SIG
+| [[Siquijor]]
+|-
+! PH-SOR
+| [[Sorsogon]]
+|-
+! PH-SCO
+| [[South Cotabato]]
+|-
+! PH-SLE
+| [[Southern Leyte]]
+|-
+! PH-SUK
+| [[Sultan Kudarat]]
+|-
+! PH-SLU
+| [[Sulu]]
+|-
+! PH-SUN
+| [[Surigao del Norte]]
+|-
+! PH-SUR
+| [[Surigao del Sur]]
+|-
+! PH-TAR
+| [[Tarlac]]
+|-
+! PH-TAW
+| [[Tawi-Tawi]]
+|-
+! PH-WSA
+| [[Samar province|Samar]] (Western Samar)
+|-
+! PH-ZMB
+| [[Zambales]]
+|-
+! PH-ZAN
+| [[Zamboanga del Norte]]
+|-
+! PH-ZAS
+| [[Zamboanga del Sur]]
+|-
+! PH-ZSI
+| [[Zamboanga Sibugay]]
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Provinces of the Philippines]]
+
+[[Category:Subdivisions of the Philippines|*]]
+[[Category:ISO 3166|2:PH]]
+
+[[cs:ISO 3166-2:PH]]
+[[de:ISO 3166-2:PH]]
+[[fr:ISO 3166-2:PH]]
+[[sk:ISO 3166-2:PH]]
+[[es:ISO 3166-2:PH]]
