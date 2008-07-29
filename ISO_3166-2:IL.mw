@@ -1,0 +1,65 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:IL''' is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Israel]].
+
+Each two-part code consists of the [[ISO 3166-1]] code for Israel ('''IL''') and a 2-character-alphabetic sub-code, hyphenated together.
+
+==Codes ==
+
+{| class="wikitable sortable" style="margin-left:.6em;"
+|-
+|Code
+|English Name
+|Hebrew Name
+|Transliteration
+|Large City in District
+|-
+|IL-D
+|South District
+|{{lang|he|מחוז דרום}}
+|Mehoz HaDarom
+|[[Beersheba]]
+|-
+|IL-HA
+|Haifa District
+|מחוז חיפה
+|Mehoz Hefa
+|[[Haifa]]
+|-
+|IL-JM
+|Jerusalem District
+|מחוז ירושלים
+|Mehoz Yerushalayim
+|[[Jerusalem]]
+|-
+|IL-M
+|Center District
+|מחוז המרכז
+|Mehoz HaMerkaz
+|[[Ramla]]
+|-
+|IL-TA
+|Tel Aviv District
+|מחוז תל אביב
+|Mehoz Tel-Aviv
+|[[Tel Aviv]]
+|-
+|IL-Z
+|North District
+|מחוז הצפון
+|Mehoz HaTzafon
+|[[Nazareth]]
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Districts of Israel]]
+
+[[Category:Geography of Israel]]
+[[Category:ISO 3166|2:IL]]
+
+[[cs:ISO 3166-2:IL]]
+[[de:ISO 3166-2:IL]]
+[[ja:ISO 3166-2:IL]]
+[[sk:ISO 3166-2:IL]]
