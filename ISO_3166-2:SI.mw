@@ -1,0 +1,1203 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:SI'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Slovenia]].
+It covers 193 ''Občine'' (municipalities), 11 of which have "urban status".
+
+Each two-part code consists of the [[ISO 3166-1]] code for 
+Slovenia ('''SI''')
+and a 3-character-numeric subcode, hyphenated together.
+
+==Newsletters==
+* [[ISO 3166-2:2002-12-10]]
+* [[ISO 3166-2:2005-09-13]]
+
+==Codes ==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>SI-001</code>
+| [[Ajdovščina]]
+|-
+! <code>SI-002</code>
+| [[Beltinci]]
+|-
+! <code>SI-003</code>
+| [[Bled]]
+|-
+! <code>SI-004</code>
+| [[Bohinj]]
+|-
+! <code>SI-005</code>
+| [[Borovnica, Slovenia|Borovnica]]
+|-
+! <code>SI-006</code>
+| [[Bovec]]
+|-
+! <code>SI-007</code>
+| [[Brda (Slovenia)|Brda]]
+|-
+! <code>SI-008</code>
+| [[Brezovica]]
+|-
+! <code>SI-009</code>
+| [[Brežice]]
+|-
+! <code>SI-010</code>
+| [[Tišina]]
+|-
+! <code>SI-011</code>
+| [[Celje]]
+|-
+! <code>SI-012</code>
+| [[Cerklje na Gorenjskem]]
+|-
+! <code>SI-013</code>
+| [[Cerknica]]
+|-
+! <code>SI-014</code>
+| [[Cerkno]]
+|-
+! <code>SI-015</code>
+| [[Črenšovci]]
+|-
+! <code>SI-016</code>
+| [[Črna na Koroškem]]
+|-
+! <code>SI-017</code>
+| [[Črnomelj]]
+|-
+! <code>SI-018</code>
+| [[Destrnik]]
+|-
+! <code>SI-019</code>
+| [[Divača]]
+|-
+! <code>SI-020</code>
+| [[Dobrepolje]]
+|-
+! <code>SI-021</code>
+| [[Dobrova-Polhov Gradec]]
+|-
+! <code>SI-022</code>
+| [[Dol pri Ljubljani]]
+|-
+! <code>SI-023</code>
+| [[Domžale]]
+|-
+! <code>SI-024</code>
+| [[Dornava]]
+|-
+! <code>SI-025</code>
+| [[Dravograd]]
+|-
+! <code>SI-026</code>
+| [[Duplek]]
+|-
+! <code>SI-027</code>
+| [[Gorenja vas-Poljane]]
+|-
+! <code>SI-028</code>
+| [[Gorišnica]]
+|-
+! <code>SI-029</code>
+| [[Gornja Radgona]]
+|-
+! <code>SI-030</code>
+| [[Gornji Grad]]
+|-
+! <code>SI-031</code>
+| [[Gornji Petrovci]]
+|-
+! <code>SI-032</code>
+| [[Grosuplje]]
+|-
+! <code>SI-033</code>
+| [[Šalovci]]
+|-
+! <code>SI-034</code>
+| [[Hrastnik]]
+|-
+! <code>SI-035</code>
+| [[Hrpelje-Kozina]]
+|-
+! <code>SI-036</code>
+| [[Idrija]]
+|-
+! <code>SI-037</code>
+| [[Ig (Slovenia)|Ig]]
+|-
+! <code>SI-038</code>
+| [[Ilirska Bistrica]]
+|-
+! <code>SI-039</code>
+| [[Ivančna Gorica]]
+|-
+! <code>SI-040</code>
+| [[Izola]]
+|-
+! <code>SI-041</code>
+| [[Jesenice]]
+|-
+! <code>SI-042</code>
+| [[Juršinci]]
+|-
+! <code>SI-043</code>
+| [[Kamnik]]
+|-
+! <code>SI-044</code>
+| [[Kanal ob Soči]]
+|-
+! <code>SI-045</code>
+| [[Kidričevo]]
+|-
+! <code>SI-046</code>
+| [[Kobarid]]
+|-
+! <code>SI-047</code>
+| [[Kobilje]]
+|-
+! <code>SI-048</code>
+| [[Kočevje]]
+|-
+! <code>SI-049</code>
+| [[Komen]]
+|-
+! <code>SI-050</code>
+| [[Koper]]
+|-
+! <code>SI-051</code>
+| [[Kozje]]
+|-
+! <code>SI-052</code>
+| [[Kranj]]
+|-
+! <code>SI-053</code>
+| [[Kranjska Gora]]
+|-
+! <code>SI-054</code>
+| [[Krško]]
+|-
+! <code>SI-055</code>
+| [[Kungota]]
+|-
+! <code>SI-056</code>
+| [[Kuzma (Slovenia)|Kuzma]]
+|-
+! <code>SI-057</code>
+| [[Laško]]
+|-
+! <code>SI-058</code>
+| [[Lenart]]
+|-
+! <code>SI-059</code>
+| [[Lendava]]
+|-
+! <code>SI-060</code>
+| [[Litija]]
+|-
+! <code>SI-061</code>
+| [[Ljubljana]]
+|-
+! <code>SI-062</code>
+| [[Ljubno]]
+|-
+! <code>SI-063</code>
+| [[Ljutomer]]
+|-
+! <code>SI-064</code>
+| [[Logatec]]
+|-
+! <code>SI-065</code>
+| [[Loška Dolina]]
+|-
+! <code>SI-066</code>
+| [[Loški Potok]]
+|-
+! <code>SI-067</code>
+| [[Luče]]
+|-
+! <code>SI-068</code>
+| [[Lukovica]]
+|-
+! <code>SI-069</code>
+| [[Majšperk]]
+|-
+! <code>SI-070</code>
+| [[Maribor]]
+|-
+! <code>SI-071</code>
+| [[Medvode]]
+|-
+! <code>SI-072</code>
+| [[Mengeš]]
+|-
+! <code>SI-073</code>
+| [[Metlika]]
+|-
+! <code>SI-074</code>
+| [[Mežica]]
+|-
+! <code>SI-075</code>
+| [[Miren-Kostanjevica]]
+|-
+! <code>SI-076</code>
+| [[Mislinja]]
+|-
+! <code>SI-077</code>
+| [[Moravče]]
+|-
+! <code>SI-078</code>
+| [[Moravske Toplice]]
+|-
+! <code>SI-079</code>
+| [[Mozirje]]
+|-
+! <code>SI-080</code>
+| [[Murska Sobota]]
+|-
+! <code>SI-081</code>
+| [[Muta, Slovenia|Muta]]
+|-
+! <code>SI-082</code>
+| [[Naklo]]
+|-
+! <code>SI-083</code>
+| [[Nazarje]]
+|-
+! <code>SI-084</code>
+| [[Nova Gorica]]
+|-
+! <code>SI-085</code>
+| [[Novo mesto]]
+|-
+! <code>SI-086</code>
+| [[Odranci]]
+|-
+! <code>SI-087</code>
+| [[Ormož]]
+|-
+! <code>SI-088</code>
+| [[Osilnica]]
+|-
+! <code>SI-089</code>
+| [[Pesnica]]
+|-
+! <code>SI-090</code>
+| [[Piran]]
+|-
+! <code>SI-091</code>
+| [[Pivka]]
+|-
+! <code>SI-092</code>
+| [[Podčetrtek]]
+|-
+! <code>SI-093</code>
+| [[Podvelka]]
+|-
+! <code>SI-094</code>
+| [[Postojna]]
+|-
+! <code>SI-095</code>
+| [[Preddvor]]
+|-
+! <code>SI-096</code>
+| [[Ptuj]]
+|-
+! <code>SI-097</code>
+| [[Puconci]]
+|-
+! <code>SI-098</code>
+| [[Rače-Fram]]
+|-
+! <code>SI-099</code>
+| [[Radeče]]
+|-
+! <code>SI-100</code>
+| [[Radenci]]
+|-
+! <code>SI-101</code>
+| [[Radlje ob Dravi]]
+|-
+! <code>SI-102</code>
+| [[Radovljica]]
+|-
+! <code>SI-103</code>
+| [[Ravne na Koroškem]]
+|-
+! <code>SI-104</code>
+| [[Ribnica]]
+|-
+! <code>SI-106</code>
+| [[Rogaška Slatina]]
+|-
+! <code>SI-105</code>
+| [[Rogašovci]]
+|-
+! <code>SI-107</code>
+| [[Rogatec]]
+|-
+! <code>SI-108</code>
+| [[Ruše]]
+|-
+! <code>SI-109</code>
+| [[Semič]]
+|-
+! <code>SI-110</code>
+| [[Sevnica]]
+|-
+! <code>SI-111</code>
+| [[Sežana]]
+|-
+! <code>SI-112</code>
+| [[Slovenj Gradec]]
+|-
+! <code>SI-113</code>
+| [[Slovenska Bistrica]]
+|-
+! <code>SI-114</code>
+| [[Slovenske Konjice]]
+|-
+! <code>SI-115</code>
+| [[Starše]]
+|-
+! <code>SI-116</code>
+| [[Sveti Jurij]]
+|-
+! <code>SI-117</code>
+| [[Šenčur]]
+|-
+! <code>SI-118</code>
+| [[Šentilj]]
+|-
+! <code>SI-119</code>
+| [[Šentjernej]]
+|-
+! <code>SI-120</code>
+| [[Šentjur pri Celju]]
+|-
+! <code>SI-121</code>
+| [[Škocjan]]
+|-
+! <code>SI-122</code>
+| [[Škofja Loka]]
+|-
+! <code>SI-123</code>
+| [[Škofljica]]
+|-
+! <code>SI-124</code>
+| [[Šmarje pri Jelšah]]
+|-
+! <code>SI-125</code>
+| [[Šmartno ob Paki]]
+|-
+! <code>SI-126</code>
+| [[Šoštanj]]
+|-
+! <code>SI-127</code>
+| [[Štore]]
+|-
+! <code>SI-128</code>
+| [[Tolmin]]
+|-
+! <code>SI-129</code>
+| [[Trbovlje]]
+|-
+! <code>SI-130</code>
+| [[Trebnje]]
+|-
+! <code>SI-131</code>
+| [[Tržič]]
+|-
+! <code>SI-132</code>
+| [[Turnišče]]
+|-
+! <code>SI-133</code>
+| [[Velenje]]
+|-
+! <code>SI-134</code>
+| [[Velike Lašče]]
+|-
+! <code>SI-135</code>
+| [[Videm]]
+|-
+! <code>SI-136</code>
+| [[Vipava, Slovenia|Vipava]]
+|-
+! <code>SI-137</code>
+| [[Vitanje]]
+|-
+! <code>SI-138</code>
+| [[Vodice, Slovenia|Vodice]]
+|-
+! <code>SI-139</code>
+| [[Vojnik]]
+|-
+! <code>SI-140</code>
+| [[Vrhnika]]
+|-
+! <code>SI-141</code>
+| [[Vuzenica]]
+|-
+! <code>SI-142</code>
+| [[Zagorje ob Savi]]
+|-
+! <code>SI-143</code>
+| [[Zavrč]]
+|-
+! <code>SI-144</code>
+| [[Zreče]]
+|-
+! <code>SI-146</code>
+| [[Železniki]]
+|-
+! <code>SI-147</code>
+| [[Žiri]]
+|-
+! <code>SI-148</code>
+| [[Benedikt]]
+|-
+! <code>SI-149</code>
+| [[Bistrica ob Sotli]]
+|-
+! <code>SI-150</code>
+| [[Bloke (Slovenia)|Bloke]]
+|-
+! <code>SI-151</code>
+| [[Braslovče]]
+|-
+! <code>SI-152</code>
+| [[Cankova]]
+|-
+! <code>SI-153</code>
+| [[Cerkvenjak]]
+|-
+! <code>SI-154</code>
+| [[Dobje]]
+|-
+! <code>SI-155</code>
+| [[Dobrna]]
+|-
+! <code>SI-156</code>
+| [[Dobrovnik]]
+|-
+! <code>SI-157</code>
+| [[Dolenjske Toplice]]
+|-
+! <code>SI-158</code>
+| [[Grad, Slovenia|Grad]]
+|-
+! <code>SI-159</code>
+| [[Hajdina]]
+|-
+! <code>SI-160</code>
+| [[Hoče-Slivnica]]
+|-
+! <code>SI-161</code>
+| [[Hodoš]]
+|-
+! <code>SI-162</code>
+| [[Horjul]]
+|-
+! <code>SI-163</code>
+| [[Jezersko, Slovenia|Jezersko]]
+|-
+! <code>SI-164</code>
+| [[Komenda]]
+|-
+! <code>SI-165</code>
+| [[Kostel]]
+|-
+! <code>SI-166</code>
+| [[Križevci]]
+|-
+! <code>SI-167</code>
+| [[Lovrenc na Pohorju]]
+|-
+! <code>SI-168</code>
+| [[Markovci]]
+|-
+! <code>SI-169</code>
+| [[Miklavž na Dravskem polju]]
+|-
+! <code>SI-170</code>
+| [[Mirna Peč]]
+|-
+! <code>SI-171</code>
+| [[Oplotnica]]
+|-
+! <code>SI-172</code>
+| [[Podlehnik]]
+|-
+! <code>SI-173</code>
+| [[Polzela]]
+|-
+! <code>SI-174</code>
+| [[Prebold]]
+|-
+! <code>SI-175</code>
+| [[Prevalje]]
+|-
+! <code>SI-176</code>
+| [[Razkrižje]]
+|-
+! <code>SI-177</code>
+| [[Ribnica na Pohorju]]
+|-
+! <code>SI-178</code>
+| [[Selnica ob Dravi]]
+|-
+! <code>SI-179</code>
+| [[Sodražica]]
+|-
+! <code>SI-180</code>
+| [[Solčava]]
+|-
+! <code>SI-181</code>
+| [[Sveta Ana]]
+|-
+! <code>SI-182</code>
+| [[Sveti Andraž v Slovenskih goricah]]
+|-
+! <code>SI-183</code>
+| [[Šempeter-Vrtojba]]
+|-
+! <code>SI-184</code>
+| [[Tabor, Slovenia|Tabor]]
+|-
+! <code>SI-185</code>
+| [[Trnovska vas]]
+|-
+! <code>SI-186</code>
+| [[Trzin]]
+|-
+! <code>SI-187</code>
+| [[Velika Polana]]
+|-
+! <code>SI-188</code>
+| [[Veržej]]
+|-
+! <code>SI-189</code>
+| [[Vransko]]
+|-
+! <code>SI-190</code>
+| [[Žalec]]
+|-
+! <code>SI-191</code>
+| [[Žetale]]
+|-
+! <code>SI-192</code>
+| [[Žirovnica]]
+|-
+! <code>SI-193</code>
+| [[Žužemberk]]
+|-
+! <code>SI-194</code>
+| [[Šmartno pri Litiji]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+| colspan="2" style="background-color:silver;" | ''Občine''
+|-
+! [[Ajdovščina]]
+| <code>SI-001</code>
+|-
+! [[Beltinci]]
+| <code>SI-002</code>
+|-
+! [[Benedikt]]
+| <code>SI-148</code>
+|-
+! [[Bistrica ob Sotli]]
+| <code>SI-149</code>
+|-
+! [[Bled]]
+| <code>SI-003</code>
+|-
+! [[Bloke (Slovenia)|Bloke]]
+| <code>SI-150</code>
+|-
+! [[Bohinj]]
+| <code>SI-004</code>
+|-
+! [[Borovnica, Slovenia|Borovnica]]
+| <code>SI-005</code>
+|-
+! [[Bovec]]
+| <code>SI-006</code>
+|-
+! [[Braslovče]]
+| <code>SI-151</code>
+|-
+! [[Brda (Slovenia)|Brda]]
+| <code>SI-007</code>
+|-
+! [[Brežice]]
+| <code>SI-009</code>
+|-
+! [[Brezovica]]
+| <code>SI-008</code>
+|-
+! [[Cankova]]
+| <code>SI-152</code>
+|-
+! [[Cerklje na Gorenjskem]]
+| <code>SI-012</code>
+|-
+! [[Cerknica]]
+| <code>SI-013</code>
+|-
+! [[Cerkno]]
+| <code>SI-014</code>
+|-
+! [[Cerkvenjak]]
+| <code>SI-153</code>
+|-
+! [[Črenšovci]]
+| <code>SI-015</code>
+|-
+! [[Črna na Koroškem]]
+| <code>SI-016</code>
+|-
+! [[Črnomelj]]
+| <code>SI-017</code>
+|-
+! [[Destrnik]]
+| <code>SI-018</code>
+|-
+! [[Divača]]
+| <code>SI-019</code>
+|-
+! [[Dobje]]
+| <code>SI-154</code>
+|-
+! [[Dobrepolje]]
+| <code>SI-020</code>
+|-
+! [[Dobrna]]
+| <code>SI-155</code>
+|-
+! [[Dobrova-Polhov Gradec]]
+| <code>SI-021</code>
+|-
+! [[Dobrovnik]]
+| <code>SI-156</code>
+|-
+! [[Dol pri Ljubljani]]
+| <code>SI-022</code>
+|-
+! [[Dolenjske Toplice]]
+| <code>SI-157</code>
+|-
+! [[Domžale]]
+| <code>SI-023</code>
+|-
+! [[Dornava]]
+| <code>SI-024</code>
+|-
+! [[Dravograd]]
+| <code>SI-025</code>
+|-
+! [[Duplek]]
+| <code>SI-026</code>
+|-
+! [[Gorenja vas-Poljane]]
+| <code>SI-027</code>
+|-
+! [[Gorišnica]]
+| <code>SI-028</code>
+|-
+! [[Gornja Radgona]]
+| <code>SI-029</code>
+|-
+! [[Gornji Grad]]
+| <code>SI-030</code>
+|-
+! [[Gornji Petrovci]]
+| <code>SI-031</code>
+|-
+! [[Grad, Slovenia|Grad]]
+| <code>SI-158</code>
+|-
+! [[Grosuplje]]
+| <code>SI-032</code>
+|-
+! [[Hajdina]]
+| <code>SI-159</code>
+|-
+! [[Hoče-Slivnica]]
+| <code>SI-160</code>
+|-
+! [[Hodoš]]
+| <code>SI-161</code>
+|-
+! [[Horjul]]
+| <code>SI-162</code>
+|-
+! [[Hrastnik]]
+| <code>SI-034</code>
+|-
+! [[Hrpelje-Kozina]]
+| <code>SI-035</code>
+|-
+! [[Idrija]]
+| <code>SI-036</code>
+|-
+! [[Ig (Slovenia)|Ig]]
+| <code>SI-037</code>
+|-
+! [[Ilirska Bistrica]]
+| <code>SI-038</code>
+|-
+! [[Ivančna Gorica]]
+| <code>SI-039</code>
+|-
+! [[Izola]]
+| <code>SI-040</code>
+|-
+! [[Jesenice]]
+| <code>SI-041</code>
+|-
+! [[Jezersko, Slovenia|Jezersko]]
+| <code>SI-163</code>
+|-
+! [[Juršinci]]
+| <code>SI-042</code>
+|-
+! [[Kamnik]]
+| <code>SI-043</code>
+|-
+! [[Kanal ob Soči]]
+| <code>SI-044</code>
+|-
+! [[Kidričevo]]
+| <code>SI-045</code>
+|-
+! [[Kobarid]]
+| <code>SI-046</code>
+|-
+! [[Kobilje]]
+| <code>SI-047</code>
+|-
+! [[Kočevje]]
+| <code>SI-048</code>
+|-
+! [[Komen]]
+| <code>SI-049</code>
+|-
+! [[Komenda]]
+| <code>SI-164</code>
+|-
+! [[Kostel]]
+| <code>SI-165</code>
+|-
+! [[Kozje]]
+| <code>SI-051</code>
+|-
+! [[Kranjska Gora]]
+| <code>SI-053</code>
+|-
+! [[Križevci]]
+| <code>SI-166</code>
+|-
+! [[Krško]]
+| <code>SI-054</code>
+|-
+! [[Kungota]]
+| <code>SI-055</code>
+|-
+! [[Kuzma (Slovenia)|Kuzma]]
+| <code>SI-056</code>
+|-
+! [[Laško]]
+| <code>SI-057</code>
+|-
+! [[Lenart]]
+| <code>SI-058</code>
+|-
+! [[Lendava]]
+| <code>SI-059</code>
+|-
+! [[Litija]]
+| <code>SI-060</code>
+|-
+! [[Ljubno]]
+| <code>SI-062</code>
+|-
+! [[Ljutomer]]
+| <code>SI-063</code>
+|-
+! [[Logatec]]
+| <code>SI-064</code>
+|-
+! [[Loška Dolina]]
+| <code>SI-065</code>
+|-
+! [[Loški Potok]]
+| <code>SI-066</code>
+|-
+! [[Lovrenc na Pohorju]]
+| <code>SI-167</code>
+|-
+! [[Luče]]
+| <code>SI-067</code>
+|-
+! [[Lukovica]]
+| <code>SI-068</code>
+|-
+! [[Majšperk]]
+| <code>SI-069</code>
+|-
+! [[Markovci]]
+| <code>SI-168</code>
+|-
+! [[Medvode]]
+| <code>SI-071</code>
+|-
+! [[Mengeš]]
+| <code>SI-072</code>
+|-
+! [[Metlika]]
+| <code>SI-073</code>
+|-
+! [[Mežica]]
+| <code>SI-074</code>
+|-
+! [[Miklavž na Dravskem polju]]
+| <code>SI-169</code>
+|-
+! [[Miren-Kostanjevica]]
+| <code>SI-075</code>
+|-
+! [[Mirna Peč]]
+| <code>SI-170</code>
+|-
+! [[Mislinja]]
+| <code>SI-076</code>
+|-
+! [[Moravče]]
+| <code>SI-077</code>
+|-
+! [[Moravske Toplice]]
+| <code>SI-078</code>
+|-
+! [[Mozirje]]
+| <code>SI-079</code>
+|-
+! [[Muta, Slovenia|Muta]]
+| <code>SI-081</code>
+|-
+! [[Naklo]]
+| <code>SI-082</code>
+|-
+! [[Nazarje]]
+| <code>SI-083</code>
+|-
+! [[Odranci]]
+| <code>SI-086</code>
+|-
+! [[Oplotnica]]
+| <code>SI-171</code>
+|-
+! [[Ormož]]
+| <code>SI-087</code>
+|-
+! [[Osilnica]]
+| <code>SI-088</code>
+|-
+! [[Pesnica]]
+| <code>SI-089</code>
+|-
+! [[Piran]]
+| <code>SI-090</code>
+|-
+! [[Pivka]]
+| <code>SI-091</code>
+|-
+! [[Podčetrtek]]
+| <code>SI-092</code>
+|-
+! [[Podlehnik]]
+| <code>SI-172</code>
+|-
+! [[Podvelka]]
+| <code>SI-093</code>
+|-
+! [[Polzela]]
+| <code>SI-173</code>
+|-
+! [[Postojna]]
+| <code>SI-094</code>
+|-
+! [[Prebold]]
+| <code>SI-174</code>
+|-
+! [[Preddvor]]
+| <code>SI-095</code>
+|-
+! [[Prevalje]]
+| <code>SI-175</code>
+|-
+! [[Puconci]]
+| <code>SI-097</code>
+|-
+! [[Rače-Fram]]
+| <code>SI-098</code>
+|-
+! [[Radeče]]
+| <code>SI-099</code>
+|-
+! [[Radenci]]
+| <code>SI-100</code>
+|-
+! [[Radlje ob Dravi]]
+| <code>SI-101</code>
+|-
+! [[Radovljica]]
+| <code>SI-102</code>
+|-
+! [[Ravne na Koroškem]]
+| <code>SI-103</code>
+|-
+! [[Razkrižje]]
+| <code>SI-176</code>
+|-
+! [[Ribnica]]
+| <code>SI-104</code>
+|-
+! [[Ribnica na Pohorju]]
+| <code>SI-177</code>
+|-
+! [[Rogaška Slatina]]
+| <code>SI-106</code>
+|-
+! [[Rogašovci]]
+| <code>SI-105</code>
+|-
+! [[Rogatec]]
+| <code>SI-107</code>
+|-
+! [[Ruše]]
+| <code>SI-108</code>
+|-
+! [[Selnica ob Dravi]]
+| <code>SI-178</code>
+|-
+! [[Semič]]
+| <code>SI-109</code>
+|-
+! [[Sevnica]]
+| <code>SI-110</code>
+|-
+! [[Sežana]]
+| <code>SI-111</code>
+|-
+! [[Slovenska Bistrica]]
+| <code>SI-113</code>
+|-
+! [[Slovenske Konjice]]
+| <code>SI-114</code>
+|-
+! [[Sodražica]]
+| <code>SI-179</code>
+|-
+! [[Solčava]]
+| <code>SI-180</code>
+|-
+! [[Starše]]
+| <code>SI-115</code>
+|-
+! [[Sveta Ana]]
+| <code>SI-181</code>
+|-
+! [[Sveti Andraž v Slovenskih goricah]]
+| <code>SI-182</code>
+|-
+! [[Sveti Jurij]]
+| <code>SI-116</code>
+|-
+! [[Šalovci]]
+| <code>SI-033</code>
+|-
+! [[Šempeter-Vrtojba]]
+| <code>SI-183</code>
+|-
+! [[Šenčur]]
+| <code>SI-117</code>
+|-
+! [[Šentilj]]
+| <code>SI-118</code>
+|-
+! [[Šentjernej]]
+| <code>SI-119</code>
+|-
+! [[Šentjur pri Celju]]
+| <code>SI-120</code>
+|-
+! [[Škocjan]]
+| <code>SI-121</code>
+|-
+! [[Škofja Loka]]
+| <code>SI-122</code>
+|-
+! [[Škofljica]]
+| <code>SI-123</code>
+|-
+! [[Šmarje pri Jelšah]]
+| <code>SI-124</code>
+|-
+! [[Šmartno ob Paki]]
+| <code>SI-125</code>
+|-
+! [[Šmartno pri Litiji]]
+| <code>SI-194</code>
+|-
+! [[Šoštanj]]
+| <code>SI-126</code>
+|-
+! [[Štore]]
+| <code>SI-127</code>
+|-
+! [[Tabor, Slovenia|Tabor]]
+| <code>SI-184</code>
+|-
+! [[Tišina]]
+| <code>SI-010</code>
+|-
+! [[Tolmin]]
+| <code>SI-128</code>
+|-
+! [[Trbovlje]]
+| <code>SI-129</code>
+|-
+! [[Trebnje]]
+| <code>SI-130</code>
+|-
+! [[Trnovska vas]]
+| <code>SI-185</code>
+|-
+! [[Trzin]]
+| <code>SI-186</code>
+|-
+! [[Tržič]]
+| <code>SI-131</code>
+|-
+! [[Turnišče]]
+| <code>SI-132</code>
+|-
+! [[Velika Polana]]
+| <code>SI-187</code>
+|-
+! [[Velike Lašče]]
+| <code>SI-134</code>
+|-
+! [[Veržej]]
+| <code>SI-188</code>
+|-
+! [[Videm]]
+| <code>SI-135</code>
+|-
+! [[Vipava, Slovenia|Vipava]]
+| <code>SI-136</code>
+|-
+! [[Vitanje]]
+| <code>SI-137</code>
+|-
+! [[Vodice, Slovenia|Vodice]]
+| <code>SI-138</code>
+|-
+! [[Vojnik]]
+| <code>SI-139</code>
+|-
+! [[Vransko]]
+| <code>SI-189</code>
+|-
+! [[Vrhnika]]
+| <code>SI-140</code>
+|-
+! [[Vuzenica]]
+| <code>SI-141</code>
+|-
+! [[Zagorje ob Savi]]
+| <code>SI-142</code>
+|-
+! [[Zavrč]]
+| <code>SI-143</code>
+|-
+! [[Zreče]]
+| <code>SI-144</code>
+|-
+! [[Žalec]]
+| <code>SI-190</code>
+|-
+! [[Železniki]]
+| <code>SI-146</code>
+|-
+! [[Žetale]]
+| <code>SI-191</code>
+|-
+! [[Žiri]]
+| <code>SI-147</code>
+|-
+! [[Žirovnica]]
+| <code>SI-192</code>
+|-
+! [[Žužemberk]]
+| <code>SI-193</code>
+|-
+! colspan="2" style="background-color:silver;" | ''Občine'' with urban status
+|-
+! [[Celje]]
+| <code>SI-011</code>
+|-
+! [[Koper]]
+| <code>SI-050</code>
+|-
+! [[Kranj]]
+| <code>SI-052</code>
+|-
+! [[Ljubljana]]
+| <code>SI-061</code>
+|-
+! [[Maribor]]
+| <code>SI-070</code>
+|-
+! [[Murska Sobota]]
+| <code>SI-080</code>
+|-
+! [[Nova Gorica]]
+| <code>SI-084</code>
+|-
+! [[Novo Mesto]]
+| <code>SI-085</code>
+|-
+! [[Ptuj]]
+| <code>SI-096</code>
+|-
+! [[Slovenj Gradec]]
+| <code>SI-112</code>
+|-
+! [[Velenje]]
+| <code>SI-133</code>
+|}
+|}
+
+==See also==
+*[[ISO 3166-2]], the reference table for all country region codes.
+*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+*[[Municipalities of Slovenia]]
+[[Category:Geography of Slovenia]]
+[[Category:ISO 3166|2:SI]]
+
+[[cs:ISO 3166-2:SI]]
+[[de:ISO 3166-2:SI]]
+[[fr:ISO 3166-2:SI]]
+[[it:ISO 3166-2:SI]]
+[[sk:ISO 3166-2:SI]]
+[[sl:ISO 3166-2:SI]]
