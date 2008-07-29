@@ -1,0 +1,237 @@
+{{torna a|ISO 3166-1}}
+
+'''ISO 3166-2:CO'''
+is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
+[[Colombia]].
+It covers the 32 [[Departments of Colombia|departments]] (three-letter) and the capital territory (two-letter). 
+
+==Newsletters==
+* [[ISO 3166-2:2004-03-08]]
+
+==Codes==
+{| width="100%" style="white-space:nowrap;"
+|- style="vertical-align:top;"
+|
+{| align="left"
+|+ Sorted by Code
+|-
+! <code>CO-AMA</code>
+| [[Amazonas Department, Colombia|Amazonas]]
+|-
+! <code>CO-ANT</code>
+| [[Antioquia Department|Antioquia]]
+|-
+! <code>CO-ARA</code>
+| [[Arauca Department|Arauca]]
+|-
+! <code>CO-ATL</code>
+| [[Atlántico]]
+|-
+! <code>CO-BOL</code>
+| [[Bolívar Department|Bolívar]]
+|-
+! <code>CO-BOY</code>
+| [[Boyacá Department|Boyacá]]
+|-
+! <code>CO-CAL</code>
+| [[Caldas]]
+|-
+! <code>CO-CAQ</code>
+| [[Caquetá Department|Caquetá]]
+|-
+! <code>CO-CAS</code>
+| [[Casanare]]
+|-
+! <code>CO-CAU</code>
+| [[Cauca]]
+|-
+! <code>CO-CES</code>
+| [[Cesar]]
+|-
+! <code>CO-CHO</code>
+| [[Chocó]]
+|-
+! <code>CO-COR</code>
+| [[Córdoba Department|Córdoba]]
+|-
+! <code>CO-CUN</code>
+| [[Cundinamarca]]
+|-
+! <code>CO-DC</code>
+| [[Bogotá|Bogotá D.C.]]
+|-
+! <code>CO-GUA</code>
+| [[Guainía Department|Guainía]]
+|-
+! <code>CO-GUV</code>
+| [[Guaviare Department|Guaviare]]
+|-
+! <code>CO-HUI</code>
+| [[Huila Department|Huila]]
+|-
+! <code>CO-LAG</code>
+| [[Guajira Department|La Guajira]]
+|-
+! <code>CO-MAG</code>
+| [[Magdalena Department|Magdalena]]
+|-
+! <code>CO-MET</code>
+| [[Meta Department|Meta]]
+|-
+! <code>CO-NAR</code>
+| [[Nariño Department|Nariño]]
+|-
+! <code>CO-NSA</code>
+| [[Norte de Santander]]
+|-
+! <code>CO-PUT</code>
+| [[Putumayo Department|Putumayo]]
+|-
+! <code>CO-QUI</code>
+| [[Quindío Department|Quindío]]
+|-
+! <code>CO-RIS</code>
+| [[Risaralda Department|Risaralda]]
+|-
+! <code>CO-SAN</code>
+| [[Santander Department|Santander]]
+|-
+! <code>CO-SAP</code>
+| [[San Andrés and Providencia]]
+|-
+! <code>CO-SUC</code>
+| [[Sucre Department|Sucre]]
+|-
+! <code>CO-TOL</code>
+| [[Tolima Department|Tolima]]
+|-
+! <code>CO-VAC</code>
+| [[Valle del Cauca]]
+|-
+! <code>CO-VAU</code>
+| [[Vaupés Department|Vaupés]]
+|-
+! <code>CO-VID</code>
+| [[Vichada Department|Vichada]]
+|}
+|
+{| align="right"
+|+ Sorted by Name
+|-
+! colspan="2" style="background-color:silver;" | Capital district
+|-
+! [[Bogotá|Bogotá D.C.]]
+| <code>CO-DC</code>
+|-
+! colspan="2" style="background-color:silver;" | Departments
+|-
+! [[Amazonas Department, Colombia|Amazonas]]
+| <code>CO-AMA</code>
+|-
+! [[Antioquia Department|Antioquia]]
+| <code>CO-ANT</code>
+|-
+! [[Arauca]]
+| <code>CO-ARA</code>
+|-
+! [[Atlántico]]
+| <code>CO-ATL</code>
+|-
+! [[Bolívar Department|Bolívar]]
+| <code>CO-BOL</code>
+|-
+! [[Boyacá Department|Boyacá]]
+| <code>CO-BOY</code>
+|-
+! [[Caldas]]
+| <code>CO-CAL</code>
+|-
+! [[Caquetá Department|Caquetá]]
+| <code>CO-CAQ</code>
+|-
+! [[Casanare]]
+| <code>CO-CAS</code>
+|-
+! [[Cauca]]
+| <code>CO-CAU</code>
+|-
+! [[Cesar]]
+| <code>CO-CES</code>
+|-
+! [[Chocó]]
+| <code>CO-CHO</code>
+|-
+! [[Córdoba Department|Córdoba]]
+| <code>CO-COR</code>
+|-
+! [[Cundinamarca]]
+| <code>CO-CUN</code>
+|-
+! [[Guainía Department|Guainía]]
+| <code>CO-GUA</code>
+|-
+! [[Guajira Department|La Guajira]]
+| <code>CO-LAG</code>
+|-
+! [[Guaviare Department|Guaviare]]
+| <code>CO-GUV</code>
+|-
+! [[Huila Department|Huila]]
+| <code>CO-HUI</code>
+|-
+! [[Magdalena Department|Magdalena]]
+| <code>CO-MAG</code>
+|-
+! [[Meta Department|Meta]]
+| <code>CO-MET</code>
+|-
+! [[Nariño Department|Nariño]]
+| <code>CO-NAR</code>
+|-
+! [[Norte de Santander]]
+| <code>CO-NSA</code>
+|-
+! [[Putumayo Department|Putumayo]]
+| <code>CO-PUT</code>
+|-
+! [[Quindío Department|Quindío]]
+| <code>CO-QUI</code>
+|-
+! [[Risaralda Department|Risaralda]]
+| <code>CO-RIS</code>
+|-
+! [[San Andrés and Providencia]]
+| <code>CO-SAP</code>
+|-
+! [[Santander Department|Santander]]
+| <code>CO-SAN</code>
+|-
+! [[Sucre Department|Sucre]]
+| <code>CO-SUC</code>
+|-
+! [[Tolima Department|Tolima]]
+| <code>CO-TOL</code>
+|-
+! [[Valle del Cauca]]
+| <code>CO-VAC</code>
+|-
+! [[Vaupés Department|Vaupés]]
+| <code>CO-VAU</code>
+|-
+! [[Vichada Department|Vichada]]
+| <code>CO-VID</code>
+|}
+|}
+
+==See also==
+* [[ISO 3166-2]], the reference table for all country region codes.
+* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+* [[Departments of Colombia]]
+[[Category:Sciugrafije d'a Colombia]]
+[[Category:ISO 3166|2:CO]]
+
+[[cs:ISO 3166-2:CO]]
+[[de:ISO 3166-2:CO]]
+[[es:ISO 3166-2:CO]]
+[[fr:ISO 3166-2:CO]]
+[[sk:ISO 3166-2:CO]]
