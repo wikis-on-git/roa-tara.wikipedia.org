@@ -1,0 +1,148 @@
+'''ISO 3166-3''' defines codes for outdated [[ISO 3166-1]] [[country codes]] and is part of the [[ISO 3166]] [[standardization|standard]] published by the [[International Organization for Standardization]] (ISO). The official name of the standard is ''Codes for the representation of names of countries and their subdivisions – Part 3: Code for formerly used names of countries''. It was first published in 1999.
+
+ISO 3166-3 contains an entry for each formerly used country name whose codes were withdrawn from ISO 3166 since the first edition was published in 1974, and assigns a four-character alphabetic code for each entry. The first two characters are the withdrawn [[ISO 3166-1 alpha-2]] code of the country, while the last two characters are allocated according to following rules:
+* If the country changed its name, the new ISO 3166-1 alpha-2 code is used (e.g., [[Burma]] changed its name to [[Myanmar]], whose new code is <tt>MM</tt>), or the code <tt>AA</tt> is used if the alpha-2 code is not changed (e.g., [[Byelorussian Soviet Socialist Republic|Byelorussian S.S.R.]] changed its name to [[Belarus]], and its alpha-2 code is not changed).
+* If the country merged into an existing country, the ISO 3166-1 alpha-2 code of this country is used (e.g., [[East Germany|German Democratic Republic]] merged into [[Germany]], whose code is <tt>DE</tt>).
+* If the country split up into several parts, the special code <tt>HH</tt> is used to indicate that there is no single successor code, with the exception of [[Serbia and Montenegro]], which uses <tt>XX</tt> to avoid confusion with [[Czechoslovakia]], since the same code <tt>CS</tt> was assigned to the two countries during different periods.
+
+==Current codes==
+Following is a list of current ISO 3166-3 codes. For each entry, the ISO 3166-3 four-letter code is given first, followed by the former country name, its original code elements ([[ISO 3166-1 alpha-2|alpha-2]], [[ISO 3166-1 alpha-3|alpha-3]], [[ISO 3166-1 numeric|numeric]]), their period of validity, and finally any related notes.
+
+Once five years have passed from the time of withdrawal, the two-letter code is free to be reassigned, as has been done with <tt>AI</tt>, <tt>CS</tt>, <tt>GE</tt>, and <tt>SK</tt>. However, some of the two-letter codes remain [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]] for a longer period.
+
+Many of the two-letter codes were withdrawn before the introduction of the [[domain name system]], and so were never used for the [[Internet]]'s [[country code top-level domain]]s (ccTLDs). However, some ccTLDs using withdrawn codes are still currently active, such as [[.su]], [[.tp]], and [[.yu]].
+
+The alpha-2 code <tt>CS</tt> had been withdrawn twice, the first time due to the split of [[Czechoslovakia]] and the second time due to the split of [[Serbia and Montenegro]]. On [[2006-09-26]] (Newsletter I-4), the code <tt>CSHH</tt> was assigned to Serbia and Montenegro, even though it had already been used for Czechoslovakia. To avoid confusion, since [[2006-12-01]] (Newsletter I-5), the code <tt>CSXX</tt> is used for Serbia and Montenegro.
+
+If the country only changed its name without any territorial changes, its numeric code remains the same.
+
+{| class="wikitable"
+|- style="background-color: #efefef;"
+!ISO 3166-3 code
+!Former country name
+!Former code elements
+!Period of validity
+!Notes
+|- style="vertical-align:top;"
+! <tt>AIDJ</tt>
+| [[French Territory of the Afars and the Issas|French Afar and Issas]] || <tt>AI</tt>, <tt>AFI</tt>, <tt>262</tt> || 1974–1977 || Changed its name to [[Djibouti]] (<tt>DJ</tt>, <tt>DJI</tt>, <tt>262</tt>)<br> <tt>AI</tt> has been reassigned to ''[[Anguilla]]''
+|- style="vertical-align:top;"
+! <tt>BQAQ</tt>
+| [[British Antarctic Territory]] || <tt>BQ</tt>, <tt>ATB</tt>, <tt>080</tt> || 1974–1979 || Merged into [[Antarctica]] (<tt>AQ</tt>, <tt>ATA</tt>, <tt>010</tt>)
+|- style="vertical-align:top;"
+! <tt>BUMM</tt> 
+| [[Burma]] || <tt>BU</tt>, <tt>BUR</tt>, <tt>104</tt> || 1974–1989 || Changed its name to [[Myanmar]] (<tt>MM</tt>, <tt>MMR</tt>, <tt>104</tt>)<br> <tt>BU</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]]
+|- style="vertical-align:top;"
+! <tt>BYAA</tt> 
+| [[Byelorussian Soviet Socialist Republic|Byelorussian S.S.R.]] || <tt>BY</tt>, <tt>BYS</tt>, <tt>112</tt> || 1974–1992 || Changed its name to [[Belarus]] (<tt>BY</tt>, <tt>BLR</tt>, <tt>112</tt>)<br>
+|- style="vertical-align:top;"
+! <tt>CSHH</tt>
+| [[Czechoslovakia]] || <tt>CS</tt>, <tt>CSK</tt>, <tt>200</tt> || 1974–1993 || Split up into [[Czech Republic]] (<tt>CZ</tt>, <tt>CZE</tt>, <tt>203</tt>) and [[Slovakia]] (<tt>SK</tt>, <tt>SVK</tt>, <tt>703</tt>)<br> <tt>CS</tt> was reassigned to ''[[Serbia and Montenegro]]'' until its split in 2006
+|- style="vertical-align:top;"
+! <tt>CSXX</tt>
+| [[Serbia and Montenegro]] || <tt>CS</tt>, <tt>SCG</tt>, <tt>891</tt> || 2003–2006 || Alphabetical codes taken from "Srbija i Crna Gora", its Serbian  name<br> Split up into [[Montenegro]] (<tt>ME</tt>, <tt>MNE</tt>, <tt>499</tt>) and [[Serbia]] (<tt>RS</tt>, <tt>SRB</tt>, <tt>688</tt>)<br> <tt>CS</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]]
+|- style="vertical-align:top;"
+! <tt>CTKI</tt> 
+| [[Canton and Enderbury Islands]] || <tt>CT</tt>, <tt>CTE</tt>, <tt>128</tt> || 1974–1984 || Merged into [[Kiribati]] (<tt>KI</tt>, <tt>KIR</tt>, <tt>296</tt>)
+|- style="vertical-align:top;"
+! <tt>DDDE</tt>
+| [[East Germany|German Democratic Republic]] || <tt>DD</tt>, <tt>DDR</tt>, <tt>278</tt> || 1974–1990 || Alphabetical codes taken from "Deutsche Demokratische Republik", its German name<br> Merged into [[Germany]] (<tt>DE</tt>, <tt>DEU</tt>, <tt>276</tt>)
+|- style="vertical-align:top;"
+! <tt>DYBJ</tt>
+|  [[Dahomey]] || <tt>DY</tt>, <tt>DHY</tt>, <tt>204</tt> || 1974–1977 || Changed its name to [[Benin]] (<tt>BJ</tt>, <tt>BEN</tt>, <tt>204</tt>)
+|- style="vertical-align:top;"
+! <tt>FQHH</tt>
+| [[French Southern and Antarctic Territories]] || <tt>FQ</tt>, <tt>ATF</tt>, <tt>260</tt> || 1974–1979 || Split up into [[Adélie Land]], which merged into [[Antarctica]] (<tt>AQ</tt>, <tt>ATA</tt>, <tt>010</tt>), and [[French Southern Territories]] (<tt>TF</tt>, <tt>ATF</tt>, <tt>260</tt>)
+|- style="vertical-align:top;"
+! <tt>FXFR</tt>
+| [[Metropolitan France|France, Metropolitan]] || <tt>FX</tt>, <tt>FXX</tt>, <tt>249</tt> || 1993–1997 || Merged into [[France]] (<tt>FR</tt>, <tt>FRA</tt>, <tt>250</tt>)<br> <tt>FX</tt> is currently [[ISO_3166-1_alpha-2#Exceptional reservations|exceptionally reserved]]
+|- style="vertical-align:top;"
+! <tt>GEHH</tt>
+| [[Gilbert and Ellice Islands]] || <tt>GE</tt>, <tt>GEL</tt>, <tt>296</tt> || 1974–1979 || Split up into [[Kiribati]] (<tt>KI</tt>, <tt>KIR</tt>, <tt>296</tt>) and [[Tuvalu]] (<tt>TV</tt>, <tt>TUV</tt>, <tt>798</tt>)<br> <tt>GE</tt> has been reassigned to ''[[Georgia (country)|Georgia]]''
+|- style="vertical-align:top;"
+! <tt>HVBF</tt>
+| [[Republic of Upper Volta|Upper Volta]] || <tt>HV</tt>, <tt>HVO</tt>, <tt>854</tt> || 1974–1984 || Alphabetical codes taken from "Haute-Volta", its French name<br> Changed its name to [[Burkina Faso]] (<tt>BF</tt>, <tt>BFA</tt>, <tt>854</tt>)
+|- style="vertical-align:top;"
+! <tt>JTUM</tt>
+| [[Johnston Atoll|Johnston Island]] || <tt>JT</tt>, <tt>JTN</tt>, <tt>396</tt> || 1974–1986 || Merged into [[United States Minor Outlying Islands]] (<tt>UM</tt>, <tt>UMI</tt>, <tt>581</tt>)
+|- style="vertical-align:top;"
+! <tt>MIUM</tt>
+| [[Midway Atoll|Midway Islands]] || <tt>MI</tt>, <tt>MID</tt>, <tt>488</tt> || 1974–1986 || Merged into [[United States Minor Outlying Islands]] (<tt>UM</tt>, <tt>UMI</tt>, <tt>581</tt>)
+|- style="vertical-align:top;"
+! <tt>NHVU</tt>
+| [[New Hebrides]] || <tt>NH</tt>, <tt>NHB</tt>, <tt>548</tt> || 1974–1980 || Changed its name to [[Vanuatu]] (<tt>VU</tt>, <tt>VUT</tt>, <tt>548</tt>)
+|- style="vertical-align:top;"
+! <tt>NQAQ</tt>
+| [[Queen Maud Land|Dronning Maud Land]] || <tt>NQ</tt>, <tt>ATN</tt>, <tt>216</tt> || 1974–1983 || Alphabetical codes taken from "[[Norwegian Antarctic Territory]]"<br> Merged into [[Antarctica]] (<tt>AQ</tt>, <tt>ATA</tt>, <tt>010</tt>)
+|- style="vertical-align:top;"
+! <tt>NTHH</tt>
+| [[Saudi-Iraqi neutral zone|Neutral Zone]] || <tt>NT</tt>, <tt>NTZ</tt>, <tt>536</tt> || 1974–1993 || Split up into two parts, which merged into [[Iraq]] (<tt>IQ</tt>, <tt>IRQ</tt>, <tt>368</tt>) and [[Saudi Arabia]] (<tt>SA</tt>, <tt>SAU</tt>, <tt>682</tt>) respectively<br> <tt>NT</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]]
+|- style="vertical-align:top;"
+! <tt>PCHH</tt>
+| [[Trust Territory of the Pacific Islands|Pacific Islands, Trust Territory of the]] || <tt>PC</tt>, <tt>PCI</tt>, <tt>582</tt> || 1974–1986 || Split up into [[Federated States of Micronesia]] (<tt>FM</tt>, <tt>FSM</tt>, <tt>583</tt>), [[Marshall Islands]] (<tt>MH</tt>, <tt>MHL</tt>, <tt>584</tt>), [[Northern Mariana Islands]] (<tt>MP</tt>, <tt>MNP</tt>, <tt>580</tt>), and [[Palau]] (<tt>PW</tt>, <tt>PLW</tt>, <tt>585</tt>)
+|- style="vertical-align:top;"
+! <tt>PUUM</tt>
+| [[United States Miscellaneous Pacific Islands|U.S. Miscellaneous Pacific Islands]] || <tt>PU</tt>, <tt>PUS</tt>, <tt>849</tt> || 1974–1986 || Consisting of [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Kingman Reef]], and [[Palmyra Atoll]]<br> Merged into [[United States Minor Outlying Islands]] (<tt>UM</tt>, <tt>UMI</tt>, <tt>581</tt>)
+|- style="vertical-align:top;"
+! <tt>PZPA</tt>
+| [[Panama Canal Zone]] || <tt>PZ</tt>, <tt>PCZ</tt>, <tt>594</tt> || 1974–1980 || Merged into [[Panama]] (<tt>PA</tt>, <tt>PAN</tt>, <tt>591</tt>)
+|- style="vertical-align:top;"
+! <tt>RHZW</tt>
+| [[Rhodesia|Southern Rhodesia]] || <tt>RH</tt>, <tt>RHO</tt>, <tt>716</tt> || 1974–1980 || Changed its name to [[Zimbabwe]] (<tt>ZW</tt>, <tt>ZWE</tt>, <tt>716</tt>)
+|- style="vertical-align:top;"
+! <tt>SKIN</tt>
+| [[Sikkim]] || <tt>SK</tt>, <tt>SKM</tt>, <tt>698</tt> || 1974–1975 || Merged into [[India]] (<tt>IN</tt>, <tt>IND</tt>, <tt>356</tt>)<br> <tt>SK</tt> has been reassigned to ''[[Slovakia]]''
+|- style="vertical-align:top;"
+! <tt>SUHH</tt>
+| [[Soviet Union|U.S.S.R.]] || <tt>SU</tt>, <tt>SUN</tt>, <tt>810</tt> || 1974–1992 || Alphabetical codes taken from "Soviet Union"<br> Split up into [[Armenia]] (<tt>AM</tt>, <tt>ARM</tt>, <tt>051</tt>), [[Azerbaijan]] (<tt>AZ</tt>, <tt>AZE</tt>, <tt>031</tt>), [[Estonia]] (<tt>EE</tt>, <tt>EST</tt>, <tt>233</tt>), [[Georgia (country)|Georgia]] (<tt>GE</tt>, <tt>GEO</tt>, <tt>268</tt>), [[Kazakhstan]] (<tt>KZ</tt>, <tt>KAZ</tt>, <tt>398</tt>), [[Kyrgyzstan]] (<tt>KG</tt>, <tt>KGZ</tt>, <tt>417</tt>), [[Latvia]] (<tt>LV</tt>, <tt>LVA</tt>, <tt>428</tt>), [[Lithuania]] (<tt>LT</tt>, <tt>LTU</tt>, <tt>440</tt>), [[Moldova|Republic of Moldova]] (<tt>MD</tt>, <tt>MDA</tt>, <tt>498</tt>), [[Russia|Russian Federation]] (<tt>RU</tt>, <tt>RUS</tt>, <tt>643</tt>), [[Tajikistan]] (<tt>TJ</tt>, <tt>TJK</tt>, <tt>762</tt>), [[Turkmenistan]] (<tt>TM</tt>, <tt>TKM</tt>, <tt>795</tt>), and [[Uzbekistan]] (<tt>UZ</tt>, <tt>UZB</tt>, <tt>860</tt>) (note: [[Belarus]] and [[Ukraine]] already had their separate codes)<br> <tt>SU</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]], and still used for the Internet [[Country code top-level domain|ccTLD]] [[.su]]
+|- style="vertical-align:top;"
+! <tt>TPTL</tt>
+| [[East Timor]] || <tt>TP</tt>, <tt>TMP</tt>, <tt>626</tt> || 1974–2002 || Alphabetical codes taken from "[[Portuguese Timor]]", used by ISO from 1974 to 1977<br> Changed its name to [[Timor-Leste]] (<tt>TL</tt>, <tt>TLS</tt>, <tt>626</tt>)<br> <tt>TP</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]], and still used for the Internet [[Country code top-level domain|ccTLD]] [[.tp]]
+|- style="vertical-align:top;"
+! <tt>VDVN</tt>
+| [[North Vietnam|Viet-Nam, Democratic Republic of]] || <tt>VD</tt>, <tt>VDR</tt>, <tt>704</tt> || 1974–1977 || Merged into [[Vietnam|Viet Nam]] (<tt>VN</tt>, <tt>VNM</tt>, <tt>704</tt>)
+|- style="vertical-align:top;"
+! <tt>WKUM</tt>
+| [[Wake Island]] || <tt>WK</tt>, <tt>WAK</tt>, <tt>872</tt> || 1974–1986 || Merged into [[United States Minor Outlying Islands]] (<tt>UM</tt>, <tt>UMI</tt>, <tt>581</tt>)
+|- style="vertical-align:top;"
+! <tt>YDYE</tt>
+| [[South Yemen|Yemen, Democratic]] || <tt>YD</tt>, <tt>YMD<tt>, <tt>720</tt> || 1974–1990 || Merged into [[Yemen]] (<tt>YE</tt>, <tt>YEM</tt>, <tt>887</tt>)
+|- style="vertical-align:top;"
+! <tt>YUCS</tt>
+| [[Yugoslavia]] || <tt>YU</tt>, <tt>YUG</tt>, <tt>891</tt> || 1974–2003 || Used numeric code <tt>890</tt> until 1993 ([[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]]) and numeric code <tt>891</tt> from 1993 to 2003 ([[Federal Republic of Yugoslavia|FR Yugoslavia]])<br> Changed its name to [[Serbia and Montenegro]] (<tt>CS</tt>, <tt>SCG</tt>, <tt>891</tt>)<br> <tt>YU</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]], and still used for the Internet [[Country code top-level domain|ccTLD]] [[.yu]]
+|- style="vertical-align:top;"
+! <tt>ZRCD</tt>
+| [[Zaire]] || <tt>ZR</tt>, <tt>ZAR</tt>, <tt>180</tt> || 1974–1997 || Changed its name to [[Democratic Republic of the Congo]] (<tt>CD</tt>, <tt>COD</tt>, <tt>180</tt>)<br> <tt>ZR</tt> is currently [[ISO_3166-1_alpha-2#Transitional reservations|transitionally reserved]]
+|}
+
+==Updates==
+Since the first publication of ISO 3166-3 in 1999, five newsletters have been published which announce changes to the standard:
+# [http://www.iso.org/iso/iso_3166-3_newsletter_i-1.pdf ISO 3166-3 Newsletter I-1] – Published [[2002-11-15]]
+# [http://www.iso.org/iso/iso_3166-3_newsletter_i-2.pdf ISO 3166-3 Newsletter I-2] – Published [[2002-11-22]]
+# [http://www.iso.org/iso/iso_3166-3_newsletter_i-3.pdf ISO 3166-3 Newsletter I-3] – Published [[2003-07-23]]
+# [http://www.iso.org/iso/iso_3166-3_newsletter_i-4.pdf ISO 3166-3 Newsletter I-4] – Published [[2006-09-26]]
+# [http://www.iso.org/iso/iso_3166-3_newsletter_i-5.pdf ISO 3166-3 Newsletter I-5] – Published [[2006-12-01]]
+
+==External links==
+*[http://www.iso.org/iso/country_codes/background_on_iso_3166/iso_3166-3.htm Official page of ISO 3166-3]
+*[http://www.iso.org/iso/codes0004-2.pdf Codes to history: ''Code for formerly used names of countries'' completes the trilogy of country codes] – ISO bulletin explaining ISO 3166-3
+*[http://www.davros.org/misc/iso3166.html Country codes in ISO 3166 (include withdrawn codes)]
+*[http://www.statoids.com/w3166his.html ISO 3166-1 Change History]
+*http://www.globalfinancialdata.com/gh/GHC_Histories.xls
+
+{{ISO 3166}}
+
+[[Category:ISO 3166|3]]
+
+[[af:ISO 3166-3]]
+[[be-x-old:ISO 3166-3]]
+[[ca:ISO 3166-3]]
+[[de:ISO 3166-3]]
+[[es:ISO 3166-3]]
+[[fr:ISO 3166-3]]
+[[ko:ISO 3166-3]]
+[[nl:ISO 3166-3]]
+[[pt:ISO 3166-3]]
+[[ru:ISO 3166-3]]
+[[sr:ISO 3166-3]]
+[[zh:ISO 3166-3]]
