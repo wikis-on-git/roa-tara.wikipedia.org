@@ -1,0 +1,747 @@
+Indë [[Italie]], 'u '''Codecë dë Avviamento Postale''' ([[acronimo]] '''CAP''') avènë ausatë da 'u [[postë|servizio postëlë]] pë facilitajë l'individuazione d'u luechë dë destinazione d'a postë. A statë 'ndrodottë jndr'à 'u [[1967]].
+
+== Strutturë ==
+[[Image:Map_of_Italy_CAP.png|thumb|300px|Le ''regioni postali'']]
+Il CAP è formato da cinque cifre. In origine, al momento della definizione dei codici, furono create aree territoriali, dette ''regioni postali'', comprendenti [[province]] contigue, indipendentemente dall'appartenenza [[regioni d'Italia|regionale]] (le regioni ordinarie, all'epoca, pur già storicamente consolidate come ambiti, non erano state ancora amministrativamente istituite), e a ciascuna di esse fu attribuito un codice iniziale da 0 a 9:
+
+* 0xxxx corrisponde a [[Lazie]], [[Umbria]], [[Sardegna]] e [[Città d'u Vaticano]];
+* 1xxxx corrisponde a [[Piemonte]] (escluse province di [[Provinge dë Novara|Novara]] e [[Provinge d'u Verbano Cusio Ossola|Verbano-Cusio-Ossola]]), [[Valle d'Aosta]] e [[Liguria]];
+* 2xxxx corrisponde a [[Lombardia]] (esclusa [[Provinge dë Mantova]]), provinge dë Novara, provinge d'u Verbano-Cusio-Ossola e [[Provinge dë Piacenza|Piacenza]];
+* 3xxxx corrisponde a [[Veneto]] (esclusa [[Provinge dë Rovigo]]), [[Friuli-Venezia_Giulia|Friuli-Venezia Giulia]] e [[Trentino-Alto Adige]];
+* 4xxxx corrisponde a [[Emilia-Romagna]] (esclusa provinge dë Piacenza), provinge dë Mantova, provinge dë Rovigo e [[Repubblica dë San Marino]];
+* 5xxxx corrisponde a [[Toscana]];
+* 6xxxx corrisponde a [[Marche]] e [[Abruzzo]];
+* 7xxxx corrisponde a [[Pugghie]] e [[Provinge dë Matera]];
+* 8xxxx corrisponde a [[Campania]], [[Calavrië]], [[Molise]] e [[Provinge dë Putenzë|provinge dë Putenzë]];
+* 9xxxx corrisponde alla [[Sicilia]].
+
+All'interno di queste aree è stato assegnato un codice da x0xxx a x9xxx a ciascuna provincia. Ai capoluoghi è stato attribuito il codice xx100, agli altri centri i codici da xx01x a xx09x. La quarta cifra del codice è definita come stradario e in teoria facilita l'instradamento della corrispondenza a partire dai centri di smistamento comprensoriali (CMP) e provinciali (CPO).
+
+Sin dall'inizio, comunque, sono state previste eccezioni: alla città di [[Gorizia]] è stato attribuito il CAP 34170, e ha perciò lo stesso "codice provinciale" (34xxx) di [[Trieste]] (34100). Di conseguenza, alle località della [[provincia di Gorizia]] è stato attribuito il campo di codici da 3407x a 3409x; alle località della [[provincia di Trieste]] quello da 3401x a 3406x.
+In modo simile si è proceduto con l'istituenda provincia di [[provincia di Pordenone|Pordenone]] (rimasta parte della [[provincia di Udine]] fino al [[1968]]) al cui capoluogo venne attribuito il codice 33170 in coabitazione di codice con Udine (33100), mentre i comuni della relativa provincia sono indistinguibili.
+
+Nelle province istituite a partire dagli [[anni 1970|anni settanta]] il CAP del capoluogo è stato pertanto costituito dal codice provinciale d'origine seguito da xx170 (Isernia 86170, Oristano 09170), mentre il rimanente territorio mantiene il codice della provincia originaria differenziandosi unicamente per il campo di codici da xx07x a xx09x. Questa situazione provvisoria costituisce ancor oggi un'anomalia.
+
+Dal [[1997]], per tener conto delle otto nuove [[provincia|province]] istituite nel [[1992]] ([[provincia di Biella|Biella]], [[Provincia del Verbano-Cusio-Ossola|Verbano-Cusio-Ossola]], [[provincia di Lecco|Lecco]], [[provincia di Lodi|Lodi]], [[provincia di Rimini|Rimini]], [[provincia di Prato|Prato]], [[provincia di Crotone|Crotone]], [[provincia di Vibo Valentia|Vibo Valentia]]), le regole sono in parte cambiate. Solo alla provincia di Prato è stato assegnato un codice inutilizzato, il 59xxx, secondo le regole preesistenti. Per tutte le altre province: le prime due cifre non indicano più necessariamente una sola provincia, e per capire se si tratta di una località capoluogo è necessario verificare se la terza cifra è dispari (xx1xx per le province preesistenti e a partire da xx9xx per le nuove province). Le località non capoluogo hanno un numero pari, minore di quello identificativo del capoluogo (quindi xx0xx per le province preesistenti e a partire da xx8xx per le nuove).
+
+Lo stesso CAP può corrispondere a più località, anche tra loro non confinanti, ma per le nuove province si è adottato il principio dell'attribuzione univoca dei codici alle agenzie di recapito: un'agenzia di recapito può avere più codici, ma allo stesso codice non devono corrispondere più agenzie.
+
+I comuni più grandi (es.: [[Catania]]) possono avere più CAP, che identificano caseggiati, quartieri, aree cittadine. Ciò è previsto anche per [[Verbania]], in virtù del fatto che prima della sua erezione in capoluogo di provincia era divisa in sei differenti località postali, corrispondenti alle località di cui è costituito questo comune: Antoliva, Fondotoce, Intra, Pallanza, Suna e Trobaso, per un totale di quattro agenzie di recapito (Fondotoce, Intra, Pallanza e Trobaso). Infatti nelle edizioni del volume CAP precedenti al 1997 la dizione "Verbania" non era proprio censita.
+Per i capoluoghi di provincia con più CAP esisteva anche un CAP generico le cui ultime due cifre erano 00 (ad esempio il CAP generico di [[Roma]] era 00100, quello di [[Milano]] 20100); veniva usato in genere per gli uffici centrali locali e per l'inoltro di corrispondenza a grandi utenze (ministeri, grandi industrie, ecc). È stato tuttavia abolito con l'ultima [[#Riforma del CAP|riforma]], a decorrere dal [[20 settembre]] [[2006]].
+
+I capoluoghi di provincia con il CAP legato allo stradario sono: [[Ancona]], [[Bari]], [[Bergamo]], [[Bologna]], [[Brescia]], [[Cagliari]], [[Catania]], [[Firenze]], [[Genova]], [[La Spezia]], [[Livorno]], [[Messina]], [[Milano]], [[Napoli]], [[Padova]], [[Palermo]], [[Perugia]], [[Pescara]], [[Pisa]], [[Reggio di Calabria]], [[Roma]], [[Salerno]], [[Torino]], [[Trieste]], [[Venezia]], [[Verbania]], [[Verona]].
+
+In altri stati esistono codici postali: ''[[Zoning Improvement Plan|ZIP code]]'' negli [[Stati Uniti d'America|USA]], [[numero postale di avviamento]] in [[Svizzera]], [[codice postale interno]] nella [[Repubblica di San Marino]], ''[[postcode]]'' nel [[Regno Unito]], ''[[Postleitzahl|PLZ]]'' nei [[Paese|paesi]] di [[lingua tedesca]] (è la sigla che usa la stessa [[Poste Italiane]] nella modulistica bilingue per gli uffici postali della [[Provincia autonoma di Bolzano - Alto Adige|provincia autonoma di Bolzano]]) etc..
+
+==Riforma del CAP==
+
+I codici di avviamento postale sono stati riformati nel settembre 2006 e la riforma è entrata in vigore il 20 settembre 2006. Il cambiamento ha principalmente riguardato:
+* la modifica del CAP di 79 comuni (su 8103);
+* la modifica del CAP in 2400 frazioni principali (su 8500), le quali hanno assunto lo stesso codice del capoluogo di comune (al posto del precedente generico xxxx0);
+* l'abolizione del CAP generico (xx100) per le città suddivise in zone postali, nelle quali diviene obbligatoria l'indicazione del CAP specifico associato alla via e al numero civico del destinatario;
+* il cambiamento del CAP nel 10% delle strade esistenti nei 27 comuni suddivisi in zone postali: la creazione di nuovi CAP a Bari, Perugia, Pisa, Reggio Calabria, Roma, Trieste, Venezia e Verona; l'eliminazione di alcuni CAP in alcune città suddivise in zone postali (in particolare: La Spezia 19138, 19139; Messina 98159; Palermo 90132; Pescara 65131, 65132; Venezia 30131); l'inserimento negli stradari delle nuove strade istituite dal 1997 al 2006 nelle città suddivise in zone postali; 
+* l'aggiornamento dell'elenco delle 107 province italiane con l'ufficializzazione delle sigle postali per le nuove province della [[Sardegna]] (OT per [[provincia di Olbia-Tempio|Olbia-Tempio]], OG per l'[[provincia dell'Ogliastra|Ogliastra]], CI per [[provincia di Carbonia-Iglesias|Carbonia-Iglesias]], MD <small>poi modificata in</small> VS per il [[provincia del Medio Campidano|Medio Campidano]]), pur senza modificarne provvisoriamente l'originario codice postale né dei capoluoghi né del territorio. Le nuove province di istituzione statale ([[provincia di Monza e Brianza|Monza e Brianza]], [[provincia di Fermo|Fermo]] e [[provincia di Barletta-Andria-Trani|Barletta-Andria-Trani]]), non essendo ancora operative, non sono invece state contemplate dalla riforma;
+* la programmazione dell'aggiornamento annuale dei codici a partire dall'anno 2006 (il precedente aggiornamento dei codici e dello stradario risaliva al 1997);
+* la scelta della commercializzazione per la diffusione della banca dati su supporto informatico da parte di Poste Italiane.
+
+==Elenco dei codici postali in Italia==
+Di seguito una tabella contenente i CAP delle 107 province italiane (inclusa la Valle d'Aosta e quelle di nuova istituzione, escluse le tre da attivare), della Repubblica di [[San Marino]] e della [[Città del Vaticano]] (che fanno parte del sistema postale italiano). La tabella è aggiornata alla Revisione CAP del 2006 ed è ordinata per numero di codice postale.
+
+{| width=100% border=1 cellpadding=2 cellspacing=0 style="margin-left:0.5em; margin-bottom:0.5em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse;"
+! Provincia
+! Sigla
+! Regione
+! CAP capoluoghi
+! CAP altri comuni della provincia
+|-
+| '''[[Provincia di Roma|Roma]]'''
+| align=center|RM
+| align=center|[[Lazio]]
+| align=left|001xx (da 00118 a 00199)
+| align=left|000xx (da 00010 a 00069)
+|-
+| '''[[Città del Vaticano]]'''
+| align=center|-
+| align=center|-
+| align=left|00120
+| align=left|-
+|-
+| '''[[Provincia di Viterbo|Viterbo]]'''
+| align=center|VT
+| align=center|[[Lazio]]
+| align=left|01100
+| align=left|010xx (da 01010 a 01039)
+|-
+| '''[[Provincia di Rieti|Rieti]]'''
+| align=center|RI
+| align=center|[[Lazio]]
+| align=left|02100
+| align=left|020xx (da 02010 a 02049)
+|-
+| '''[[Provincia di Frosinone|Frosinone]]'''
+| align=center|FR
+| align=center|[[Lazio]]
+| align=left|03100
+| align=left|030xx (da 03010 a 03049)
+|-
+| '''[[Provincia di Latina|Latina]]'''
+| align=center|LT
+| align=center|[[Lazio]]
+| align=left|04100
+| align=left|040xx (da 04010 a 04029)
+|-
+| '''[[Provincia di Terni|Terni]]'''
+| align=center|TR
+| align=center|[[Umbria]]
+| align=left|05100
+| align=left|050xx (da 05010 a 05039)
+|-
+| '''[[Provincia di Perugia|Perugia]]'''
+| align=center|PG
+| align=center|[[Umbria]]
+| align=left|061xx (da 06121 a 06135)
+| align=left|060xx (da 06010 a 06089)
+|-
+| '''[[Provincia di Sassari|Sassari]]'''
+| align=center|SS
+| align=center|[[Sardegna]]
+| align=left|07100
+| align=left|070xx (da 07010 a 07019 e da 07030 a 07049) (*)
+|-
+| '''[[Provincia di Olbia-Tempio|Olbia-Tempio]]'''
+| align=center|OT
+| align=center|[[Sardegna]]
+| align=left|07026 ([[Olbia]]), 07029 ([[Tempio Pausania]])
+| align=left|070xx (da 07020 a 07029) e 08020 (*)
+|-
+| '''[[Provincia di Nuoro|Nuoro]]'''
+| align=center|NU
+| align=center|[[Sardegna]]
+| align=left|08100
+| align=left|080xx (da 08010 a 08039) (*)
+|-
+| '''[[Provincia dell'Ogliastra|Ogliastra]]'''
+| align=center|OG
+| align=center|[[Sardegna]]
+| align=left|08045 ([[Lanusei]]), 08048 ([[Tortolì]])
+| align=left|080xx (da 08040 a 08049) (*)
+|-
+| '''[[Provincia di Cagliari|Cagliari]]'''
+| align=center|CA
+| align=center|[[Sardegna]]
+| align=left|091xx (da 09121 a 09134)
+| align=left|090xx (da 09010 a 09049) e 080xx (*)
+|-
+| '''[[Provincia di Oristano|Oristano]]'''
+| align=center|OR
+| align=center|[[Sardegna]]
+| align=left|09170
+| align=left|090xx (da 09070 a 09099) e 080xx (*)
+|-
+| '''[[Provincia di Carbonia-Iglesias|Carbonia-Iglesias]]'''
+| align=center|CI
+| align=center|[[Sardegna]]
+| align=left|09013 ([[Carbonia]]), 09016 ([[Iglesias]])
+| align=left|090xx (da 09010 a 09017) (*)
+|-
+| '''[[Provincia del Medio Campidano|Medio Campidano]]'''
+| align=center|MD/VS <ref>Riportata come MD in base alla riforma del CAP del settembre 2006 ma successivamente modificata dal Governo in VS dal dicembre 2006. In alcune aree del sito posteitaliane.it è stata aggiornata in VS</ref>
+| align=center|[[Sardegna]]
+| align=left|09025 ([[Sanluri]]), 09039 ([[Villacidro]])
+| align=left|090xx (da 09020 a 09041) (*)
+|-
+| '''[[Provincia di Torino|Torino]]'''
+| align=center|TO
+| align=center|[[Piemonte]]
+| align=left|101xx (da 10121 a 10156)
+| align=left|100xx (da 10010 a 10099)
+|-
+| '''[[Valle d'Aosta|Valle d'Aosta / Vallée d'Aoste]]'''
+| align=center|AO
+| align=center|[[Valle d'Aosta]]
+| align=left|11100 ([[Aosta]])
+| align=left|110xx (da 11010 a 11029)
+|-
+| '''[[Provincia di Cuneo|Cuneo]]'''
+| align=center|CN
+| align=center|[[Piemonte]]
+| align=left|12100
+| align=left|120xx (da 12010 a 12089)
+|-
+| '''[[Provincia di Vercelli|Vercelli]]'''
+| align=center|VC
+| align=center|[[Piemonte]]
+| align=left|13100
+| align=left|130xx (da 13010 a 13060)
+|-
+| '''[[Provincia di Biella|Biella]]'''
+| align=center|BI
+| align=center|[[Piemonte]]
+| align=left|13900
+| align=left|138xx (da 13811 a 13899)
+|-
+| '''[[Provincia di Asti|Asti]]'''
+| align=center|AT
+| align=center|[[Piemonte]]
+| align=left|14100
+| align=left|140xx (da 14010 a 14059)
+|-
+| '''[[Provincia di Alessandria|Alessandria]]'''
+| align=center|AL
+| align=center|[[Piemonte]]
+| align=left|15100
+| align=left|150xx (da 15010 a 15079)
+|-
+| '''[[Provincia di Genova|Genova]]'''
+| align=center|GE
+| align=center|[[Liguria]]
+| align=left|161xx (da 16121 a 16167)
+| align=left|160xx (da 16010 a 16049)
+|-
+| '''[[Provincia di Savona|Savona]]'''
+| align=center|SV
+| align=center|[[Liguria]]
+| align=left|17100
+| align=left|170xx (da 17010 a 17058)
+|-
+| '''[[Provincia di Imperia|Imperia]]'''
+| align=center|IM
+| align=center|[[Liguria]]
+| align=left|18100
+| align=left|180xx (da 18010 a 18039)
+|-
+| '''[[Provincia della Spezia|La Spezia]]'''
+| align=center|SP
+| align=center|[[Liguria]]
+| align=left|191xx (da 19121 a 19137)
+| align=left|190xx (da 19010 a 19038)
+|-
+| '''[[Provincia di Milano|Milano]]'''
+| align=center|MI
+| align=center|[[Lombardia]]
+| align=left|201xx (da 20121 a 20162)
+| align=left|200xx (da 20010 a 20099)
+|-
+| '''[[Provincia di Varese|Varese]]'''
+| align=center|VA
+| align=center|[[Lombardia]]
+| align=left|21100
+| align=left|210xx (da 21010 a 21059)
+|-
+| '''[[Provincia di Como|Como]]'''
+| align=center|CO
+| align=center|[[Lombardia]]
+| align=left|22100
+| align=left|220xx (da 22010 a 22079)
+|-
+| '''[[Provincia di Sondrio|Sondrio]]'''
+| align=center|SO
+| align=center|[[Lombardia]]
+| align=left|23100
+| align=left|230xx (da 23010 a 23038)
+|-
+| '''[[Provincia di Lecco|Lecco]]'''
+| align=center|LC
+| align=center|[[Lombardia]]
+| align=left|23900
+| align=left|238xx (da 23801 a 23899)
+|-
+| '''[[Provincia di Bergamo|Bergamo]]'''
+| align=center|BG
+| align=center|[[Lombardia]]
+| align=left|241xx (da 24121 a 24129)
+| align=left|240xx (da 24010 a 24069)
+|-
+| '''[[Provincia di Brescia|Brescia]]'''
+| align=center|BS
+| align=center|[[Lombardia]]
+| align=left|251xx (da 25121 a 25136)
+| align=left|250xx (da 25010 a 25089)
+|-
+| '''[[Provincia di Cremona|Cremona]]'''
+| align=center|CR
+| align=center|[[Lombardia]]
+| align=left|26100
+| align=left|260xx (da 26010 a 26049)
+|-
+| '''[[Provincia di Lodi|Lodi]]'''
+| align=center|LO
+| align=center|[[Lombardia]]
+| align=left|26900
+| align=left|268xx (da 26811 a 26867)
+|-
+| '''[[Provincia di Pavia|Pavia]]'''
+| align=center|PV
+| align=center|[[Lombardia]]
+| align=left|27100
+| align=left|270xx (da 27010 a 27059)
+|-
+| '''[[Provincia di Novara|Novara]]'''
+| align=center|NO
+| align=center|[[Piemonte]]
+| align=left|28100
+| align=left|280xx (da 28010 a 28079)
+|-
+| '''[[Provincia del Verbano-Cusio-Ossola|Verbano-Cusio-Ossola]]'''
+| align=center|VB
+| align=center|[[Piemonte]]
+| align=left|289xx ([[Verbania]], da 28921 a 28925)
+| align=left|288xx (da 28801 a 28899)
+|-
+| '''[[Provincia di Piacenza|Piacenza]]'''
+| align=center|PC
+| align=center|[[Emilia-Romagna]]
+| align=left|29100
+| align=left|290xx (da 29010 a 29029)
+|-
+| '''[[Provincia di Venezia|Venezia]]'''
+| align=center|VE
+| align=center|[[Veneto]]
+| align=left|301xx (da 30121 a 30176)
+| align=left|300xx (da 30010 a 30039)
+|-
+| '''[[Provincia di Treviso|Treviso]]'''
+| align=center|TV
+| align=center|[[Veneto]]
+| align=left|31100
+| align=left|310xx (da 31010 a 31059)
+|-
+| '''[[Provincia di Belluno|Belluno]]'''
+| align=center|BL
+| align=center|[[Veneto]]
+| align=left|32100
+| align=left|320xx (da 32010 a 32047)
+|-
+| '''[[Provincia di Udine|Udine]]'''
+| align=center|UD
+| align=center|[[Friuli-Venezia Giulia]]
+| align=left|33100
+| align=left|330xx (da 33010 a 33059)
+|-
+| '''[[Provincia di Pordenone|Pordenone]]'''
+| align=center|PN
+| align=center|[[Friuli-Venezia Giulia]]
+| align=left|33170
+| align=left|330xx (da 33070 a 33099)
+|-
+| '''[[Provincia di Trieste|Trieste]]'''
+| align=center|TS
+| align=center|[[Friuli-Venezia Giulia]]
+| align=left|341xx (da 34121 a 34151)
+| align=left|340xx (da 34010 a 34018)
+|-
+| '''[[Provincia di Gorizia|Gorizia]]'''
+| align=center|GO
+| align=center|[[Friuli-Venezia Giulia]]
+| align=left|34170
+| align=left|340xx (da 34070 a 34079)
+|-
+| '''[[Provincia di Padova|Padova]]'''
+| align=center|PD
+| align=center|[[Veneto]]
+| align=left|351xx (da 35121 a 35143)
+| align=left|350xx (da 35010 a 35048)
+|-
+| '''[[Provincia di Vicenza|Vicenza]]'''
+| align=center|VI
+| align=center|[[Veneto]]
+| align=left|36100
+| align=left|360xx (da 36010 a 36078)
+|-
+| '''[[Provincia di Verona|Verona]]'''
+| align=center|VR
+| align=center|[[Veneto]]
+| align=left|371xx (da 37121 a 37142)
+| align=left|370xx (da 37010 a 37069)
+|-
+| '''[[Provincia di Trento|Trento]]'''
+| align=center|TN
+| align=center|[[Trentino-Alto Adige|Trentino-Alto Adige / Südtirol]]
+| align=left|38100
+| align=left|380xx (da 38010 a 38089)
+|-
+| '''[[Provincia di Bolzano|Bolzano-Alto Adige / Bozen-Südtirol]]'''
+| align=center|BZ
+| align=center|[[Trentino-Alto Adige|Trentino-Alto Adige / Südtirol]]
+| align=left|39100 ([[Bolzano|Bolzano/Bozen]])
+| align=left|390xx (da 39010 a 39058)
+|-
+| '''[[Provincia di Bologna|Bologna]]'''
+| align=center|BO
+| align=center|[[Emilia-Romagna]]
+| align=left|401xx (da 40121 a 40141)
+| align=left|400xx (da 40010 a 40069)
+|-
+| '''[[Provincia di Modena|Modena]]'''
+| align=center|MO
+| align=center|[[Emilia-Romagna]]
+| align=left|41100
+| align=left|410xx (da 41010 a 41059)
+|-
+| '''[[Provincia di Reggio Emilia|Reggio Emilia]]'''
+| align=center|RE
+| align=center|[[Emilia-Romagna]]
+| align=left|42100
+| align=left|420xx (da 42010 a 42049)
+|-
+| '''[[Provincia di Parma|Parma]]'''
+| align=center|PR
+| align=center|[[Emilia-Romagna]]
+| align=left|43100
+| align=left|430xx (da 43010 a 43059)
+|-
+| '''[[Provincia di Ferrara|Ferrara]]'''
+| align=center|FE
+| align=center|[[Emilia-Romagna]]
+| align=left|44100
+| align=left|440xx (da 44010 a 44049)
+|-
+| '''[[Provincia di Rovigo|Rovigo]]'''
+| align=center|RO
+| align=center|[[Veneto]]
+| align=left|45100
+| align=left|450xx (da 45010 a 45039)
+|-
+| '''[[Provincia di Mantova|Mantova]]'''
+| align=center|MN
+| align=center|[[Lombardia]]
+| align=left|46100
+| align=left|460xx (da 46010 a 46049)
+|-
+| '''[[Provincia di Forlì-Cesena|Forlì-Cesena]]'''
+| align=center|FC
+| align=center|[[Emilia-Romagna]]
+| align=left|47100 ([[Forlì]])
+| align=left|470xx (da 47010 a 47043)
+|-
+| '''[[Provincia di Rimini|Rimini]]'''
+| align=center|RN
+| align=center|[[Emilia-Romagna]]
+| align=left|47900
+| align=left|478xx (da 47814 a 47855)
+|-
+| '''[[Repubblica di San Marino]]'''
+| align=center|-
+| align=center|-
+| align=left|47890 ([[Città di San Marino]], capitale)
+| align=left|4789x (da 47891 a 47899)
+|-
+| '''[[Provincia di Ravenna|Ravenna]]'''
+| align=center|RA
+| align=center|[[Emilia-Romagna]]
+| align=left|48100
+| align=left|480xx (da 48010 a 48027)
+|-
+| '''[[Provincia di Firenze|Firenze]]'''
+| align=center|FI
+| align=center|[[Toscana]]
+| align=left|501xx (da 50121 a 50145)
+| align=left|500xx (da 50010 a 50068)
+|-
+| '''[[Provincia di Pistoia|Pistoia]]'''
+| align=center|PT
+| align=center|[[Toscana]]
+| align=left|51100
+| align=left|510xx (da 51010 a 51039)
+|-
+| '''[[Provincia di Arezzo|Arezzo]]'''
+| align=center|AR
+| align=center|[[Toscana]]
+| align=left|52100
+| align=left|520xx (da 52010 a 52048)
+|-
+| '''[[Provincia di Siena|Siena]]'''
+| align=center|SI
+| align=center|[[Toscana]]
+| align=left|53100
+| align=left|530xx (da 53011 a 53049)
+|-
+| '''[[Provincia di Massa-Carrara|Massa-Carrara]]'''
+| align=center|MS
+| align=center|[[Toscana]]
+| align=left|54100 ([[Massa (MS)|Massa]])
+| align=left|540xx (da 54010 a 54038)
+|-
+| '''[[Provincia di Lucca|Lucca]]'''
+| align=center|LU
+| align=center|[[Toscana]]
+| align=left|55100
+| align=left|550xx (da 55010 a 55064)
+|-
+| '''[[Provincia di Pisa|Pisa]]'''
+| align=center|PI
+| align=center|[[Toscana]]
+| align=left|561xx (da 56121 a 56128)
+| align=left|560xx (da 56010 a 56048)
+|-
+| '''[[Provincia di Livorno|Livorno]]'''
+| align=center|LI
+| align=center|[[Toscana]]
+| align=left|571xx (da 57121 a 57128)
+| align=left|570xx (da 57014 a 57039)
+|-
+| '''[[Provincia di Grosseto|Grosseto]]'''
+| align=center|GR
+| align=center|[[Toscana]]
+| align=left|58100
+| align=left|580xx (da 58010 a 58055)
+|-
+| '''[[Provincia di Prato|Prato]]'''
+| align=center|PO
+| align=center|[[Toscana]]
+| align=left|59100
+| align=left|590xx (da 59011 a 59026)
+|-
+| '''[[Provincia di Ancona|Ancona]]'''
+| align=center|AN
+| align=center|[[Marche]]
+| align=left|601xx (da 60121 a 60131)
+| align=left|600xx (da 60010 a 60048)
+|-
+| '''[[Provincia di Pesaro e Urbino|Pesaro e Urbino]]'''
+| align=center|PU
+| align=center|[[Marche]]
+| align=left|61100 ([[Pesaro]]), 61029 ([[Urbino]])
+| align=left|610xx (da 61010 a 61049)
+|-
+| '''[[Provincia di Macerata|Macerata]]'''
+| align=center|MC
+| align=center|[[Marche]]
+| align=left|62100
+| align=left|620xx (da 62010 a 62039)
+|-
+| '''[[Provincia di Ascoli Piceno|Ascoli Piceno]]'''
+| align=center|AP
+| align=center|[[Marche]]
+| align=left|63100
+| align=left|630xx (da 63010 a 63049)
+|-
+| '''[[Provincia di Teramo|Teramo]]'''
+| align=center|TE
+| align=center|[[Abruzzo]]
+| align=left|64100
+| align=left|640xx (da 64010 a 64049)
+|-
+| '''[[Provincia di Pescara|Pescara]]'''
+| align=center|PE
+| align=center|[[Abruzzo]]
+| align=left|651xx (da 65121 a 65129)
+| align=left|650xx (da 65010 a 65029)
+|-
+| '''[[Provincia di Chieti|Chieti]]'''
+| align=center|CH
+| align=center|[[Abruzzo]]
+| align=left|66100
+| align=left|660xx (da 66010 a 66054)
+|-
+| '''[[Provincia dell'Aquila|L'Aquila]]'''
+| align=center|AQ
+| align=center|[[Abruzzo]]
+| align=left|67100
+| align=left|670xx (da 67010 a 67069)
+|-
+| '''[[Provincia di Bari|Bari]]'''
+| align=center|BA
+| align=center|[[Puglia]]
+| align=left|701xx (da 70121 a 70131)
+| align=left|700xx (da 70010 a 70059)
+|-
+| '''[[Provincia di Foggia|Foggia]]'''
+| align=center|FG
+| align=center|[[Puglia]]
+| align=left|71100
+| align=left|710xx (da 71010 a 71049)
+|-
+| '''[[Provincia di Brindisi|Brindisi]]'''
+| align=center|BR
+| align=center|[[Puglia]]
+| align=left|72100
+| align=left|720xx (da 72010 a 72029)
+|-
+| '''[[Provincia di Lecce|Lecce]]'''
+| align=center|LE
+| align=center|[[Puglia]]
+| align=left|73100
+| align=left|730xx (da 73010 a 73059)
+|-
+| '''[[Provincia di Taranto|Taranto]]'''
+| align=center|TA
+| align=center|[[Puglia]]
+| align=left|74100
+| align=left|740xx (da 74010 a 74028)
+|-
+| '''[[Provincia di Matera|Matera]]'''
+| align=center|MT
+| align=center|[[Basilicata]]
+| align=left|75100
+| align=left|750xx (da 75010 a 75029)
+|-
+| '''[[Provincia di Napoli|Napoli]]'''
+| align=center|NA
+| align=center|[[Campania]]
+| align=left|801xx (da 80121 a 80147)
+| align=left|800xx (da 80010 a 80079)
+|-
+| '''[[Provincia di Caserta|Caserta]]'''
+| align=center|CE
+| align=center|[[Campania]]
+| align=left|81100
+| align=left|810xx (da 81010 a 81059)
+|-
+| '''[[Provincia di Benevento|Benevento]]'''
+| align=center|BN
+| align=center|[[Campania]]
+| align=left|82100
+| align=left|820xx (da 82010 a 82038)
+|-
+| '''[[Provincia di Avellino|Avellino]]'''
+| align=center|AV
+| align=center|[[Campania]]
+| align=left|83100
+| align=left|830xx (da 83010 a 83059)
+|-
+| '''[[Provincia di Salerno|Salerno]]'''
+| align=center|SA
+| align=center|[[Campania]]
+| align=left|841xx (da 84121 a 84135)
+| align=left|840xx (da 84010 a 84099)
+|-
+| '''[[Provincia di Potenza|Potenza]]'''
+| align=center|PZ
+| align=center|[[Basilicata]]
+| align=left|85100
+| align=left|850xx (da 85010 a 85059)
+|-
+| '''[[Provincia di Campobasso|Campobasso]]'''
+| align=center|CB
+| align=center|[[Molise]]
+| align=left|86100
+| align=left|860xx (da 86010 a 86049)
+|-
+| '''[[Provincia di Isernia|Isernia]]'''
+| align=center|IS
+| align=center|[[Molise]]
+| align=left|86170
+| align=left|860xx (da 86070 a 86097)
+|-
+| '''[[Provincia di Cosenza|Cosenza]]'''
+| align=center|CS
+| align=center|[[Calabria]]
+| align=left|87100
+| align=left|870xx (da 87010 a 87076)
+|-
+| '''[[Provincia di Catanzaro|Catanzaro]]'''
+| align=center|CZ
+| align=center|[[Calabria]]
+| align=left|88100
+| align=left|880xx (da 88020 a 88070)
+|-
+| '''[[Provincia di Crotone|Crotone]]'''
+| align=center|KR
+| align=center|[[Calabria]]
+| align=left|88900
+| align=left|888xx (da 88811 a 88842)
+|-
+| '''[[Provincia di Reggio Calabria|Reggio Calabria]]'''
+| align=center|RC
+| align=center|[[Calabria]]
+| align=left|891xx (da 89121 a 89135)
+| align=left|890xx (da 89010 a 89069)
+|-
+| '''[[Provincia di Vibo Valentia|Vibo Valentia]]'''
+| align=center|VV
+| align=center|[[Calabria]]
+| align=left|89900
+| align=left|898xx (da 89812 a 89868)
+|-
+| '''[[Provincia di Palermo|Palermo]]'''
+| align=center|PA
+| align=center|[[Sicilia]]
+| align=left|901xx (da 90121 a 90151)
+| align=left|900xx (da 90010 a 90049)
+|-
+| '''[[Provincia di Trapani|Trapani]]'''
+| align=center|TP
+| align=center|[[Sicilia]]
+| align=left|91100
+| align=left|910xx (da 91010 a 91029)
+|-
+| '''[[Provincia di Agrigento|Agrigento]]'''
+| align=center|AG
+| align=center|[[Sicilia]]
+| align=left|92100
+| align=left|920xx (da 92010 a 92029)
+|-
+| '''[[Provincia di Caltanissetta|Caltanissetta]]'''
+| align=center|CL
+| align=center|[[Sicilia]]
+| align=left|93100
+| align=left|930xx (da 93010 a 93019)
+|-
+| '''[[Provincia di Enna|Enna]]'''
+| align=center|EN
+| align=center|[[Sicilia]]
+| align=left|94100
+| align=left|940xx (da 94010 a 94019)
+|-
+| '''[[Provincia di Catania|Catania]]'''
+| align=center|CT
+| align=center|[[Sicilia]]
+| align=left|951xx (da 95121 a 95131)
+| align=left|950xx (da 95010 a 95049)
+|-
+| '''[[Provincia di Siracusa|Siracusa]]'''
+| align=center|SR
+| align=center|[[Sicilia]]
+| align=left|96100
+| align=left|960xx (da 96010 a 96019)
+|-
+| '''[[Provincia di Ragusa|Ragusa]]'''
+| align=center|RG
+| align=center|[[Sicilia]]
+| align=left|97100
+| align=left|970xx (da 97010 a 97019)
+|-
+| '''[[Provincia di Messina|Messina]]'''
+| align=center|ME
+| align=center|[[Sicilia]]
+| align=left|981xx (da 98121 a 98168)
+| align=left|980xx (da 98020 a 98079)
+|}
+
+<references/>
+
+(*) In [[Sardegna]] sono state istituite nel 2005 4 nuove province e sono stati modificati i confini di quelle esistenti. La riforma del CAP ha formalizzato le nuove sigle postali ma la suddivisione dei Codici Postali rispecchia ancora la vecchia suddivisione amministrativa in 4 province. Nel dicembre 2006 con nota del Dipartimento Funzione Pubblica del Consiglio dei Ministri e del Ministero dell'Economia e delle Finanze sono stata definite le sigle identificative definitive delle nuove province modificando la sigla della Provincia del Medio Campidano da MD a VS.
+
+Si noti che nonostante il numero delle province italiane sia oggi superiore a 100 (107 ambiti provinciali attualmente operativi che divengono 110 con i 3 di nuova istituzione statale) non tutti i codici numerici sono stati utilizzati o attribuiti. In particolare sono tuttora inutilizzati il 49xxx, il 68xxx, il 69xxx, il 76xxx, il 77xxx, il 78xxx, il 79xxx e il 99xxx. Il codice 59xxx -già inutilizzato- è stato negli anni '90 attribuito alla provincia di Prato.
+
+Il '''[[Principato di Monaco]]''', parte del sistema postale francese, è identificato dall'unico indicativo MC-98000.
+'''[[Malta]]''' dispone di un sistema postale autonomo, realizzato sul modello di quello britannico.
+
+==Località e siti italiani con altri codici postali==
+
+===Codici postali svizzeri===
+Due località italiane sede di uffici postali della [[La Posta Svizzera|Posta Svizzera]] posseggono oltre al CAP italiano anche il codice [[Numero postale di avviamento|NPA]] elvetico:
+:I-22060 CH-6911 [[Campione d'Italia]] ([[Provincia di Como|CO]])
+:I-28845 CH-3907 [[Domodossola]] ([[Provincia del Verbano-Cusio-Ossola|VB]]) (per la sola agenzia postale svizzera)
+
+===Codici postali militari britannici===
+Le sedi e organizzazioni militari del [[Regno Unito]] in Italia dispongono, oltre che del CAP geografico italiano, anche di un codice postale dedicato dal servizio postale militare britannico, denominato ''British Field Post Office'' (BFPO):
+:BFPO 8 Napoli
+:BFPO 61 Milano
+:BFPO 65 Roma
+
+== Collegamenti esterni ==
+*[http://www.poste.it/online/cercacap/ Ricerca CAP sul sito Poste Italiane]
+*[http://www.digitazero.org/?p=41 TrovaCAP] Database Open Source per la ricerca dei CAP aggiornati
+*[http://www.sarasoft.net/software-gestionale-gratis-free.htm CercaCAP] Programma freeware per trovare il CAP di qualunque città
+*[http://www.nonsolocap.it/ nonsoloCAP.it] Ricerca CAP per nome località e per zone postali
+*[http://www.address-service-center.it/normalizza.php address-service-center.it] Servizio gratuito di normalizzazione indirizzi italiani e internazionali
+*[http://www.geonames.org/postal-codes/codici-avviamento-postale-italia.html Mappa codici postali in Italia] - geonames.org
+
+[[Category:Posta]]
+[[Category:Codecë]]
+
+[[de:Postleitzahl (Italien)]]
+[[en:List of postal codes in Italy]]
+[[nl:Postcodes in Italië]]
