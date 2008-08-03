@@ -1,25 +1,25 @@
 {{Nota disambigua|descrizione=altri significati di Numero|titolo=[[Numerë (disambigua)]]}}
-'Nu '''numerë''' è una entità astratta usata per descrivere una [[quantità]]. I numeri sono generalmente descritti tramite delle [[cifra|cifre]], secondo un [[sistema di numerazione]].
+'Nu '''numerë''' ète n'entità astrattë ausatë pë descrivere 'na [[quantità]]. Lë numerë sondë generalmende descritti cu l'aiutë dë lë [[cifra|cifre]], assecondë 'nu [[sistemë dë numerazione]].
 
-I numeri possono essere manipolati tramite le quattro operazioni fondamentali, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione (matematica)|divisione]]. Lo studio delle proprietà di queste operazioni è parte dell'[[algebra elementare]].
+Lë numerë ponnë essere manipolëtë cu lë quattrë operazioni fondamentali, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione (matematica)|divisione]]. 'U studië dë lë proprietà dë chìstë operazioni jè partë dë l'[[algebra elementare]].
 
-== Tipi di numeri ==
+== Tipi dë numerë ==
 
-===Numeri naturali ===
+=== Numerë naturali ===
 Vi sono differenti tipi di numeri. Quelli maggiormente conosciuti sono i [[Numero naturale|numeri naturali]] { 1, 2, 3... } usati per contare e indicati con '''N'''. La presenza dello [[zero]] fra i numeri naturali dipende dalla convenzione scelta. Lo zero è comunque previsto dagli [[assiomi di Peano]].
 
-=== Numeri interi ===
+=== Numerë interi ===
 Se si introduce la differenza di segno e lo zero, distinguendo tra ''numeri positivi'' e ''numeri negativi'', si ottengono i [[numeri interi]] denominati con il simbolo  '''Z'''.
 
-=== Numeri razionali ===
+=== Numerë razionali ===
 Se i numeri interi vengono utilizzati per definire un rapporto si ottengono i [[numeri razionali]], cioè esprimibili tramite una [[frazione (matematica)|frazione]] (''ratio'' in [[lingua latina|latino]]). L'insieme di tutti i numeri razionali è definito col simbolo '''Q'''. 
 
-=== Numeri reali ===
+=== Numerë reali ===
 I numeri razionali non comprendono tutti i numeri esprimibili con la [[virgola]]. Ci sono numeri con un numero infinito di cifre decimali non [[numero decimale periodico|periodiche]], che non possono essere espressi come frazione di due interi: per esempio, <math>\pi</math> ([[pi greco]]), <math>\sqrt{2}</math>. Tali numeri vengono detti  [[numeri irrazionali|irrazionali]], perché non ottenibili come frazioni.
 
 L'unione dei numeri interi, razionali e irrazionali forma l'insieme dei [[numeri reali]], indicato con '''R'''. 
 
-=== Numeri complessi ===
+=== Numerë complessi ===
 L'insieme dei numeri reali non è però sufficiente a fornire tutte le soluzioni delle [[equazione algebrica|equazioni algebriche]]. Per esempio, l'equazione
 <math>x^2_ \quad = -1</math> non ha soluzioni nel campo dei numeri reali, perché in questo insieme il quadrato di un numero è sempre positivo.  Per risolvere questo problema, è stata introdotta l'[[unità immaginaria]] ''i'', tale che <math>i^2\; = -1</math>.  Tale numero non appartiene all'insieme dei numeri reali, bensì all'insieme dei [[numeri complessi]].
 
