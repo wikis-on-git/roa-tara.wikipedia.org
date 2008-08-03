@@ -1,0 +1,153 @@
+{{Nota disambigua|descrizione=altri significati di Numero|titolo=[[Numero (disambigua)]]}}
+Un '''numero''' è una entità astratta usata per descrivere una [[quantità]]. I numeri sono generalmente descritti tramite delle [[cifra|cifre]], secondo un [[sistema di numerazione]].
+
+I numeri possono essere manipolati tramite le quattro operazioni fondamentali, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione (matematica)|divisione]]. Lo studio delle proprietà di queste operazioni è parte dell'[[algebra elementare]].
+
+== Tipi di numeri ==
+
+===Numeri naturali ===
+Vi sono differenti tipi di numeri. Quelli maggiormente conosciuti sono i [[Numero naturale|numeri naturali]] { 1, 2, 3... } usati per contare e indicati con '''N'''. La presenza dello [[zero]] fra i numeri naturali dipende dalla convenzione scelta. Lo zero è comunque previsto dagli [[assiomi di Peano]].
+
+=== Numeri interi ===
+Se si introduce la differenza di segno e lo zero, distinguendo tra ''numeri positivi'' e ''numeri negativi'', si ottengono i [[numeri interi]] denominati con il simbolo  '''Z'''.
+
+=== Numeri razionali ===
+Se i numeri interi vengono utilizzati per definire un rapporto si ottengono i [[numeri razionali]], cioè esprimibili tramite una [[frazione (matematica)|frazione]] (''ratio'' in [[lingua latina|latino]]). L'insieme di tutti i numeri razionali è definito col simbolo '''Q'''. 
+
+=== Numeri reali ===
+I numeri razionali non comprendono tutti i numeri esprimibili con la [[virgola]]. Ci sono numeri con un numero infinito di cifre decimali non [[numero decimale periodico|periodiche]], che non possono essere espressi come frazione di due interi: per esempio, <math>\pi</math> ([[pi greco]]), <math>\sqrt{2}</math>. Tali numeri vengono detti  [[numeri irrazionali|irrazionali]], perché non ottenibili come frazioni.
+
+L'unione dei numeri interi, razionali e irrazionali forma l'insieme dei [[numeri reali]], indicato con '''R'''. 
+
+=== Numeri complessi ===
+L'insieme dei numeri reali non è però sufficiente a fornire tutte le soluzioni delle [[equazione algebrica|equazioni algebriche]]. Per esempio, l'equazione
+<math>x^2_ \quad = -1</math> non ha soluzioni nel campo dei numeri reali, perché in questo insieme il quadrato di un numero è sempre positivo.  Per risolvere questo problema, è stata introdotta l'[[unità immaginaria]] ''i'', tale che <math>i^2\; = -1</math>.  Tale numero non appartiene all'insieme dei numeri reali, bensì all'insieme dei [[numeri complessi]].
+
+La risoluzione di equazioni dove compaiono radici quadrate di numeri negativi è possibile con l'introduzione dei ''numeri complessi''. Sono grandezze che per essere definite hanno bisogno di coppie di numeri reali. L'insieme "C" dei complessi ha come elementi "z". Ogni numero complesso "z" è formato da una coppia di numeri reali: z = (a,b). Il primo numero ''a'' costituisce la parte del complesso chiamata "parte reale" ed il secondo numero "b" costituisce la "parte immaginaria". La caratteristica dei numeri complessi è il modo con cui si opera tra loro: (a,b)+(c,d)= (a+c,b+d);  (a,b)x(c,d)= (ac-bd, ad+bc). In questo modo il numero (0,1) = i moltiplicato per se stesso darà (0-1, 0+0) = -1.  
+
+I simboli che indicano gli insiemi descritti sono spesso scritti in grassetto, così:
+
+:<math>\mathbb{N}\sub\mathbb{Z}\sub\mathbb{Q}\sub\mathbb{R}\sub\mathbb{C}</math>
+
+=== Quaternioni ===
+I numeri complessi sono stati estesi a loro volta, ottenendo i [[quaternioni]], ma la moltiplicazione dei quaternioni non è dotata della [[proprietà commutativa]]. 
+
+=== Ottonioni ===
+Gli [[ottonioni]], a loro volta, estendono i quaternioni, ma questa volta, si perde la [[proprietà associativa]].  Infatti, gli unici sistemi associativi con dimensione finita oltre ai reali sono i quaternioni e i numeri complessi.
+
+== Notazione ==
+I numeri vanno distinti dai [[Nome dei numeri|nomi]] utilizzati per indicare i numeri, dato che i numeri sono dei concetti e anche se i nomi utilizzati nelle varie lingue variano i concetti rimangono sempre gli stessi. La notazione di numero come serie di cifre è definita dai [[Sistema di numerazione|sistemi di numerazione]]. I popoli spesso associano a dei numeri utilizzati di frequente dei nomi particolari, oltre a quelli che vengono assegnati dal sistema di numerazione, spesso questi nomi sono utilizzati in contesti specifici, un classico esempio è la [[dozzina]].
+
+== Estensioni ==
+Gli ultimi sviluppi della [[teoria dei numeri]] sono stati i [[numeri iperreali]] e i [[numeri surreali]], che estendono i numeri reali dai numeri infinitesimi fino ai numeri infinitamente grandi attraverso degli inserimenti.  Mentre (normalmente) i numeri reali sono infinitamente prolungabili alla destra del punto decimale, si può anche provare a espandere i numeri anche a sinistra in modo infinito, ciò conduce ai [[numeri p-adici]]. Per gestire degli insiemi infiniti, i numeri naturali sono stati generalizzati nei [[numero ordinale (matematica)|numeri ordinali]] e nei [[numero cardinale (matematica)|numeri cardinali]].  Il primo insieme viene utilizzato per definire l'ordine di inserimento degli insieme il secondo definisce il formato di inserimento. Nel caso di insiemi infiniti si equivalgono.
+
+Le operazioni aritmetiche sui numeri sono [[addizione]], [[sottrazione]], [[moltiplicazione]] e [[Divisione (matematica)|divisione]], queste operazioni sono state generalizzate in una branca dell'[[algebra]] chiamata [[algebra astratta]], che contiene i concetti di [[gruppo (matematica)|gruppo]], [[anello (algebra)|anello]] e [[campo (matematica)|campo]].
+
+== Somiglianze nelle varie culture ==
+In molte culture la rappresentazione grafica dei numeri è molto simile, i numeri "uno", "due" e "tre" degli [[antica Roma|antichi romani]] erano espressi come I, II, III ([[numeri romani]]). I [[cinesi]] usavano una notazione analoga, con le cifre in orizzontale, o in verticale, ma al contrario dei romani utilizzavano un sistema posizionale, simile al nostro attuale, con le [[cifra|cifre]] da [[0 (numero)|0]] a [[9 (numero)|9]]. I numeri, detti ''tsu'' o ''hêng'', cambiavano orientamento a seconda della posizione: | = | era 121, - || - ◦ era 1210. Gli tsu erano verticali, gli hêng orizzontali, i numeri sopra al cinque avevano una bacchetta disposta perpendicolarmente alle altre. Il sistema era impiegato con le ''bacchette da calcolo'', che i cinesi manovravano a velocità tali da stupire i primi [[missionari]] nestoriani.
+
+Tuttavia, non c'era un segno univoco per definire il quattro tra i romani, mentre per i cinesi era ||||. I romani usavano una notazione a sottrazione: esprimevano il quattro con una V preceduta da una I. La V indicava il numero cinque, il simbolo I anteposto indicava che andava sottratto, e cinque meno uno fa quattro. Nell'assegnare un simbolo particolare al cinque c'era un evidente vantaggio [[antropomorfismo|antropomorfico]], la mano ha cinque dita ma vi era anche una motivazione nascosta che coinvolgeva il nostro [[cervello]]. Gli [[psicologia|psicologi]] hanno dimostrato che il nostro cervello ha difficoltà a distinguere più di cinque simboli simili vicini: infatti provate con uno sguardo a dire se è più grande ||||||||| o |||||||||||; più semplice dirlo se scritti come IX e X. 
+
+Il sistema adottato adesso in Europa è il [[sistema di numerazione decimale]], detto anche di [[numerazione araba]], che in realtà proviene dall'[[India]], e molto probabilmente deriva a sua volta dai [[Sistema di numerazione egizio|numeri corsivi egiziani]], i [[numerazione copta|numeri copti]]. La cifra 1 è molto simile al simbolo romano, 2 e 3 sono delle varianti dello stesso simbolo che consentono di scrivere i numeri senza dover alzare la penna e quindi consentono una scrittura rapida ma comunque conservano l'idea della linea orizzontale, mentre col simbolo 4 la corrispondenza si perde.
+
+== Numeri particolari ==
+Vedi: 
+*[[Lista dei numeri]]
+*[[Costanti matematiche]]
+*[[Numeri primi]]
+*[[Numero perfetto|Numeri perfetti]]
+*[[Numeri triangolari]]
+*[[Numero pratico|Numeri pratici]]
+
+== Voci correlate ==
+*[[Far di conto]]
+*[[Legge dei grandi numeri]]
+*[[Nome dei numeri]]
+*[[Numeri maiuscoletti]]
+*[[Ordini di grandezza (numeri)|Ordini di grandezza]]
+*[[Storia dei numeri]]
+
+==Altri progetti==
+{{Interprogetto|commons=Numbers}}
+
+== Collegamenti esterni ==
+*[http://www.chequefacility.org/numbertotext.jsp Software online] per convertire un numero in testo in varie lingue, su chequefacility.org
+
+{{Portale|matematica}}
+[[Categoria:Numeri]]
+[[Categoria:Teoria dei numeri]]
+
+[[ar:عدد]]
+[[ast:Númberu]]
+[[az:Ədəd]]
+[[be-x-old:Лік]]
+[[bg:Число]]
+[[bn:সংখ্যা]]
+[[br:Niver]]
+[[ca:Nombre]]
+[[cs:Číslo]]
+[[da:Tal]]
+[[de:Zahl]]
+[[el:Αριθμός]]
+[[en:Number]]
+[[eo:Nombro]]
+[[es:Número]]
+[[et:Arv]]
+[[eu:Zenbaki]]
+[[fa:عدد]]
+[[fi:Luku]]
+[[fo:Tal]]
+[[fr:Nombre]]
+[[fy:Getal]]
+[[gd:Àireamh]]
+[[gl:Número]]
+[[he:מספר]]
+[[hi:अंक]]
+[[hr:Broj]]
+[[ht:Nonm]]
+[[hu:Szám]]
+[[ia:Numero]]
+[[id:Bilangan]]
+[[io:Nombro]]
+[[is:Tala]]
+[[ja:数]]
+[[ka:რიცხვი]]
+[[kab:Amḍan]]
+[[kn:ಸಂಖ್ಯೆ]]
+[[ko:수 (수학)]]
+[[ku:Hejmar]]
+[[la:Numerus]]
+[[ln:Motángo]]
+[[lt:Skaičius]]
+[[mg:Isa]]
+[[mk:Број]]
+[[ml:സംഖ്യ]]
+[[nah:Tlapōhualli]]
+[[nl:Getal]]
+[[nn:Tal]]
+[[no:Tall]]
+[[nov:Nombre]]
+[[nrm:Neunmétho]]
+[[oc:Nombre]]
+[[pl:Liczba]]
+[[pt:Número]]
+[[qu:Yupay]]
+[[ro:Număr]]
+[[ru:Число]]
+[[scn:Nùmmuru]]
+[[sh:Broj]]
+[[simple:Number]]
+[[sk:Číslo (matematika)]]
+[[sl:Število]]
+[[sr:Број]]
+[[su:Wilangan]]
+[[sv:Tal (matematik)]]
+[[ta:எண்]]
+[[te:సంఖ్య]]
+[[th:จำนวน]]
+[[tr:Sayı]]
+[[uk:Число]]
+[[vi:Số (toán học)]]
+[[yo:Nọ́mbà]]
+[[zh:数 (数学)]]
+[[zh-min-nan:Sò͘-ba̍k]]
