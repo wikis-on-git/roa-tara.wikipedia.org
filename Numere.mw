@@ -5,21 +5,23 @@ Lë numerë ponnë essere manipolëtë cu lë quattrë operazioni fondamentali, 
 
 == Tipi dë numerë ==
 
-=== Numerë naturali ===
-Vi sono differenti tipi di numeri. Quelli maggiormente conosciuti sono i [[Numero naturale|numeri naturali]] { 1, 2, 3... } usati per contare e indicati con '''N'''. La presenza dello [[zero]] fra i numeri naturali dipende dalla convenzione scelta. Lo zero è comunque previsto dagli [[assiomi di Peano]].
+=== Numerë naturalë ===
+Stonnë 'nu saccë dë tipë dë numerë. Chìddë ca sondë ausatë de cchiù dë tuttë sondë lë [[Numerë naturalë|numerë naturalë]] { 1, 2, 3... } ca avènënë ausatë pë cundà e 'u sione ète 'a lettera '''N'''.
 
-=== Numerë interi ===
+'A presenzë d'u [[zero]] 'mbra lë numerë naturalë dipenne d'a a convenzione scacchiëtë. 'U zero jè comungue previsto dallë [[assiomi dë Peano]].
+
+=== Numerë interë ===
 Se si introduce la differenza di segno e lo zero, distinguendo tra ''numeri positivi'' e ''numeri negativi'', si ottengono i [[numeri interi]] denominati con il simbolo  '''Z'''.
 
-=== Numerë razionali ===
+=== Numerë raziunëlë ===
 Se i numeri interi vengono utilizzati per definire un rapporto si ottengono i [[numeri razionali]], cioè esprimibili tramite una [[frazione (matematica)|frazione]] (''ratio'' in [[lingua latina|latino]]). L'insieme di tutti i numeri razionali è definito col simbolo '''Q'''. 
 
-=== Numerë reali ===
+=== Numerë realë ===
 I numeri razionali non comprendono tutti i numeri esprimibili con la [[virgola]]. Ci sono numeri con un numero infinito di cifre decimali non [[numero decimale periodico|periodiche]], che non possono essere espressi come frazione di due interi: per esempio, <math>\pi</math> ([[pi greco]]), <math>\sqrt{2}</math>. Tali numeri vengono detti  [[numeri irrazionali|irrazionali]], perché non ottenibili come frazioni.
 
 L'unione dei numeri interi, razionali e irrazionali forma l'insieme dei [[numeri reali]], indicato con '''R'''. 
 
-=== Numerë complessi ===
+=== Numerë comblessë ===
 L'insieme dei numeri reali non è però sufficiente a fornire tutte le soluzioni delle [[equazione algebrica|equazioni algebriche]]. Per esempio, l'equazione
 <math>x^2_ \quad = -1</math> non ha soluzioni nel campo dei numeri reali, perché in questo insieme il quadrato di un numero è sempre positivo.  Per risolvere questo problema, è stata introdotta l'[[unità immaginaria]] ''i'', tale che <math>i^2\; = -1</math>.  Tale numero non appartiene all'insieme dei numeri reali, bensì all'insieme dei [[numeri complessi]].
 
