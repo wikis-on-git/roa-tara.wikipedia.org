@@ -1,68 +1,70 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:AR''' is an [[International Organization for Standardization|ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Argentina]].
-It describes 1 federal district (AR-C) and 23 [[Provinces of Argentina|provinces]]. The first part is the [[ISO 3166-1]] code AR for Argentina, the second part of the code is one-digit-alphabetic. The letters have their origin in the [[Argentine license plates]] system.
+'''ISO 3166-2:AR''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Argentina]]. 
+
+Ete descrittë 1 dëstrittë federale (AR-C) e 23 [[Provinge dë l'Argentina|provinge]].
+A prima partë ète 'u codëcë ''AR'' ca segnefëcë Argentina, 'a seconda partë d'u codëcë è 'na letterë dë l'alfabetë. 
 
 {| class="wikitable sortable"
-! Code !! Province
+! Codëcë !! Provinge
 |-
-| <code>AR-A</code> || [[Salta Province|Salta]]
+| <code>AR-A</code> || [[Provinge dë Salta|Salta]]
 |-
-| <code>AR-B</code> || [[Buenos Aires Province]]
+| <code>AR-B</code> || [[Provinge dë Buenos Aires]]
 |-
-| <code>AR-C</code> || [[Buenos Aires|Capital Federal]]
+| <code>AR-C</code> || [[Buenos Aires|Capitalë Federale]]
 |-
-| <code>AR-D</code> || [[San Luis Province|San Luis]]
+| <code>AR-D</code> || [[Provinge dë San Luis|San Luis]]
 |-
-| <code>AR-E</code> || [[Entre Ríos Province|Entre Ríos]]
+| <code>AR-E</code> || [[Provinge dë Entre Ríos|Entre Ríos]]
 |-
-| <code>AR-F</code> || [[La Rioja Province (Argentina)|La Rioja]]
+| <code>AR-F</code> || [[Provinge dë La Rioja (Argentina)|La Rioja]]
 |-
-| <code>AR-G</code> || [[Santiago del Estero Province|Santiago del Estero]]
+| <code>AR-G</code> || [[Provinge dë Santiago del Estero|Santiago del Estero]]
 |-
-| <code>AR-H</code> || [[Chaco Province|Chaco]]
+| <code>AR-H</code> || [[Provinge dë Chaco|Chaco]]
 |-
-| <code>AR-J</code> || [[San Juan Province (Argentina)|San Juan]]
+| <code>AR-J</code> || [[Provinge dë San Juan (Argentina)|San Juan]]
 |-
-| <code>AR-K</code> || [[Catamarca Province|Catamarca]]
+| <code>AR-K</code> || [[Provinge dë Catamarca|Catamarca]]
 |-
-| <code>AR-L</code> || [[La Pampa Province|La Pampa]]
+| <code>AR-L</code> || [[Provinge dë La Pampa|La Pampa]]
 |-
-| <code>AR-M</code> || [[Mendoza Province|Mendoza]]
+| <code>AR-M</code> || [[Provinge dë Mendoza|Mendoza]]
 |-
-| <code>AR-N</code> || [[Misiones Province|Misiones]]
+| <code>AR-N</code> || [[Provinge dë Misiones|Misiones]]
 |-
-| <code>AR-P</code> || [[Formosa Province|Formosa]]
+| <code>AR-P</code> || [[Provinge dë Formosa|Formosa]]
 |-
-| <code>AR-Q</code> || [[Neuquén Province|Neuquén]]
+| <code>AR-Q</code> || [[Provinge dë Neuquén|Neuquén]]
 |-
-| <code>AR-R</code> || [[Río Negro Province|Río Negro]]
+| <code>AR-R</code> || [[Provinge dë Río Negro|Río Negro]]
 |-
-| <code>AR-S</code> || [[Santa Fe Province|Santa Fe]]
+| <code>AR-S</code> || [[Provinge dë Santa Fe|Santa Fe]]
 |-
-| <code>AR-T</code> || [[Tucumán Province|Tucumán]]
+| <code>AR-T</code> || [[Provinge dë Tucumán|Tucumán]]
 |-
-| <code>AR-U</code> || [[Chubut Province|Chubut]]
+| <code>AR-U</code> || [[Provinge dë Chubut|Chubut]]
 |-
-| <code>AR-V</code> || [[Tierra del Fuego Province (Argentina)|Tierra del Fuego]] 
+| <code>AR-V</code> || [[Provinge dë Tierra del Fuego (Argentina)|Tierra del Fuego]] 
 |-
-| <code>AR-W</code> || [[Corrientes Province|Corrientes]]
+| <code>AR-W</code> || [[Provinge dë Corrientes|Corrientes]]
 |-
-| <code>AR-X</code> || [[Córdoba Province (Argentina)|Córdoba]]
+| <code>AR-X</code> || [[Provinge dë Córdoba (Argentina)|Córdoba]]
 |-
-| <code>AR-Y</code> || [[Jujuy Province|Jujuy]]
+| <code>AR-Y</code> || [[Provinge dë Jujuy|Jujuy]]
 |-
-| <code>AR-Z</code> || [[Santa Cruz Province (Argentina)|Santa Cruz]]
+| <code>AR-Z</code> || [[Provinge dë Santa Cruz (Argentina)|Santa Cruz]]
 |}
 
-==See also==
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Provinge dë l'Argentina]]
 
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Provinces of Argentina]]
 *[[UN/LOCODE:AR]]
 
-[[Category:Communications in Argentina]]
+[[Category:Sciugrafije de l'Albania]]
 [[Category:ISO 3166|2:AR]]
 
 [[ca:ISO 3166-2:AR]]
