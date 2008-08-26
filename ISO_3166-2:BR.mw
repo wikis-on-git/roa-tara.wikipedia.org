@@ -1,16 +1,15 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:BR'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Brazil]].
-It covers 1 Federal District and 26 [[state (non-sovereign)|state]]s.
 
-Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and a two-digit-alphabetic sub-code, hyphenated together.
+'''ISO 3166-2:BR''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a 'u [[Brasile]]. 
 
-==Codes== 
+Cupriscë 'nu dëstrittë federëlë e 26 [[statë]].
+
+== Codëcë == 
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>BR-AC</code>
 | {{flag|Acre}}
@@ -95,16 +94,16 @@ Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë nome
 |-
 ! colspan="2" style="background-color:silver;" | Federal District
 |-
-! [[Brazilian Federal District|Distrito Federal]]
+! [[Dëstrittë Federëlë d'u Brasile|Distrito Federal]]
 | <code>BR-DF</code>
 |-
 ! colspan="2" style="background-color:silver;" | States
 |-
-! [[Acre (state)|Acre]]
+! [[Acre (statë)|Acre]]
 | <code>BR-AC</code>
 |-
 ! [[Alagoas]] 
@@ -113,7 +112,7 @@ Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and
 ! [[Amapá]]
 | <code>BR-AP</code>
 |-
-! [[Amazonas (Brazilian state)|Amazonas]] 
+! [[Amazonas (statë brasigliënë)|Amazonas]] 
 | <code>BR-AM</code>
 |-
 ! [[Bahia]]
@@ -146,7 +145,7 @@ Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and
 ! [[Paraíba]]
 | <code>BR-PB</code>
 |-
-! [[Paraná (state)|Paraná]]
+! [[Paraná (statë)|Paraná]]
 | <code>BR-PR</code>
 |-
 ! [[Pernambuco]] 
@@ -155,7 +154,7 @@ Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and
 ! [[Piauí]]
 | <code>BR-PI</code>
 |-
-! [[Rio de Janeiro (state)|Rio de Janeiro]] 
+! [[Rio de Janeiro (statë)|Rio de Janeiro]] 
 | <code>BR-RJ</code>
 |-
 ! [[Rio Grande do Norte]] 
@@ -170,24 +169,25 @@ Each two-part code consists of the [[ISO 3166-1]] code for Brazil ('''BR''') and
 ! [[Roraima]]
 | <code>BR-RR</code>
 |-
-! [[Santa Catarina (state)|Santa Catarina]] 
+! [[Santa Catarina (statë)|Santa Catarina]] 
 | <code>BR-SC</code>
 |-
-! [[São Paulo (state)|São Paulo]]
+! [[São Paulo (statë)|São Paulo]]
 | <code>BR-SP</code>
 |-
 ! [[Sergipe]]
 | <code>BR-SE</code>
 |-
-! [[Tocantins (state)|Tocantins]] 
+! [[Tocantins (statë)|Tocantins]] 
 | <code>BR-TO</code>
 |}
 |}
 
-==See also==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes.
-* [[States of Brazil]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+* [[Statë d'u Brasile]]
+
 [[Category:Sciugrafije d'u Brasile]]
 [[Category:ISO 3166|2:BR]]
 
