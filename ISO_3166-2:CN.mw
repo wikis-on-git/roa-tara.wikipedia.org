@@ -1,27 +1,23 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:CN'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-the [[People's Republic of China]].
+'''ISO 3166-2:CN''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Repubblica Popolare d'a Cina]]. 
 
-Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-character code for the PRC) followed by a 2-digit numeric code.
-
-==Newsletters==
+== Newsletters ==
 * [[ISO 3166-2:2002-05-21]]
 * [[ISO 3166-2:2004-03-08]]
 
-==Codes ==
+== Codëcë ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>CN-11</code>
-| [[Beijing Municipality|Beijing]]
+| [[Cëtatë dë Beijing|Beijing]]
 |-
 ! <code>CN-12</code>
-| [[Tianjin Municipality|Tianjin]]
+| [[Cëtatë dë Tianjin|Tianjin]]
 |-
 ! <code>CN-13</code>
 | [[Hebei]]
@@ -42,7 +38,7 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 | [[Heilongjiang]]
 |-
 ! <code>CN-31</code>
-| [[Shanghai Municipality|Shanghai]]
+| [[Cëtatë dë Shanghai|Shanghai]]
 |-
 ! <code>CN-32</code>
 | [[Jiangsu]]
@@ -81,7 +77,7 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 | [[Hainan]]
 |-
 ! <code>CN-50</code>
-| [[Chongqing Municipality|Chongqing]]
+| [[Cëtatë dë Chongqing|Chongqing]]
 |-
 ! <code>CN-51</code>
 | [[Sichuan]]
@@ -121,23 +117,23 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë Nome
 |-
-! colspan="2" style="background-color:ccc;" | Municipalities (4)
+! colspan="2" style="background-color:ccc;" | Cëtatë (4)
 |-
-! [[Beijing Municipality|Beijing]]
+! [[Cëtatë dë Beijing|Beijing]]
 | <code>CN-11</code>
 |-
-! [[Chongqing Municipality|Chongqing]]
+! [[Cëtatë dë Chongqing|Chongqing]]
 | <code>CN-50</code>
 |-
-! [[Shanghai Municipality|Shanghai]]
+! [[Cëtatë dë Shanghai|Shanghai]]
 | <code>CN-31</code>
 |-
-! [[Tianjin Municipality|Tianjin]]
+! [[Cëtatë dë Tianjin|Tianjin]]
 | <code>CN-12</code>
 |-
-! colspan="2" style="background-color:ccc;" | Provinces (23)
+! colspan="2" style="background-color:ccc;" | Provinge (23)
 |-
 ! [[Anhui]]
 | <code>CN-34</code>
@@ -208,7 +204,7 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 ! [[Zhejiang]]
 | <code>CN-33</code>
 |-
-! colspan="2" style="background-color:ccc;" | Autonomous Regions (5)
+! colspan="2" style="background-color:ccc;" | Regione Autonomë (5)
 |-
 ! [[Guangxi]]
 | <code>CN-45</code>
@@ -225,7 +221,7 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 ! [[Xizang]]
 | <code>CN-54</code>
 |-
-! colspan="2" style="background-color:ccc;" | Special administrative regions (2)
+! colspan="2" style="background-color:ccc;" | Regione amministrativë specialë (2)
 |-
 ! [[Hong Kong]]
 | <code>CN-91</code>
@@ -234,14 +230,14 @@ Each code consists of '''CN''' (the [[ISO 3166-1 alpha-2|ISO 3166-1]] 2-characte
 | <code>CN-92</code>
 |}
 |-
-| colspan="2" align="center" |†: not administered by PRC (see also [[ISO 3166-2:TW]])
+| colspan="2" align="center" |†: no jè amministrëtë da 'a Repubblica Popolare d'a Cina (vidë pure [[ISO 3166-2:TW]])
 |}
 
-==See also==
-*[[ISO 3166-2:HK]] and [[ISO 3166-2:MO]] for Hong Kong and Macao.
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Political divisions of China]]
+== Vidë pure ==
+*[[ISO 3166-2:HK]] e [[ISO 3166-2:MO]] pë Hong Kong e Macao.
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Divisiunë politëchë d'a Cina]]
 
 [[Category:Sciugrafije d'a Repubblica Popolare d'a Cina]]
 [[Category:ISO 3166|2:CN]]
