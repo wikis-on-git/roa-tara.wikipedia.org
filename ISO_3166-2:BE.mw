@@ -1,33 +1,34 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:BE'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Belgium]].
-It covers 5 provinces in [[Flanders]] and 5 provinces in [[Wallonia]] and the [[Brussels-Capital Region]].
-The first part is the [[ISO 3166-1]] code BE for Belgium, the second part is three-character-alphabetic, where the first letter marks the region: W is for [[Wallonia]], «'''V'''laanderen» for ([[Flemish Region]]).
+'''ISO 3166-2:BE''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a 'u [[Belgio]]. 
 
-The following two regions have no ISO 3166-2 code.
-*<code>VLA</code> [[Flemish Region|Flemish Region (Flanders)]]
-*<code>WAL</code> [[Wallonia]]
+Lë codëcë së rëferiscenë a lë 5 pronvige dë lë [[Friande]] e a lë 5 provinge d'a [[Vallonia]] e 'a [[Regione dë Bruxelles Capitalë]]
 
-==Codes ==
+A prima partë d'u codëcë (BE) significë ca ète 'u Belgio, a seconda partë dicë l'appartenenzë 'a lë Fiandre o 'a Vallonia.
+
+Stë 2 regione non gë ténënë 'u codëcë ISO 3166-2.
+*<code>VLA</code> [[Regione d'à Fiandra]]
+*<code>WAL</code> [[Vallonia]]
+
+== Codëcë ==
 {| width="100%" cellspacing="0" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |style="margin-right:0px;padding-right:0px;width:58ex;"|
 {| align="left" cellspacing="2" style="margin-right:0px;padding-right:0px;width:58ex;"
-|colspan="3"|Sorted by code
+|colspan="3"|Urdënëtë pë codëcë
 |-
 !<code>BE-BRU</code> 
-|colspan="2"|[[Brussels-Capital Region]]
+|colspan="2"|[[Regione dë Bruxelles Capitalë]]
 |-
 !<code>BE-VAN</code>
-|[[Antwerp (province)|Antwerpen]]
-|<span style="font-size:87%;">(a Flemish province)</span>
+|[[Antwerp (provinge)|Antwerpen]]
+|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
 |-
 !<code>BE-VBR</code>
 |[[Vlaams Brabant]]
 |<span style="font-size:87%;">(a Flemish province)</span>
 |-
 !<code>BE-VLI</code>
-|[[Limburg (Belgium)|Limburg]]
+|[[Limburg (Belgio)|Limburg]]
 |<span style="font-size:87%;">(a Flemish province)</span>
 |-
 !<code>BE-VOV</code>
@@ -47,44 +48,44 @@ The following two regions have no ISO 3166-2 code.
 |<span style="font-size:87%;">(a Walloon province)</span>
 |-
 !<code>BE-WLG</code>
-|[[Liège (province)|Liège]]
+|[[Liège (provinge)|Liège]]
 |<span style="font-size:87%;">(a Walloon province)</span>
 |-
 !<code>BE-WLX</code>
-|[[Luxembourg (Belgium)|Luxembourg]]
+|[[Luxembourg (Belgio)|Luxembourg]]
 |<span style="font-size:87%;">(a Walloon province)</span>
 |-
 !<code>BE-WNA</code>
-|[[Namur (province)|Namur]]
+|[[Namur (provinge)|Namur]]
 |<span style="font-size:87%;">(a Walloon province)</span>
 |}
 |style="width:100%;"|
 {| align="right" style="width:35ex;"
-|style="text-align:center"|Sorted by name
+|style="text-align:center"|Urdënëtë pë nome
 |
 |-
-![[Antwerp (province)|Antwerpen]]
+![[Antwerp (provinge)|Antwerpen]]
 |<code>BE-VAN</code>
 |-
 ![[Brabant Wallon]]
 |<code>BE-WBR</code>
 |-
-![[Brussels-Capital Region]]
+![[Regione dë Bruxelles Capitalë]]
 |<code>BE-BRU</code> 
 |-
-![[Hainaut (province)|Hainaut]]
+![[Hainaut (provinge)|Hainaut]]
 |<code>BE-WHT</code>
 |-
-![[Liège (province)|Liège]]
+![[Liège (provinge)|Liège]]
 |<code>BE-WLG</code>
 |-
-![[Limburg (Belgium)|Limburg]]
+![[Limburg (Belgio)|Limburg]]
 |<code>BE-VLI</code>
 |-
-![[Luxembourg (Belgium)|Luxembourg]]
+![[Luxembourg (Belgio)|Luxembourg]]
 |<code>BE-WLX</code>
 |-
-![[Namur (province)|Namur]]
+![[Namur (provinge)|Namur]]
 |<code>BE-WNA</code>
 |-
 ![[Oost-Vlaanderen]]
@@ -98,11 +99,11 @@ The following two regions have no ISO 3166-2 code.
 |}
 |}
 
-==See also==
-* [[ISO 3166-2]], the code reference table for subdivisions of countries (subnational entities) and dependent areas.
-* [[ISO 3166-1]], the code reference table for countries and dependent areas.
-* [[Regions of Belgium]]
-* [[Provinces of Belgium]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+* [[Regioni d'u Belgio]]
+* [[Provinge d'u Belgio]]
 
 [[Category:Sciugrafije d'u Belgio]]
 [[Category:ISO 3166|2:BE]]
