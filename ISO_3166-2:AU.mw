@@ -1,50 +1,50 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:AU''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Australia]].
-It describes six [[States and territories of Australia|states]] and two territories. The first part is the [[ISO 3166-1]] code '''AU''' for Australia, the second part of the code was two-digit-alphabetic. Now it varies. 
+'''ISO 3166-2:AU''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Australia]]. 
+
+A prima partë d'u codëcë dicë qualë sondë lë 6 [[Statë e territorië dë l'Australia|statë]] e lë 2 territorië dë l'Australia.
 
 {| class="wikitable sortable"
-! Code !! Region !! Type
+! Codëcë !! Regione !! Tipë
 |-
-| <code>AU-ACT</code> || [[Australian Capital Territory]] || Territory
+| <code>AU-ACT</code> || [[Territorië d'a Capitalë dë l'Australia]] || Territorië
 |-
-| <code>AU-NSW</code> || [[New South Wales]] || State
+| <code>AU-NSW</code> || [[New South Wales]] || Statë
 |-
-| <code>AU-NT</code> || [[Northern Territory]] || Territory
+| <code>AU-NT</code> || [[Territorië d'u Nord]] || Territorië
 |-
-| <code>AU-QLD</code> || [[Queensland]] || State
+| <code>AU-QLD</code> || [[Queensland]] || Statë
 |-
-| <code>AU-SA</code> || [[South Australia]] || State
+| <code>AU-SA</code> || [[South Australia]] || Statë
 |-
-| <code>AU-TAS</code> || [[Tasmania]] || State
+| <code>AU-TAS</code> || [[Tasmania]] || Statë
 |-
-| <code>AU-VIC</code> || [[Victoria (Australia)|Victoria]] || State
+| <code>AU-VIC</code> || [[Victoria (Australia)|Victoria]] || Statë
 |-
-| <code>AU-WA</code> || [[Western Australia]] || State
+| <code>AU-WA</code> || [[Western Australia]] || Statë
 |}
 
-Four external territories of Australia have [[ISO 3166-1 alpha-2]] codes:
+4 Territorië esternë dë l'Australia onnë codëcë [[ISO 3166-1 alpha-2]]:
 {| class="wikitable"
-! Code !! External Territory
+! Codëcë !! Territorië esternë
 |-
-| <code>CC</code> || [[Cocos (Keeling) Islands]]
+| <code>CC</code> || [[Isole Cocos (Keeling)]]
 |-
-| <code>CX</code> || [[Christmas Island]]
+| <code>CX</code> || [[Isola dë Natalë]]
 |-
-| <code>HM</code> || [[Heard Island and McDonald Islands]]
+| <code>HM</code> || [[Isolë Heard e Isolë dë McDonald]]
 |-
-| <code>NF</code> || [[Norfolk Island]]
+| <code>NF</code> || [[Isolë Norfolk]]
 |}
 
-== Comparison with postal abbreviations ==
-Australia also uses 4-digit numeric postcodes, such as Sydney NSW 2000.
+== Combronde cù lë abbreviazziun postëlë ==
+In Australia s'ausanë codëcë ostëlë cù 4 numerë, vidë Sydney NSW 2000.
 
-Note these were different from the standard Australian postal abbreviations. Now ISO 3166-2:AU is in accordance with Australian Standard AS 4212-1994. Those changes were announced in ISO [[ISO 3166-2:2004-03-08]] Newsletter I-6. 
 {|
 |-
-! State/Territory
+! Statë - Territorië
 ! ISO 3166-2 (old)
-! Postal & ISO 3166-2 (new)
+! Postal & ISO 3166-2 (nuevë)
 |-
 | [[New South Wales]]
 | <code>AU-NS</code>
@@ -80,13 +80,12 @@ Note these were different from the standard Australian postal abbreviations. Now
 |}
 
 == Vidë pure ==
-*[[Ashmore and Cartier Islands]], an Australian external territory
-*[[Australian Antarctic Territory]], an Australian external territory
-*[[Coral Sea Islands Territory]], an Australian external territory
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, mostly as used for domain names on the [[Internet]].
+*[[Isolë d'Ashmore e Cartier]], ète 'nu territorië esternë a l'Australia
+*[[Territorië antarticë Australianë]], ète 'nu territorië esternë a l'Australia
+*[[Territorië dë l'Isolë dë Coral Sea]], ète 'nu territorië esternë a l'Australia
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
 
-{{Unreferenced|date=April 2007}}
 [[Category:Sciugrafije de l'Australia]]
 [[Category:ISO 3166|2:AU]]
 
