@@ -1,72 +1,71 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:CL'''
-is an [[International Organization for Standardization |ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Chile]].
+'''ISO 3166-2:CL''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a 'u [[Cile]]. 
 
-==Codes==
+
+==Codëcë==
+A tagellë ca avénë mò tènë lë numerë romanë tra parendesi, indichescenë a numerazionë localë dë lë regione. 'A numerazionë vé da nord a 'u sud du paisë. Solamendë p'à capitale [[Santiago]] non gë s'ausë 'u numerë romanë ma s'ausë 'nu codëcë '''RM'''.
 
 {|
 |-
 ! <code>CL-AI</code>
-| [[Aisén Region|Aisén del General Carlos Ibañez]]
+| [[Regione dë Aisén|Aisén del General Carlos Ibañez]]
 | (XI)
 |-
 ! <code>CL-AN</code>
-| [[Antofagasta Region|Antofagasta]]
+| [[Regione dë Antofagasta|Antofagasta]]
 | (II)
 |-
 ! <code>CL-AR</code>
-| [[Araucanía Region|Araucanía]]
+| [[Regione dë Araucanía|Araucanía]]
 | (IX)
 |-
 ! <code>CL-AT</code>
-| [[Atacama Region|Atacama]]
+| [[Regione dë Atacama|Atacama]]
 | (III)
 |-
 ! <code>CL-BI</code>
-| [[Bío-Bío Region|Bío-Bío]]
+| [[Regione dë Bío-Bío|Bío-Bío]]
 | (VIII)
 |-
 ! <code>CL-CO</code>
-| [[Coquimbo Region|Coquimbo]]
+| [[Regione dë Coquimbo|Coquimbo]]
 | (IV)
 |-
 ! <code>CL-LI</code>
-| [[O'Higgins Region|O'Higgins]]
+| [[Regione dë O'Higgins|O'Higgins]]
 | (VI)
 |-
 ! <code>CL-LL</code>
-| [[Los Lagos Region|Los Lagos]]
+| [[Regione dë Los Lagos|Los Lagos]]
 | (X)
 |-
 ! <code>CL-MA</code>
-| [[Magallanes y la Antártica Chilena Region|Magallanes y la Antártica Chilena]]
+| [[Regione dë Magallanes y la Antártica Chilena|Magallanes y la Antártica Chilena]]
 | (XII)
 |-
 ! <code>CL-ML</code>
-| [[Maule Region|Maule]]
+| [[Regione dë Maule|Maule]]
 | (VII)
 |-
 ! <code>CL-RM</code>
-| [[Santiago Metropolitan Region]]
+| [[Regione Metropolitanë dë Santiago]]
 | (RM)
 |-
 ! <code>CL-TA</code>
-| [[Tarapacá Region|Tarapacá]]
+| [[Regione dë Tarapacá|Tarapacá]]
 | (I)
 |-
 ! <code>CL-VS</code>
-| [[Valparaíso Region|Valparaíso]]
+| [[Regione dë Valparaíso|Valparaíso]]
 | (V)
 |}
 
-; Note : Each region is designated by a name and a [[Roman numeral]]. Numbers are assigned from north to south. In general the Roman numeral is used, rather than the name. The only exception is the region where Santiago is situated, which is designated ''RM''.
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Regione d'u Cile]]
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Regions of Chile]]
 [[Category:Sciugrafije d'u Cile]]
 [[Category:ISO 3166|2:CL]]
 
