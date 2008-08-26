@@ -1,44 +1,39 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:BY'''
-is an [[International Organization for Standardization| ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Belarus]].
-It covers the 6 ''[[voblast]]s'' ([[province]]s). The capital city of [[Minsk]] is contained within the province of the same name.
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Belarus ('''BY''')
-and a 2-character sub-code, hyphenated together.
+'''ISO 3166-2:BY''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Bielorussia]]. 
 
-==Newsletters ==
+== Newsletters ==
 * [[ISO 3166-2:2000-06-21]]
 
-==Codes ==
+== Codëcë ==
 {|
 |-
 ! <code>BY-BR</code>
-| [[Brest Province|Brest]]
+| [[Provinge dë Brest|Brest]]
 |-
 ! <code>BY-HO</code>
-| [[Homyel Province|Homyel]]
+| [[Provinge dë Homyel|Homyel]]
 |-
 ! <code>BY-HR</code>
-| [[Hrodna Voblast|Hrodna]]
+| [[Voblast dë Hrodna|Hrodna]]
 |-
 ! <code>BY-MA</code>
-| [[Mahiloŭ Voblast|Mahilyow]]
+| [[Voblast dë Mahiloŭ|Mahilyow]]
 |-
 ! <code>BY-MI</code>
-| [[Minsk Voblast|Minsk]]
+| [[Voblast dë Minsk|Minsk]]
 |-
 ! <code>BY-VI</code>
-| [[Viciebsk Voblast|Vitsebsk]]
+| [[Voblast dë Viciebsk|Vitsebsk]]
 |}
-==See also ==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
 * [[Subdivisions of Belarus]]
 
-==External links==
-* [http://www.eki.ee/wgrs/rom2_be.htm Current Status of United Nations Romanization Systems for Geographical Names of Belarus]
+==Collegamindë for a Uicchipedje ==
+* [http://www.eki.ee/wgrs/rom2_be.htm Statë d'avanzamendë d'u sistema dë romanizzazzionë dë lë Naziun Aunìtë pë lë mome sciugrafece d'a Bielorussia]
 
 [[Category:ISO 3166|2:BY]]
 [[Category:Provinge d'a Bielorussia| ISO]]
