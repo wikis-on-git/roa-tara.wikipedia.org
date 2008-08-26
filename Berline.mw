@@ -1,42 +1,22 @@
 {{s}}
-{| border="7" cellpadding="3" cellspacing="3"  bgcolor="#FFDEAD" style="float:right; margin-left:15px"
-! [[Image:Coat of arms of Berlin.svg|110px]]
-! [[Image:Deutschland Lage Berlins.svg|130px]]
-|---- bgcolor="#FFFFFF"
-| align="center" | 
-!
-|---- bgcolor="#FFFFFF"
-! align="center" | 
-! align="center" | 
-|-
-! colspan="2" | Berline
-|---- bgcolor="#FFFFFF"
-| Nome oregenale: || '''Berlin'''
-|---- bgcolor="#FFFFFF"
-| Statë: || [[Image:Flag of Germany.svg|20px]] [[Germanie]]
-|---- bgcolor="#FFFFFF"
-| Regione: || [[Image:Flag of Berlin.svg|20px]] Berline
-|---- bgcolor="#FFFFFF"
-| Coordenate: || 52° 31' N, 13° 25' O
-|---- bgcolor="#FFFFFF"
-| Altezze: || 34–115 mslm
-|---- bgcolor="#FFFFFF"
-| Estenzione: || 891,85 km²
-|---- bgcolor="#FFFFFF"
-| Populazzione: || 3.405.259 <small>(2006)</small>
-|---- bgcolor="#FFFFFF"
-| Denzetà: || 3.818 ab./km²
-|---- bgcolor="#FFFFFF"
-| Codecë pustale: || 10001–14199
-|---- bgcolor="#FFFFFF"
-| Prefisso d'u telefune: || (+49) 030
-|---- bgcolor="#FFFFFF"
-| Targhe: || B
-|---- bgcolor="#FFFFFF"
-| Sinneco: ||Klaus Wowereit (SPD)
-|---- bgcolor="#FFFFFF"
-| Sito: || [http://www.berlin.de www.berlin.de]
-|}
+{{GeoBox NomeCitta|Berline}} 
+{{GeoBox Panorama|Cityscapeberlin2006.JPG}}
+{{GeoBox Stemma e Bandiera|Coat of arms of Berlin.svg|Flag of Berlin.svg}}
+{{GeoBox NomeOriginale|'''Berlin'''}} 
+{{GeoBox Stato Bandiera|DEU}}
+{{GeoBox Suddivisione Generica|[[Statë federatë d'a Germanie|Statë Federatë]]|[[Image:Flag of Berlin.svg|20px|border]] Berline}}
+{{GeoBox Coordinate Linkate|52|31|N|13|25|E}}
+{{GeoBox Superficie|891,85}}
+{{GeoBox Altitudine|34–115}}
+{{GeoBox PopolazioneCitta|abitanti=3.405.259|anno=2006}}
+{{GeoBox Densita|3.818}}
+{{GeoBox Prefisso|(+49) 030}}
+{{GeoBox CAP|10001–14199}}
+{{GeoBox Targa|B}}
+{{GeoBox Sindaco|[[Klaus Wowereit]] (SPD)}}
+{{GeoBox Mappa|Deutschland Lage Berlins.svg}}
+{{GeoBox Sito|http://www.berlin.de}}
+{{GeoBox Fine}}
 '''Berline''' (''Berlin'' pe' tudesco) éte 'nu comune [[Germanie|tudesco]] de 3.405.259 crestiáne. Éte 'a capitale e 'a città cchiù granne d'a [[Germanie]].
 
 ==Storie==
@@ -56,14 +36,6 @@ Berline se trova 'o nord-est d'a Germanie, vecino 'o confine cu 'a [[Pulonia]]. 
 *[[Marzahn-Hellersdorf]] 
 *[[Lichtenberg]]
 *[[Reinickendorf]]
-
-==Culture==
-<gallery widths=150>
-image:Cityscapeberlin2006.JPG|Panurama
-image:Brandenburger Tor Blaue Stunde.jpg|Porta 'e Brandeburgo (Brandenburger Tor)
-image:Reichstag exterior 317.JPG|ParlamientE (Reichstag)
-image:PotsdamerPlatz Vogelperspektive 2004 1.jpg|Chiazze de [[Postsdam]] (Potsdamer Platz)
-</gallery>
 
 ==Crestiáne famose==
 {|
@@ -128,6 +100,14 @@ image:PotsdamerPlatz Vogelperspektive 2004 1.jpg|Chiazze de [[Postsdam]] (Potsda
 *[[Image:Flag of the United Kingdom.svg|20px]] '''[[Londre]]''' - [[Gran Bretagne]] (2000)
 </ol>
 |}
+
+==Gallerië fotografechë==
+<gallery widths=150>
+image:Cityscapeberlin2006.JPG|Panurama
+image:Brandenburger Tor Blaue Stunde.jpg|Porta 'e Brandeburgo (Brandenburger Tor)
+image:Reichstag exterior 317.JPG|ParlamientE (Reichstag)
+image:PotsdamerPlatz Vogelperspektive 2004 1.jpg|Chiazze de [[Postsdam]] (Potsdamer Platz)
+</gallery>
 
 ==Ati pruggette==
 *[[image:Commons-logo.svg|20px]] '''[[:Commons:Main Page|Wikimedia Commons]]''' tene file multimediale pe '''[[:commons:Category:Berlin|Berline]]'''
