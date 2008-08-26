@@ -1,82 +1,79 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:BO'''
-is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Bolivia]].
-It covers the country's nine [[Departments of Bolivia|departments]]. 
 
-The first part of each code is the [[ISO 3166-1]] code '''BO''' for Bolivia, the second part is one-character-alphabetic. 
+'''ISO 3166-2:BO''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Bolivia]]. 
 
-==Codes ==
+== Codëcë ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>BO-B</code>
-| [[Beni|El Beni Department]]
+| [[Dëpartëmendë dë El Beni]]
 |-
 ! <code>BO-C</code>
-| [[Cochabamba Department]]
+| [[Dëpartëmendë dë Cochabamba]]
 |-
 ! <code>BO-H</code>
-| [[Chuquisaca Department]]
+| [[Dëpartëmendë dë Chuquisaca]]
 |-
 ! <code>BO-L</code>
-| [[La Paz Department, Bolivia|La Paz Department]]
+| [[Dëpartëmendë dë La Paz, Bolivia|Dëpartëmendë dë La Paz]]
 |-
 ! <code>BO-N</code>
-| [[Pando Department]]
+| [[Dëpartëmendë dë Pando]]
 |-
 ! <code>BO-O</code>
-| [[Oruro Department]]
+| [[Dëpartëmendë dë Oruro]]
 |-
 ! <code>BO-P</code>
-| [[Potosí Department]]
+| [[Dëpartëmendë dë Potosí]]
 |-
 ! <code>BO-S</code>
-| [[Santa Cruz Department]]
+| [[Dëpartëmendë dë Santa Cruz]]
 |-
 ! <code>BO-T</code>
-| [[Tarija Department]]
+| [[Dëpartëmendë dë Tarija]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë nome
 |-
-! [[Chuquisaca Department]]
+! [[Dëpartëmendë dë Chuquisaca]]
 | <code>BO-H</code>
 |-
-! [[Cochabamba Department]]
+! [[Dëpartëmendë dë Cochabamba]]
 | <code>BO-C</code>
 |-
-! [[El Beni Department]]
+! [[Dëpartëmendë dë El Beni]]
 | <code>BO-B</code>
 |-
-! [[La Paz Department (Bolivia)|La Paz Department]]
+! [[Dëpartëmendë dë La Paz, Bolivia|Dëpartëmendë dë La Paz]]
 | <code>BO-L</code>
 |-
-! [[Oruro Department]]
+! [[Dëpartëmendë dë Oruro]]
 | <code>BO-O</code>
 |-
-! [[Pando Department]]
+! [[Dëpartëmendë dë Pando]]
 | <code>BO-N</code>
 |-
-! [[Potosí Department]]
+! [[Dëpartëmendë dë Potosí]]
 | <code>BO-P</code>
 |-
-! [[Santa Cruz Department]]
+! [[Dëpartëmendë dë Santa Cruz]]
 | <code>BO-S</code>
 |-
-! [[Tarija Department]]
+! [[Dëpartëmendë dë Tarija]]
 | <code>BO-T</code>
 |}
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Departments of Bolivia]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Dëpartëmendë d'a Bolivia]]
+
 [[Category:Dipartimende d'a Bolivia| ISO]]
 [[Category:Sciugrafije d'a Bolivia| ISO]]
 [[Category:ISO 3166|2:BO]]
