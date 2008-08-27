@@ -1,3 +1,4 @@
+{{s}}
 {{GeoBox NomeRegione|Pugghie}} 
 {{GeoBox Stemma e Bandiera|Regione-Puglia-Stemma.png|Flag of Puglia.png}}
 {{GeoBox NomeOriginale|'''Puglia'''}} 
@@ -18,7 +19,6 @@
 {{GeoBox Mappa|PUG-Mappa.png}}
 {{GeoBox Sito|http://www.regione.puglia.it}}
 {{GeoBox Fine}}
-'''Berline''' (''Berlin'' pe' tudesco) éte
 La '''Pugghie''' éte na reggione [[Italie|tagliáne]]. Lu capeluoghe éte [[Bari]].
 
 ==Storie==
@@ -30,17 +30,26 @@ Image:Regione Apulia 2.svg|Mappa (2)
 </gallery>
 ===Provinge===
 {|
+| valign="top" |
+{|  class="prettytable" 
+! style="background:#efefef;" | Stemma
+! style="background:#efefef;" | Provinge
+! style="background:#efefef;" | Comune
+! style="background:#efefef;" | Estenzione
+! style="background:#efefef;" | Populazzione
 |-----
-| width="34%" valign="top" |
-*[[Image:Provincia di Bari-Stemma.png|25px]] [[Provinge dë Bari|Bari]]
-*[[Image:Provincia di Barletta Andria Trani-Stemma.gif|25px]] [[Provinge dë Barletta-Andria-Trani|Barletta-Andria-Trani]]
-*[[Image:Provincia di Brindisi-Stemma.png|25px]] [[Provinge dë Brinnese|Brinnese]]
-| width="33%" valign="top" |
-<ol start=>
-*[[Image:Provincia di Foggia-Stemma.png|25px]] [[Provinge dë Foggia|Foggia]]
-*[[Image:Provincia di Lecce-Stemma.png|25px]] [[Provinge dë Lecce|Lecce]]
-*[[Image:Provincia di Taranto-Stemma.png|25px]] [[Provinge dë Tarde|Tarde]]
-</ol>
+|<center>[[Image:Provincia di Bari-Stemma.png|25px]]</center>|| align="left" | [[Provinge dë Bari|Bari]]  || align="center" | 41 || align="center" | 3.821 || align="center" | 1.251.072 
+|-----
+|<center>[[Image:Provincia di Barletta Andria Trani-Stemma.gif|25px]]</center>|| align="left" | [[Provinge dë Barletta-Andria-Trani|Barletta-Andria-Trani]]  || align="center" | 10 || align="center" | 1.543 || align="center" | 390.010
+|-----
+|<center>[[Image:Provincia di Brindisi-Stemma.png|25px]]</center>|| align="left" | [[Provinge dë Brinnese|Brinnese]] || align="center" | 20 || align="center" | 1.657 || align="center" | 402.831
+|-----
+|<center>[[Image:Provincia di Foggia-Stemma.png|25px]]</center>|| align="left" | [[Provinge dë Foggia|Foggia]] || align="center" | 61 || align="center" | 6.965 || align="center" | 640.752 
+|-----
+|<center>[[Image:Provincia di Lecce-Stemma.png|25px]]</center>|| align="left" | [[Provinge dë Lecce|Lecce]] || align="center" | 97 || align="center" | 2.759 || align="center" | 808.939
+|-----
+|<center>[[Image:Provincia di Taranto-Stemma.png|25px]]</center>|| align="left" |  [[Provinge dë Tarde|Tarde]] || align="center" | 29 || align="center" | Città || align="center" | 580.676
+|}
 |}
 
 ===Città maggiorë===
