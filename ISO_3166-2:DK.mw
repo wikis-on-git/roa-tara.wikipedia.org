@@ -1,111 +1,108 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:DK'''
-is an [[International Organization for Standardization |ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Denmark]].
 
-== Current codes ==
+'''ISO 3166-2:DK''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Danimarca]]. 
 
-These codes cover the [[Regions of Denmark|five Danish regions]] created on January 1, 2007 out of the former 13 counties and 2 municipalities.[http://www.statoids.com/udk.html]
+== Listë dë lë Codëcë dë ôsce dië ==
+Cupriscënë lë [[Regionë d'a Danimarca|5 regionë d'a Danimarca]] ca onnë statë crjëtë 'u 1° Scennare, 2007.
+[http://www.statoids.com/udk.html]
 
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>DK-81</code>
-| [[Region Nordjylland|Nordjylland]] (North Jutland)
+| [[Regione dë Nordjylland|Nordjylland]] (Jutland d'u Nord)
 |-
 ! <code>DK-82</code>
-| [[Region Midtjylland|Midtjylland]] (Central Jutland)
+| [[Regione dë Midtjylland|Midtjylland]] (Jutland Cendrëlë)
 |-
 ! <code>DK-83</code>
-| [[Region Syddanmark|Syddanmark]] (South Denmark)
+| [[Regione dë Syddanmark|Syddanmark]] (Danimarca d'u Sud)
 |-
 ! <code>DK-84</code>
-| [[Region Hovedstaden|Hovedstaden]] (Capital)
+| [[Regione dë Hovedstaden|Hovedstaden]] (Capitalë)
 |-
 ! <code>DK-85</code>
-| [[Region Sjælland|Sjælland]] (Zealand)
+| [[Regione dë Sjælland|Sjælland]] (Zealand)
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë Nome
 |-
-! [[Region Hovedstaden|Hovedstaden]] (Capital)
+! [[Regione dë Hovedstaden|Hovedstaden]] (Capitalë)
 | <code>DK-84</code>
 |-
-! [[Region Midtjylland|Midtjylland]] (Central Jutland)
+! [[Regione dë Midtjylland|Midtjylland]] (Jutland Cendrëlë)
 | <code>DK-82</code>
 |-
-! [[Region Nordjylland|Nordjylland]] (North Jutland)
+! [[Regione dë Nordjylland|Nordjylland]] (Jutland d'u Nord)
 | <code>DK-81</code>
 |-
-! [[Region Sjælland|Sjælland]] (Zealand)
+! [[Regione dë Sjælland|Sjælland]] (Zealand)
 | <code>DK-85</code>
 |-
-! [[Region Syddanmark|Syddanmark]] (South Denmark)
+! [[Regione dë Syddanmark|Syddanmark]] (South Denmark)
 | <code>DK-83</code>
 |}
 |}
 
+== Codëcë vìcchjë ==
 
-
-== Former codes ==
-
-These obsolete codes cover the 13 [[Counties of Denmark|former Danish counties and 3 municipalities]] that existed from 1970&ndash;2006.
+Lë codëcë vìcchjë cupriscënë le 13 [[Provinge d'a Danimarca|Provinge d'a Danimarca e 3 cëtatë]] ca esistënë da 'u 1970&ndash;2006.
 
 
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>DK-015</code>
-| [[Copenhagen County]]
+| [[Provinge dë Copenhagen]]
 |-
 ! <code>DK-020</code>
-| [[Frederiksborg County]]
+| [[Provinge dë Frederiksborg]]
 |-
 ! <code>DK-025</code>
-| [[Roskilde County]]
+| [[Provinge dë Roskilde]]
 |-
 ! <code>DK-030</code>
-| [[West Zealand County|Vestsjælland County]]
+| [[Provinge dë West Zealand|Provinge dë Vestsjælland]]
 |-
 ! <code>DK-035</code>
-| [[Storstrøm County]]
+| [[Provinge dë Storstrøm]]
 |-
 ! <code>DK-040</code>
 | [[Bornholm]]
 |-
 ! <code>DK-042</code>
-| [[Funen County|Fyn County]]
+| [[Provinge dë Funen]]
 |-
 ! <code>DK-050</code>
-| [[South Jutland County]]
+| [[Provinge dë South Jutland]]
 |-
 ! <code>DK-055</code>
-| [[Ribe County]]
+| [[Provinge dë Ribe]]
 |-
 ! <code>DK-060</code>
-| [[Vejle County]]
+| [[Provinge dë Vejle]]
 |-
 ! <code>DK-065</code>
-| [[Ringkjøbing County]]
+| [[Provinge dë Ringkjøbing]]
 |-
 ! <code>DK-070</code>
-| [[Århus County]]
+| [[Provinge dë Århus]]
 |-
 ! <code>DK-076</code>
-| [[Viborg County]]
+| [[Provinge dë Viborg]]
 |-
 ! <code>DK-080</code>
-| [[North Jutland County]]
+| [[Provinge d'u Nord Jutland]]
 |-
 ! <code>DK-101</code>
-| [[Copenhagen|Copenhagen City]]
+| [[Copenhagen]]
 |-
 ! <code>DK-147</code>
 | [[Frederiksberg]]
