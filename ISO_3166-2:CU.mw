@@ -1,121 +1,118 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:CU''' 
-is an [[International Organization for Standardization |ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Cuba]].
+'''ISO 3166-2:CU''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Cuba]]. 
 
-==Codes ==
+== Codëcë ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë Codëcë
 |-
 ! <code>CU-01</code>
-| [[Pinar del Río Province|Pinar del Río]]
+| [[Provinge dë Pinar d'u Río|Pinar d'u Río]]
 |-
 ! <code>CU-02</code>
-| [[Havana Province|La Habana]]
+| [[Provinge dë Havana|La Habana]]
 |-
 ! <code>CU-03</code>
-| [[Ciudad de La Habana Province|Ciudad de La Habana]]
+| [[Provinge dë Ciudad de La Habana|Ciudad de La Habana]]
 |-
 ! <code>CU-04</code>
-| [[Matanzas Province|Matanzas]]
+| [[Provinge dë Matanzas|Matanzas]]
 |-
 ! <code>CU-05</code>
-| [[Villa Clara Province|Villa Clara]]
+| [[Provinge dë Villa Clara|Villa Clara]]
 |-
 ! <code>CU-06</code>
-| [[Cienfuegos Province|Cienfuegos]]
+| [[Provinge dë Cienfuegos|Cienfuegos]]
 |-
 ! <code>CU-07</code>
-| [[Sancti Spíritus Province|Sancti Spíritus]]
+| [[Provinge dë Sancti Spíritus|Sancti Spíritus]]
 |-
 ! <code>CU-08</code>
-| [[Ciego de Ávila Province|Ciego de Ávila]]
+| [[Provinge dë Ciego de Ávila|Ciego de Ávila]]
 |-
 ! <code>CU-09</code>
-| [[Camagüey Province|Camagüey]]
+| [[Provinge dë Camagüey|Camagüey]]
 |-
 ! <code>CU-10</code>
-| [[Las Tunas Province|Las Tunas]]
+| [[Provinge dë Las Tunas|Las Tunas]]
 |-
 ! <code>CU-11</code>
-| [[Holguín Province|Holguín]]
+| [[Provinge dë Holguín|Holguín]]
 |-
 ! <code>CU-12</code>
-| [[Granma Province|Granma]]
+| [[Provinge dë Granma|Granma]]
 |-
 ! <code>CU-13</code>
-| [[Santiago de Cuba Province|Santiago de Cuba]]
+| [[Provinge dë Santiago de Cuba|Santiago de Cuba]]
 |-
 ! <code>CU-14</code>
-| [[Guantánamo Province|Guantánamo]]
+| [[Provinge dë Guantánamo|Guantánamo]]
 |-
 ! <code>CU-99</code>
-| [[Isla de la Juventud]]
+| [[Isolë d'a Juventud]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë Nome
 |-
 ! colspan="2" style="background-color:silver;" | Provinces
 |-
-! [[Camagüey Province|Camagüey]]
+! [[Provinge dë Camagüey|Camagüey]]
 | <code>CU-09</code>
 |-
-! [[Ciego de Ávila Province|Ciego de Ávila]]
+! [[Provinge dë Ciego de Ávila|Ciego de Ávila]]
 | <code>CU-08</code>
 |-
-! [[Cienfuegos Province|Cienfuegos]]
+! [[Provinge dë Cienfuegos|Cienfuegos]]
 | <code>CU-06</code>
 |-
-! [[Ciudad de La Habana Province|Ciudad de La Habana]]
+! [[Provinge dë Ciudad de La Habana|Ciudad de La Habana]]
 | <code>CU-03</code>
 |-
-! [[Granma Province|Granma]]
+! [[Provinge dë Granma|Granma]]
 | <code>CU-12</code>
 |-
-! [[Guantánamo Province|Guantánamo]]
+! [[Provinge dë Guantánamo|Guantánamo]]
 | <code>CU-14</code>
 |-
-! [[Holguín Province|Holguín]]
+! [[Provinge dë Holguín|Holguín]]
 | <code>CU-11</code>
 |-
-! [[Havana Province|La Habana]]
+! [[Provinge dë Havana|La Habana]]
 | <code>CU-02</code>
 |-
-! [[Las Tunas Province|Las Tunas]]
+! [[Provinge dë Las Tunas|Las Tunas]]
 | <code>CU-10</code>
 |-
-! [[Matanzas Province|Matanzas]]
+! [[Provinge dë Matanzas|Matanzas]]
 | <code>CU-04</code>
 |-
-! [[Pinar del Río Province|Pinar del Río]]
+! [[Provinge dë Pinar d'u Río|Pinar d'u Río]]
 | <code>CU-01</code>
 |-
-! [[Sancti Spíritus Province|Sancti Spíritus]]
+! [[Provinge dë Sancti Spíritus|Sancti Spíritus]]
 | <code>CU-07</code>
 |-
-! [[Santiago de Cuba Province|Santiago de Cuba]]
+! [[Provinge dë Santiago de Cuba|Santiago de Cuba]]
 | <code>CU-13</code>
 |-
-! [[Villa Clara Province|Villa Clara]]
+! [[Provinge dë Villa Clara|Villa Clara]]
 | <code>CU-05</code>
 |-
 ! colspan="2" style="background-color:silver;" | Special Municipality
 |-
-! [[Isla de la Juventud]]
+! [[Isolë d'a Juventud]]
 | <code>CU-99</code>
 |}
 |}
 
-==See also==
-{{portalpar|Cuba|Flag of Cuba.svg}}
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-* [[Provinces of Cuba]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+* [[Provinge dë Cuba]]
 
 [[Category:Sciugrafije dë Cuba]]
 [[Category:ISO 3166|2:CU]]
