@@ -120,15 +120,15 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 |}
 |}
 
-===Provinces===
+=== Provinge ===
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrëngàtë pë codëcë
 |-
 ! PH-ABR
-| [[Abra province|Abra]]
+| [[Provinge d'Abra|Abra]]
 |-
 ! PH-AGN
 | [[Agusan del Norte]]
@@ -137,19 +137,19 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Agusan del Sur]]
 |-
 ! PH-AKL
-| [[Aklan Province|Aklan]]
+| [[Provinge d'Aklan|Aklan]]
 |-
 ! PH-ALB
 | [[Albay]]
 |-
 ! PH-ANT
-| [[Antique province|Antique]]
+| [[Provinge d'Antique|Antique]]
 |-
 ! PH-APA
-| [[Apayao Province|Apayao]]
+| [[Provinge d'Apayao|Apayao]]
 |-
 ! PH-AUR
-| [[Aurora province|Aurora]]
+| [[Provinge d'Aurora|Aurora]]
 |-
 ! PH-BAN
 | [[Bataan]]
@@ -200,7 +200,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Cavite]]
 |-
 ! PH-CEB
-| [[Cebu Province|Cebu]]
+| [[Provinge dë Cebu|Cebu]]
 |-
 ! PH-COM
 | [[Compostela Valley]]
@@ -236,10 +236,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Isabela]]
 |-
 ! PH-KAL
-| [[Kalinga Province|Kalinga]]
+| [[Provinge dë Kalinga|Kalinga]]
 |-
 ! PH-LAG
-| [[Laguna province|Laguna]]
+| [[Provinge dë Laguna|Laguna]]
 |-
 ! PH-LAN
 | [[Lanao del Norte]]
@@ -248,10 +248,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Lanao del Sur]]
 |-
 ! PH-LEY
-| [[Leyte province|Leyte]]
+| [[Provinge dë Leyte|Leyte]]
 |-
 ! PH-LUN
-| [[La Union province|La Union]]
+| [[Provinge dë La Union|La Union]]
 |-
 ! PH-MAD
 | [[Marinduque]]
@@ -263,13 +263,13 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Masbate]]
 |-
 ! PH-MDC
-| [[Occidental Mindoro|Mindoro Occidental]]
+| [[Mindoro Occidental]]
 |-
 ! PH-MDR
-| [[Oriental Mindoro|Mindoro Oriental]]
+| [[Mindoro Oriental]]
 |-
 ! PH-MOU
-| [[Mountain Province]]
+| [[Provinge dë Mountain|Mountain]]
 |-
 ! PH-MSC
 | [[Misamis Occidental]]
@@ -278,7 +278,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Misamis Oriental]]
 |-
 ! PH-NCO
-| [[Cotabato province|Cotabato]] (North Cotabato)
+| [[Provinge dë Cotabato|Cotabato]]
 |-
 ! PH-NSA
 | [[Northern Samar]]
@@ -350,7 +350,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Tawi-Tawi]]
 |-
 ! PH-WSA
-| [[Samar province|Samar]] (Western Samar)
+| [[Provinge dë Samar|Samar]] 
 |-
 ! PH-ZAN
 | [[Zamboanga del Norte]]
@@ -366,10 +366,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrëngàtë pë nome
 |-
 ! PH-ABR
-| [[Abra province|Abra]]
+| [[Provinge d'Abra|Abra]]
 |-
 ! PH-AGN
 | [[Agusan del Norte]]
@@ -378,19 +378,19 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Agusan del Sur]]
 |-
 ! PH-AKL
-| [[Aklan Province|Aklan]]
+| [[Provinge d'Aklan|Aklan]]
 |-
 ! PH-ALB
 | [[Albay]]
 |-
 ! PH-ANT
-| [[Antique province|Antique]]
+| [[Provinge d'Antique|Antique]]
 |-
 ! PH-APA
-| [[Apayao Province|Apayao]]
+| [[Provinge d'Apayao|Apayao]]
 |-
 ! PH-AUR
-| [[Aurora province|Aurora]]
+| [[Provinge d'Aurora|Aurora]]
 |-
 ! PH-BAS
 | [[Basilan]]
@@ -441,7 +441,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Cavite]]
 |-
 ! PH-CEB
-| [[Cebu Province|Cebu]]
+| [[Provinge dë Cebu|Cebu]]
 |-
 ! PH-COM
 | [[Compostela Valley]]
@@ -477,10 +477,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Isabela]]
 |-
 ! PH-KAL
-| [[Kalinga Province|Kalinga]]
+| [[Provinge dë Kalinga|Kalinga]]
 |-
 ! PH-LAG
-| [[Laguna province|Laguna]]
+| [[Provinge dë Laguna|Laguna]]
 |-
 ! PH-LAN
 | [[Lanao del Norte]]
@@ -489,10 +489,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Lanao del Sur]]
 |-
 ! PH-LUN
-| [[La Union province|La Union]]
+| [[Provinge dë La Union|La Union]]
 |-
 ! PH-LEY
-| [[Leyte province|Leyte]]
+| [[Provinge dë Leyte|Leyte]]
 |-
 ! PH-MAG
 | [[Maguindanao]]
@@ -504,10 +504,10 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Masbate]]
 |-
 ! PH-MDC
-| [[Occidental Mindoro|Mindoro Occidental]]
+| [[Mindoro Occidental]]
 |-
 ! PH-MDR
-| [[Oriental Mindoro|Mindoro Oriental]]
+| [[Mindoro Oriental]]
 |-
 ! PH-MSC
 | [[Misamis Occidental]]
@@ -525,7 +525,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Negros Oriental]]
 |-
 ! PH-NCO
-| [[Cotabato province|Cotabato]] (North Cotabato)
+| [[Provinge dë Cotabato|Cotabato]]
 |-
 ! PH-NSA
 | [[Northern Samar]]
@@ -591,7 +591,7 @@ Da 'u [[2005]], ISO 3166-2:PH non g'à statë angorë cangëtë pë segnalajë c
 | [[Tawi-Tawi]]
 |-
 ! PH-WSA
-| [[Samar province|Samar]] (Western Samar)
+| [[Provinge dë Samar|Samar]]
 |-
 ! PH-ZMB
 | [[Zambales]]
