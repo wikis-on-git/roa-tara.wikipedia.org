@@ -1,21 +1,18 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:FR''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[France]].
-
-Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
-* 2 numbers for the metropolitan [[departments of France|department]]s (except the two departements on [[Corsica]] which have 2A and 2B). The codes are identical with the standard departement numbering.
-* 2 letters for the territorial collectivites and for the overseas territories, all of which have their own ISO 3166-2 entry.
+'''ISO 3166-2:FR''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Frangë]]. 
 
 {{TOCright}}
-==Newsletters==
+
+== Newsletters ==
 * [[ISO 3166-2:2002-05-21]]
 * [[ISO 3166-2:2007-11-28]]
 
-==Codes ==
+== Codëcë ==
 {| class="wikitable sortable"
-|+ Sorted by Code
-! Code
-! Department <br> Territorial collectivities <br>Overseas territories
+|+ Arrëngàtë pë Codëcë
+! Codëcë
+! Dëpartëmendë <br> Collettive Territorialë <br>Territorië rretë 'a u màrë
 |-
 ! <code>FR-01</code>
 | [[Ain]]
@@ -39,7 +36,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Ardèche]]
 |-
 ! <code>FR-08</code>
-| [[Ardennes (département)|Ardennes]]
+| [[Dëpartëmendë dë Ardennes|Ardennes]]
 |-
 ! <code>FR-09</code>
 | [[Ariège]]
@@ -69,7 +66,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Charente-Maritime]]
 |-
 ! <code>FR-18</code>
-| [[Cher (département)|Cher]]
+| [[Dëpartëmendë dë Cher|Cher]]
 |-
 ! <code>FR-19</code>
 | [[Corrèze]]
@@ -87,7 +84,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Dordogne]]
 |-
 ! <code>FR-25</code>
-| [[Doubs (department)|Doubs]]
+| [[Dëpartëmendë dë Doubs|Doubs]]
 |-
 ! <code>FR-26</code>
 | [[Drôme]]
@@ -135,10 +132,10 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Isère]]
 |-
 ! <code>FR-39</code>
-| [[Jura (département)|Jura]]
+| [[Dëpartëmendë dë Jura|Jura]]
 |-
 ! <code>FR-40</code>
-| [[Landes (department)|Landes]]
+| [[Dëpartëmendë dë Landes|Landes]]
 |-
 ! <code>FR-41</code>
 | [[Loir-et-Cher]]
@@ -156,7 +153,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Loiret]]
 |-
 ! <code>FR-46</code>
-| [[Lot (département)|Lot]]
+| [[Dëpartëmendë dë Lot|Lot]]
 |-
 ! <code>FR-47</code>
 | [[Lot-et-Garonne]]
@@ -195,7 +192,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Nièvre]]
 |-
 ! <code>FR-59</code>
-| [[Nord (département)|Nord]]
+| [[Dëpartëmendë dë Nord|Nord]]
 |-
 ! <code>FR-60</code>
 | [[Oise]]
@@ -216,7 +213,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Hautes-Pyrénées]]
 |-
 ! <code>FR-66</code>
-| [[Pyrenees-Orientales|Pyrénées-Orientales]]
+| [[Pyrénées-Orientales]]
 |-
 ! <code>FR-67</code>
 | [[Bas-Rhin]]
@@ -225,7 +222,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Haut-Rhin]]
 |-
 ! <code>FR-69</code>
-| [[Rhone (département)|Rhône]]
+| [[Dëpartëmendë dë Rhone|Rhône]]
 |-
 ! <code>FR-70</code>
 | [[Haute-Saône]]
@@ -267,7 +264,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Tarn-et-Garonne]]
 |-
 ! <code>FR-83</code>
-| [[Var (département)|Var]]
+| [[Dëpartëmendë dë Var|Var]]
 |-
 ! <code>FR-84</code>
 | [[Vaucluse]]
@@ -288,7 +285,7 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Yonne]]
 |-
 ! <code>FR-90</code>
-| [[Territoire de Belfort]]
+| [[Territorië dë Belfort]]
 |-
 ! <code>FR-91</code>
 | [[Essonne]]
@@ -306,41 +303,40 @@ Each code consists of the [[ISO 3166-1]] code '''FR''' and a hyphen followed by:
 | [[Val-d'Oise]]
 |-
 ! <code>FR-CP</code>
-| [[Clipperton Island]]
+| [[Isolë dë Clipperton]]
 |-
 ! <code>FR-BL</code>
 | [[Saint Barthélemy]]
 |-
 ! <code>FR-MF</code>
-| [[Saint Martin (France)|Saint Martin (French part)]]
+| [[Saint Martin, Frangë|Saint Martin (partë frangesë)]]
 |-
 ! <code>FR-NC</code>
-| [[New Caledonia]]
+| [[Nova Caledonia]]
 |-
 ! <code>FR-PF</code>
-| [[French Polynesia]]
+| [[Polynesia Frangesë]]
 |-
 ! <code>FR-PM</code>
-| [[Saint-Pierre and Miquelon]]
+| [[Saint-Pierre e Miquelon]]
 |-
 ! <code>FR-TF</code>
-| [[French Southern Territories]]
+| [[Territorië Frangesë d'u Sud]]
 |-
 ! <code>FR-WF</code>
-| [[Wallis and Futuna]]
+| [[Wallis e Futuna]]
 |-
 ! <code>FR-YT</code>
 | [[Mayotte]]
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[List of FIPS region codes#FR: France]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
 
-[[Category:Sciugrafije d'a Frangia]]
+[[Category:Sciugrafije d'a Frangë]]
 [[Category:ISO 3166|2:FR]]
-[[Category:Dipartimendi d'a Frangia|*ISO 3166-2]]
+[[Category:Dëpartëmendë d'a Frangë|*ISO 3166-2]]
 
 [[cs:ISO 3166-2:FR]]
 [[de:ISO 3166-2:FR]]
