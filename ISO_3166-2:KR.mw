@@ -1,77 +1,74 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:KR'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[South Korea]].
-It assigns codes to [[Special cities of Korea#South Korea|1 special city, 6 metropolitan cities]], and [[Administrative divisions of South Korea|9 provinces]].  
+'''ISO 3166-2:KR''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Corea d'u Sud]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-[[South Korea]] ('''KR''')
-and 2 digits, hyphenated together.
-==Newsletters ==
+Cupriscë [[Cëtatë specialë d'a Corea#Corea d'u Sud|1 cëtatë specialë, 6 cëtatë metropolitënë]] e [[Divisiunë amministrativë d'a Corea d'u Sud|9 provinge]].  
+
+== Newsletters ==
 * [[ISO 3166-2:2000-06-21]]
 
-==Codes ==
-Note: Names are not spelled according to the ISO list, but to the official [[Revised Romanization of Korean]] as used in South Korea.
+== Codëcë ==
+'''Vidë bbuenë''': Lë nome no sondë scrittë cummë dicë l'ISO ma cummë dicë a romanizzazionë dë [[Romanizzazionë rëvistë dë lë coreanë]] ausëtë jndr'à Corea d'u Sud.
+
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Urdënëtë pë codëcë
 |-
 ! <code>KR-11</code>
-| [[Seoul|Seoul Special City]]
+| [[Seoul|Cëtatë Specialë dë Seul]]
 |-
 ! <code>KR-26</code>
-| [[Busan|Busan Metropolitan City]]
+| [[Busan|Cëtatë Metropolitënë dë Busan]]
 |-
 ! <code>KR-27</code>
-| [[Daegu|Daegu Metropolitan City]]
+| [[Daegu|Cëtatë Metropolitënë dë Daegu]]
 |-
 ! <code>KR-28</code>
-| [[Incheon|Incheon Metropolitan City]]
+| [[Incheon|Cëtatë Metropolitënë dë Incheon]]
 |-
 ! <code>KR-29</code>
-| [[Gwangju|Gwangju Metropolitan City]]
+| [[Gwangju|Cëtatë Metropolitënë dë Gwangju]]
 |-
 ! <code>KR-30</code>
-| [[Daejeon|Daejeon Metropolitan City]]
+| [[Daejeon|Cëtatë Metropolitënë dë Daejeon]]
 |-
 ! <code>KR-31</code>
-| [[Ulsan|Ulsan Metropolitan City]]
+| [[Ulsan|Cëtatë Metropolitënë dë Ulsan]]
 |-
 ! <code>KR-41</code>
 | [[Gyeonggi|Gyeonggi-do]]
 |-
 ! <code>KR-42</code>
-| [[Gangwon (South Korea)|Gangwon-do]]
+| [[Gangwon (Corea d'u Sud)|Gangwon-do]]
 |-
 ! <code>KR-43</code>
-| [[North Chungcheong|Chungcheongbuk-do]]
+| [[Nord Chungcheong|Chungcheongbuk-do]]
 |-
 ! <code>KR-44</code>
-| [[South Chungcheong|Chungcheongnam-do]]
+| [[Sud Chungcheong|Chungcheongnam-do]]
 |-
 ! <code>KR-45</code>
-| [[North Jeolla|Jeollabuk-do]]
+| [[Nord Jeolla|Jeollabuk-do]]
 |-
 ! <code>KR-46</code>
-| [[South Jeolla|Jeollanam-do]]
+| [[Sud Jeolla|Jeollanam-do]]
 |-
 ! <code>KR-47</code>
-| [[North Gyeongsang|Gyeongsangbuk-do]]
+| [[Nord Gyeongsang|Gyeongsangbuk-do]]
 |-
 ! <code>KR-48</code>
-| [[South Gyeongsang|Gyeongsangnam-do]]
+| [[Sud Gyeongsang|Gyeongsangnam-do]]
 |-
 ! <code>KR-49</code>
 | [[Jeju|Jeju-do]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Urdënëtë pë nome
 |-
-! colspan="2" style="background-color:ccc;" | (S)pecial and (M)etropolitan Cities
+! colspan="2" style="background-color:ccc;" | Cëtatë (S)pecialë e (M)etropolitënë
 |-
 ! <code>KR-26</code>
 | [[Busan|Busan (M)]]
@@ -97,10 +94,10 @@ Note: Names are not spelled according to the ISO list, but to the official [[Rev
 ! colspan="2" style="background-color:ccc;" | Provinces
 |-
 ! <code>KR-43</code>
-| [[North Chungcheong|Chungcheongbuk-do]]
+| [[Nord Chungcheong|Chungcheongbuk-do]]
 |-
 ! <code>KR-44</code>
-| [[South Chungcheong|Chungcheongnam-do]]
+| [[Sud Chungcheong|Chungcheongnam-do]]
 |-
 ! <code>KR-42</code>
 | [[Gangwon|Gangwon-do]]
@@ -109,29 +106,30 @@ Note: Names are not spelled according to the ISO list, but to the official [[Rev
 | [[Gyeonggi|Gyeonggi-do]]
 |-
 ! <code>KR-47</code>
-| [[North Gyeongsang|Gyeongsangbuk-do]]
+| [[Nord Gyeongsang|Gyeongsangbuk-do]]
 |-
 ! <code>KR-48</code>
-| [[South Gyeongsang|Gyeongsangnam-do]]
+| [[Sud Gyeongsang|Gyeongsangnam-do]]
 |-
 ! <code>KR-49</code>
 | [[Jeju|Jeju-do]]
 |-
 ! <code>KR-45</code>
-| [[North Jeolla|Jeollabuk-do]]
+| [[Nord Jeolla|Jeollabuk-do]]
 |-
 ! <code>KR-46</code>
-| [[South Jeolla|Jeollanam-do]]
+| [[Sud Jeolla|Jeollanam-do]]
 |}
 |}
 
-==See also==
-*[[Administrative divisions of South Korea]]
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-2:KP]], ISO codes for cities, regions, and provinces in [[North Korea]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Divisiunë Amministrativë d'a Corea d'u Sud]]
+*[[ISO 3166-2:KP]], codëcë ISO pë lë cëtatë, regione e provinge d'a [[Corea d'u Nord]]
+
 [[Category:ISO 3166|2:KR]]
-[[Category:Geography of South Korea]]
+[[Category:Sciugrafije d'a Corea d'u Sud]]
 
 [[cs:ISO 3166-2:KR]]
 [[de:ISO 3166-2:KR]]
