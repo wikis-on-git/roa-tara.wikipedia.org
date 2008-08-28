@@ -1,42 +1,47 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:GW''' is an [[ISO]] standard which defines [[geocode]]s.  It is the subset of [[ISO 3166-2]] that applies to [[Guinea-Bissau]].  Each two-part code consists of the [[ISO 3166-1]] code for Guinea-Bissau ('''GW''') and a two-digit number. 
 
-==Codes==
-The codes define eight [[Regions of Guinea-Bissau|regions]] ({{lang|pt|''regiões''}}) and one [[Autonomous entity|autonomous]] [[Sectors of Guinea-Bissau|sector]] ({{lang|pt|''sector autónomo''}}).
+'''ISO 3166-2:GW''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Guinea-Bissau]]. 
+
+Cuprisce 8 [[Reggione d'a Guinea-Bissau|reggione]] ({{lang|pt|''regiões''}}) e 1 [[settore d'a Guinea-Bissau|settore]] [[entità autonome|autonome]]
+
+==Liste de le Codece ==
 
 {|
 ! <code>GW-BA</code>
-| [[Bafata Region|Bafata]]
+| [[Reggione de Bafata|Bafata]]
 |-
 ! <code>GW-BM</code>
-| [[Biombo Region|Biombo]]
+| [[Reggione de Biombo|Biombo]]
 |-
 ! <code>GW-BS</code>
-| [[Bissau Region|Bissau]]*
+| [[Reggione de Bissau|Bissau]]*
 |-
 ! <code>GW-BL</code>
-| [[Bolama Region|Bolama]]
+| [[Reggione de Bolama|Bolama]]
 |-
 ! <code>GW-CA</code>
-| [[Cacheu Region|Cacheu]]
+| [[Reggione de Cacheu|Cacheu]]
 |-
 ! <code>GW-GA</code>
-| [[Gabu Region|Gabu]]
+| [[Reggione de Gabu|Gabu]]
 |-
 ! <code>GW-OI</code>
-| [[Oio Region|Oio]]
+| [[Reggione d'Oio|Oio]]
 |-
 ! <code>GW-QU</code>
-| [[Quinara Region|Quinara]]
+| [[Reggione de Quinara|Quinara]]
 |-
 ! <code>GW-TU</code>
-| [[Tombali Region|Tombali]]
+| [[Reggione de Tombali|Tombali]]
 |-
 |}
-<small>* autonomous sector</small>
+<small>* settore autonome</small>
 
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
 
-{{standard-stub}}
+[[Category:Sciugrafije d'a Guinea-Bissau]]
 [[Category:ISO 3166|2:GW]]
 
 [[cs:ISO 3166-2:GW]]
