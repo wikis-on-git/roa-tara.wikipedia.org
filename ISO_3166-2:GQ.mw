@@ -1,62 +1,65 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2''' is an [[ISO]] standard which defines [[geocode]]s. The section that applies to Equatorial Guinea codes the [[provinces of Equatorial Guinea]]. There are codes provided for the two regions of the country, but they are not part of the standard.
 
-==Newsletters==
+'''ISO 3166-2:GQ''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Guinea Equatoriale]]. 
+
+== Newsletters ==
 * [[ISO 3166-2:2000-06-21]]
 * [[ISO 3166-2:2002-05-21]]
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes ==
+== Liste de le Codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe Codece
 |-
 ! <code>GQ-AN</code> 
-| [[Annobón Province|Annobón]]
+| [[Provinge d'Annobón|Annobón]]
 |-
 ! <code>GQ-BN</code> 
-| [[Bioko Norte Province|Bioko Norte]]
+| [[Provinge de Bioko Norte|Bioko Norte]]
 |-
 ! <code>GQ-BS</code> 
-| [[Bioko Sur Province|Bioko Sur]]
+| [[Provinge de Bioko Sur|Bioko Sur]]
 |-
 ! <code>GQ-CS</code> 
-| [[Centro Sur Province|Centro Sur]]
+| [[Provinge de Centro Sur|Centro Sur]]
 |-
 ! <code>GQ-KN</code> 
-| [[Kié-Ntem Province|Kié-Ntem]]
+| [[Provinge de Kié-Ntem|Kié-Ntem]]
 |-
 ! <code>GQ-LI</code> 
-| [[Litoral Province (Equatorial Guinea)|Litoral]]
+| [[Provinge de Litoral, Guinea Equatoriale|Litoral]]
 |-
 ! <code>GQ-WN</code> 
-| [[Wele-Nzas Province|Wele-Nzas]]
+| [[Provinge de Wele-Nzas|Wele-Nzas]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe Nome
 |-
 ! colspan="2" style="background-color:silver;" | Regions †
 |-
 ! ________________________
 | <code>_____ </code>
 |-
-! [[Continental Region (Equatorial Guinea)|Continental]]
+! [[Reggione Continental, Guinea Equatoriale|Continental]]
 | <code>C</code>
 |-
-! [[Insular Region (Equatorial Guinea)|Insular]]
+! [[Reggione Insular, Guinea Equatorial|Insular]]
 | <code>I</code>
 |-
 |}
 |-
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Provinces of Equatorial Guinea]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge d'a Guinea Equatoriale]]
+*[[Reggione d'a Guinea Equatoriale]]
+
 [[Category:Sciugrafije d'a Guinea Equatoriale]]
 [[Category:ISO 3166|2:GQ]]
 
