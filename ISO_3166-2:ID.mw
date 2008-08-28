@@ -1,24 +1,19 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:ID'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Indonesia]].
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Indonesia ('''ID''')
-and two characters, hyphenated together.
+'''ISO 3166-2:ID''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a l'[[Indonesia]]. 
 
-==Newsletters==
+== Newsletters ==
 * [[ISO 3166-2:2002-05-21]]
 * [[ISO 3166-2:2002-12-10]]
 * [[ISO 3166-2:2004-03-08]]
 * [[ISO 3166-2:2005-09-13]]
 
-==Codes ==
-===Geographical units===
+== Liste de le Codes ==
+===Aunìtà Sciugrafeche ===
 {| style="white-space:nowrap;"
 |-
 ! <code>ID-IJ</code> 
-| [[Western New Guinea]]
+| [[Nova Guinea Occidendele]]
 | 
 |-
 ! <code>ID-JW</code> 
@@ -30,11 +25,11 @@ and two characters, hyphenated together.
 | 
 |-
 ! <code>ID-MA</code>
-| [[Maluku Islands]]
+| [[Isole de Maluku]]
 |
 |-
 ! <code>ID-NU</code> 
-| [[Lesser Sunda Islands]]
+| [[Isole de Lesser Sunda]]
 | ]]
 |-
 ! <code>ID-SL</code> 
@@ -46,15 +41,15 @@ and two characters, hyphenated together.
 | 
 |}
 
-===Administrative regions===
+=== Reggione Amministrative ===
 {| style="white-space:nowrap;"
 |-
-! colspan="3" style="background-color:ccc;" | Autonomous province
+! colspan="3" style="background-color:ccc;" | Provinge Autonome
 |-
 ! <code>ID-AC</code>
 | {{flagicon image|Aceh coa.png|border=}}[[Aceh]]
 |-
-! colspan="3" style="background-color:ccc;" | Provinces
+! colspan="3" style="background-color:ccc;" | Provinge
 |-
 ! <code>ID-BA</code> 
 | {{flagicon image|Bali emblem.jpg|border=}}[[Bali]]
@@ -157,12 +152,12 @@ and two characters, hyphenated together.
 ===Divisions of Papua===
 {{flagicon image|Lambang Provinsi Papua Barat.gif|border=}}[[West Papua]] was created from the western portion of Papua province in February, 2003, initially under the name of Irian Jaya Barat, and was renamed Papua Barat (West Papua) on 2007-02-07. The split remains controversial. In November 2004, an Indonesian court agreed that the split violated Papua's autonomy laws. However, the court ruled that because the new province had already been created, it should remain separate from Papua. The ruling also prohibited the creation of another proposed province, Central Irian Jaya, because the split was not yet completed. As of June, [[2008]], an ISO 3166-2 code has not yet been published for West Papua. If one were to follow precedent, it would be ID-PB.
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Provinces of Indonesia]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge de l'Indonesia]]
 
-[[Category:Geography of Indonesia]]
+[[Category:Sciugrafije de l'Indonesia]]
 [[Category:ISO 3166|2:ID]]
 
 [[cs:ISO 3166-2:ID]]
