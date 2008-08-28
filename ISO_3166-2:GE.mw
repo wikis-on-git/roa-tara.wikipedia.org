@@ -1,21 +1,17 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:GE'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Georgia (country)|Georgia]].
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Georgia ('''GE''')
-and a 2-character sub-code, hyphenated together.
-==Newsletters ==
+'''ISO 3166-2:GE''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Georgia]]. 
+
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 * [[ISO 3166-2:2007-11-28]]
 
-==Codes ==
+== Codëcë ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrëngàtë pë Codëcë
 |-
 ! <code>GE-AB</code>
 | [[Abkhazia]]
@@ -33,13 +29,13 @@ and a 2-character sub-code, hyphenated together.
 | [[Kakheti|Kakhet'i]]
 |-
 ! <code>GE-KK</code>
-| [[Kvemo Kartli|K'vemo K'art'li]]
+| [[K'vemo K'art'li]]
 |-
 ! <code>GE-MM</code>
-| [[Mtskheta-Mtianeti|Mts'khet'a-Mt'ianet'i]]
+| [[Mts'khet'a-Mt'ianet'i]]
 |-
 ! <code>GE-RL</code>
-| [[Racha-Lechkhumi and Kvemo Svaneti|Racha-Lech'khumi-K'vemo Svanet'i]]
+| [[Racha-Lech'khumi-K'vemo Svanet'i]]
 |-
 ! <code>GE-SJ</code>
 | [[Samtskhe-Javakheti|Samts'khe-Javakhet'i]]
@@ -65,12 +61,12 @@ and a 2-character sub-code, hyphenated together.
 ! [[Adjara]]
 | <code>GE-AJ</code>
 |-
-! colspan="2" style="background-color:silver;" | City
+! colspan="2" style="background-color:silver;" | Cëtatë
 |-
 ! [[Tbilisi]]
 | <code>GE-TB</code>
 |-
-! colspan="2" style="background-color:silver;" | Regions
+! colspan="2" style="background-color:silver;" | Regione
 |-
 ! [[Guria]]
 | <code>GE-GU</code>
@@ -101,12 +97,12 @@ and a 2-character sub-code, hyphenated together.
 |}
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Subdivisions of Georgia]]
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+*[[Suddivisiunë d'a Georgia]]
 
-[[Category:Geography of Georgia (country)]]
+[[Category:Sciugrafije d'a Georgia]]
 [[Category:ISO 3166|2:GE]]
 
 [[cs:ISO 3166-2:GE]]
