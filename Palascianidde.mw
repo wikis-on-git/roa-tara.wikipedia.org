@@ -1,34 +1,39 @@
 {{S}}
-
 {{Comune
-|nomeComune = Palagiano
-|linkStemma = Palagiano-Stemma.png
+|nomeComune = Palascianidde
+|linkStemma = Palagianello-Stemma.png
 |siglaRegione = PUG
 |siglaProvincia = TA
 |latitudineGradi = 40
-|latitudineMinuti = 35
+|latitudineMinuti = 37
 |latitudineSecondi = 0
-|longitudineGradi = 17
-|longitudineMinuti = 3
+|longitudineGradi = 16
+|longitudineMinuti = 58
 |longitudineSecondi = 0
-|mappaX = 255
-|mappaY = 215
-|altitudine =  39
-|superficie = 69
-|abitanti = 16.789
-|anno = (5-12-07)
-|densita = 229
-|comuniLimitrofi = [[Castellaneta]], [[Massafra]], [[Mottola]], [[Palagianello]]
-|cap = 74019
+|mappaX = 253
+|mappaY = 214
+|altitudine =  <!-- solo valore numerico dell'altitudine -->
+|superficie = 43
+|abitanti = 7.855
+|anno = (31-12-06)
+|densita = 174
+|frazioni =  Montedoro
+|comuniLimitrofi = [[Castellaneta]], [[Mottola]], [[Palagiano]]
+|cap = 74018
 |prefisso = 099
-|istat = 073021
-|fiscale = G252
-|nomeAbitanti = Palagianesi
-|patrono = [[San Rocco]]
-|festivo = 15-16-17 Agosto
-|sito = http://www.comunepalagiano.it
-}}
-'''Palagianello''' éte 'nu comune [[Italie|tagliáne]] de 7.747 crestiáne.
+|istat = 073020
+|fiscale = G251
+|nomeAbitanti = palagianellesi
+|patrono = [[Madonna delle Grazie]]
+|festivo = 31 maggio <!-- [[7 aprile]] -->
+|sito =  http://www.comune.palagianello.ta.it/
+}} 
+'''Palascianiddë''' (pe tagliáne: ''Palagianello'') éte 'nu comune [[Italie|tagliáne]] de 7.747 crestiáne.
+
+==Vôscë cullegate==
+*[[Dialette tarandine]]
+
+{{Provinge dë Tarde}}
 
 [[Category:Comune d'a provinge de Tarde]]
 [[Category:Comune d'a Pugghie]]
@@ -37,6 +42,7 @@
 [[eo:Palagianello]]
 [[fr:Palagianello]]
 [[hu:Palagianello]]
+[[it:Palagianello]]
 [[ja:パラジャネッロ]]
 [[nap:Palagianello]]
 [[nl:Palagianello]]
