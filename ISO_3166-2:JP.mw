@@ -1,164 +1,164 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:JP'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Japan]].
-It covers 47 [[Prefectures of Japan|prefectures]]. The first part is the [[ISO 3166-1]] code JP for Japan, the second part is two-digit-numeric.
+'''ISO 3166-2:JP''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a 'u [[Giappone]]. 
 
-The names are listed in accordance with [[Kunrei-shiki]] (ISO 3602)  [[Romanization]] system, followed by the [[Hepburn romanization|Hepburn]] spelling (if different) and the [[kanji]] in brackets.
+Cupriscë 47 [[Prefetturë d'u Giappone|prefetturë]].
 
-[[Image:Japan_prefectures.png|thumb|300px|right|Each prefecture is labelled with the appropriate 2-digit subcode]]
+Lë nome onnë statë scrittë cu l'accordë cu [[Kunrei-shiki]] (ISO 3602) ca ète 'nu sistemë dë [[Romanizzazionë]], seguitë da 'a pronungë [[Romanizzazionë dë Hepburn|Hepburn]] (ci je differendë) e lë [[kanji]] 'mbra parendesë.
+
+[[Image:Japan_prefectures.png|thumb|300px|right|Ognë prefetturë jè signëtë cu 'u codëcë ca l'appartienë]]
+
 {| class = "wikitable sortable"
-! Code !! Name
+! Codëcë !! Nome
 |-
 | <code>JP-01</code>
-| {{flag|Hokkaidô}} (Hokkaidō) (北海道)
+| [[Hokkaidō]] (北海道)
 |-
 | <code>JP-02</code>
-| {{flag|Aomori}} (青森)
+| [[Aomori]] (青森)
 |-
 | <code>JP-03</code>
-| {{flag|Iwate}} (岩手)
+| [[Iwate]] (岩手)
 |-
 | <code>JP-04</code>
-| {{flag|Miyagi}} (宮城)
+| [[Miyagi]] (宮城)
 |-
 | <code>JP-05</code>
-| {{flag|Akita}} (秋田)
+| [[Akita]] (秋田)
 |-
 | <code>JP-06</code>
-| {{flag|Yamagata}} (山形)
+| [[Yamagata]] (山形)
 |-
 | <code>JP-07</code>
-| {{flag|Hukusima}} (Fukushima) (福島) 
+| [[Fukushima]] (福島) 
 |-
 | <code>JP-08</code>
-| {{flag|Ibaraki}} (茨城) 
+| [[Ibaraki]] (茨城) 
 |-
 | <code>JP-09</code>
-| {{flag|Totigi}} (Tochigi) (栃木) 
+| [[Tochigi]] (栃木) 
 |-
 | <code>JP-10</code>
-| {{flag|Gunma}} (群馬)
+| [[Gunma]] (群馬)
 |-
 | <code>JP-11</code>
-| {{flag|Saitama}} (埼玉)
+| [[Saitama]] (埼玉)
 |-
 | <code>JP-12</code>
-| {{flag|Tiba}} (Chiba) (千葉) 
+| [[Chiba]] (千葉) 
 |-
 | <code>JP-13</code>
-| {{flag|Tôkyô}} (Tōkyō) (東京)
+| [[Tōkyō]] (東京)
 |-
 | <code>JP-14</code>
-| {{flag|Kanagawa}} (神奈川)
+| [[Kanagawa]] (神奈川)
 |-
 | <code>JP-15</code>
-| {{flag|Niigata}} (新潟)
+| [[Niigata]] (新潟)
 |-
 | <code>JP-16</code>
-| {{flag|Toyama}} (富山)
+| [[Toyama]] (富山)
 |-
 | <code>JP-17</code>
-| {{flag|Isikawa}} (Ishikawa) (石川) 
+| [[Ishikawa]] (石川) 
 |-
 | <code>JP-18</code>
-| {{flag|Hukui}} (Fukui) (福井)
+| [[Fukui]] (福井)
 |-
 | <code>JP-19</code>
-| {{flag|Yamanasi}} (Yamanashi) (山梨)
+| [[Yamanashi]] (山梨)
 |-
 | <code>JP-20</code>
-| {{flag|Nagano}} (長野)
+| [[Nagano]] (長野)
 |-
 | <code>JP-21</code>
-| {{flag|Gihu}} (Gifu) (岐阜)
+| [[Gifu]] (岐阜)
 |-
 | <code>JP-22</code>
-| {{flag|Sizuoka}} (Shizuoka) (静岡)
+| [[Shizuoka]] (静岡)
 |-
 | <code>JP-23</code>
-| {{flag|Aiti}} (Aichi) (愛知)
+| [[Aichi]] (愛知)
 |-
 | <code>JP-24</code>
-| {{flag|Mie}} (三重)
+| [[Mie]] (三重)
 |-
 | <code>JP-25</code>
-| {{flag|Siga}} (Shiga) (滋賀)
+| [[Siga]] (滋賀)
 |-
 | <code>JP-26</code>
-| {{flag|Kyôto}} (Kyōto) (京都)
+| [[Kyōto]] (京都)
 |-
 | <code>JP-27</code>
-| {{flag|Ôsaka}} (Ōsaka) (大阪)
+| [[Ōsaka]] (大阪)
 |-
 | <code>JP-28</code>
-| {{flag|Hyôgo}} (Hyōgo) (兵庫)
+| [[Hyōgo]] (兵庫)
 |-
 | <code>JP-29</code>
-| {{flag|Nara}} (奈良)
+| [[Nara]] (奈良)
 |-
 | <code>JP-30</code>
-| {{flag|Wakayama}} (和歌山)
+| [[Wakayama]] (和歌山)
 |-
 | <code>JP-31</code>
-| {{flag|Tottori}} (鳥取)
+| [[Tottori]] (鳥取)
 |-
 | <code>JP-32</code>
-| {{flag|Simane}} (Shimane) (島根)
+| [[Shimane]] (島根)
 |-
 | <code>JP-33</code>
-| {{flag|Okayama}} (岡山)
+| [[Okayama]] (岡山)
 |-
 | <code>JP-34</code>
-| {{flag|Hirosima}} (Hiroshima) (広島)
+| [[Hiroshima]] (広島)
 |-
 | <code>JP-35</code>
-| {{flag|Yamaguti}} (Yamaguchi) (山口)
+| [[Yamaguchi]] (山口)
 |-
 | <code>JP-36</code>
-| {{flag|Tokusima}} (Tokushima) (徳島)
+| [[Tokushima]] (徳島)
 |-
 | <code>JP-37</code>
-| {{flag|Kagawa}} (香川)
+| [[Kagawa]] (香川)
 |-
 | <code>JP-38</code>
-| {{flag|Ehime}} (愛媛)
+| [[Ehime]] (愛媛)
 |-
 | <code>JP-39</code>
-| {{flag|Kôti}} (Kōchi) (高知)
+| [[Kōchi]] (高知)
 |-
 | <code>JP-40</code>
-| {{flag|Hukuoka}} (Fukuoka) (福岡)
+| [[Fukuoka]] (福岡)
 |-
 | <code>JP-41</code>
-| {{flag|Saga}} (佐賀)
+| [[Saga]] (佐賀)
 |-
 | <code>JP-42</code>
-| {{flag|Nagasaki}} (長崎)
+| [[Nagasaki]] (長崎)
 |-
 | <code>JP-43</code>
-| {{flag|Kumamoto}} (熊本)
+| [[Kumamoto]] (熊本)
 |-
 | <code>JP-44</code>
-| {{flag|Ôita}} (Ōita) (大分)
+| [[Ōita]] (大分)
 |-
 | <code>JP-45</code>
-| {{flag|Miyazaki}} (宮崎)
+| [[Miyazaki]] (宮崎)
 |-
 | <code>JP-46</code>
-| {{flag|Kagosima}} (Kagoshima) (鹿児島)
+| [[Kagoshima]] (鹿児島)
 |-
 | <code>JP-47</code>
-| {{flag|Okinawa}} (沖縄)
+| [[Okinawa]] (沖縄)
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
 
+[[Category:Prefetturë d'u Giappone]]
 [[Category:ISO 3166|2:JP]]
-[[Category:Prefectures of Japan]]
 
 [[ca:ISO 3166-2:JP]]
 [[cs:ISO 3166-2:JP]]
