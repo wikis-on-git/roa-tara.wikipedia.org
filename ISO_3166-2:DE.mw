@@ -1,120 +1,101 @@
 {{torna a|ISO 3166-1}}
 
-The part of '''[[International Organization for Standardization| ISO]] [[ISO 3166-2|3166-2]]''' that applies to [[Germany]] provides [[code]]s for the names of the 16 [[states of Germany|federal states of Germany]] ([[States of Germany|Bundesländer]]).
+'''ISO 3166-2:DE''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a l'[[Germanie]]. 
 
-Note: These ISO [[geocode]]s might be [[trademark]]ed.{{Fact|date=February 2008}}
+Cupriscë lë 16 [[Statë d'a Germanie|statë d'a Germanie]].
 
-The first part is the [[ISO 3166-1]] code '''DE''' for Germany;
-the second part is two-digit-alphabetic.
-
-==Codes ==
+== Codëcë ==
 {| class="sortable" style="white-space:nowrap;"
 |-
-! code
-! name
-! name english
+! codëcë
+! nome
 ! note
 |-
 ! <code>DE-BE</code>
 |{{flag|Berlin}}
 | [[Berline|Berlin]]
-| [[city-state]]
+| [[Cëtatë statë]]
 |-
 ! <code>DE-BR</code>
 |{{flag|Brandenburg}}
-| [[Brandenburg]]
 |-
 ! <code>DE-BW</code>
 |{{flag|Baden-Württemberg}}
-| [[Baden-Württemberg]]
 |-
 ! <code>DE-BY</code>
 |{{flag|Bavaria}}
-| [[Bavaria]]
-| ''Bayern''
 |-
 ! <code>DE-HB</code>
 |{{flag|Bremen}}
-| [[Bremen (state)|Bremen]]
-| city-state
+| [[Cëtatë statë]]
 |-
 ! <code>DE-HE</code>
 |{{flag|Hesse}}
-| [[Hesse]]
 | ''Hessen''
 |-
 ! <code>DE-HH</code>
 |{{flag|Hamburg}}
-| [[Hamburg]]
-| city-state
+| [[Cëtatë statë]]
 |-
 ! <code>DE-MV</code>
 |{{flag|Mecklenburg-Vorpommern}}
-| [[Mecklenburg-Western Pomerania]]
 | ''Mecklenburg-Vorpommern''
 |-
 ! <code>DE-NI</code>
 |{{flag|Lower Saxony}}
-| [[Lower Saxony]]
 | ''Niedersachsen''
 |-
 ! <code>DE-NW</code>
 |{{flag|North Rhine-Westphalia}}
-| [[North Rhine-Westphalia]]
 | ''Nordrhein-Westfalen''
 |-
 ! <code>DE-RP</code>
 |{{flag|Rhineland-Palatinate}}
-| [[Rhineland-Palatinate]]
 | ''Rheinland-Pfalz''
 |-
 ! <code>DE-SH</code>
 |{{flag|Schleswig-Holstein}}
-| [[Schleswig-Holstein]]
 |-
 ! <code>DE-SL</code>
 |{{flag|Saarland}}
-| [[Saarland]]
 |-
 ! <code>DE-SN</code>
 |{{flag|Saxony}}
-| [[Saxony]]
 | ''Sachsen''
 |-
 ! <code>DE-ST</code>
 |{{flag|Saxony-Anhalt}}
-| [[Saxony-Anhalt]]
 | ''Sachsen-Anhalt''
 |-
 ! <code>DE-TH</code>
 |{{flag|Thuringia}}
-| [[Thuringia]]
 | ''Thüringen''
 |}
 
-==Notes==
-The codes for Bremen and Hamburg incorporate an "H" for ''[[Hansestadt]]'' as their first letter. The codes for Lower Saxony (''Niedersachsen''), Saxony and Saxony-Anhalt avoid the more intuitive but historically tainted NS (for ''[[Nazism|Nationalsozialismus]]'') and SA (for ''[[Sturmabteilung]]'').
+== Vidë bbuenë ==
+Lë codëcë pë [[Brema]] e [[Amburgo]] 'ngorporèscënë n' "H" pë ''[[Hansestadt]]'' cummë prima lettera.
+Lë codëcë p'a Sassiona Vascë (''Niedersachsen''), p'à Sassonia e a Sassionia-Anhalt ausënë 'u cchiù 'nduitivë ma storëchë NS (pè ''[[Nazism|Nationalsozialismus]]'') e SA (pé ''[[Sturmabteilung]]'').
 
-Deviant codes or abbreviations have been used traditionally especially for the (western) compound-named states and they remain in common use today. They often have three letters instead of two.
+Stonnë dë lë codëcë ausëtë pë tradizziunë suverchiamendë jndr'à l'Ovest ca sondë ausëtë angora ôscë.
 {|
 |<code>B</code> 	|| Berlin
 |-
-|<code>BB</code>	|| Brandenburg (and failed proposal Berlin-Brandenburg)
+|<code>BB</code>	|| Brandenburg (e proposta fallitë dë Berlin-Brandenburg)
 |-
 |<code>MVP</code>	|| Mecklenburg-Western Pomerania
 |-
-|<code>NDS</code>	|| Lower Saxony
+|<code>NDS</code>	|| Sassonia Vascë
 |-
 |<code>NRW</code>	|| North Rhine-Westphalia
 |-
 |<code>RLP</code>	|| Rhineland-Palatinate
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
+== Vidë pure ==
+*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
+*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
 
-[[Category:Geography of Germany]]
+[[Category:Sciugrafije d'a Germanie]]
 [[Category:ISO 3166|2:DE]]
 
 [[cs:ISO 3166-2:DE]]
