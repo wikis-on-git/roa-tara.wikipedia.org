@@ -1,6 +1,37 @@
 {{S}}
+{{Comune
+|nomeComune = Casalbuono
+|linkStemma = <!-- Casalbuono-Stemma.png -->
+|siglaRegione = CAM
+|siglaProvincia = SA
+|latitudineGradi = 40
+|latitudineMinuti = 12
+|latitudineSecondi = 0
+|longitudineGradi = 15
+|longitudineMinuti = 41
+|longitudineSecondi = 0
+|mappaX = 222
+|mappaY = 227
+|altitudine =  <!-- solo valore numerico dell'altitudine -->
+|superficie = 34
+|abitanti = 1.301
+|anno =  <!-- solo valore  dell'anno di riferimento  -->
+|densita = 38
+|frazioni =  <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Casaletto Spartano]], [[Lagonegro]] (PZ), [[Montesano sulla Marcellana]], [[Sanza]]
+|cap = 84030
+|prefisso = 0975
+|istat = 065026
+|fiscale = B868
+|nomeAbitanti =  <!-- nome degli abitanti minuscolo -->
+|patrono =  <!-- [[San Pietro]]-->
+|festivo =  <!-- [[7 aprile]] -->
+|sito = http://casalbuono.asmenet.it
+}}
+
 '''Casalbuono''' éte 'nu comune [[Italie|tagliáne]] de 1.301 crestiáne.
-[[Category:Gëografije]]
+
+[[Category:Comune d'a Campania]]
 
 [[en:Casalbuono]]
 [[eo:Casalbuono]]
