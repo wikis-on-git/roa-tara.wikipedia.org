@@ -1,25 +1,19 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:LA'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Laos]].
+'''ISO 3166-2:LA''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a 'u [[Laos]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-[[Laos]] ('''LA''')
-and a 2-character-alphabetic sub-code, hyphenated together.
-
-==Newsletters ==
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes ==
+==Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>LA-AT</code>
-| [[Attapu Province|Attapu]]
+| [[Provinge d'Attapu|Attapu]]
 |-
 ! <code>LA-BK</code>
 | [[Bokeo]]
@@ -28,7 +22,7 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Bolikhamxai]]
 |-
 ! <code>LA-CH</code>
-| [[Champasak Province|Champasak]] 
+| [[Provinge de Champasak|Champasak]] 
 |-
 ! <code>LA-HO</code>
 | [[Houaphan]]
@@ -37,53 +31,53 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Khammouan]]
 |-
 ! <code>LA-LM</code>
-| [[Louang Namtha Province|Louang Namtha]]
+| [[Provinge de Louang Namtha|Louang Namtha]]
 |-
 ! <code>LA-LP</code>
-| [[Louangphabang Province|Louangphabang]]
+| [[Provinge de Louangphabang|Louangphabang]]
 |-
 ! <code>LA-OU</code>
 | [[Oudomxai]]
 |-
 ! <code>LA-PH</code>
-| [[Phongsali Province|Phongsali]]
+| [[Provinge de Phongsali|Phongsali]]
 |-
 ! <code>LA-SL</code>
-| [[Salavan Province|Salavan]]
+| [[Provinge de Salavan|Salavan]]
 |-
 ! <code>LA-SV</code>
-| [[Savannakhet Province|Savannakhet]]
+| [[Provinge de Savannakhet|Savannakhet]]
 |-
 ! <code>LA-VI</code>
-| [[Vientiane Province|Vientiane]]
+| [[Provinge de Vientiane|Vientiane]]
 |-
 ! <code>LA-VT</code>
-| [[Vientiane Prefecture|Vientiane]]
+| [[Prefetture de Vientiane|Vientiane, Prefetture]]
 |-
 ! <code>LA-XA</code>
-| [[Xaignabouli Province|Xaignabouli]]
+| [[Provinge de Xaignabouli|Xaignabouli]]
 |-
 ! <code>LA-XE</code>
-| [[Xekong Province|Xekong]]
+| [[Provinge de Xekong|Xekong]]
 |-
 ! <code>LA-XI</code>
-| [[Xiangkhoang Province|Xiangkhoang]]
+| [[Provinge de Xiangkhoang|Xiangkhoang]]
 |-
 ! <code>LA-XN</code>
 | [[Xaisomboun]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | Prefecture
+! colspan="2" style="background-color:silver;" | Prefetture
 |-
-! [[Vientiane prefecture|Vientiane]]
+! [[Prefetture de Vientiane|Vientiane]]
 | <code>LA-VT</code>
 |-
-! colspan="2" style="background-color:silver;" | Provinces
+! colspan="2" style="background-color:silver;" | Provinge
 |-
-! [[Attapu Province|Attapu]]
+! [[Provinge d'Attapu|Attapu]]
 | <code>LA-AT</code>
 |-
 ! [[Bokeo]]
@@ -92,7 +86,7 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 ! [[Bolikhamxai]]
 | <code>LA-BL</code>
 |-
-! [[Champasak Province|Champasak]] 
+! [[Provinge de Champasak|Champasak]] 
 | <code>LA-CH</code>
 |-
 ! [[Houaphan]]
@@ -101,47 +95,48 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 ! [[Khammouan]]
 | <code>LA-KH</code>
 |-
-! [[Louang Namtha Province|Louang Namtha]]
+! [[Provinge de Louang Namtha|Louang Namtha]]
 | <code>LA-LM</code>
 |-
-! [[Louangphabang Province|Louangphabang]]
+! [[Provinge de Louangphabang|Louangphabang]]
 | <code>LA-LP</code>
 |-
 ! [[Oudomxai]]
 | <code>LA-OU</code>
 |-
-! [[Phongsali Province|Phongsali]]
+! [[Provinge de Phongsali|Phongsali]]
 | <code>LA-PH</code>
 |-
-! [[Salavan Province|Salavan]]
+! [[Provinge de Salavan|Salavan]]
 | <code>LA-SL</code>
 |-
-! [[Savannakhet Province|Savannakhet]]
+! [[Provinge de Savannakhet|Savannakhet]]
 | <code>LA-SV</code>
 |-
-! [[Vientiane Province|Vientiane]]
+! [[Provinge de Vientiane|Vientiane]]
 | <code>LA-VI</code>
 |-
-! [[Xaignabouli Province|Xaignabouli]]
+! [[Provinge de Xaignabouli|Xaignabouli]]
 | <code>LA-XA</code>
 |-
-! [[Xekong Province|Xekong]]
+! [[Provinge de Xekong|Xekong]]
 | <code>LA-XE</code>
 |-
-! [[Xiangkhoang Province|Xiangkhoang]]
+! [[Provinge de Xiangkhoang|Xiangkhoang]]
 | <code>LA-XI</code>
 |-
-! colspan="2" style="background-color:silver;" | Special zone
+! colspan="2" style="background-color:silver;" | Zone Speciale
 |-
 ! [[Xaisomboun]]
 | <code>LA-XN</code>
 |}
 |}
-==See also==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-* [[Provinces of Laos]]
-[[Category:Geography of Laos]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+* [[Provinge d'u Laos]]
+
+[[Category:Sciugrafije d'u Laos]]
 [[Category:ISO 3166|2:LA]]
 
 [[cs:ISO 3166-2:LA]]
