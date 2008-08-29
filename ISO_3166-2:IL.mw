@@ -1,39 +1,37 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:IL''' is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Israel]].
+'''ISO 3166-2:IL''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a l'[[Israele]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for Israel ('''IL''') and a 2-character-alphabetic sub-code, hyphenated together.
-
-==Codes ==
+==Liste de le codece ==
 
 {| class="wikitable sortable" style="margin-left:.6em;"
 |-
-|Code
-|English Name
-|Hebrew Name
-|Transliteration
-|Large City in District
+|Codece
+|Nome Tarandine
+|Nome ebbreo
+|Traduzione
+|Cetate cchiù 'mbortande jndr'a 'u destritte
 |-
 |IL-D
-|South District
+|Destritte d'u Sud
 |{{lang|he|מחוז דרום}}
 |Mehoz HaDarom
 |[[Beersheba]]
 |-
 |IL-HA
-|Haifa District
+|Destritte de Haifa
 |מחוז חיפה
 |Mehoz Hefa
 |[[Haifa]]
 |-
 |IL-JM
-|Jerusalem District
+|Destritte de Gerusalemme
 |מחוז ירושלים
 |Mehoz Yerushalayim
-|[[Jerusalem]]
+|[[Gerusalemme]]
 |-
 |IL-M
-|Center District
+|Destritte d'u Cendre
 |מחוז המרכז
 |Mehoz HaMerkaz
 |[[Ramla]]
@@ -45,18 +43,18 @@ Each two-part code consists of the [[ISO 3166-1]] code for Israel ('''IL''') and
 |[[Tel Aviv]]
 |-
 |IL-Z
-|North District
+|Destritte d'u Nord
 |מחוז הצפון
 |Mehoz HaTzafon
 |[[Nazareth]]
 |}
 
-==See also==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-* [[Districts of Israel]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+* [[Destreitte d'Israel]]
 
-[[Category:Geography of Israel]]
+[[Category:Sciugrafije d'Israel]]
 [[Category:ISO 3166|2:IL]]
 
 [[cs:ISO 3166-2:IL]]
