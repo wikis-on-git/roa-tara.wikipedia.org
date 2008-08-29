@@ -1,34 +1,28 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:MU'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Mauritius]].
+'''ISO 3166-2:MU''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a le [[Mauritius]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Mauritius ('''MU''')
-and a 2-character-alphabetic sub-code, hyphenated together.
-
-==Newsletters ==
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes==
+== Liste d le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>MU-AG</code>
 | [[Agalega Islands]]
 |-
 ! <code>MU-BL</code>
-| [[Black River District, Mauritius|Black River]]
+| [[Destritte de Black River, Mauritius|Black River]]
 |-
 ! <code>MU-BR</code>
 | [[Beau Bassin-Rose Hill]]
 |-
 ! <code>MU-CC</code>
-| [[Cargados Carajos Shoals]] (Saint Brandon Islands)
+| [[Cargados Carajos Shoals]]
 |-
 ! <code>MU-CU</code>
 | [[Curepipe]]
@@ -40,13 +34,13 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Grand Port]]
 |-
 ! <code>MU-MO</code>
-| [[Moka district, Mauritius|Moka]]
+| [[Destritte de Moka, Mauritius|Moka]]
 |-
 ! <code>MU-PA</code>
 | [[Pamplemousses]]
 |-
 ! <code>MU-PL</code>
-| [[Port Louis district, Mauritius|Port Louis]]
+| [[Destritte de Port Louis, Mauritius|Port Louis (destritte)]]
 |-
 ! <code>MU-PU</code>
 | [[Port Louis, Mauritius|Port Louis]]
@@ -58,10 +52,10 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Quatre Bornes]]
 |-
 ! <code>MU-RO</code>
-| [[Rodrigues (island)|Rodrigues]]
+| [[Isole de Rodrigues|Rodrigues]]
 |-
 ! <code>MU-RR</code>
-| [[Rivière du Rempart (district)|Rivière du Rempart]]
+| [[Destritte de Rivière du Rempart|Rivière du Rempart]]
 |-
 ! <code>MU-SA</code>
 | [[Savanne]]
@@ -71,9 +65,9 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | Cities
+! colspan="2" style="background-color:silver;" | Cetate
 |-
 ! MU-BR
 | [[Beau Bassin-Rose Hill]]
@@ -90,21 +84,21 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 ! MU-VP
 | [[Vacoas-Phoenix]]
 |-
-! colspan="2" style="background-color:silver;" | Dependencies
+! colspan="2" style="background-color:silver;" | Dependénze
 |-
 ! MU-AG
 | [[Agalega Islands]]
 |-
 ! MU-CC
-| [[Cargados Carajos Shoals]] (Saint Brandon Islands)
+| [[Cargados Carajos Shoals]]
 |-
 ! MU-RO
-| [[Rodrigues (island)|Rodrigues]]
+| [[Isole de Rodrigues|Rodrigues]]
 |-
-! colspan="2" style="background-color:silver;" | Districts
+! colspan="2" style="background-color:silver;" | Destritte
 |-
 ! MU-BL
-| [[Black River District, Mauritius|Black River]]
+| [[Destritte de Black River, Mauritius|Black River]]
 |-
 ! MU-FL
 | [[Flacq]]
@@ -113,7 +107,7 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Grand Port]]
 |-
 ! MU-MO
-| [[Moka district, Mauritius|Moka]]
+| [[Destritte de Moka, Mauritius|Moka]]
 |-
 ! MU-PA
 | [[Pamplemousses]]
@@ -122,21 +116,22 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 | [[Plaines Wilhems]]
 |-
 ! MU-PL
-| [[Port Louis district, Mauritius|Port Louis]]
+| [[Destritte de Port Louis, Mauritius|Port Louis]]
 |-
 ! MU-RR
-| [[Rivière du Rempart (district)|Rivière du Rempart]]
+| [[Destritte de Rivière du Rempart|Rivière du Rempart]]
 |-
 ! MU-SA
 | [[Savanne]]
 |}
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Districts and dependencies of Mauritius]]
-[[Category:Geography of Mauritius]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Destritte e dependénze de le Mauritius]]
+
+[[Category:Sciugrafije de le Mauritius]]
 [[Category:ISO 3166|2:MU]]
 
 [[cs:ISO 3166-2:MU]]
