@@ -1,77 +1,73 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:KZ'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Kazakhstan]].
-Each two-part code consists of the [[ISO 3166-1]] code for 
-[[Kazakhstan]] ('''KZ''')
-and a 3-character-alphabetic sub-code, [[Hyphen|hyphenated]] together.
 
-==Newsletters ==
+'''ISO 3166-2:KZ''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a l'[[Kazakistan]]. 
+
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes ==
+==Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>KZ-AKM</code>
-| [[Akmola_Province|Akmola]]
+| [[Provinge d'Akmola|Akmola]]
 |-
 ! <code>KZ-AKT</code>
-| [[Aktobe_Province|Aktobe]]
+| [[Provinge d'Aktobe|Aktobe]]
 |-
 ! <code>KZ-ALA</code>
-| [[Almaty|Almaty (city)]]
+| [[Almaty|Almaty (cetate)]]
 |-
 ! <code>KZ-ALM</code>
-| [[Almaty_Province|Almaty]]
+| [[Provinge d'Almaty|Almaty]]
 |-
 ! <code>KZ-AST</code>
-| [[Astana|Astana (city)]]
+| [[Astana|Astana (cetate)]]
 |-
 ! <code>KZ-ATY</code>
-| [[Atyrau_Province|Atyrau]]
+| [[Provinge d'Atyrau|Atyrau]]
 |-
 ! <code>KZ-BAY</code>
-| [[Baikonur|Baikonur (city)]]
+| [[Baikonur|Baikonur (cetate)]]
 |-
 ! <code>KZ-KAR</code>
-| [[Karagandy_Province|Karagandy]]
+| [[Provinge de Karagandy|Karagandy]]
 |-
 ! <code>KZ-KUS</code>
-| [[Kostanay_Province|Kostanay]]
+| [[Provinge de Kostanay|Kostanay]]
 |-
 ! <code>KZ-KZY</code>
-| [[Kyzylorda_Province|Kyzylorda]]
+| [[Provinge de Kyzylorda|Kyzylorda]]
 |-
 ! <code>KZ-MAN</code>
-| [[Mangystau_Province|Mangystau]]
+| [[Provinge de Mangystau|Mangystau]]
 |-
 ! <code>KZ-PAV</code>
-| [[Pavlodar_Province|Paylodar]]
+| [[Provinge de Pavlodar|Paylodar]]
 |-
 ! <code>KZ-SEV</code>
-| [[North_Kazakhstan_Province|North_Kazakhstan]] 
+| [[Provinge d'u Nord Kazakhstan|Kazakhstan d'u Nord]] 
 |-
 ! <code>KZ-VOS</code>
-| [[East_Kazakhstan_Province|East_Kazakhstan]] 
+| [[Provinge de l'Est Kazakhstan|Kazakhstan de l'Est]] 
 |-
 ! <code>KZ-YUZ</code>
-| [[South_Kazakhstan_Province|South_Kazakhstan]]
+| [[Provinge d'u Sud Kazakhstan|Kazakhstan d'u Sud]]
 |-
 ! <code>KZ-ZAP</code>
-| [[West_Kazakhstan_Province|West_Kazakhstan]]
+| [[Provinge de l'Ovest Kazakhstan|Kazakhstan de l'Ovest]]
 |-
 ! <code>KZ-ZHA</code>
-| [[Zhambyl_Province|Zhambyl]]
+| [[Provinge de Zhambyl|Zhambyl]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:ccc;" | Cities
+! colspan="2" style="background-color:ccc;" | Cetate
 |-
 ! [[Almaty]]
 | <code>KZ-ALA</code>
@@ -82,56 +78,58 @@ and a 3-character-alphabetic sub-code, [[Hyphen|hyphenated]] together.
 ! [[Baikonur]]
 | <code>KZ-BAY</code>
 |-
-! colspan="2" style="background-color:ccc;" | Regions
+! colspan="2" style="background-color:ccc;" | Provinge
 |-
-! [[Almaty_Province|Almaty]]
+! [[Provinge d'Almaty|Almaty]]
 | <code>KZ-ALM</code>
 |-
-! [[Akmola_Province|Akmola]]
+! [[Provinge d'Akmola|Akmola]]
 | <code>KZ-AKM</code>
 |-
-! [[Aktobe_Province|Aktobe]]
+! [[Provinge d'Aktobe|Aktobe]]
 | <code>KZ-AKT</code>
 |-
-! [[Atyrau_Province|Atyrau]]
+! [[Provinge d'Atyrau|Atyrau]]
 | <code>KZ-ATY</code>
 |-
-! [[East_Kazakhstan_Province|East_Kazakhstan]]
+! [[Provinge d'u Kazakhstan de l'Est|Kazakhstan de l'Est]]
 |  <code>KZ-VOS</code>
 |-
-! [[Karagandy_Province|Karagandy]]
+! [[Provinge de Karagandy|Karagandy]]
 | <code>KZ-KAR</code>
 |-
-! [[Kostanay_Province|Kostanay]]
+! [[Provinge de Kostanay|Kostanay]]
 | <code>KZ-KUS</code>
 |-
-! [[Kyzylorda_Province|Kyzylorda]]
+! [[Provinge de Kyzylorda|Kyzylorda]]
 | <code>KZ-KZY</code>
 |-
-! [[Mangystau_Province|Mangystau]]
+! [[Provinge de Mangystau|Mangystau]]
 | <code>KZ-MAN</code>
 |-
-! [[North_Kazakhstan_Province|North_Kazakhstan]] 
+! [[Provinge d'u Kazakhstan d'u Nord|Kazakhstan d'u Nord]] 
 | <code>KZ-SEV</code>
 |-
-! [[Pavlodar_Province|Paylodar]]
+! [[Provinge de Pavlodar|Paylodar]]
 | <code>KZ-PAV</code>
 |-
-! [[South_Kazakhstan_Province|South_Kazakhstan]]
+! [[Provinge d'u Kazakhstan d'u Sud|Kazakhstan du Sud]]
 | <code>KZ-YUZ</code>
 |-
-! [[West_Kazakhstan_Province|West_Kazakhstan]]
+! [[Provinge d'u Kazakhstan de l'Ovest|Kazakhstan de l'Ovest]]
 | <code>KZ-ZAP</code>
 |-
-! [[Zhambyl_Province|Zhambyl]]
+! [[Provinge de Zhambyl|Zhambyl]]
 | <code>KZ-ZHA</code>
 |}
 |}
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Provinces of Kazakhstan]]
-[[Category:Geography of Kazakhstan]]
+
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge d'u Kazakhstan]]
+
+[[Category:Sciugrafije d'u Kazakhstan]]
 [[Category:ISO 3166|2:KZ]]
 
 [[cs:ISO 3166-2:KZ]]
