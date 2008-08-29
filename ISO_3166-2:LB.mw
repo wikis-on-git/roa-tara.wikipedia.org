@@ -1,45 +1,43 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:LB''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Lebanon]].
+'''ISO 3166-2:LB''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a 'u [[Libano]]. 
 
-Each code consists of the [[ISO 3166-1]] code '''LB''' and a hyphen followed by two letters for each governorate.
+== Newsletters ==
+* [[ISO 3166-2:2007-11-28]] - aggiunde doje guvernatorete.
 
-==Newsletters==
-* [[ISO 3166-2:2007-11-28]] - added two new governorates.
-
-==Codes ==
+==Liste de le codece ==
 {| class="wikitable"
 ! <code>LB-AK</code>
 | [[Aakkar|Aakkâr]]
 |-
 ! <code>LB-AS</code>
-| [[North Governorate|Ash-Shamal]] (North)
+| [[Guvernatorete d'u Nord|Ash-Shamal]]
 |-
 ! <code>LB-BA</code> 
-| [[Beirut Governorate|Beirut]]
+| [[Guvernatorete de Beirut|Beirut]]
 |-
 ! <code>LB-BH</code>
 | [[Baalbek-Hermel]]
 |-
 ! <code>LB-BI</code> 
-| [[Beqaa Governorate|Béqaa]]
+| [[Guvernatorete de Beqaa|Béqaa]]
 |-
 ! <code>LB-NA</code> 
-| [[Nabatiye Governorate|Nabatîyé]]
+| [[Guvernatorete de Nabatiye|Nabatîyé]]
 |-
 ! <code>LB-JA</code> 
-| [[South Governorate|Al-Janub]] (South)
+| [[Guvernatorete d'u Sud|Al-Janub]]
 |-
 ! <code>LB-JL</code> 
-| [[Mount Lebanon Governorate|Jabal Libnan]] (Mount Lebanon)
+| [[Guvernatorete de Mount Libano|Jabal Libnan]]
 |}
 
-==See also==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-* [[Governorates of Lebanon]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+* [[Guvernatorete d'u Libano]]
 
-[[Category:Geography of Lebanon]]
+[[Category:Sciugrafije d'u Libano]]
 [[Category:ISO 3166|2:LB]]
 
 [[cs:ISO 3166-2:LB]]
