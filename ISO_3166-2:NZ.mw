@@ -1,90 +1,86 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:NZ'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[New Zealand]].
+'''ISO 3166-2:NZ''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Nova Zelanda]]. 
 
-It covers 16 regions, 9 in the [[North Island]] and 7 in the [[South Island]]. Some outlying islands do not lie within these regional boundaries and are not covered by this scheme. Of these, only the [[Chatham Islands]] have a permanent population.
+Cuprisce 16 reggione, 9 de l'[[Isole d'u Nord, Nova Zelanda|Isole d'u Nord]] e 7 de l'[[Isole d'u Sud, Nova Zelanda|Isole d'u Sud]].
 
-The first part of the code is the [[ISO 3166-1]] code '''NZ''' for New Zealand; the second part is three-digit-alphabetic.
-
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>NZ-AUK</code>
-| [[Auckland Region|Auckland]] ¹
+| [[Reggione d'Auckland|Auckland]] ¹
 |-
 ! <code>NZ-BOP</code>
-| [[Bay of Plenty]]
+| [[Bay de Plenty]]
 |-
 ! <code>NZ-CAN</code>
-| [[Canterbury, New Zealand|Canterbury]]
+| [[Canterbury, Nova Zelanda|Canterbury]]
 |-
 ! <code>NZ-GIS</code>
-| [[Gisborne, New Zealand|Gisborne]]
+| [[Gisborne, Nova Zelanda|Gisborne]]
 |-
 ! <code>NZ-HKB</code>
-| [[Hawke's Bay Region|Hawke's Bay]]
+| [[Regione d'a Baia de Hawke|Baia de Hawke]]
 |-
 ! <code>NZ-MBH</code>
-| [[Marlborough, New Zealand|Marlborough]]
+| [[Marlborough, Nova Zelanda|Marlborough]]
 |-
 ! <code>NZ-MWT</code>
 | [[Manawatu-Wanganui]] 
 |-
 ! <code>NZ-NSN</code>
-| [[Nelson, New Zealand|Nelson]]
+| [[Nelson, Nova Zelanda|Nelson]]
 |-
 ! <code>NZ-NTL</code>
-| [[Northland Region|Northland]]
+| [[Reggione de Northland|Northland]]
 |-
 ! <code>NZ-OTA</code>
 | [[Otago]]
 |-
 ! <code>NZ-STL</code>
-| [[Southland Region|Southland]]
+| [[Reggione de Southland|Southland]]
 |-
 ! <code>NZ-TAS</code>
-| [[Tasman, New Zealand|Tasman]]
+| [[Tasman, Nova Zelanda|Tasman]]
 |-
 ! <code>NZ-TKI</code>
 | [[Taranaki]]
 |-
 ! <code>NZ-WGN</code>
-| [[Wellington Region|Wellington]]
+| [[Reggione de Wellington|Wellington]]
 |-
 ! <code>NZ-WKO</code>
 | [[Waikato]]
 |-
 ! <code>NZ-WTC</code>
-| [[West Coast, New Zealand|West Coast]]
+| [[West Coast, Nova Zelanda|West Coast]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | North Island
+! colspan="2" style="background-color:silver;" | Isole d'u Nord
 |-
-! [[Auckland Region|Auckland]]
+! [[Reggione d'Auckland|Auckland]]
 | <code>NZ-AUK</code>
 |-
-! [[Bay of Plenty]]
+! [[Bay de Plenty]]
 | <code>NZ-BOP</code>
 |-
-! [[Gisborne, New Zealand|Gisborne]]
+! [[Gisborne, Nova Zelanda|Gisborne]]
 | <code>NZ-GIS</code>
 |-
-! [[Hawke's Bay Region|Hawke's Bay]]
+! [[Reggione d'a Baia de Hawke|Baia de Hawke]]
 | <code>NZ-HKB</code>
 |-
 ! [[Manawatu-Wanganui]]
 | <code>NZ-MWT</code>
 |-
-! [[Northland Region|Northland]]
+! [[Reggione de Northland|Northland]]
 | <code>NZ-NTL</code>
 |-
 ! [[Taranaki]] 
@@ -93,42 +89,42 @@ The first part of the code is the [[ISO 3166-1]] code '''NZ''' for New Zealand; 
 ! [[Waikato]]
 | <code>NZ-WKO</code>
 |-
-! [[Wellington Region|Wellington]]
+! [[Reggione de Wellington|Wellington]]
 | <code>NZ-WGN</code>
 |-
-! colspan="2" style="background-color:silver;" | South Island
+! colspan="2" style="background-color:silver;" | Isole d'u Sud
 |-
-! [[Canterbury, New Zealand|Canterbury]]
+! [[Canterbury, Nova Zelanda|Canterbury]]
 | <code>NZ-CAN</code>
 |-
-! [[Marlborough, New Zealand|Marlborough]]
+! [[Marlborough, Nova Zelanda|Marlborough]]
 | <code>NZ-MBH</code>
 |-
-! [[Nelson, New Zealand|Nelson]]
+! [[Nelson, Nova Zelanda|Nelson]]
 | <code>NZ-NSN</code>
 |-
 ! [[Otago]]
 | <code>NZ-OTA</code>
 |-
-! [[Southland Region|Southland]]
+! [[Reggione de Southland|Southland]]
 | <code>NZ-STL</code>
 |-
-! [[Tasman, New Zealand|Tasman]]
+! [[Tasman, Nova Zelanda|Tasman]]
 | <code>NZ-TAS</code>
 |-
-! [[West Coast, New Zealand|West Coast]]
+! [[West Coast, Nova Zelanda|West Coast]]
 | <code>NZ-WTC</code>
 |}
 |}
 
-* '''AKL''' is usually used instead of '''AUK''' as the informal abbreviation for Auckland.
-* '''WLG''' is often used as an abbreviation for Wellington.
+* '''AKL''' avène ausate de solito a 'u poste de '''AUK''' cumme abbreviazzione informele d'Auckland.
+* '''WLG''' avène Ausete cumme abbreviazzione pe Wellington.
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
 
-[[Category:Geography of New Zealand]]
+[[Category:Sciugrafije d'a Nova Zelanda]]
 [[Category:ISO 3166|2:NZ]]
 
 [[cs:ISO 3166-2:NZ]]
