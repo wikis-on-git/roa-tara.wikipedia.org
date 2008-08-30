@@ -1,27 +1,28 @@
-{{Nota disambigua|descrizione=altri significati di Numero|titolo=[[Numerë (disambigua)]]}}
-'Nu '''numerë''' ète n'entità astrattë ausatë pë descrivere 'na [[quantità]]. Lë numerë sondë generalmende descritti cu l'aiutë dë lë [[cifra|cifre]], assecondë 'nu [[sistemë dë numerazione]].
+{{Nota disambigua|descrizione=altri significati di Numero|titolo=[[Numere (disambigua)]]}}
+'Nu '''numere''' ète n'entità astratte ausate pe descrivere 'na [[quantità]]. Le numere sonde generalmende descritti cu l'aiute de le [[cifra|cifre]], asseconde 'nu [[sisteme de numerazione]].
 
-Lë numerë ponnë essere manipolëtë cu lë quattrë operazioni fondamentali, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione (matematica)|divisione]]. 'U studië dë lë proprietà dë chìstë operazioni jè partë dë l'[[algebra elementare]].
+Le numere ponne essere manipolete cu le quattre operazioni fondamentali, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione (matematica)|divisione]]. 'U studie de le proprietà de chìste operazioni jè parte de l'[[algebra elementare]].
 
-== Tipi dë numerë ==
+== Tipi de numere ==
 
-=== Numerë naturalë ===
-Stonnë 'nu saccë dë tipë dë numerë. Chìddë ca sondë ausatë de cchiù dë tuttë sondë lë [[Numerë naturalë|numerë naturalë]] { 1, 2, 3... } ca avènënë ausatë pë cundà e 'u sione ète 'a lettera '''N'''.
+=== Numere naturale ===
+Stonne 'nu sacce de tipe de numere. Chìdde ca sonde ausate de cchiù de tutte sonde le [[Numere naturale|numere naturale]] { 1, 2, 3... } ca avènene ausate pe cundà e 'u sione ète 'a lettera '''N'''.
 
-'A presenzë d'u [[zero]] 'mbra lë numerë naturalë dipenne d'a a convenzione scacchiëtë. 'U zero jè comungue previsto dallë [[assiomi dë Peano]].
+'A presenze d'u [[zero]] 'mbra le numere naturale dipenne d'a a convenzione scacchiete. 'U zero jè comungue previsto dalle [[assiomi de Peano]].
 
-=== Numerë interë ===
-Cë s'introducë 'a differenza dë segnë e 'u zero, dëstinguennë 'mbra ''numerë posëtivë'' e ''numerë negativë'', s'ottenénë lë [[numerë 'nderë]] ca ausënë cumme sione 'a lettera '''Z'''. (esembië -1, -10, +5, +6)
+=== Numere 'ndere ===
+Ce s'introduce 'a differenza de segne e 'u zero, destinguenne 'mbra ''numere posetive'' e ''numere negative'', s'ottenéne le [[numere 'ndere]] ca ausene cumme sione 'a lettera '''Z'''. (esembie -1, -10, +5, +6)
 
-=== Numerë raziunëlë ===
-Cë lë numerë 'nderë avénënë ausëtë pë definì 'nu rapportë s'avënë lë [[numerë raziunalë]], cioè ca së ponnë scrivërë ausannë 'na [[frazione (matematechë)|frazione]] (''ratio'' jndr'a [[lenga latina|'u latino]]). L'inziemë dë tuttë lë numerë raziunalë ausënë cumme sione 'a lettera '''Q'''. (esembië 1/4, 3/9, 10/11)
+=== Numere raziunele ===
+Ce le numere 'ndere avénene ausete pe definì 'nu rapporte s'avene le [[numere raziunale]], cioè ca se ponne scrivere ausanne 'na [[frazione (matemateche)|frazione]] (''ratio'' jndr'a [[lenga latina|'u latino]]). L'inzieme de tutte le numere raziunale ausene cumme sione 'a lettera '''Q'''. (esembie 1/4, 3/9, 10/11)
 
-=== Numerë realë ===
-I numeri razionali non comprendono tutti i numeri esprimibili con la [[virgola]]. Ci sono numeri con un numero infinito di cifre decimali non [[numero decimale periodico|periodiche]], che non possono essere espressi come frazione di due interi: per esempio, <math>\pi</math> ([[pi greco]]), <math>\sqrt{2}</math>. Tali numeri vengono detti  [[numeri irrazionali|irrazionali]], perché non ottenibili come frazioni.
+=== Numere reale ===
+Le numere raziunele non ge comprendene tutte le numere ca se ponne esprimere cu a [[virgola]].
+Stonne certe numere cu 'nu numere ca non ge spicce de cifre decimele no [[numere decimele periodiche|periodiche]], ca no ge ponne essere scritte cumme 'na frazione di doje 'ndere: per esempio, <math>\pi</math> ([[pi greche]]), <math>\sqrt{2}</math>. Ste numere avènene ditte [[numeri irraziunele|irraziunele]], purcé no se ponne pigghià da le fraziune.
 
-L'unione dei numeri interi, razionali e irrazionali forma l'insieme dei [[numeri reali]], indicato con '''R'''. 
+L'aunìone de le numere 'ndere, raziunele e irraziunele fanne crejà l'inzieme de le [[numere reale]], ca tène cumme sione a lettera  '''R'''. 
 
-=== Numerë comblessë ===
+=== Numere comblesse ===
 L'insieme dei numeri reali non è però sufficiente a fornire tutte le soluzioni delle [[equazione algebrica|equazioni algebriche]]. Per esempio, l'equazione
 <math>x^2_ \quad = -1</math> non ha soluzioni nel campo dei numeri reali, perché in questo insieme il quadrato di un numero è sempre positivo.  Per risolvere questo problema, è stata introdotta l'[[unità immaginaria]] ''i'', tale che <math>i^2\; = -1</math>.  Tale numero non appartiene all'insieme dei numeri reali, bensì all'insieme dei [[numeri complessi]].
 
@@ -75,8 +76,8 @@ Vedi:
 == Collegamenti esterni ==
 *[http://www.chequefacility.org/numbertotext.jsp Software online] per convertire un numero in testo in varie lingue, su chequefacility.org
 
-[[Category:Numerë]]
-[[Category:Teoria dë lë numerë]]
+[[Category:Numere]]
+[[Category:Teoria de le numere]]
 [[Category:Matemateche]]
 
 [[ar:عدد]]
