@@ -485,13 +485,13 @@ Sonde in ordene 'fabbeteco asseconde 'u nome tagliàne.
 | 524 || NPL || NP || [[ISO 3166-2:NP]]
 |-
 |{{NIC}}
-| 558 || NIC || NI || [[ISO 3166-2:NI]]*
+| 558 || NIC || NI || [[ISO 3166-2:NI]]
 |-
 |{{NER}}
-| 562 || NER || NE || [[ISO 3166-2:NE]]*
+| 562 || NER || NE || [[ISO 3166-2:NE]]
 |-
 |{{NGA}}
-| 566 || NGA || NG || [[ISO 3166-2:NG]]*
+| 566 || NGA || NG || [[ISO 3166-2:NG]]
 |-
 |{{NIU}}
 | 570 || NIU || NU || [[ISO 3166-2:NU]]**
