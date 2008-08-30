@@ -1,22 +1,16 @@
 {{torna a|ISO 3166-1}}
 
-|'''ISO 3166-2:MD'''
-is an [[International Organization for Standardization| ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Moldova]].
+'''ISO 3166-2:MD''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Moldavia]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Moldova ('''MD''')
-and a 2-character-alphabetic sub-code, hyphenated together.
-
-==Newsletters==
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! MD-BA
 |  [[Bălţi]]
@@ -46,26 +40,26 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 |  [[Soroca]]
 |-
 ! MD-TI
-|  [[Bender, Moldova|Tighina]]
+|  [[Bender, Moldavia|Tighina]]
 |-
 ! MD-UN
 |  [[Ungheni]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | Autonomous territory
+! colspan="2" style="background-color:silver;" | Territorie autonome
 |-
 ! MD-GA
 |  [[Gagauzia|Găgăuzia]]
 |-
-! colspan="2" style="background-color:silver;" | City
+! colspan="2" style="background-color:silver;" | Cetate
 |-
 ! MD-CU
 |  [[Chişinău]]
 |-
-! colspan="2" style="background-color:silver;" | Districts
+! colspan="2" style="background-color:silver;" | Destritte
 |-
 ! MD-BA
 |  [[Bălţi]]
@@ -86,32 +80,31 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 |  [[Soroca]]
 |-
 ! MD-TI
-|  [[Bender, Moldova|Tighina]]
+|  [[Bender, Moldavia|Tighina]]
 |-
 ! MD-UN
 |  [[Ungheni]]
 |-
-! colspan="2" style="background-color:silver;" | Territorial unit
+! colspan="2" style="background-color:silver;" | aunìtà territoriale
 |-
 ! MD-SN
 | [[Stanga Nistrului|Stânga Nistrului]]
 |}
 |}
 
-==Codes - for actual subdivisions ==
-{{Unreferencedsection|date=April 2007}}
+==Liste de le codece pe le suddivisiune de osce dia ==
 
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ arrengàte pe codece
 |-
 ! MD-AN
 |  [[Anenii Noi]]
 |-
 ! MD-BE
-|  [[Bender, Moldova|Bender]]
+|  [[Bender, Moldavia|Bender]]
 |-
 ! MD-BL
 |  [[Bălţi]]
@@ -236,12 +229,12 @@ and a 2-character-alphabetic sub-code, hyphenated together.
 |}
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Counties of Moldova]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge d'a Moldavia]]
 
-[[Category:Geography of Moldova]]
+[[Category:Sciugrafije d'a Moldavia]]
 [[Category:ISO 3166|2:MD]]
 
 [[cs:ISO 3166-2:MD]]
