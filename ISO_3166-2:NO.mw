@@ -1,14 +1,15 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:NO''' is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Norway]]. 
-The code covers 19 counties (''[[fylke]]''). The first part of the code is the [[ISO 3166-1]] [[country code]] '''NO''' for Norway, the second part is two-digit-numeric (with leading zeros).
-==Codes ==
+'''ISO 3166-2:NO''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Norvegia]]. 
+
+Cuprisce 19 provinge (''fylke''). 
+
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ '''Sorted by Code'''
+|+ '''Arrengàte pe codece'''
 |-
 ! NO-01
 | [[Østfold]]
@@ -69,7 +70,7 @@ The code covers 19 counties (''[[fylke]]''). The first part of the code is the [
 |}
 |
 {| align="right"
-|+ '''Sorted by Name'''
+|+ '''Arrengàte pe nome'''
 |-
 ! NO-02
 | [[Akershus]]
@@ -131,16 +132,14 @@ The code covers 19 counties (''[[fylke]]''). The first part of the code is the [
 |- style="text-align:center;"
 | colspan="2" | '''NO-13''' does not exist (it used to be the city of Bergen, which is now included in Hordaland).
 |}
-==See also==
-*[[Municipalities of Norway by number]], for subdivisions of these codes
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[internet]].
-*[[Counties of Norway]]
 
-==References==
-{{Unreferenced|date=June 2007}}
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Cetate d'a Norvegia pe numere]]
+*[[Provinge d'a Norvegia]]
 
-[[Category:Geography of Norway]]
+[[Category:Sciugrafije d'a Norvegia]]
 [[Category:ISO 3166|2:NO]]
 
 [[cs:ISO 3166-2:NO]]
