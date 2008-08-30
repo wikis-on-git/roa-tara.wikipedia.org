@@ -1,15 +1,10 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:NL'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-the [[Netherlands]]
+'''ISO 3166-2:NL''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a l'[[Olanda]]. 
 
-It covers the 12 [[provinces of the Netherlands]].
+Cuprisce 12 [[Provinge de l'Olanda|provinge]].
 
-The first part is the [[ISO 3166-1]] code '''NL''' for the Netherlands,
-the second part is two-digit-alphabetic.
-
-==Codes ==
+==Liste de le codece ==
 {|
 |-
 ! NL-DR
@@ -25,10 +20,10 @@ the second part is two-digit-alphabetic.
 | [[Gelderland]]
 |-
 ! NL-GR
-| [[Groningen (province)|Groningen]]
+| [[Provinge de Groningen|Groningen]]
 |-
 ! NL-LI
-| [[Limburg (Netherlands)|Limburg]]
+| [[Limburg, Olanda|Limburg]]
 |-
 ! NL-NB
 | [[Noord Brabant]]
@@ -40,7 +35,7 @@ the second part is two-digit-alphabetic.
 | [[Overijssel]]
 |-
 ! NL-UT
-| [[Utrecht (province)|Utrecht]]
+| [[Provinge d'Utrecht|Utrecht]]
 |-
 ! NL-ZE
 | [[Zeeland]]
@@ -48,14 +43,15 @@ the second part is two-digit-alphabetic.
 ! NL-ZH
 | [[Zuid Holland]]
 |}
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
 
-==External links ==
-* {{statoids|id=unl|title=Provinces of Netherlands}}
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
 
-[[Category:Geography of the Netherlands]]
+== Collegaminde fore da Uicchipèdie ==
+* {{statoids|id=unl|title=Provinge de l'Olanda}}
+
+[[Category:Sciugrafije de l'Olanda]]
 [[Category:ISO 3166|2:NL]]
 
 [[cs:ISO 3166-2:NL]]
