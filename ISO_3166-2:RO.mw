@@ -1,290 +1,285 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:RO'''
-is an [[International Organization for Standardization | ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Romania]].
+'''ISO 3166-2:RO''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Romania]]. 
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Romania ('''RO''')
-and a 1 or 2-character alphabetic sub-code, hyphenated together.
+== Newsletters ==
+* [[ISO 3166-2:2002-12-10]] - p'a Romania, aggiunde a provinge de [[Ilfov]]
 
-==Newsletters ==
-* [[ISO 3166-2:2002-12-10]] - addition of the county [[Ilfov]]
-
-==Codes ==
+==Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>RO-AB</code>
-| [[Alba County|Alba]]
+| [[Provinge d'Alba|Alba]]
 |-
 ! <code>RO-AG</code>
-| [[Argeş County|Argeş]]
+| [[Provinge d'Argeş|Argeş]]
 |-
 ! <code>RO-AR</code>
-| [[Arad County|Arad]]
+| [[Provinge d'Arad|Arad]]
 |-
 ! <code>RO-B</code> 
 | [[Bucharest|Bucureşti]]
 |-
 ! <code>RO-BC</code>
-| [[Bacău County|Bacău]]
+| [[Provinge de Bacău|Bacău]]
 |-
 ! <code>RO-BH</code>
-| [[Bihor County|Bihor]]
+| [[Provinge de Bihor|Bihor]]
 |-
 ! <code>RO-BN</code>
-| [[Bistriţa-Năsăud County|Bistriţa-Năsăud]]
+| [[Provinge de Bistriţa-Năsăud|Bistriţa-Năsăud]]
 |-
 ! <code>RO-BR</code>
-| [[Brăila County|Brăila]]
+| [[Provinge de Brăila|Brăila]]
 |-
 ! <code>RO-BT</code>
-| [[Botoşani County|Botoşani]]
+| [[Provinge de Botoşani|Botoşani]]
 |-
 ! <code>RO-BV</code>
-| [[Braşov County|Braşov]]
+| [[Provinge de Braşov|Braşov]]
 |-
 ! <code>RO-BZ</code>
-| [[Buzău County|Buzău]]
+| [[Provinge de Buzău|Buzău]]
 |-
 ! <code>RO-CJ</code>
-| [[Cluj County|Cluj]]
+| [[Provinge de Cluj|Cluj]]
 |-
 ! <code>RO-CL</code>
-| [[Călăraşi County|Călăraşi]]
+| [[Provinge de Călăraşi|Călăraşi]]
 |-
 ! <code>RO-CS</code>
-| [[Caraş-Severin County|Caraş-Severin]]
+| [[Provinge de Caraş-Severin|Caraş-Severin]]
 |-
 ! <code>RO-CT</code>
-| [[Constanţa County|Constanţa]]
+| [[Provinge de Constanţa|Constanţa]]
 |-
 ! <code>RO-CV</code>
-| [[Covasna County|Covasna]]
+| [[Provinge de Covasna|Covasna]]
 |-
 ! <code>RO-DB</code>
-| [[Dâmboviţa County|Dâmboviţa]]
+| [[Provinge de Dâmboviţa|Dâmboviţa]]
 |-
 ! <code>RO-DJ</code>
-| [[Dolj County|Dolj]]
+| [[Provinge de Dolj|Dolj]]
 |-
 ! <code>RO-GJ</code>
-| [[Gorj County|Gorj]]
+| [[Provinge de Gorj|Gorj]]
 |-
 ! <code>RO-GL</code>
-| [[Galaţi County|Galaţi]]
+| [[Provinge de Galaţi|Galaţi]]
 |-
 ! <code>RO-GR</code>
-| [[Giurgiu County|Giurgiu]]
+| [[Provinge de Giurgiu|Giurgiu]]
 |-
 ! <code>RO-HD</code>
-| [[Hunedoara County|Hunedoara]]
+| [[Provinge de Hunedoara|Hunedoara]]
 |-
 ! <code>RO-HG</code>
-| [[Harghita County|Harghita]]
+| [[Provinge de Harghita|Harghita]]
 |-
 ! <code>RO-IF</code>
-| [[Ilfov County|Ilfov]]
+| [[Provinge d'Ilfov|Ilfov]]
 |-
 ! <code>RO-IL</code>
-| [[Ialomiţa County|Ialomiţa]]
+| [[Provinge d'Ialomiţa|Ialomiţa]]
 |-
 ! <code>RO-IS</code>
-| [[Iaşi County|Iaşi]]
+| [[Provinge d'Iaşi|Iaşi]]
 |-
 ! <code>RO-MH</code>
-| [[Mehedinţi County|Mehedinţi]]
+| [[Provinge de Mehedinţi|Mehedinţi]]
 |-
 ! <code>RO-MM</code>
-| [[Maramureş County|Maramureş]]
+| [[Provinge de Maramureş|Maramureş]]
 |-
 ! <code>RO-MS</code>
-| [[Mureş County|Mureş]]
+| [[Provinge de Mureş|Mureş]]
 |-
 ! <code>RO-NT</code>
-| [[Neamţ County|Neamţ]]
+| [[Provinge de Neamţ|Neamţ]]
 |-
 ! <code>RO-OT</code>
-| [[Olt County|Olt]]
+| [[Provinge d'Olt|Olt]]
 |-
 ! <code>RO-PH</code>
-| [[Prahova County|Prahova]]
+| [[Provinge de Prahova|Prahova]]
 |-
 ! <code>RO-SB</code>
-| [[Sibiu County|Sibiu]]
+| [[Provinge de Sibiu|Sibiu]]
 |-
 ! <code>RO-SJ</code>
-| [[Sălaj County|Sălaj]]
+| [[Provinge de Sălaj|Sălaj]]
 |-
 ! <code>RO-SM</code>
-| [[Satu Mare County|Satu Mare]]
+| [[Provinge de Satu Mare|Satu Mare]]
 |-
 ! <code>RO-SV</code>
-| [[Suceava County|Suceava]]
+| [[Provinge de Suceava|Suceava]]
 |-
 ! <code>RO-TL</code>
-| [[Tulcea County|Tulcea]]
+| [[Provinge de Tulcea|Tulcea]]
 |-
 ! <code>RO-TM</code>
-| [[Timiş County|Timiş]]
+| [[Provinge de Timiş|Timiş]]
 |-
 ! <code>RO-TR</code>
-| [[Teleorman County|Teleorman]]
+| [[Provinge de Teleorman|Teleorman]]
 |-
 ! <code>RO-VL</code>
-| [[Vâlcea County|Vâlcea]]
+| [[Provinge de Vâlcea|Vâlcea]]
 |-
 ! <code>RO-VN</code>
-| [[Vrancea County|Vrancea]]
+| [[Provinge de Vrancea|Vrancea]]
 |-
 ! <code>RO-VS</code>
-| [[Vaslui County|Vaslui]]
+| [[Provinge de Vaslui|Vaslui]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | Counties
+! colspan="2" style="background-color:silver;" | Provinge
 |-
-! [[Alba County|Alba]]
+! [[Provinge d'Alba|Alba]]
 | <code>RO-AB</code>
 |-
-! [[Arad County|Arad]]
+! [[Provinge d'Arad|Arad]]
 | <code>RO-AR</code>
 |-
-! [[Argeş County|Argeş]]
+! [[Provinge d'Argeş|Argeş]]
 | <code>RO-AG</code>
 |-
-! [[Bacău County|Bacău]]
+! [[Provinge de Bacău|Bacău]]
 | <code>RO-BC</code>
 |-
-! [[Bihor County|Bihor]]
+! [[Provinge de Bihor|Bihor]]
 | <code>RO-BH</code>
 |-
-! [[Bistriţa-Năsăud County|Bistriţa-Năsăud]]
+! [[Provinge de Bistriţa-Năsăud|Bistriţa-Năsăud]]
 | <code>RO-BN</code>
 |-
-! [[Botoşani County|Botoşani]]
+! [[Provinge de Botoşani|Botoşani]]
 | <code>RO-BT</code>
 |-
-! [[Brăila County|Brăila]]
+! [[Provinge de Brăila|Brăila]]
 | <code>RO-BR</code>
 |-
-! [[Braşov County|Braşov]]
+! [[Provinge de Braşov|Braşov]]
 | <code>RO-BV</code>
 |-
-! [[Buzău County|Buzău]]
+! [[Provinge de Buzău|Buzău]]
 | <code>RO-BZ</code>
 |-
-! [[Caraş-Severin County|Caraş-Severin]]
+! [[Provinge de Caraş-Severin|Caraş-Severin]]
 | <code>RO-CS</code>
 |-
-! [[Călăraşi County|Călăraşi]]
+! [[Provinge de Călăraşi|Călăraşi]]
 | <code>RO-CL</code>
 |-
-! [[Cluj County|Cluj]]
+! [[Provinge de Cluj|Cluj]]
 | <code>RO-CJ</code>
 |-
-! [[Constanţa County|Constanţa]]
+! [[Provinge de Constanţa|Constanţa]]
 | <code>RO-CT</code>
 |-
-! [[Covasna County|Covasna]]
+! [[Provinge de Covasna|Covasna]]
 | <code>RO-CV</code>
 |-
-! [[Dâmboviţa County|Dâmboviţa]]
+! [[Provinge de Dâmboviţa|Dâmboviţa]]
 | <code>RO-DB</code>
 |-
-! [[Dolj County|Dolj]]
+! [[Provinge de Dolj|Dolj]]
 | <code>RO-DJ</code>
 |-
-! [[Galaţi County|Galaţi]]
+! [[Provinge de Galaţi|Galaţi]]
 | <code>RO-GL</code>
 |-
-! [[Giurgiu County|Giurgiu]]
+! [[Provinge de Giurgiu|Giurgiu]]
 | <code>RO-GR</code>
 |-
-! [[Gorj County|Gorj]]
+! [[Provinge de Gorj|Gorj]]
 | <code>RO-GJ</code>
 |-
-! [[Harghita County|Harghita]]
+! [[Provinge de Harghita|Harghita]]
 | <code>RO-HG</code>
 |-
-! [[Hunedoara County|Hunedoara]]
+! [[Provinge de Hunedoara|Hunedoara]]
 | <code>RO-HD</code>
 |-
-! [[Ialomiţa County|Ialomiţa]]
+! [[Provinge d'Ialomiţa|Ialomiţa]]
 | <code>RO-IL</code>
 |-
-! [[Iaşi County|Iaşi]]
+! [[Provinge d'Iaşi|Iaşi]]
 | <code>RO-IS</code>
 |-
-! [[Ilfov County|Ilfov]]
+! [[Provinge d'Ilfov|Ilfov]]
 | <code>RO-IF</code>
 |-
-! [[Maramureş County|Maramureş]]
+! [[Provinge de Maramureş|Maramureş]]
 | <code>RO-MM</code>
 |-
-! [[Mehedinţi County|Mehedinţi]]
+! [[Provinge de Mehedinţi|Mehedinţi]]
 | <code>RO-MH</code>
 |-
-! [[Mureş County|Mureş]]
+! [[Provinge de Mureş|Mureş]]
 | <code>RO-MS</code>
 |-
-! [[Neamţ County|Neamţ]]
+! [[Provinge de Neamţ|Neamţ]]
 | <code>RO-NT</code>
 |-
-! [[Olt County|Olt]]
+! [[Provinge d'Olt|Olt]]
 | <code>RO-OT</code>
 |-
-! [[Prahova County|Prahova]]
+! [[Provinge de Prahova|Prahova]]
 | <code>RO-PH</code>
 |-
-! [[Sălaj County|Sălaj]]
+! [[Provinge de Sălaj|Sălaj]]
 | <code>RO-SJ</code>
 |-
-! [[Satu Mare County|Satu Mare]]
+! [[Provinge de Satu Mare|Satu Mare]]
 | <code>RO-SM</code>
 |-
-! [[Sibiu County|Sibiu]]
+! [[Provinge de Sibiu|Sibiu]]
 | <code>RO-SB</code>
 |-
-! [[Suceava County|Suceava]]
+! [[Provinge de Suceava|Suceava]]
 | <code>RO-SV</code>
 |-
-! [[Teleorman County|Teleorman]]
+! [[Provinge de Teleorman|Teleorman]]
 | <code>RO-TR</code>
 |-
-! [[Timiş County|Timiş]]
+! [[Provinge de Timiş|Timiş]]
 | <code>RO-TM</code>
 |-
-! [[Tulcea County|Tulcea]]
+! [[Provinge de Tulcea|Tulcea]]
 | <code>RO-TL</code>
 |-
-! [[Vâlcea County|Vâlcea]]
+! [[Provinge de Vâlcea|Vâlcea]]
 | <code>RO-VL</code>
 |-
-! [[Vaslui County|Vaslui]]
+! [[Provinge de Vaslui|Vaslui]]
 | <code>RO-VS</code>
 |-
-! [[Vrancea County|Vrancea]]
+! [[Provinge de Vrancea|Vrancea]]
 | <code>RO-VN</code>
 |-
-! colspan="2" style="background-color:silver;" | Municipality
+! colspan="2" style="background-color:silver;" | Cetate
 |-
 ! [[Bucharest|Bucureşti]]
 | <code>RO-B</code>
 |}
 |}
-==See also==
-* [[ISO 3166-2]], the reference table for all country region codes.
-* [[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-* [[Counties of Romania]]
 
-[[Category:Geography of Romania]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+* [[Provinge d'a Romania]]
+
+[[Category:Sciugrafije d'a Romania]]
 [[Category:ISO 3166|2:RO]]
 
 [[cs:ISO 3166-2:RO]]
