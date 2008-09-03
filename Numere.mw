@@ -23,8 +23,8 @@ Stonne certe numere cu 'nu numere ca non ge spicce de cifre decimele no [[numere
 L'aunìone de le numere 'ndere, raziunele e irraziunele fanne crejà l'inzieme de le [[numere reale]], ca tène cumme sione a lettera  '''R'''.
 
 === Numere comblesse ===
-'U 'nzieme de le numere riele non g'avaste a furnì tutte le soluzioni de le [[equazione algebriche|equazioni algebriche]]. Per esempio, l'equazione
-<math>x^2_ \quad = -1</math> non ha soluzioni nel campo dei numeri reali, perché in questo insieme il quadrato di un numero è sempre positivo.  Per risolvere questo problema, è stata introdotta l'[[unità immaginaria]] ''i'', tale che <math>i^2\; = -1</math>.  Tale numero non appartiene all'insieme dei numeri reali, bensì all'insieme dei [[numeri complessi]].
+'U 'nzieme de le numere riele non g'avaste a furnì tutte le soluzioni de le [[equazione algebriche|equazione algebriche]]. Pe esembie, l'equazione
+<math>x^2_ \quad = -1</math> non ge tène soluzione jndr'à 'u cambe de le numere riele, purcé jndr'à quiste 'nzieme 'u quadrate de 'nu numere jè sembre positive. Pe resolvere quiste probleme, ha state 'ndrodotte l'[[aunità 'mmaginarie]] (ca tène cumme signe 'a lettera ''i''), accussì avène <math>i^2\; = -1</math>. Stu numere non g'appartiene a l'nzieme de le numere riele, ma a quidde de le [[numere comblesse]].
 
 La risoluzione di equazioni dove compaiono radici quadrate di numeri negativi è possibile con l'introduzione dei ''numeri complessi''. Sono grandezze che per essere definite hanno bisogno di coppie di numeri reali. L'insieme "C" dei complessi ha come elementi "z". Ogni numero complesso "z" è formato da una coppia di numeri reali: z = (a,b). Il primo numero ''a'' costituisce la parte del complesso chiamata "parte reale" ed il secondo numero "b" costituisce la "parte immaginaria". La caratteristica dei numeri complessi è il modo con cui si opera tra loro: (a,b)+(c,d)= (a+c,b+d);  (a,b)x(c,d)= (ac-bd, ad+bc). In questo modo il numero (0,1) = i moltiplicato per se stesso darà (0-1, 0+0) = -1.  
 
