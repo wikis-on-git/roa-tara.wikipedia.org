@@ -1,18 +1,10 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:TH''' is an [[International Organization for Standardization|ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to [[Thailand]]. It covers the 75 [[Provinces of Thailand|provinces]] (''changwat'') and the city of [[Bangkok]], which is both a province and a municipality.
+'''ISO 3166-2:TH''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Thailandia]]
 
-The first part of the code is the [[ISO 3166-1]] [[country code]] TH for Thailand, the second part is two-digit-numeric (with trailing zeros). A special non-numeric code is used for the city of [[Pattaya]], which is in the province Chonburi, but other than all other communes it is administrated by a unique City Council.
+Cuprisce le 75 [[Provinge d'a Thailandia|provinge]] (th. ''changwat'') e 'a cetate de [[Bangkok]], ca jè provinge e cetate.
 
-The numbers used are the same as the postal code for the province, except in the number range 11-19, where one have to subtract 1 to get the postal code from the ISO code. The number codes did change significantly between the first drafts of the ISO 3166-2 standard in 1988 and the first published version of 1993, including three new provinces which were created in the meantime. 
-
-The US standard [[Federal Information Processing Standard|FIPS]] 10-4 also includes designators for the provinces which use the same style ([[List of FIPS region codes (S-U)#TH:_Thailand|TH-xx]]), but the numbers are incompatible with the ISO standard. Thus the decoding table below does not apply to the FIPS codes. In fact the draft of the ISO 3166-2 was based upon the FIPS codes.
-
-The ''Department of Provincial Administration'' of the Thai Ministry of Interior uses a coding scheme based upon the ISO 3166-2 numbers to encode all the subsequent subdivisions of the provinces as well - two digits for the districts (''[[Amphoe]]''), two further digits of the subdistricts (''[[tambon]]''), and another two digits for the villages (''[[muban]]''). A trailing 00 marks the upper level division. Thus e.g. 20090000 is the code for the ''Amphoe Sattahip'' in the province Chonburi.
-
-The municipal (''[[thesaban]]'') areas are also encoded in a similar way like the ''Amphoe'', only starting with 99 and counting down. The code 99 usually encodes the capital of the province, thus 2099 is the town [[Chonburi (city)|Chonburi]].
-
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
@@ -487,10 +479,11 @@ The municipal (''[[thesaban]]'') areas are also encoded in a similar way like th
 |}
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-[[Category:Geography of Thailand]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+
+[[Category:Sciugrafije d'a Thailandia]]
 [[Category:ISO 3166|2:TH]]
 
 [[cs:ISO 3166-2:TH]]
