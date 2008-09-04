@@ -1,3 +1,35 @@
 {{S}}
+{{Comune
+|nomeComune = Petina
+|linkStemma = <!-- Petina-Stemma.png -->
+|siglaRegione = CAM
+|siglaProvincia = SA
+|latitudineGradi = 40
+|latitudineMinuti = 32
+|latitudineSecondi = 0
+|longitudineGradi = 15
+|longitudineMinuti = 22
+|longitudineSecondi = 0
+|mappaX = 215
+|mappaY = 216
+|altitudine = 649 <!-- solo valore numerico dell'altitudine -->
+|superficie = 35,09
+|abitanti = 1.217
+|anno = 2007 <!-- solo valore  dell'anno di riferimento  -->
+|densita = 34,68
+|frazioni =  <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Auletta]], [[Corleto Monforte]], [[Ottati]], [[Sant'Angelo a Fasanella]], [[Sicignano degli Alburni]]
+|cap = 84020
+|prefisso = 0828
+|istat = 065094
+|fiscale = G509 <!-- B102 -->
+|nomeAbitanti =  <!-- nome degli abitanti minuscolo -->
+|patrono =  <!-- [[San Pietro]]-->
+|festivo =  <!-- [[7 aprile]] -->
+|sito =  http://petina.asmenet.it
+}} 
+
 '''Petina''' éte 'nu comune [[Italie|tagliáne]] de 1.238 crestiáne.
-[[Category:Gëografije]]
+
+{{Demografia/Petina}}
+[[Category:Sciugrafije]]
