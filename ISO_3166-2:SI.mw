@@ -2,22 +2,18 @@
 
 '''ISO 3166-2:SI''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Slovenia]]
 
-It covers 193 ''Občine'' (municipalities), 11 of which have "urban status".
+Cuprisce 193 ''Občine'' (cetate), 11 de chiste tènene 'u status de urbane.
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Slovenia ('''SI''')
-and a 3-character-numeric subcode, hyphenated together.
-
-==Newsletters==
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 * [[ISO 3166-2:2005-09-13]]
 
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>SI-001</code>
 | [[Ajdovščina]]
@@ -38,7 +34,7 @@ and a 3-character-numeric subcode, hyphenated together.
 | [[Bovec]]
 |-
 ! <code>SI-007</code>
-| [[Brda (Slovenia)|Brda]]
+| [[Brda, Slovenia|Brda]]
 |-
 ! <code>SI-008</code>
 | [[Brezovica]]
@@ -128,7 +124,7 @@ and a 3-character-numeric subcode, hyphenated together.
 | [[Idrija]]
 |-
 ! <code>SI-037</code>
-| [[Ig (Slovenia)|Ig]]
+| [[Ig, Slovenia|Ig]]
 |-
 ! <code>SI-038</code>
 | [[Ilirska Bistrica]]
@@ -185,7 +181,7 @@ and a 3-character-numeric subcode, hyphenated together.
 | [[Kungota]]
 |-
 ! <code>SI-056</code>
-| [[Kuzma (Slovenia)|Kuzma]]
+| [[Kuzma, Slovenia|Kuzma]]
 |-
 ! <code>SI-057</code>
 | [[Laško]]
@@ -464,7 +460,7 @@ and a 3-character-numeric subcode, hyphenated together.
 | [[Bistrica ob Sotli]]
 |-
 ! <code>SI-150</code>
-| [[Bloke (Slovenia)|Bloke]]
+| [[Bloke, Slovenia|Bloke]]
 |-
 ! <code>SI-151</code>
 | [[Braslovče]]
@@ -600,7 +596,7 @@ and a 3-character-numeric subcode, hyphenated together.
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
 | colspan="2" style="background-color:silver;" | ''Občine''
 |-
@@ -619,7 +615,7 @@ and a 3-character-numeric subcode, hyphenated together.
 ! [[Bled]]
 | <code>SI-003</code>
 |-
-! [[Bloke (Slovenia)|Bloke]]
+! [[Bloke, Slovenia|Bloke]]
 | <code>SI-150</code>
 |-
 ! [[Bohinj]]
@@ -634,7 +630,7 @@ and a 3-character-numeric subcode, hyphenated together.
 ! [[Braslovče]]
 | <code>SI-151</code>
 |-
-! [[Brda (Slovenia)|Brda]]
+! [[Brda, Slovenia|Brda]]
 | <code>SI-007</code>
 |-
 ! [[Brežice]]
@@ -748,7 +744,7 @@ and a 3-character-numeric subcode, hyphenated together.
 ! [[Idrija]]
 | <code>SI-036</code>
 |-
-! [[Ig (Slovenia)|Ig]]
+! [[Ig, Slovenia|Ig]]
 | <code>SI-037</code>
 |-
 ! [[Ilirska Bistrica]]
@@ -811,7 +807,7 @@ and a 3-character-numeric subcode, hyphenated together.
 ! [[Kungota]]
 | <code>SI-055</code>
 |-
-! [[Kuzma (Slovenia)|Kuzma]]
+! [[Kuzma, Slovenia|Kuzma]]
 | <code>SI-056</code>
 |-
 ! [[Laško]]
@@ -1150,7 +1146,7 @@ and a 3-character-numeric subcode, hyphenated together.
 ! [[Žužemberk]]
 | <code>SI-193</code>
 |-
-! colspan="2" style="background-color:silver;" | ''Občine'' with urban status
+! colspan="2" style="background-color:silver;" | ''Občine'' cu 'u status urbane
 |-
 ! [[Celje]]
 | <code>SI-011</code>
@@ -1190,8 +1186,9 @@ and a 3-character-numeric subcode, hyphenated together.
 == Vide pure ==
 *[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
 *[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
-*[[Municipalities of Slovenia]]
-[[Category:Geography of Slovenia]]
+*[[Cetate d'a Slovenia]]
+
+[[Category:Sciugrafije d'a Slovenia]]
 [[Category:ISO 3166|2:SI]]
 
 [[cs:ISO 3166-2:SI]]
