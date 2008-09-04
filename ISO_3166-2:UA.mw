@@ -1,103 +1,102 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:UA'''
-is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[Ukraine]].
-Each two-part code consists of the [[ISO 3166-1]] code for 
-[[Ukraine]] ('''UA''')
-and a 2-character-numeric sub-code, hyphenated together.
+'''ISO 3166-2:UA''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Ucraina]]. 
 
-==Codes ==
+Cuprisce le provinge (''oblast'').
+
+== Liste de le codece ==
 {| class="wikitable sortable"
-! Code
-! Name
+! Codece
+! Nome
 |-
 ! <code>UA-05</code>
-| [[Vinnytsia_Oblast|Vinnytska oblast]]
+| [[Provinge de Vinnytsia|Vinnytska oblast]]
 |-
 ! <code>UA-07</code>
-| [[Volyn_Oblast|Volynska oblast]]
+| [[Provinge de Volyn|Volynska oblast]]
 |-
 ! <code>UA-09</code>
-| [[Luhansk_Oblast|Luhanska oblast]]
+| [[Provinge de Luhansk|Luhanska oblast]]
 |-
 ! <code>UA-12</code>
-| [[Dnipropetrovsk_Oblast|Dnipropetrovska oblast]]
+| [[Provinge de Dnipropetrovsk|Dnipropetrovska oblast]]
 |-
 ! <code>UA-14</code>
-| [[Donetsk_Oblast|Donetska oblast]]
+| [[Provinge de Donetsk|Donetska oblast]]
 |-
 ! <code>UA-18</code>
-| [[Zhytomyr_Oblast|Zhytomyrska oblast]]
+| [[Provinge de Zhytomyr|Zhytomyrska oblast]]
 |-
 ! <code>UA-19</code>
-| [[Rivne_Oblast|Rivnenska oblast]]
+| [[Provinge de Rivne|Rivnenska oblast]]
 |-
 ! <code>UA-21</code>
-| [[Zakarpattia_Oblast|Zakarpatska oblast]]
+| [[Provinge de Zakarpattia|Zakarpatska oblast]]
 |-
 ! <code>UA-23</code>
-| [[Zaporizhia_Oblast|Zaporizka oblast]]
+| [[Provinge de Zaporizhia|Zaporizka oblast]]
 |-
 ! <code>UA-26</code>
-| [[Ivano-Frankivsk_Oblast|Ivano-Frankivska oblast]]
+| [[Provinge de Ivano-Frankivsk|Ivano-Frankivska oblast]]
 |-
 ! <code>UA-30</code>
-| [[Kyiv|Kyiv, (City of)]]
+| [[Kyiv|Kyiv, (Cetate de)]]
 |-
 ! <code>UA-32</code>
-| [[Kyiv_Oblast|Kyivska oblast]] 
+| [[Provinge de Kyiv|Kyivska oblast]] 
 |-
 ! <code>UA-35</code>
-| [[Kirovohrad_Oblast|Kirovohradska oblast]] 
+| [[Provinge de Kirovohrad|Kirovohradska oblast]] 
 |-
 ! <code>UA-40</code>
-| [[Sevastopol|Sevastopol (City of)]]
+| [[Provinge de Sevastopol|Sevastopol (City of)]]
 |-
 ! <code>UA-43</code>
-| [[Autonomous_Republic_of_Crimea|Krym (Avtonomna Respublika)]]
+| [[Repubbleche Autonome d'a Crimea|Krym (Avtonomna Respublika)]]
 |-
 ! <code>UA-46</code>
-| [[Lviv_Oblast|Lvivska oblast]]
+| [[Provinge de Lviv|Lvivska oblast]]
 |-
 ! <code>UA-48</code>
-| [[Mykolaiv_Oblast|Mykolayivska oblast]]
+| [[Provinge de Mykolaiv|Mykolayivska oblast]]
 |-
 ! <code>UA-51</code>
-| [[Odesa_Oblast|Odeska oblast]]
+| [[Provinge de Odesa|Odeska oblast]]
 |-
 ! <code>UA-53</code>
-| [[Poltava_Oblast|Poltavska oblast]]
+| [[Provinge de Poltava|Poltavska oblast]]
 |-
 ! <code>UA-59</code>
-| [[Sumy_Oblast|Sumska oblast]]
+| [[Provinge de Sumy|Sumska oblast]]
 |-
 ! <code>UA-61</code>
-| [[Ternopil_Oblast|Ternopilska oblast]]
+| [[Provinge de Ternopil|Ternopilska oblast]]
 |-
 ! <code>UA-63</code>
-| [[Kharkiv_Oblast|Kharkivska oblast]]
+| [[Provinge de Kharkiv|Kharkivska oblast]]
 |-
 ! <code>UA-65</code>
-| [[Kherson_Oblast|Khersonska Oblast]]
+| [[Provinge de Kherson|Khersonska Oblast]]
 |-
 ! <code>UA-68</code>
-| [[Khmelnytskyi_Oblast|Khmelnytska oblast]]
+| [[Provinge de Khmelnytskyi|Khmelnytska oblast]]
 |-
 ! <code>UA-71</code>
-| [[Cherkasy_Oblast|Cherkaska oblast]]
+| [[Provinge de Cherkasy|Cherkaska oblast]]
 |-
 ! <code>UA-74</code>
-| [[Chernihiv_Oblast|Chernihivska oblast]]
+| [[Provinge de Chernihiv|Chernihivska oblast]]
 |-
 ! <code>UA-77</code>
-| [[Chernivtsi_Oblast|Chernivetska oblast]]
+| [[Provinge de Chernivtsi|Chernivetska oblast]]
 |}
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-[[Category:Geography of Ukraine]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge de l'Ucraina]]
+
+[[Category:Sciugrafije de l'Ucraina]]
 [[Category:ISO 3166|2:UA]]
 
 [[cs:ISO 3166-2:UA]]
