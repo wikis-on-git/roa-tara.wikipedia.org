@@ -1,70 +1,18 @@
 {{torna a|ISO 3166-1}}
 
-These are '''data codes for [[Switzerland]]'''.  {{TOCright}}
-==Country==
-These are codes for the country itself. See [[country code]] for a fuller explanation.
+'''ISO 3166-2:CH''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Svizzera]]
 
-;CH	:[[ISO 3166|ISO country code]] ([[ISO 3166-1 alpha-2]],two letter)
-:Internet [[Country code top-level domain]] (ccTLD) (see '''[[.ch]]''')
-:[[List of international license plate codes|Distinguishing sign of vehicles in international traffic]]
-;CHE	:[[ISO 3166|ISO country code]] ([[ISO 3166-1 alpha-3]], three letter code)
-;756	:[[ISO 3166|ISO country code]] ([[ISO 3166-1 numeric]], numeric code)
-;SUI	:[[List of IOC country codes|IOC country code]]
-:[[ITU letter codes]] for member-countries
-;SW : [[World Meteorological Organization|WMO]] message header country code
-;SZ :	[[List of FIPS country codes|FIPS country code]]
-:[[Library of Congress]] [[MARC standards|machine-readable cataloguing]] country code
-;41 :	[[List of country calling codes|Country calling code]]
-;228 :	E.212 [[List of mobile country codes|Mobile country code]]
-;85 : [[International Union of Railways]] [[UIC Country Code]]
-;269 : ITU [[maritime identification digits]] 
-;EO39 : [[Nomenclature of Territorial Units for Statistics]] (NUTS)
-;HB :	[[International Civil Aviation Organization|ICAO]] [[aircraft registration]] prefix (since 1935, before: CH)
-;LS :	[[International Civil Aviation Organization airport code|ICAO airport code]] or nationality letters for location indicator <br>(see also: '''[[List of airports by ICAO code: L#LS - Switzerland|List of airport codes: LS]]''')
-;HBA-HBZ,<br>HEA-HEZ	:[[ITU prefix|ITU callsign prefix]]
-;760-769	:[[GS1]] prefix of GTIN ([[barcode]]s) by GS1 Switzerland
+== Liste de le codece ==
 
-''See also:'' [[Country codes: S#Switzerland]]
-
-==NUTS==
-For Switzerland, the levels of the [[Nomenclature of Territorial Units for Statistics]] (NUTS) are the following:
-
-* NUTS-1: [[Switzerland]]
-* NUTS-2: 7 Regions
-* NUTS-3: 26 [[Cantons of Switzerland|Cantons]]
-
-The seven NUTS-2 Regions are the following:
-{| class="wikitable sortable"
-! Code !! Region !! Region (local name) !! Cantons
-|-
-| CH01 || [[Lake Geneva region]] || Région lémanique || [[Vaud]], [[Valais]], [[Canton of Geneva|Geneva]]
-|-
-| CH02 || [[Espace Mittelland]] || Espace Mittelland || [[Canton of Berne|Berne]], [[Canton of Fribourg|Fribourg]], [[Canton of Solothurn|Solothurn]], [[Canton of Neuchâtel|Neuchâtel]], [[Canton of Jura|Jura]]
-|-
-| CH03 || [[Northwestern Switzerland]] || Nordwestschweiz || [[Basel-City]], [[Basel-Country]], [[Aargau]]
-|-
-| CH04 || [[Canton of Zurich|Zurich]] || Zürich || [[Canton of Zurich|Zurich]]
-|-
-| CH05 || [[Eastern Switzerland]] || Ostschweiz || [[Canton of Glarus|Glarus]], [[Canton of Schaffhausen|Schaffhausen]], [[Appenzell Ausserrhoden]], [[Appenzell Innerrhoden]], [[Canton of St. Gallen|St. Gallen]], [[Grisons]], [[Thurgau]]
-|-
-| CH06 || [[Central Switzerland]] || Zentralschweiz || [[Canton of Lucerne|Lucerne]], [[Canton of Uri|Uri]], [[Canton of Schwyz|Schwyz]], [[Obwalden]], [[Nidwalden]], [[Canton of Zug|Zug]]
-|-
-| CH07 || [[Ticino]] || Ticino || [[Ticino]]
-|}
-
-==Cantons==<!-- This section is linked from [[ISO 3166-2:CH]] -->
-{{Switzerland Cantons Labelled Map|float=right}}
-The abbreviations are widely used, e.g. on [[Swiss car number plates|car license plate]]s and as disambiguator for localities on postal addresses if two localities in different cantons have the same name.
-
-The [[ISO 3166-2]] codes include them with the prefix "CH-", i.e. CH-SZ for the canton of Schwyz.
+== Candune ==
 
 <table class="vcard wikitable sortable">
-<caption class="fn">Data codes for Cantons of Switzerland</caption>
+<caption class="fn">Codece pe le candune d'a Svizzera</caption>
 <tr>
-<th> [[Cantons of Switzerland|Canton]] 
-<th> [[Abbreviation|Abbr.]] 
-<th> [[Federal Information Processing Standard|FIPS 10-4]] 
-<th> [[Nomenclature of Territorial Units for Statistics|NUTS-3]]
+<th> [[Candune d'a Svizzera|Candune]] 
+<th> [[Abbrèviazione|Abbr.]] 
+<th> [[Prucesse de Standardizzazione d'a 'Mbormazione Federale|FIPS 10-4]] 
+<th> [[Nomenglature de le aunìtà territoriele p'a Statisteche|NUTS-3]]
 </tr>
 <tr align=center> <td align=left> [[Aargau]] <td> AG <td> SZ01 <td> CH033
 <tr align=center> <td align=left> [[Appenzell Innerrhoden]] <td> AI <td> SZ10 <td> CH054
@@ -72,40 +20,33 @@ The [[ISO 3166-2]] codes include them with the prefix "CH-", i.e. CH-SZ for the 
 <tr align=center> <td align=left> [[Canton of Berne|Berne]] <td> BE <td> SZ05 <td> CH021
 <tr align=center> <td align=left> [[Basel-Country]] <td> BL <td> SZ03 <td> CH032
 <tr align=center> <td align=left> [[Basel-City]] <td> BS <td> SZ04 <td> CH031
-<tr align=center> <td align=left> [[Canton of Fribourg|Fribourg]] <td> FR <td> SZ06<td> CH022
-<tr align=center> <td align=left> [[Canton of Geneva|Geneva]] <td> GE <td> SZ07 <td> CH013
-<tr align=center> <td align=left> [[Canton of Glarus|Glarus]] <td> GL <td> SZ08 <td> CH051
+<tr align=center> <td align=left> [[Candone de Fribourg|Fribourg]] <td> FR <td> SZ06<td> CH022
+<tr align=center> <td align=left> [[Candone de Geneva|Geneva]] <td> GE <td> SZ07 <td> CH013
+<tr align=center> <td align=left> [[Candone de Glarus|Glarus]] <td> GL <td> SZ08 <td> CH051
 <tr align=center> <td align=left> [[Grisons]] <td> GR <td> SZ09 <td> CH056
-<tr align=center> <td align=left> [[Canton of Jura|Jura]] <td> JU <td> SZ26<td> CH025
-<tr align=center> <td align=left> [[Canton of Lucerne|Lucerne]] <td> LU <td> SZ11 <td> CH061
-<tr align=center> <td align=left> [[Canton of Neuchâtel|Neuchâtel]] <td> NE <td> SZ12 <td> CH024
+<tr align=center> <td align=left> [[Candone de Jura|Jura]] <td> JU <td> SZ26<td> CH025
+<tr align=center> <td align=left> [[Candone de Lucerne|Lucerne]] <td> LU <td> SZ11 <td> CH061
+<tr align=center> <td align=left> [[Candone de Neuchâtel|Neuchâtel]] <td> NE <td> SZ12 <td> CH024
 <tr align=center> <td align=left> [[Nidwalden]] <td> NW <td> SZ13<td> CH065
 <tr align=center> <td align=left> [[Obwalden]] <td> OW <td> SZ14<td> CH064
-<tr align=center> <td align=left> [[Canton of St. Gallen|St. Gallen]] <td> SG <td> SZ15<td> CH055
-<tr align=center> <td align=left> [[Canton of Schaffhausen|Schaffhausen]] <td> SH <td> SZ16<td> CH052
-<tr align=center> <td align=left> [[Canton of Solothurn|Solothurn]] <td> SO <td> SZ18<td> CH023
-<tr align=center> <td align=left> [[Canton of Schwyz|Schwyz]] <td> SZ <td> SZ17<td> CH063
+<tr align=center> <td align=left> [[Candone de St. Gallen|St. Gallen]] <td> SG <td> SZ15<td> CH055
+<tr align=center> <td align=left> [[Candone de Schaffhausen|Schaffhausen]] <td> SH <td> SZ16<td> CH052
+<tr align=center> <td align=left> [[Candone de Solothurn|Solothurn]] <td> SO <td> SZ18<td> CH023
+<tr align=center> <td align=left> [[Candone de Schwyz|Schwyz]] <td> SZ <td> SZ17<td> CH063
 <tr align=center> <td align=left> [[Thurgau]] <td> TG <td> SZ19<td> CH057
 <tr align=center> <td align=left> [[Ticino]] <td> TI <td> SZ20<td> CH07&nbsp;&nbsp;
-<tr align=center> <td align=left> [[Canton of Uri|Uri]] <td> UR <td> SZ21<td> CH062
+<tr align=center> <td align=left> [[Candone de Uri|Uri]] <td> UR <td> SZ21<td> CH062
 <tr align=center> <td align=left> [[Vaud]] <td> VD <td> SZ23<td> CH011
 <tr align=center> <td align=left> [[Valais]] <td> VS <td> SZ22<td> CH012
-<tr align=center> <td align=left> [[Canton of Zug|Zug]] <td> ZG <td> SZ24<td> CH066
-<tr align=center> <td align=left> [[Canton of Zurich|Zurich]] <td> ZH <td> SZ25<td> CH04&nbsp;&nbsp;
+<tr align=center> <td align=left> [[Candone de Zug|Zug]] <td> ZG <td> SZ24<td> CH066
+<tr align=center> <td align=left> [[Candone de Zurich|Zurich]] <td> ZH <td> SZ25<td> CH04&nbsp;&nbsp;
 </table>
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Candune d'a Svizzera]]
 
-==Municipalities==
-See [[Community Identification Number#Switzerland]]
-
-==Localities==
-See [[Postal codes in Switzerland and Liechtenstein]]
-
-==Airports==
-See 
-*[[List of airports by ICAO code: L#LS - Switzerland]]
-*[[List of airports in Switzerland]]
-
-[[Category:Switzerland-related lists]]
+[[Category:Sciugrafije d'a Svizzera]]
 
 [[als:ISO 3166-2:CH]]
 [[cs:ISO 3166-2:CH]]
