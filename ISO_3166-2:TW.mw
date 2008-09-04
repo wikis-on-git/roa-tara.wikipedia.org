@@ -1,183 +1,177 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:TW'''
-is an [[International Organization for Standardization| ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-"[[Taiwan, Province of China]]".
-It covers the current jurisdiction of the [[Republic of China]] except the counties of [[Quemoy|Kinmen]] and [[Matsu Islands|Lienchiang]], which are historically and administratively part of [[Fujian]]. The designation "Taiwan, Province of China" has been made with pressure from the [[People's Republic of China]] over the [[political status of Taiwan]]. Another confusing problem is that [[ISO 3166-2:CN]] (for China) includes a code for "Taiwan" at <tt>CN-71</tt>.
 
-Each two-part code consists of the [[ISO 3166-1]] code for 
-Taiwan ('''TW''')
-and a 3-character-alphabetic sub-code, hyphenated together.
+'''ISO 3166-2:TW''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Taiwan]]
 
-==Newsletters ==
+== Newsletters ==
 * [[ISO 3166-2:2002-12-10]]
 
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! TW-CHA
-| [[Changhua County]]
+| [[Provinge de Changhua]]
 |-
 ! TW-CYI
-| [[Chiayi City]]
+| [[Cetate de Chiayi]]
 |-
 ! TW-CYQ
-| [[Chiayi County]]
+| [[Provinge de Chiayi]]
 |-
 ! TW-HSQ
-| [[Hsinchu County]]
+| [[Provinge de Hsinchu]]
 |-
 ! TW-HSZ
-| [[Hsinchu City]]
+| [[Cetate deHsinchu]]
 |-
 ! TW-HUA
-| [[Hualien County]]
+| [[Provinge de Hualien]]
 |-
 ! TW-ILA
-| [[Ilan County]]
+| [[Provinge de Ilan]]
 |-
 ! TW-KEE
-| [[Keelung City]]
+| [[Cetate de Keelung]]
 |-
 ! TW-KHH
-| [[Kaohsiung City]] †
+| [[Cetate de Kaohsiung]] †
 |-
 ! TW-KHQ
-| [[Kaohsiung County]]
+| [[Provinge de Kaohsiung]]
 |-
 ! TW-MIA
-| [[Miaoli County]]
+| [[Provinge de Miaoli]]
 |-
 ! TW-NAN
-| [[Nantou County]]
+| [[Provinge de Nantou]]
 |-
 ! TW-PEN
-| [[Penghu County]]
+| [[Provinge de Penghu]]
 |-
 ! TW-PIF
-| [[Pingtung County]]
+| [[Provinge de Pingtung]]
 |-
 ! TW-TAO
-| [[Taoyuan County]]
+| [[Provinge de Taoyuan]]
 |-
 ! TW-TNN
-| [[Tainan City]]
+| [[Cetate de Tainan]]
 |-
 ! TW-TNQ
-| [[Tainan County]]
+| [[Provinge de Tainan]]
 |-
 ! TW-TPE
-| [[Taipei City]] †
+| [[Cetate de Taipei]] †
 |-
 ! TW-TPQ
-| [[Taipei County]]
+| [[Provinge de Taipei]]
 |-
 ! TW-TTT
-| [[Taitung County]]
+| [[Provinge de Taitung]]
 |-
 ! TW-TXG
-| [[Taichung City]]
+| [[Cetate de Taichung]]
 |-
 ! TW-TXQ
-| [[Taichung County]]
+| [[Provinge de Taichung]]
 |-
 ! TW-YUN
-| [[Yunlin County]]
+| [[Provinge de Yunlin]]
 |}
 |
 {| align="right"
-|+ Sorted by Name
+|+ Arrengàte pe nome
 |-
-! colspan="2" style="background-color:silver;" | Districts
+! colspan="2" style="background-color:silver;" | Destritte
 |-
 ! TW-CHA
-| [[Changhua County|Changhua ]]
+| [[Provinge de Changhua|Changhua ]]
 |-
 ! TW-CYQ
-| [[Chiayi County|Chiayi ]]
+| [[Provinge de Chiayi|Chiayi ]]
 |-
 ! TW-HSQ
-| [[Hsinchu County|Hsinchu ]]
+| [[Provinge de Hsinchu|Hsinchu ]]
 |-
 ! TW-HUA
-| [[Hualien County|Hualien ]]
+| [[Provinge de Hualien County|Hualien ]]
 |-
 ! TW-ILA
-| [[Ilan County|Ilan ]]
+| [[Provinge de Ilan|Ilan ]]
 |-
 ! TW-KHQ
-| [[Kaohsiung County|Kaohsiung ]]
+| [[Provinge de Kaohsiung|Kaohsiung ]]
 |-
 ! TW-MIA
-| [[Miaoli County|Miaoli ]]
+| [[Provinge de Miaoli|Miaoli ]]
 |-
 ! TW-NAN
-| [[Nantou County|Nantou ]]
+| [[Provinge de Nantou|Nantou ]]
 |-
 ! TW-PEN
-| [[Penghu County|Penghu ]]
+| [[Provinge de Penghu|Penghu ]]
 |-
 ! TW-PIF
-| [[Pingtung County|Pingtung ]]
+| [[Provinge de Pingtung|Pingtung ]]
 |-
 ! TW-TXQ
-| [[Taichung County|Taichung ]]
+| [[Provinge de Taichung|Taichung ]]
 |-
 ! TW-TNQ
-| [[Tainan County|Tainan ]]
+| [[Provinge de Tainan|Tainan ]]
 |-
 ! TW-TPQ
-| [[Taipei County|Taipei ]]
+| [[Provinge de Taipei|Taipei ]]
 |-
 ! TW-TTT
-| [[Taitung County|Taitung ]]
+| [[Provinge de Taitung|Taitung ]]
 |-
 ! TW-TAO
-| [[Taoyuan County|Taoyuan ]]
+| [[Provinge de Taoyuan|Taoyuan ]]
 |-
 ! TW-YUN
-| [[Yunlin County|Yunlin ]]
+| [[Provinge de Yunlin|Yunlin ]]
 |-
-! colspan="2" style="background-color:silver;" | Municipalities
+! colspan="2" style="background-color:silver;" | Cetate
 |-
 ! TW-CYI
-| [[Chiayi City|Chiayi ]]
+| [[Cetate de Chiayi|Chiayi ]]
 |-
 ! TW-HSZ
-| [[Hsinchu City|Hsinchu ]]
+| [[Cetate de Hsinchu|Hsinchu ]]
 |-
 ! TW-KEE
-| [[Keelung City|Keelung ]]
+| [[Cetate de Keelung|Keelung ]]
 |-
 ! TW-TXG
-| [[Taichung City|Taichung ]]
+| [[Cetate de Taichung|Taichung ]]
 |-
 ! TW-TNN
-| [[Tainan City|Tainan ]]
+| [[Cetate de Tainan|Tainan ]]
 |-
-! colspan="2" style="background-color:silver;" | Special municipalities †
+! colspan="2" style="background-color:silver;" | Cetate Speciale †
 |-
 ! TW-KHH
-| [[Kaohsiung City|Kaohsiung ]]
+| [[Cetate de Kaohsiung|Kaohsiung ]]
 |-
 ! TW-TPE
-| [[Taipei City|Taipei ]]
+| [[Cetate de Taipei|Taipei ]]
 |}
 |-
 |}
 
-† These are [[Municipality of China|centrally-administered municipalities]] not actually part of the [[Taiwan Province|ROC's Province of Taiwan]]. Since they were elevated after 1949 by the [[Kuomintang]], the PRC considers them still to be part of the Province. They are nevertheless distinguished from the [[provincial city|provincial municipalities]] of Taiwan.
+† Stonne [[Cetate d'a Cina|cetate amministrate cendralmende]] ca non ge fanne parte de le [[Provinge de Taiwan]].
 
-==See also==
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
-*[[Administrative divisions of the Republic of China]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Divisiune amministrative d'a Repubbleche Popolare d'a Cina]]
 
-[[Category:Geography of Taiwan]]
+[[Category:Sciugrafije de Taiwan]]
 [[Category:ISO 3166|2:TW]]
 
 [[cs:ISO 3166-2:TW]]
