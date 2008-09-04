@@ -1,30 +1,25 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:ZA'''
-is an [[ISO]] standard which defines [[geocode]]s: it is the subset of [[ISO 3166-2]] which applies to
-[[South Africa]].
-It covers 9 provinces.
+'''ISO 3166-2:ZA''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a 'u [[Sudafrica]]
 
-Each two-part code consists of the [[ISO 3166-1 alpha-2]] code for 
-South Africa ('''ZA''')
-and a 2-character-alphabetic subcode, hyphenated together.
+Cuprisce le 9 provinge.
 
-==Newsletters==
+== Newsletters ==
 * [[ISO 3166-2:2004-03-08]]
 * [[ISO 3166-2:2007-11-28]]
 
-==Codes ==
+== Liste de le codece ==
 {| width="100%" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |
 {| align="left"
-|+ Sorted by Code
+|+ Arrengàte pe codece
 |-
 ! <code>ZA-EC</code>
-| [[Eastern Cape]] (Oos-Kaap)
+| [[Oos-Kaap]]
 |-
 ! <code>ZA-FS</code>
-| [[Free State]] (Vrystaat)
+| [[Vrystaat]]
 |-
 ! <code>ZA-GT</code>
 | [[Gauteng]]
@@ -39,20 +34,22 @@ and a 2-character-alphabetic subcode, hyphenated together.
 | [[Mpumalanga]]
 |-
 ! <code>ZA-NC</code>
-| [[Northern Cape]] (Noord-Kaap)
+| [[Noord-Kaap]]
 |-
 ! <code>ZA-NW</code>
 | [[North West (South African province)|North-West]] (Noord-Wes)
 |-
 ! <code>ZA-WC</code>
-| [[Western Cape]] (Wes-Kaap)
+| [[Wes-Kaap]]
 |}
 |}
 
-==See also==
-*[[Provinces of South Africa]]
-*[[ISO 3166-2]], the reference table for all country region codes.
-*[[ISO 3166-1]], the reference table for all country codes, as used for domain names on the [[Internet]].
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Provinge d'u Sudafrica]]
+
+[[Category:Sciugrafije d'u Sudafrica]]
 [[Category:ISO 3166|2:ZA]]
 
 [[cs:ISO 3166-2:ZA]]
