@@ -1,20 +1,21 @@
 {{torna a|ISO 3166-1}}
-The part of '''[[ISO]] [[ISO 3166-2|3166-2]]''' that applies to [[Hungary]] provides [[code]]s for the names of the [[counties of Hungary]] and for the bigger cities.
+
+'''ISO 3166-2:HU''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a l'[[Ungheria]]. 
 
 __NOTOC__
 
 {| width="95%"
 |style="vertical-align:top"|
 
-== Codes ==
+== Liste de le codece ==
 {| class="wikitable"
-! Code !! Area
+! Codece !! Area
 |-
-| HU-BA || [[Baranya (county)|Baranya]]
+| HU-BA || [[Provinge de Baranya|Baranya]]
 |-
 | HU-BC || [[Békéscsaba]]
 |-
-| HU-BE || [[Békés (county)|Békés]]
+| HU-BE || [[Provinge de Békés|Békés]]
 |-
 | HU-BK || [[Bács-Kiskun]]
 |-
@@ -22,7 +23,7 @@ __NOTOC__
 |-
 | HU-BZ || [[Borsod-Abaúj-Zemplén]]
 |-
-| HU-CS || [[Csongrád (county)|Csongrád]]
+| HU-CS || [[Provinge de Csongrád|Csongrád]]
 |-
 | HU-DE || [[Debrecen]]
 |-
@@ -38,7 +39,7 @@ __NOTOC__
 |-
 | HU-HB || [[Hajdú-Bihar]]
 |-
-| HU-HE || [[Heves (county)|Heves]]
+| HU-HE || [[Provinge de Heves|Heves]]
 |-
 | HU-HV || [[Hódmezővásárhely]]
 |-
@@ -54,11 +55,11 @@ __NOTOC__
 |-
 | HU-NK || [[Nagykanizsa]]
 |-
-| HU-NO || [[Nógrád (county)|Nógrád]]
+| HU-NO || [[Provinge de Nógrád|Nógrád]]
 |-
 | HU-NY || [[Nyíregyháza]]
 |-
-| HU-PE || [[Pest (county)|Pest]]
+| HU-PE || [[Provinge de Pest|Pest]]
 |-
 | HU-PS || [[Pécs]]
 |-
@@ -82,33 +83,33 @@ __NOTOC__
 |-
 | HU-TB || [[Tatabánya]]
 |-
-| HU-TO || [[Tolna (county)|Tolna]]
+| HU-TO || [[Provinge de Tolna|Tolna]]
 |-
 | HU-VA || [[Vas]]
 |-
-| HU-VE || [[Veszprém (county)|Veszprém]]
+| HU-VE || [[Provinge de Veszprém|Veszprém]]
 |-
 | HU-VM || [[Veszprém]]
 |-
-| HU-ZA || [[Zala (county)|Zala]]
+| HU-ZA || [[Provinge de Zala|Zala]]
 |-
 | HU-ZE || [[Zalaegerszeg]]
 |}
 |style="vertical-align:top"|
 
-== Counties ==
+== Provinge ==
 {| class="wikitable"
-! County				!! Code
+! Provinge				!! Codece
 |-
 | [[Bács-Kiskun]] 		|| HU-BK
 |-
-| [[Baranya (county)|Baranya]] 			|| HU-BA
+| [[Provinge de Baranya|Baranya]] 			|| HU-BA
 |-
-| [[Békés (county)|Békés]] 			|| HU-BE
+| [[Provinge de Békés|Békés]] 			|| HU-BE
 |-
 | [[Borsod-Abaúj-Zemplén]] 	|| HU-BZ
 |-
-| [[Csongrád (county)|Csongrád]] 			|| HU-CS
+| [[Provinge de Csongrád|Csongrád]] 			|| HU-CS
 |-
 | [[Fejér]] 			|| HU-FE
 |-
@@ -116,33 +117,33 @@ __NOTOC__
 |-
 | [[Hajdú-Bihar]] 		|| HU-HB
 |-
-| [[Heves (county)|Heves]] 			|| HU-HE
+| [[Provinge de Heves|Heves]] 			|| HU-HE
 |-
 | [[Jász-Nagykun-Szolnok]] 	|| HU-JN
 |-
 | [[Komárom-Esztergom]] 		|| HU-KE
 |-
-| [[Nógrád (county)|Nógrád]] 			|| HU-NO
+| [[Provinge de Nógrád|Nógrád]] 			|| HU-NO
 |-
-| [[Pest (county)|Pest]] 			|| HU-PE
+| [[Provinge de Pest|Pest]] 			|| HU-PE
 |-
 | [[Somogy]] 			|| HU-SO
 |-
 | [[Szabolcs-Szatmár-Bereg]] 	|| HU-SZ
 |-
-| [[Tolna (county)|Tolna]] 			|| HU-TO
+| [[Provinge de Tolna|Tolna]] 			|| HU-TO
 |-
 | [[Vas]]				|| HU-VA
 |-
-| [[Veszprém (county)|Veszprém]] 			|| HU-VE
+| [[Provinge de Veszprém|Veszprém]] 			|| HU-VE
 |-
 | [[Zala]] 			|| HU-ZA
 |}
 |style="vertical-align:top"|
 
-== Cities ==
+== Cetate ==
 {| class="wikitable"
-! City					!! Code
+! Cetate					!! Codece
 |-
 | [[Békéscsaba]] 			|| HU-BC
 |-
@@ -192,7 +193,12 @@ __NOTOC__
 |}
 |}
 
-[[Category:Subdivisions of Hungary]]
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+*[[Suddivisiune de l'Ungheria]]
+
+[[Category:Sciugrafije de l'Ungheria]]
 [[Category:ISO 3166|2:HU]]
 
 [[cs:ISO 3166-2:HU]]
