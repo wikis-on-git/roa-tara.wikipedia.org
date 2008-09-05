@@ -1,0 +1,323 @@
+Lo standard '''[[ISO]] 3166-1 numerico''' definisce la parte con codifica numerica dello standard [[ISO 3166-1]].
+
+I codici ''ISO 3166-1 numerico'' sono una codifica a tre cifre che rappresenta [[stato|stati]] e [[Elenco dei territori dipendenti|territori dipendenti]]. Sono pubblicati dall'[[ISO]] come parte dello standard [[ISO 3166]], e corrispondono ai codici paese a tre cifre sviluppati e mantenuti dalla [[United Nations Statistics Division]]. Furono introdotti per la prima volta come parte dello standard ISO 3166 nella sua seconda edizione del 1981.
+
+==Indipendenza dei segni (scrittura)==
+Un grande vantaggio dei codici numerici rispetto ai codici ISO 3166 basati su lettere è l'indipendenza dall'[[alfabeto]]; questo è ovviamente ottenuto al costo della facilità di memorizzazione.
+
+Il sistema a lettere utilizzato nell'ISO 3166 si basa sui caratteri dell'[[alfabeto latino]] utilizzati dai linguaggi dell'Europa occidentale. Per persone e sistemi che utilizzano alfabeti non latini - [[alfabeto arabo|arabo]], [[scrittura bengali|bengali]], [[caratteri cinesi tradizionali|cinese]], [[alfabeto cirillico|cirilloco]], [[devanagari]], [[alfabeto greco|greco]], [[hangŭl]], [[lingua giapponese|giapponese]] - i caratteri dell'alfabeto latino potrebbero essere non disponibili o difficili da utilizzare, comprendere o interpretare correttamente. I codici numerici permettono di superare questi problemi di dipendenza dal singolo alfabeto.
+
+==Assegnazione di nuovi codici numerici==
+L'introduzione di nuovi codici numerici riflette un cambiamento dei confini di un paese, non del suo nome. In caso di unione o separazione di paesi, vengono assegnati nuovi codici numerici ai paesi interessati. Per esempio:
+
+*La [[Germania Est]] (codice <tt>278</tt>) e la [[Germania Ovest]] (codice <tt>280</tt>) si uniscono nel 1990. Alla [[Germania]] unita viene assegnato da allora il codice <tt>276</tt>.
+
+*L'[[Eritrea]] (codice <tt>232</tt>) si separa dall'[[Etiopia]] (codice precedente <tt>230</tt>) nel 1993. All'Etiopia viene assegnato da allora il codice <tt>231</tt>.
+
+Se un paese cambia il suo nome senza alcun cambiamento territoriale, il codice numerico assegnatogli non cambia. Per esempio, quando la [[Birmania]] cambiò nome in Myanmar senza che vi fosse un mutamento dei confini, il suo codice numerico <tt>104</tt> rimase uguale.
+
+==Codici correnti==
+===Codici ufficialmente assegnati===
+Quella che segue è una lista completa dei codici numerici ISO 3166-1 ufficialmente assegnati, dove i nomi dei paesi sono la versione breve in [[lingua inglese]] dei nomi utilizzati ufficialmente dalla ISO 3166 Maintenance Agency (ISO 3166/MA):
+
+ 004 [[Afghanistan]]
+ 008 [[Albania]]
+ 010 [[Antartide|Antarctica]]
+ 012 [[Algeria]]
+ 016 [[Samoa Americane|American Samoa]]
+ 020 [[Andorra]]
+ 024 [[Angola]]
+ 028 [[Antigua e Barbuda|Antigua and Barbuda]]
+ 031 [[Azerbaigian|Azerbaijan]]
+ 032 [[Argentina]]
+ 036 [[Australia]]
+ 040 [[Austria]]
+ 044 [[Bahamas]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 048 [[Bahrain]]
+ 050 [[Bangladesh]]
+ 051 [[Armenia]]
+ 052 [[Barbados]]
+ 056 [[Belgio|Belgium]]
+ 060 [[Bermuda]]
+ 064 [[Bhutan]]
+ 068 [[Bolivia]]
+ 070 [[Bosnia-Erzegovina|Bosnia and Herzegovina]]
+ 072 [[Botswana]]
+ 074 [[Isola Bouvet|Bouvet Island]]
+ 076 [[Brasile|Brazil]]
+ 084 [[Belize]]
+ 086 [[Territorio Britannico dell'Oceano Indiano|British Indian Ocean Territory]]
+ 090 [[Isole Salomone|Solomon Islands]]
+ 092 [[Isole Vergini britanniche|Virgin Islands, British]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 096 [[Brunei|Brunei Darussalam]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 100 [[Bulgaria]]
+ 104 [[Birmania|Myanmar]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 108 [[Burundi]]
+ 112 [[Bielorussia|Belarus]]
+ 116 [[Cambogia|Cambodia]]
+ 120 [[Camerun|Cameroon]]
+ 124 [[Canada]]
+ 132 [[Capo Verde|Cape Verde]]
+ 136 [[Isole Cayman|Cayman Islands]]
+ 140 [[Repubblica Centrafricana|Central African Republic]]
+ 144 [[Sri Lanka]]
+ 148 [[Ciad|Chad]]
+ 152 [[Cile|Chile]]
+ 156 [[Cina|China]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 158 [[Repubblica di Cina|Taiwan, Province of China]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 162 [[Isola di Natale|Christmas Island]]
+ 166 [[Isole Cocos|Cocos (Keeling) Islands]]
+ 170 [[Colombia]]
+ 174 [[Comore|Comoros]]
+ 175 [[Mayotte]]
+ 178 [[Repubblica del Congo|Congo]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 180 [[Repubblica Democratica del Congo|Congo, the Democratic Republic of the]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 184 [[Isole Cook|Cook Islands]]
+ 188 [[Costa Rica]]
+ 191 [[Croazia|Croatia]]
+ 192 [[Cuba]]
+ 196 [[Cipro|Cyprus]]
+ 203 [[Repubblica Ceca|Czech Republic]]
+ 204 [[Benin]]
+ 208 [[Danimarca|Denmark]]
+ 212 [[Dominica]]
+ 214 [[Repubblica Dominicana|Dominican Republic]]
+ 218 [[Ecuador]]
+ 222 [[El Salvador]]
+ 226 [[Guinea Equatoriale|Equatorial Guinea]]
+ 231 [[Etiopia|Ethiopia]]
+ 232 [[Eritrea]]
+ 233 [[Estonia]]
+ 234 [[Isole Fær Øer|Faroe Islands]]
+ 238 [[Isole Falkland|Falkland Islands (Malvinas)]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 239 [[Georgia del Sud e isole Sandwich meridionali|South Georgia and the South Sandwich Islands]]
+ 242 [[Figi|Fiji]]
+ 246 [[Finlandia|Finland]]
+ 248 [[Isole Åland|Åland Islands]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 250 [[Francia|France]]
+ 254 [[Guyana francese|French Guiana]]
+ 258 [[Polinesia francese|French Polynesia]]
+ 260 [[Terre Australi e Antartiche Francesi|French Southern Territories]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 262 [[Gibuti|Djibouti]]
+ 266 [[Gabon]]
+ 268 [[Georgia]]
+ 270 [[Gambia]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 275 [[Palestina|Palestinian Territory, Occupied]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 276 [[Germania|Germany]]
+ 288 [[Ghana]]
+ 292 [[Gibilterra|Gibraltar]]
+ 296 [[Kiribati]]
+ 300 [[Grecia|Greece]]
+ 304 [[Groenlandia|Greenland]]
+ 308 [[Grenada]]
+ 312 [[Guadalupa|Guadeloupe]]
+ 316 [[Guam]]
+ 320 [[Guatemala]]
+ 324 [[Guinea]]
+ 328 [[Guyana]]
+ 332 [[Haiti]]
+ 334 [[Isole Heard e McDonald|Heard Island and McDonald Islands]]
+ 336 [[Città del Vaticano|Holy See (Vatican City State)]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 340 [[Honduras]]
+ 344 [[Hong Kong]]
+ 348 [[Ungheria|Hungary]]
+ 352 [[Islanda|Iceland]]
+ 356 [[India]]
+ 360 [[Indonesia]]
+ 364 [[Iran|Iran, Islamic Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 368 [[Iraq]]
+ 372 [[Irlanda|Ireland]]
+ 376 [[Israele|Israel]]
+ 380 [[Italia|Italy]]
+ 384 [[Costa d'Avorio|Côte d'Ivoire]]
+ 388 [[Giamaica|Jamaica]]
+ 392 [[Giappone|Japan]]
+ 398 [[Kazakistan|Kazakhstan]]
+ 400 [[Giordania|Jordan]]
+ 404 [[Kenya]]
+ 408 [[Corea del Nord|Korea, Democratic People's Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 410 [[Corea del Sud|Korea, Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 414 [[Kuwait]]
+ 417 [[Kyrgyzstan]]
+ 418 [[Laos|Lao People's Democratic Republic]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 422 [[Libano|Lebanon]]
+ 426 [[Lesotho]]
+ 428 [[Lettonia|Latvia]]
+ 430 [[Liberia]]
+ 434 [[Libia|Libyan Arab Jamahiriya]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 438 [[Liechtenstein]]
+ 440 [[Lituania|Lithuania]]
+ 442 [[Lussemburgo|Luxembourg]]
+ 446 [[Macao]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 450 [[Madagascar]]
+ 454 [[Malawi]]
+ 458 [[Malesia|Malaysia]]
+ 462 [[Maldive]]s
+ 466 [[Mali]]
+ 470 [[Malta]]
+ 474 [[Martinica|Martinique]]
+ 478 [[Mauritania]]
+ 480 [[Mauritius]]
+ 484 [[Messico|Mexico]]
+ 492 [[Principato di Monaco|Monaco]]
+ 496 [[Mongolia]]
+ 498 [[Moldavia|Moldova, Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 499 [[Montenegro]]
+ 500 [[Montserrat (isola)|Montserrat]]
+ 504 [[Marocco|Morocco]]
+ 508 [[Mozambico|Mozambique]]
+ 512 [[Oman]]
+ 516 [[Namibia]]
+ 520 [[Nauru]]
+ 524 [[Nepal]]
+ 528 [[Paesi Bassi|Netherlands]]
+ 530 [[Antille olandesi|Netherlands Antilles]]
+ 533 [[Aruba]]
+ 540 [[Nuova Caledonia|New Caledonia]]
+ 548 [[Vanuatu]]
+ 554 [[Nuova Zelanda|New Zealand]]
+ 558 [[Nicaragua]]
+ 562 [[Niger]]
+ 566 [[Nigeria]]
+ 570 [[Niue]]
+ 574 [[Isola Norfolk|Norfolk Island]]
+ 578 [[Norvegia|Norway]]
+ 580 [[Isole Marianne Settentrionali|Northern Mariana Islands]]
+ 581 [[Isole minori esterne degli Stati Uniti|United States Minor Outlying Islands]]
+ 583 [[Stati Federati di Micronesia|Micronesia, Federated States of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 584 [[Isole Marshall|Marshall Islands]]
+ 585 [[Palau (stato)|Palau]]
+ 586 [[Pakistan]]
+ 591 [[Panamà|Panama]]
+ 598 [[Papua Nuova Guinea|Papua New Guinea]]
+ 600 [[Paraguay]]
+ 604 [[Perù|Peru]]
+ 608 [[Filippine|Philippines]]
+ 612 [[Isole Pitcairn|Pitcairn]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 616 [[Polonia|Poland]]
+ 620 [[Portogallo|Portugal]]
+ 624 [[Guinea-Bissau]]
+ 626 [[Timor Est|Timor-Leste]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 630 [[Porto Rico|Puerto Rico]]
+ 634 [[Qatar]]
+ 638 [[Isola della Riunione|Réunion]]
+ 642 [[Romania]]
+ 643 [[Russia|Russian Federation]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 646 [[Ruanda|Rwanda]]
+ 652 [[Saint-Barthélemy (Francia)|Saint Barthélemy]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 654 [[Sant'Elena (isola)|Saint Helena]]
+ 659 [[Saint Kitts e Nevis|Saint Kitts and Nevis]]
+ 660 [[Anguilla (isola)|Anguilla]]
+ 662 [[Santa Lucia (stato)|Saint Lucia]]
+ 663 [[Saint-Martin (Francia)|Saint Martin (French part)]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 666 [[Saint-Pierre e Miquelon|Saint Pierre and Miquelon]]
+ 670 [[Saint Vincent e Grenadine|Saint Vincent and the Grenadines]]
+ 674 [[San Marino]]
+ 678 [[São Tomé e Príncipe|Sao Tome and Principe]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 682 [[Arabia Saudita|Saudi Arabia]]
+ 686 [[Senegal]]
+ 688 [[Serbia]]
+ 690 [[Seychelles]]
+ 694 [[Sierra Leone]]
+ 702 [[Singapore]]
+ 703 [[Slovacchia|Slovakia]]
+ 704 [[Vietnam|Viet Nam]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 705 [[Slovenia]]
+ 706 [[Somalia]]
+ 710 [[Sudafrica|South Africa]]
+ 716 [[Zimbabwe]]
+ 724 [[Spagna|Spain]]
+ 732 [[Sahara Occidentale|Western Sahara]]
+ 736 [[Sudan]]
+ 740 [[Suriname]]
+ 744 [[Svalbard e Jan Mayen|Svalbard and Jan Mayen]]
+ 748 [[Swaziland]]
+ 752 [[Svezia|Sweden]]
+ 756 [[Svizzera|Switzerland]]
+ 760 [[Siria|Syrian Arab Republic]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 762 [[Tagikistan|Tajikistan]]
+ 764 [[Thailandia|Thailand]]
+ 768 [[Togo]]
+ 772 [[Tokelau]]
+ 776 [[Tonga]]
+ 780 [[Trinidad e Tobago|Trinidad and Tobago]]
+ 784 [[Emirati Arabi Uniti|United Arab Emirates]]
+ 788 [[Tunisia]]
+ 792 [[Turchia|Turkey]]
+ 795 [[Turkmenistan]]
+ 796 [[Turks e Caicos|Turks and Caicos Islands]]
+ 798 [[Tuvalu]]
+ 800 [[Uganda]]
+ 804 [[Ucraina|Ukraine]]
+ 807 [[Repubblica di Macedonia|Macedonia, the former Yugoslav Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 818 [[Egitto|Egypt]]
+ 826 [[Regno Unito|United Kingdom]]
+ 831 [[Guernsey]]
+ 832 [[Jersey]]
+ 833 [[Isola di Man|Isle of Man]]
+ 834 [[Tanzania|Tanzania, United Republic of]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 840 [[Stati Uniti d'America|United States]]
+ 850 [[Isole Vergini americane|Virgin Islands, U.S.]]<!--Nome ufficiale utilizzato dall'ISO 3166/MA-->
+ 854 [[Burkina Faso]]
+ 858 [[Uruguay]]
+ 860 [[Uzbekistan]]
+ 862 [[Venezuela]]
+ 876 [[Wallis e Futuna|Wallis and Futuna]]
+ 882 [[Samoa]]
+ 887 [[Yemen]]
+ 894 [[Zambia]]
+
+===Codici assegnati dall'utente===
+I codici numerici da <tt>900</tt> a <tt>999</tt> possono essere assegnati dall'utente. Questi codici sono a disposizione di utenti che abbiano necessità di aggiungere ulteriori nomi di stati, territori o altre entità geografiche alle proprie applicazioni personali dell'ISO 3166-1, e l'ISO 3166/MA si impegna a non utilizzare mai, in futuro, questi codici nell'aggoirnamento degli standard.
+
+==Codici ritirati==
+Questi codici numerici sono stati ritirati, a partire dalla prima edizione dell'ISO 3166 nel 1974 (si noti che l'ISO 3166-1 numerico non ha codici riservati): 
+
+ 080 [[Territorio Antartico Britannico|British Antarctic Territory]]
+ 128 [[Sporadi equatoriali|Canton and Enderbury Islands]]
+ 200 [[Cecoslovacchia|Czechoslovakia]]
+ 216 [[Terra della regina Maud|Dronning Maud Land]]
+ 230 [[Etiopia|Ethiopia]] (before [[Eritrea]] broke away)
+ 249 [[Francia metropolitana|France, Metropolitan]]
+ 278 [[Germania Est|German Democratic Republic]]
+ 280 [[Germania Ovest|Germany, Federal Republic of]] (West Germany)
+ 396 [[Atollo Johnston|Johnston Island]]
+ 488 [[Atollo di Midway|Midway Islands]]
+ 532 [[Antille olandesi|Netherlands Antilles]] (prima della separazione di [[Aruba]])
+ 536 [[Saudi-Iraqi neutral zone|Neutral Zone]]
+ 582 [[Trust Territory of the Pacific Islands|Pacific Islands, Trust Territory of the]]
+ 590 [[Panamà]] (prima dell'unione con la [[Zona del Canale]])
+ 594 [[Zona del Canale|Panama Canal Zone]]
+ 658 [[Saint Christopher-Nevis-Anguilla|Saint Kitts-Nevis-Anguilla]]
+ 698 [[Sikkim]]
+ 714 [[Vietnam del Sud|Viet-Nam, Republic of]] (South Vietnam)
+ 720 [[Yemen del Sud|Yemen, Democratic]] (South Yemen)
+ 810 [[Unione Sovietica|U.S.S.R.]]
+ 849 [[United States Miscellaneous Pacific Islands|U.S. Miscellaneous Pacific Islands]]
+ 872 [[Isola di Wake|Wake Island]]
+ 886 [[Repubblica Araba dello Yemen|Yemen Arab Republic]] (North Yemen)
+ 890 [[Repubblica Socialista Federale di Jugoslavia|Yugoslavia, Socialist Federal Republic of]]
+ 891 [[Serbia e Montenegro|Serbia and Montenegro]] ([[Repubblica Federale di Jugoslavia|Yugoslavia, Federal Republic of]])
+
+==Voci correlate==
+* [[ISO 3166]]
+* [[ISO 3166-1]]
+* [[ISO 3166-1 alpha-2]], codici paese a due lettere
+* [[ISO 3166-1 alpha-3]], codici paese a tre lettere
+* [[ISO 3166-2]]
+* [[ISO 3166-3]]
+
+==Fonti e collegamenti esterni==
+*International Organization for Standardization (ISO): [http://www.iso.org/iso/country_codes.htm ISO 3166 Maintenance Agency]
+*United Nations Statistics Division, [http://unstats.un.org/unsd/methods/m49/m49.htm ''Standard Country or Area Codes for Statistical Use'']
+**[http://unstats.un.org/unsd/methods/m49/m49alpha.htm Countries or areas, codes and abbreviations]
+**[http://unstats.un.org/unsd/methods/m49/m49chang.htm Country or area numerical codes added or changed since 1982]
+*CIA World Factbook, [https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html ''Appendix D &ndash; Cross-Reference List of Country Data Codes''] (public domain)
+*Statoids, [http://www.statoids.com/wab.html Country codes]
+**[http://www.statoids.com/w3166his.html ISO 3166-1 Change History]
+*[http://www.davros.org/misc/iso3166.html Country codes in ISO 3166 (outdated, include withdrawn codes)]
+
+[[Category:Stàndàrd ISO]]
+[[Category:Liste di codici nazionali]]
+
+[[en:ISO 3166-1 numeric]]
