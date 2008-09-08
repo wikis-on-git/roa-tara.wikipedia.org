@@ -7,14 +7,15 @@ Le codece ''ISO 3166-1 numereche'' sonde 'na codifeche a ttre numere ca rapprese
 
 'U sisteme a lettere ausete jndr'à l'ISO 3166 se base sus a le carattere de l'[[alfabbeto latino]] ausete da le lènghe de l'Europa occindedele. Pe cristiàne e sisteme ca ausene alfabbete non latini - [[alfabbeto arabo|arabo]], [[scritture bengali|bengali]], [[carattere cenise tradiziunele|cenese]], [[alfabbeto cirilliche|cirilloche]], [[devanagari]], [[alfabbeto greco|greco]], [[hangŭl]], [[lènga giappunese|giappunese]] - le carattere de l'alfabbeto latino ponne essere non ausabele o defficile da ausà, combrennere o 'nderpretà jndr'à 'u mode satte-satte. Le codece numerece donne 'a possbilità de superaje ste probleme de depennenze da 'u singhele alfabbete.
 
-==Assegnazione di nuovi codici numerici==
-L'introduzione di nuovi codici numerici riflette un cambiamento dei confini di un paese, non del suo nome. In caso di unione o separazione di paesi, vengono assegnati nuovi codici numerici ai paesi interessati. Per esempio:
+== Assegnazione de le codece numerece nueve ==
+L'introduzione de le codece numerece nueve reflette 'nu camgiaminde de le confine de 'nu paise, non d'u nome suje. Ce capete ca s'auniscene o se separescene le paise, avènene assignete codece numerece nueve a le paise 'nderessete.
+Pe esembie:
 
-*La [[Germania Est]] (codice <tt>278</tt>) e la [[Germania Ovest]] (codice <tt>280</tt>) si uniscono nel 1990. Alla [[Germania]] unita viene assegnato da allora il codice <tt>276</tt>.
+*'A [[Germania Est]] (codece <tt>278</tt>) e 'a [[Germania Ovest]] (codece <tt>280</tt>) s'onne aunìte jndr'à 'u 1990. A [[Germania]] aunìte avène assignete nu codece nueve ca jè: <tt>276</tt>.
 
-*L'[[Eritrea]] (codice <tt>232</tt>) si separa dall'[[Etiopia]] (codice precedente <tt>230</tt>) nel 1993. All'Etiopia viene assegnato da allora il codice <tt>231</tt>.
+*L'[[Eritrea]] (codece <tt>232</tt>) se separesce da l'[[Etiopia]] (codece dapprime <tt>230</tt>) jndr'à 'u 1993. All'Etiopia avène assignete 'nu codece nueve ca ète: <tt>231</tt>.
 
-Se un paese cambia il suo nome senza alcun cambiamento territoriale, il codice numerico assegnatogli non cambia. Per esempio, quando la [[Birmania]] cambiò nome in Myanmar senza che vi fosse un mutamento dei confini, il suo codice numerico <tt>104</tt> rimase uguale.
+Ce 'nu paise cange 'u nome senza ca cange pure 'u territorie, 'u codece numereche ca tenève non ge camge. Pe esembie, quanne 'a [[Birmania]] ha cangete 'u nome in '''Myanmar''' senza ca ha state 'nu cangiaminde de le confine, 'u codece numereche <tt>104</tt> ha restete uguale.
 
 ==Codici correnti==
 ===Codici ufficialmente assegnati===
