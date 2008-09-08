@@ -260,35 +260,40 @@ Le codece ca vonne da <tt>AAA</tt> a <tt>AAZ</tt>, e 'mbrà <tt>QMA</tt> e <tt>Q
 Vide bbuene ca <tt>OOO</tt> jè ausete cumme 'nu codece de ''escape''.
 
 === Lista dei codici riservati ===
-I codici riservati, sono codici che pur non facendo parte dei codici ISO 3166-1, sono utilizzati in alcune applicazioni in congiunzione ad essi. L'ISO 3166 MA li riserva, in modo che non vengano usati in codici ISO 3166 ufficiali, creando così conflitti tra lo standard e le sue applicazioni. La lista dei codici alpha-3 riservati attualmente è la seguente:
+Le codece reservate, sonde codece ca pure ca non ge fanne parte de le codece ISO 3166-1, avènene ausate jndr'à certe applicaziune apprisse a loro. L'ISO 3166 MA le reserve, accussì non g'avènene ausate jndr'à codece ISO 3166 uffisciele, creanne accussì uerre tra 'u stàndàrd e le applicaziune suje. 'A liste de le codece alpha-3 reservete osce a die jè 'a seguente:
 
-==== Riservazioni eccezionali ====
-Le riservazioni eccezionali dei codici alpha-3, sono riservazioni permanenti perché utilizzate per scopi particolari. L'ISO 3166 MA autorizza il loro uso solo per gli scopi particolari per cui sono state creati. Le riservazioni eccezionali sono:
+==== Reservaziune eccezziunele ====
+Le reservaziune eccezziunele de le codece alpha-3, sonde reservaziune permanende purcè ausate pe mutive particolere. L'ISO 3166 MA autorizze l'ausaminde lore sole pe le mutive particolere pe le quale onne state ccrjete. Le reservaziune eccezziunele sonde:
 
-* <tt>ASC</tt> - [[Isola di Ascension]] - Riservato su richiesta dell'[[Unione Postale Universale|UPU]] e dell'[[ITU]]
-* <tt>CPT</tt> - [[Isola Clipperton]] - Riservato su richiesta dell'[[ITU]]
-* <tt>DGA</tt> - [[Diego Garcia]] - Riservato su richiesta dell'ITU
-* <tt>FXX</tt> - [[Francia]] Metropolitana - Riservato su richiesta della Francia
-* <tt>TAA</tt> - [[Tristan da Cunha]] - Riservato su richiesta dell'UPU
+* <tt>ASC</tt> - [[Isola di Ascension]] - Riservete sus 'a richieste de l'[[Aunione Postele 'Ndernaziunele|UPU]] (ausete pure cumme TLD)
+* <tt>CPT</tt> - [[Isola Clipperton]] - Riservete sus 'a richieste de l'[[ITU]]
+* <tt>DGA</tt> - [[Diego Garcia]] - Riservete sus 'a richieste de l'ITU
+* <tt>FXX</tt> - [[Frange]] Metropolitana - Riservete sus 'a richieste d'a Frange
+* <tt>TAA</tt> - [[Tristan da Cunha]] - Riservete sus 'a richieste de l'UPU
 
-Anche i seguenti codici erano riservati, fino all'aggiornamento del 29/03/2006 che li ha inclusi nell'elenco degli standard ufficiali:
-* <tt>GGY</tt> - [[Guernsey]] - Riservato su richiesta dell'UPU;
-* <tt>IMN</tt> - [[Isola di Man]] - Riservato su richiesta dell'UPU
-* <tt>JEY</tt> - [[Jersey]] - Riservato su richiesta dell'UPU
+Pure le seguendi codece erene state riservete, fine all'aggiornamende d'u 29/03/2006 ca l'ha mise jndr'à liste de le stàndàrd uffisciele:
+* <tt>GGY</tt> - [[Guernsey]] - Riservete sus 'a richieste de l'UPU;
+* <tt>IMN</tt> - [[Isola di Man]] - Riservete sus 'a richieste de l'UPU
+* <tt>JEY</tt> - [[Jersey]] - Riservete sus 'a richieste de l'UPU
 
-==== Riservazioni transitorie ====
-Una riservazione transitoria si riferisce a un codice precedentemente presente nell'ISO 3166, ma non ancora cancellato. Verrà mantenuto in tale stato per almeno cinque anni, di modo che gli utilizzatori che hanno ancora bisogno del vecchio codice abbiano il tempo per aggiornarsi a quello nuovo. Le riservazioni transitorie sono:
+==== Reservaziune de passagge ====
+'Na reservazione de passagge se referisce a 'nu codece ca apprime ere presende jndr'à l'ISO 3166, e ca non g'a state angore scangillete.
+Arremàne accussì pe almene cinge anne, accussì a ce ause 'u codece vicchje tène timbe cu s'aggiorne pe ausà quidde nueve.
+Le Reservaziune de passagge sonde:
+
 * <tt>BUR</tt> - Birmania (ora [[Myanmar]], <tt>MMR</tt>)
-* <tt>SCG</tt> - [[Serbia e Montenegro]] (ora separate, <tt>SRB</tt> per [[Serbia]] e <tt>MNE</tt> per [[Montenegro]])
-* <tt>NTZ</tt> - [[Zona Neutrale Iracheno-Saudita]] 
-* <tt>SUN</tt> - [[Unione Sovietica]] (URSS)
-* <tt>TMP</tt> - [[Timor Est]] (ora, <tt>TLS</tt>)
-* <tt>YUG</tt> - [[Repubblica Federale di Jugoslavia|Jugoslavia]]
-* <tt>ZAR</tt> - [[Zaire]] (ora [[Repubblica Democratica del Congo]], <tt>COD</tt>)
+* <tt>SCG</tt> - [[Serbia e Montenegro]] 
+* <tt>NTZ</tt> - [[Zona Neutrale Iracheno-Saudita]]
+* <tt>SUN</tt> - [[Unione delle Repubbliche Socialiste Sovietiche]] 
+* <tt>TMP</tt> - [[Timor Est]] (Mò, <tt>TL</tt>)
+* <tt>YUG</tt> - [[Repubbleche Federale d'a Jugoslavia|Jugoslavia]]
+* <tt>ZAR</tt> - [[Zaire]] (mò [[Repubblica Democratica del Congo]], <tt>COD</tt>)
 
-==== Riservazioni indeterminate ====
-Le riservazioni indeterminate dei codici alpha-2 sono codici usati per identificare i veicoli in base alle "Convenzioni per il traffico stradale delle Nazioni Unite" vigenti tra il [[1949]] e il [[1968]]. Questi codici differiscono da quelli usati nell'ISO 3166. L'ISO 3166 MA spera che questi codici vengano rimpiazzati dai codici ISO 3166-1; ma nel frattempo rimangono riservati per evitare conflitti tra l'ISO 3166-1 e le Convenzioni, e per facilitare le transizioni tra i codici delle Convenzioni e i codici ISO 3166-1.
-Le riservazioni indeterminate sono:
+==== Reservaziune ca non ge spiccene maje ====
+Le reservaziune ca non ge spiccene maje de le codece alpha-2 sonde codece ausete pe identificà le veicoli seconde le "Convenziune p'u traffiche stradele de le Naziune Aunìte" ausete 'mbrà 'u [[1949]] e 'u [[1968]].
+Ste codece sonde differende da chidde ausete jndr'à l'ISO 3166. L'ISO 3166 MA ste spere ca chiste codece avènene sostituite da le codece ISO 3166-1; però jndr'à 'u frattembe remànene pe evità conflitte 'mbrà ISO 3166-1 e le Convenziune, e pe facilitaje 'u passagge tra le codece de le Convenziune e le codece ISO 3166-1.
+Le reservaziune ca non ge spiccene maje sonde:
+
 * <tt>ADN</tt> – [[Aden]]
 * <tt>BDS</tt> – [[Barbados]]
 * <tt>BRU</tt> – [[Brunei]]
@@ -305,12 +310,12 @@ Le riservazioni indeterminate sono:
 * <tt>GCA</tt> – [[Guatemala]]
 * <tt>HKJ</tt> – [[Giordania]]
 * <tt>MAL</tt> – [[Malesia]]
-* <tt>RCA</tt> – [[Repubblica Centrafricana]]
-* <tt>RCB</tt> – [[Repubblica del Congo|Repubblica del Congo (Brazzaville)]]
+* <tt>RCA</tt> – [[Repubbleche Centrafricana]]
+* <tt>RCB</tt> – [[Repubbleche d'u Congo|Repubbleche d'u Congo (Brazzaville)]]
 * <tt>RCH</tt> – [[Cile]]
 * <tt>RMM</tt> – [[Mali]]
 * <tt>RNR</tt> – [[Rhodesia Settentrionale]]
-* <tt>ROK</tt> – [[Sud Corea|Repubblica di Corea]]
+* <tt>ROK</tt> – [[Sud Corea|Repubbleche d'a Corea]]
 * <tt>RSM</tt> – [[San Marino]]
 * <tt>RSR</tt> – [[Rhodesia Meridionale]]
 * <tt>SLO</tt> – [[Slovenia]]
@@ -320,13 +325,16 @@ Le riservazioni indeterminate sono:
 * <tt>WAL</tt> – [[Sierra Leone]]
 * <tt>ZRE</tt> – [[Zaire]]
 
-Il seguente codice è stato riassegnato:
-* <tt>ROU</tt> – [[Uruguay]] — Riassegnato alla [[Romania]]
+'U codece ca avène mò ha state riassegnete:
+* <tt>ROU</tt> – [[Uruguay]] — Riassegnete a [[Romania]]
 
-==== Codici da non usare ==== 
-In aggiunta, l'ISO 3166 MA attualmente ha deciso di non utilizzare i seguenti codici alpha-3 dello standard ISO/IEC 7501-1 (per la lettura ottica dei passaporti). Comunque queste riservazioni non sono classificate come transitorie, indeterminate o eccezionali, in quanto i codici non si riferiscono a nazioni, dipendenze o altre regioni geografiche:
-* <tt>GBD</tt> – Cittadini Britannici dei Territori dipendenti
-* <tt>GBN</tt> – Britannici Nazionali (Oltremare)
+==== Codece ca non ge s'onne ausà ==== 
+Osce a die l'ISO 3166 MA ha ditte ca non ge s'onne ausà le codece c'avènene de l'alpha-3 d'u stàndàrd ISO/IEC 7501-1 (p'a letture ottiche de le passapuerte).
+
+Comunque ste reservaziune non ge sonde classificate cumme a tranzitorie, indeterminete o eccezziunele purcè non ge sonde riferite a naziune, dipendenze o otre reggione sciugrafiche:
+
+* <tt>GBD</tt> – Cittadini Britannici de le Territorie dipendenti
+* <tt>GBN</tt> – Britannici Naziunele (Oltremare)
 * <tt>GBO</tt> – Cittadini Britannici Oltremare
 * <tt>GBP</tt> – Persona Britannici protetta
 * <tt>GBS</tt> – Soggetto Britannico
