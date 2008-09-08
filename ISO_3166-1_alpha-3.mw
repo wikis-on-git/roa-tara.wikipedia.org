@@ -255,9 +255,9 @@ Sonde ausete da l'ISO/[[Commissione Elettrotecnica 'Ndernaziunele|IEC]] 7501-1 p
 * <tt>ZWE</tt> - [[Zimbabwe]]
 {{EndMultiCol}}
 
-=== Codici per uso privato ===
-I codici compresi tra <tt>AAA</tt> e <tt>AAZ</tt>, tra <tt>QMA</tt> e <tt>QZZ</tt>, tra <tt>XAA</tt> e <tt>XZZ</tt>, e tra <tt>ZZA</tt> e <tt>ZZZ</tt> possono essere riservati per uso privato per definire suddivisioni territoriali o geografiche a scopo statistico non previste dallo standard ISO.
-Inoltre, <tt>OOO</tt> è designato come codice di escape.
+=== Codece pe ause privete ===
+Le codece ca vonne da <tt>AAA</tt> a <tt>AAZ</tt>, e 'mbrà <tt>QMA</tt> e <tt>QZZ</tt>, 'mbrà <tt>XAA</tt> e <tt>XZZ</tt>, e 'mbrà <tt>ZZA</tt> e <tt>ZZZ</tt> ponnè essere reservete pe ause privete pe definì suddivisiune territoriele o sciugrafeche pe 'nu descurse statisteche ca non g'è previste da 'u stàndàrd ISO.
+Vide bbuene ca <tt>OOO</tt> jè ausete cumme 'nu codece de ''escape''.
 
 === Lista dei codici riservati ===
 I codici riservati, sono codici che pur non facendo parte dei codici ISO 3166-1, sono utilizzati in alcune applicazioni in congiunzione ad essi. L'ISO 3166 MA li riserva, in modo che non vengano usati in codici ISO 3166 ufficiali, creando così conflitti tra lo standard e le sue applicazioni. La lista dei codici alpha-3 riservati attualmente è la seguente:
