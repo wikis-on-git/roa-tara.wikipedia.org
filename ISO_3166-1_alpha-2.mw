@@ -518,11 +518,11 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 Le codece <tt>AA</tt>, <tt>ZZ</tt> e le codece combrese 'mbrà <tt>QM-QZ</tt> e <tt>XA-XZ</tt> ponne essere riservete pe n'uso private pe defini suddivisiune territoriale o sciugrafiche pe 'na cosa statisteche e ca non ge sonde previste da 'u stàndàrd ISO.
 Eppò, <tt>OO</tt> è ausate cumme codece de ''escape''.
 
-=== Lista dei codici riservati ===
+=== Liste de le codece riservete ===
 
-I codici riservati, sono codici che pur non facendo parte dei codici ISO 3166-1, sono utilizzati in alcune applicazioni in congiunzione ad essi. L'ISO 3166 MA li riserva, in modo che non vengano usati in codici ISO 3166 ufficiali, creando così conflitti tra lo standard e le sue applicazioni. La lista dei codici alpha-2 riservati attualmente è la seguente:
+Le codece riservate, sonde codece ca pure ca non ge fanne parte de le codece ISO 3166-1, avènene ausate jndr'à certe applicaziune apprisse a loro. L'ISO 3166 MA le reserve, accussì non g'avènene ausate jndr'à codece ISO 3166 uffisciele, creanne accussì uerre tra 'u stàndàrd e le applicaziune suje. 'A liste de le codece alpha-2 riservete osce a die jè 'a seguente:
 
-==== Riservazioni eccezionali ====
+==== Reservaziune eccezziunele ====
 Le riservazioni eccezionali dei codici alpha-3, sono riservazioni permanenti perché utilizzate per scopi particolari. L'ISO 3166 MA autorizza il loro uso solo per gli scopi particolari per cui sono state creati. Le riservazioni eccezionali sono:
 
 * <tt>AC</tt> - [[Isola di Ascension]] - Riservato su richiesta dell'[[Unione Postale Internazionale|UPU]] (usato anche come TLD)
