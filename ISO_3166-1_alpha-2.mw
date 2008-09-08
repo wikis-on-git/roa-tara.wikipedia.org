@@ -525,20 +525,20 @@ Le codece riservate, sonde codece ca pure ca non ge fanne parte de le codece ISO
 ==== Reservaziune eccezziunele ====
 Le reservaziune eccezziunele de le codece alpha-3, sonde reservaziune permanende purcè ausate pe mutive particolere. L'ISO 3166 MA autorizze l'ausaminde lore sole pe le mutive particolere pe le quale onne state ccrjete. Le reservaziune eccezziunele sonde:
 
-* <tt>AC</tt> - [[Isola di Ascension]] - Riservato su richiesta dell'[[Unione Postale Internazionale|UPU]] (usato anche come TLD)
-* <tt>CP</tt> - [[Isola Clipperton]] - Riservato su richiesta dell'[[ITU]]
-* <tt>DG</tt> - [[Diego Garcia]] - Riservato su richiesta dell'ITU
-* <tt>EA</tt> - [[Ceuta]] e [[Melilla]] - Riservato su richiesta del [[WCO]] per rappresentare aree esterne ai territori doganali dell'Unione Europea
-* <tt>EU</tt> - [[Unione Europea]] - originariamente richiesto dall'ISO 4217 MA per fornire un codice nazionale all'[[Euro]]; successivamente esteso per l'utilizzo nello standard ISO 6166 sistema [[ISIN]]; ulteriormente esteso dall'ISO 3166 MA per ogni utilizzo per cui è richiesto il codice EU
-* <tt>FX</tt> - [[Francia]] Metropolitana - Riservato su richiesta della Francia
-* <tt>IC</tt> - [[Isole Canarie]] - Riservato su richiesta del [[WCO]] per rappresentare aree esterne ai territori doganali dell'Unione Europea
-* <tt>TA</tt> - [[Tristan da Cunha]] - Riservato su richiesta dell'UPU
-* <tt>UK</tt> - [[Regno Unito]] - Riservato su richiesta del Regno Unito, per impedirne l'utilizzo da parte di altre nazioni (usato anche come TLD)
+* <tt>AC</tt> - [[Isola di Ascension]] - Riservete sus 'a richieste de l'[[Aunione Postele 'Ndernaziunele|UPU]] (ausete pure cumme TLD)
+* <tt>CP</tt> - [[Isola Clipperton]] - Riservete sus 'a richieste de l'[[ITU]]
+* <tt>DG</tt> - [[Diego Garcia]] - Riservete sus 'a richieste de l'ITU
+* <tt>EA</tt> - [[Ceuta]] e [[Melilla]] - Riservete sus 'a richieste d'u[[WCO]] pe rappresendà aree de fore a le territorie duganele de l'Aunione Europea
+* <tt>EU</tt> - [[Aunione Europea]] - apprime apprime richieste da l'ISO 4217 MA pe furnì 'nu codece naziunele a l'[[Euro]]; successivamende estese pe l'ause jndr' à 'u stàndàrd ISO 6166 sisteme [[ISIN]]; e pò angore estese a l''ISO 3166 MA pe ogne ause addò è cercate 'u codece EU.
+* <tt>FX</tt> - [[Frange]] Metropolitana - Riservete sus 'a richieste d'a Frange
+* <tt>IC</tt> - [[Isole Canarie]] - Riservete sus 'a richieste d'u [[WCO]] pe rappresendà aree de fore a le territorie duganele de l'Aunione Europea
+* <tt>TA</tt> - [[Tristan da Cunha]] - Riservete sus 'a richieste de l'UPU
+* <tt>UK</tt> - [[Regne Aunìte]] - Riservete sus 'a richieste d'u Regne Aunìte, pe no fà ausà stu codece da otre naziune (ausete pure cumme TLD)
 
-Anche i seguenti codici erano riservati, fino all'aggiornamento del 29/03/2006 che li ha inclusi nell'elenco degli standard ufficiali:
-* <tt>GG</tt> - [[Guernsey]] - Riservato su richiesta dell'UPU; (usato anche come TLD)
-* <tt>IM</tt> - [[Isola di Man]] - Riservato su richiesta dell'UPU (usato anche come TLD)
-* <tt>JE</tt> - [[Jersey]] - Riservato su richiesta dell'UPU (usato anche come TLD)
+Pure le seguendi codece erene state riservete, fine all'aggiornamende d'u 29/03/2006 ca l'ha mise jndr'à liste de le stàndàrd uffisciele:
+* <tt>GG</tt> - [[Guernsey]] - Riservete sus 'a richieste de l'UPU; (ausete pure cumme TLD)
+* <tt>IM</tt> - [[Isola di Man]] - Riservete sus 'a richieste de l'UPU (ausete pure cumme TLD)
+* <tt>JE</tt> - [[Jersey]] - Riservete sus 'a richieste de l'UPU (ausete pure cumme TLD)
 
 ==== Riservazioni transitorie ====
 Una riservazione transitoria si riferisce a un codice precedentemente presente nell'ISO 3166, ma non ancora cancellato. Verrà mantenuto in tale stato per almeno cinque anni, di modo che gli utilizzatori che hanno ancora bisogno del vecchio codice abbiano il tempo per aggiornarsi a quello nuovo. Le riservazioni transitorie sono:
