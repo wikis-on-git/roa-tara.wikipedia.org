@@ -1,4 +1,4 @@
-Il codice '''[[ISO]] 3166-1 alpha-2''' è la parte più conosciuta dello standard [[ISO 3166-1]].
+'U codece '''[[ISO]] 3166-1 alpha-2''' jè 'a vanne cchiù canusciute d'u stàndàrd [[ISO 3166-1]].
 
 == Ause e applicaziune ==
 
@@ -99,11 +99,11 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |39 || '''CC''' || [[Isole Cocos]] || 
 |-
-|40 || '''CD''' || [[Repubblica Democratica del Congo]] || apprime ere 'u [[Zaire]]
+|40 || '''CD''' || [[Repubbleche Democratica d'u Congo]] || apprime ere 'u [[Zaire]]
 |-
-|41 || '''CF''' || [[Repubblica Centrafricana]] || 
+|41 || '''CF''' || [[Repubbleche Cendr'africana]] || 
 |-
-|42 || '''CG''' || [[Repubblica del Congo]] || 
+|42 || '''CG''' || [[Repubbleche d'u Congo]] || 
 |-
 |43 || '''CH''' || [[Svizzera]] || 
 |-
@@ -129,7 +129,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |54 || '''CY''' || [[Cipro]] || 
 |-
-|55 || '''CZ''' || [[Repubblica Ceca]] || 
+|55 || '''CZ''' || [[Repubbleche Ceca]] || 
 |-
 |56 || '''DE''' || [[Germania]] || 
 |-
@@ -139,7 +139,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |59 || '''DM''' || [[Dominica]] || 
 |-
-|60 || '''DO''' || [[Repubblica Dominicana]] || 
+|60 || '''DO''' || [[Repubbleche Dominicana]] || 
 |-
 |61 || '''DZ''' || [[Algeria]] || 
 |-
@@ -163,7 +163,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |71 || '''FK''' || [[Isole Falkland]] || 
 |-
-|72 || '''FM''' || [[Stati Federati di Micronesia]] || 
+|72 || '''FM''' || [[Stati Federati d'a Micronesia]] || 
 |-
 |73 || '''FO''' || [[Isole Fær Øer]] || 
 |-
@@ -445,7 +445,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |212 || '''TD''' || [[Ciad]] || 
 |-
-|213 || '''TF''' || [[Territori Francesi del Sud]] || 
+|213 || '''TF''' || [[Territori Francesi d'u Sud]] || 
 |-
 |214 || '''TG''' || [[Togo]] || 
 |-
@@ -485,7 +485,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |232 || '''UZ''' || [[Uzbekistan]] || 
 |-
-|233 || '''VA''' || [[Città del Vaticano]] || 
+|233 || '''VA''' || [[Cetate d'u Vaticano]] || 
 |-
 |234 || '''VC''' || [[Saint Vincent e Grenadine]] || 
 |-
@@ -501,7 +501,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |240 || '''WF''' || [[Wallis e Futuna]] || 
 |-
-|241 || '''WS''' || [[Samoa]] || ex Samoa Occidentali
+|241 || '''WS''' || [[Samoa]] || ex Samoa Occidendele
 |-
 |242 || '''YE''' || [[Yemen]] || 
 |-
@@ -554,8 +554,9 @@ Le Reservaziune de passagge sonde:
 * <tt>ZR</tt> - [[Zaire]] (mò [[Repubblica Democratica del Congo]], <tt>CD</tt>)
 
 ==== Reservaziune ca non ge spiccene maje ====
-Le reservaziune ca non ge spiccene maje de le codece alpha-2 sonde codece ausete pe identificà le veicoli seconde le "Convenzioni per il traffico stradale delle Nazioni Unite" vigenti tra il [[1949]] e il [[1968]]. Questi codici differiscono da quelli usati nell'ISO 3166. L'ISO 3166 MA spera che questi codici vengano rimpiazzati dai codici ISO 3166-1; ma nel frattempo rimangono riservati per evitare conflitti tra l'ISO 3166-1 e le Convenzioni, e per facilitare le transizioni tra i codici delle Convenzioni e i codici ISO 3166-1.
-Le riservazioni indeterminate sono:
+Le reservaziune ca non ge spiccene maje de le codece alpha-2 sonde codece ausete pe identificà le veicoli seconde le "Convenziune p'u traffiche stradele de le Naziune Aunìte" ausete 'mbrà 'u [[1949]] e 'u [[1968]].
+Ste codece sonde differende da chidde ausete jndr'à l'ISO 3166. L'ISO 3166 MA ste spere ca chiste codece avènene sostituite da le codece ISO 3166-1; però jndr'à 'u frattembe remànene pe evità conflitte 'mbrà ISO 3166-1 e le Convenziune, e pe facilitaje 'u passagge tra le codece de le Convenziune e le codece ISO 3166-1.
+Le reservaziune ca non ge spiccene maje sonde:
 
 * <tt>DY</tt> - [[Benin]] <sup>1</sup>
 * <tt>EW</tt> - [[Estonia]] <sup>1</sup>
@@ -581,62 +582,67 @@ Le riservazioni indeterminate sono:
 * <tt>WV</tt> - [[Saint Vincent e Grenadine]] <sup>1</sup>
 * <tt>YV</tt> - [[Venezuela]] <sup>1</sup>
 
-Note:<br/>
-#Codici notificati al Segretario Generale delle Nazioni Unite in base alle Convenzioni sul traffico del 1949 e/o 1968
-#Codici in uso per il trasporto su strada, ma non notificati al Segretario Generale delle Nazioni Unite in base alle Convenzioni sul traffico del 1949
-#Codici sotto le Convenzioni sul traffico del 1949
-#Codici sotto le Convenzioni sul traffico del 1968
-#Questo codice è usato per indicare sia la Bolivia che il Botswana
+Vide Bbuene:<br/>
+#Codece notificate a 'u Segretario Generale de le Naziune Aunìte vedenne le Convenziune sus a 'u traffeche d'u 1949 e/o 1968.
+#Codece ca s'ause p'u trasporte sus 'a strade, ma non g'onne state notificate a 'u Segretario Generale de le Naziune Aunìte vedenne le Convenziune sus a 'u traffeche d'u 1949.
+#Codece sotte a le Convenziune sus a 'u traffeche d'u 1949.
+#Codece sotte a le Convenziune sus a 'u traffeche d'u 1968.
+#Stu codece avène ausete pe 'ndicà a Bolivia e 'u Botswana.
 
-==== Codici da non usare ==== 
-In aggiunta, l'ISO 3166 MA attualmente ha deciso di non utilizzare i seguenti codici alpha-2 dello standard WIPO ST.3. Comunque queste riservazioni non sono classificate come transitorie, indeterminate o eccezionali, in quanto i codici non si riferiscono a nazioni, dipendenze o altre regioni geografiche:
-* <tt>AP</tt> - [[Organizzazione Regionale Africana per la Proprietà Industriale]]
-* <tt>BX</tt> - [[Uffici del Benelux per i Marchi e il Design]]
-* <tt>EF</tt> - Unione delle nazioni sotto la [[Convenzione della Comunità Europea per i Brevetti]]
-* <tt>EM</tt> - [[Ufficio Europeo dei Marchi]]
-* <tt>EP</tt> - [[Organizzazione Europea dei Brevetti]]
-* <tt>EV</tt> - Organizzazione Euroasiatica dei Brevetti
-* <tt>GC</tt> - [[Ufficio Brevetti del Concilio di Cooperazione degli Stati Arabi del Golfo]] (GCC)
-* <tt>IB</tt> - Ufficio Internazionale del WIPO
-* <tt>OA</tt> - [[Organizzazione Africana per la Proprietà Intellettuale]]
-* <tt>WO</tt> - [[Organizzazione Mondiale per la Proprietà Intellettuale]]
+==== Codece ca non ge s'onne ausà ==== 
+Osce a die l'ISO 3166 MA ha ditte ca non ge s'onne ausà le codece c'avènene de l'alpha-2 d'u stàndàrd WIPO ST.3.
 
-In aggiunta, lo standard WIPO ST.3 usa EA per [[Organizzazione Eurasiatica dei Brevetti]]. Comunque l'ISO 3166 MA ha dichiarato che non può garantire la riservazione del codice EA in quanto è gia usato a scopi doganali per rappresentare [[Ceuta]] e [[Melilla]]. L'ISO 3166 MA propose nel [[1995]] che il WIPO utilizzasse il codice EV, la richiesta non è stata onorata dal WIPO.
+Comunque ste reservaziune non ge sonde classificate cumme a tranzitorie, indeterminete o eccezziunele purcè non ge sonde riferite a naziune, dipendenze o otre reggione sciugrafiche
+:
+* <tt>AP</tt> - [[Organizzazione Reggionele Africana p'a Proprietà Industriale]]
+* <tt>BX</tt> - [[Uffisce d'u Benelux pe le Marchi e 'u Design]]
+* <tt>EF</tt> - Aunìone de le naziune sotte 'a [[Convenzione d'a Comunità Europea pe le Brevetti]]
+* <tt>EM</tt> - [[Uffisce Europeo de le Marchi]]
+* <tt>EP</tt> - [[Organizzazione Europea de le Brevetti]]
+* <tt>EV</tt> - Organizzazione Euroasiatica de le Brevetti
+* <tt>GC</tt> - [[Uffisce Brevetti d'u Concilio de Cooperazione de le State Arabi d'u Golfo]] (GCC)
+* <tt>IB</tt> - Uffisce ì'Ndrenaziunele d'u WIPO
+* <tt>OA</tt> - [[Organizzazione Africana p'a Proprietà Intellettuale]]
+* <tt>WO</tt> - [[Organizzazione Mondiale p'a Proprietà Intellettuale]]
 
-==Altri codici obsoleti ritirati==
-Questi codici sono obsoleti e sono stati ritirati, quindi non sono più riservati transitoriamente e quindi non possono più essere utilizzati:
-* <tt>AI</tt> – [[Territorio francese degli Afar e degli Issa]] (<tt>AI</tt> è stato riassegnato a [[Anguilla (isola)|Anguilla]])
-* <tt>BQ</tt> – [[Territorio Antartico Britannico]]
-* <tt>CS</tt> – [[Cecoslovacchia]] (<tt>CS</tt> era stato riassegnato a [[Serbia e Montenegro]] fino alla sua divisione nel 2006)
+Angore, 'u stàndàrd WIPO ST.3 ause EA pe l' [[Organizzazione Eurasiatica de le Brevetti]]. Comunque l'ISO 3166 MA ha ditte ca non ge pò garantì 'a reservazione d'u codece EA purcè jè ausete pe mutive doganali pe rappresentà [[Ceuta]] e [[Melilla]].
+L'ISO 3166 MA avere ditte jndr'à 'u [[1965]] ca 'u WIPO ausasse 'u codece EV, 'a richieste ha state cacate da 'u WIPO.
+
+== Otre codece vicchje reterete ==
+Ste codece sonde vicchje e onne state reterete, vò ccu dice ca non ge sonde cchiù reservete de passagge e non ge ponne essere cchiù ausete:
+
+* <tt>AI</tt> – [[Territorie frangese de le Afar e de le Issa]] (<tt>AI</tt> ha state assignete 'a [[Anguilla (isola)|Anguilla]])
+* <tt>BQ</tt> – [[Territorie Antartico Britannico]]
+* <tt>CS</tt> – [[Cecoslovacchia]] (<tt>CS</tt> avère state assignete a [[Serbia e Montenegro]] fine ca onne remaste 'nzieme jndr'à 'u 2006)
 * <tt>CT</tt> – [[Isole Canton e Enderbury]]
 * <tt>DD</tt> – [[Germania Est]] (Repubblica Democratica Tedesca)
 * <tt>DY</tt> – [[Dahomey]]
-* <tt>FQ</tt> – [[Territori francesi meridionali|Territori australi e antartici francesi]]
+* <tt>FQ</tt> – [[Territorie frangese meridionele|Territorie australi e antartici frangese]]
 * <tt>GE</tt> – [[Isole Gilbert ed Ellice]] (<tt>GE</tt> è stato riassegnato a [[Georgia]])
 * <tt>HV</tt> – [[Alto Volta]]
 * <tt>JT</tt> – [[Atollo Johnston]]
-* <tt>MI</tt> – [[Atollo di Midway]]
+* <tt>MI</tt> – [[Atollo de Midway]]
 * <tt>NH</tt> – [[Nuove Ebridi]]
-* <tt>NQ</tt> – [[Terra della regina Maud]] (Queen Maud Land)
-* <tt>PC</tt> – [[Territorio fiduciario delle Isole del Pacifico]]
-* <tt>PU</tt> – [[Isole del Pacifico Statunitensi]]
-* <tt>PZ</tt> – [[Zona del Canale di Panama]]
-* <tt>RH</tt> – [[Rhodesia Meridionale]]
+* <tt>NQ</tt> – [[Terra d'a regina Maud]] (Queen Maud Land)
+* <tt>PC</tt> – [[Territorie fiduciarie de le Isole d'u Pacifico]]
+* <tt>PU</tt> – [[Isole d'u Pacifico Statunitensi]]
+* <tt>PZ</tt> – [[Zona d'u Canale de Panama]]
+* <tt>RH</tt> – [[Rhodesia Meridionele]]
 * <tt>SK</tt> – [[Sikkim]] (<tt>SK</tt> è stato riassegnato a [[Slovacchia]])
-* <tt>VD</tt> – [[Vietnam del Nord]] (Rep. Democratica del Vietnam del Nord)
-* <tt>WK</tt> – [[Isola di Wake]]
-* <tt>YD</tt> – [[Yemen del Sud]]
+* <tt>VD</tt> – [[Vietnam d'u Nord]] (Rep. Democratica del Vietnam del Nord)
+* <tt>WK</tt> – [[Isola de Wake]]
+* <tt>YD</tt> – [[Yemen d'u Sud]]
 
-==Voci correlate==
+== Vôsce cullegate ==
 *[[ISO 3166]]
 *[[ISO 3166-1]]
 *[[ISO 3166-1 alpha-3]]
-*[[ISO 3166-1 numerico]]
+*[[ISO 3166-1 numereche]]
 *[[ISO 3166-2]]
 *[[ISO 3166-3]]
 
 [[Category:Stàndàrd ISO]]
-[[Category:Listë dë codecë naziunalë]]
+[[Category:Liste de codece naziunele]]
 
 [[en:ISO 3166-1 alpha-2]]
 [[id:ISO 3166-1 alpha-2]]
