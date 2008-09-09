@@ -10,19 +10,19 @@ ISO 3166-3 tène tutte le codece de le paise ca tènene codece vicchje de l'ISO 
 'Na vode ca onne passate cinge anne da quanne 'u codece ha state lassete, 'a vanne d'u codece a doje lettere pò essere assignete n'otra vote, cumme ha state fatte pe <tt>AI</tt>, <tt>CS</tt>, <tt>GE</tt>, e <tt>SK</tt>.
 Però pò essere ca certe codece remànene 'u stesse pure ca avènene superete le cinge anne, vide [[ISO 3166-1 alpha-2#Reservaziune ca non ge spiccene maje|Codece reservete ca non ge spiccene maje]].
 
-Many of the two-letter codes were withdrawn before the introduction of the [[domain name system]], and so were never used for the [[Internet]]'s [[country code top-level domain]]s (ccTLDs). However, some ccTLDs using withdrawn codes are still currently active, such as [[.su]], [[.tp]], and [[.yu]].
+'Nu sacche de codece a doje lettere onne state lassete prime de l'indtroduzione d'u [[domain name system|DNS]] e accussì non g'onne state maje ausete sus a [[Indernette]] cumme [[dominie de prime levèlle]] (ccTLD). Comunque, quacche ccTLD ca ause codece ca onne fatte vicchje se jacchje angore, vide [[.su]], [[.tp]] e [[.yu]].
 
-The alpha-2 code <tt>CS</tt> had been withdrawn twice, the first time due to the split of [[Czechoslovakia]] and the second time due to the split of [[Serbia and Montenegro]]. On [[2006-09-26]] (Newsletter I-4), the code <tt>CSHH</tt> was assigned to Serbia and Montenegro, even though it had already been used for Czechoslovakia. To avoid confusion, since [[2006-12-01]] (Newsletter I-5), the code <tt>CSXX</tt> is used for Serbia and Montenegro.
+'U codece ISO 3166-1 alpha-2 <tt>CS</tt> ha state lassete doje vote! 'A prima vote, purcè a [[Cecoslovacchia]] s'a squasciate facenne nascere 'a [[Repubbleche Ceca]] e 'a [[Slovacchia]] e 'a seconda vote purcé [[Serbia e Montenegro]] s'onne squasciate e onne fatte nascere [[Serbia]] e [[Montenegro]]. Sus 'a newsletter I-4 (assute 'u 26/09/2006, 'u codece <tt>CSHH</tt> avère state assignete a [[Serbia e Montenegro]] e quindi s'a ccrejete confusione cu a [[Cecoslovacchia]] ma successivamente cu a newsletter I-5 (assute 'u 01-12-2006) s'a sistemete 'u probleme assignanne 'u codece <tt>CSXX</tt> a [[Serbia e Montenegro]].
 
-If the country only changed its name without any territorial changes, its numeric code remains the same.
+Ce 'u paise cange solamende 'u nome ma non ge cange le confini territoriele 'u codece numereche remane sembre 'u stesse.
 
 {| class="wikitable"
 |- style="background-color: #efefef;"
-!ISO 3166-3 code
-!Former country name
-!Former code elements
-!Period of validity
-!Notes
+!Codece ISO 3166-3
+!Nome d'u paise
+!Elemende d'u codece
+!Timbe de validità
+!Note
 |- style="vertical-align:top;"
 ! <tt>AIDJ</tt>
 | [[French Territory of the Afars and the Issas|French Afar and Issas]] || <tt>AI</tt>, <tt>AFI</tt>, <tt>262</tt> || 1974–1977 || Changed its name to [[Djibouti]] (<tt>DJ</tt>, <tt>DJI</tt>, <tt>262</tt>)<br> <tt>AI</tt> has been reassigned to ''[[Anguilla]]''
