@@ -1,0 +1,540 @@
+Quello che segue è un confronto dei codici Paese di 3 lettere usati dal '''[[Lista dei codici nazionali del CIO|CIO]]''' (Comitato Internazionale Olimpico), dalla '''[[Lista dei codici nazionali della FIFA|FIFA]]''' (Federazione Internazionale delle Associazioni Calcistiche), e dall’'''[[ISO 3166-1]]''' (Organizzazione Internazionale per le Standardizzazioni), a '''[[ISO 3166-1 alpha-2|2]]''' e a '''[[ISO 3166-1 alpha-3|3]]''' lettere, disposta in un’unica tabella per una più facile comparazione. Sono evidenziate le differenze qualora i codici adottati da un’organizzazione siano diversi da quelli usati da un’altra.
+
+Questa lista contiene solo i [[Stati del mondo|Paesi]] e i [[Elenco dei territori dipendenti|territori]] a cui sia stato assegnato almeno una volta uno qualsiasi dei codici a 3 lettere da parte di qualsivoglia tra le citate organizzazioni.
+{|
+|
+{|class="wikitable sortable" style="font-size:90%"
+|-
+! Bandiera
+! Paese
+! CIO
+! FIFA
+! [[ISO 3166-1 alpha-3|ISO-3]]
+! [[ISO 3166-1 alpha-2|ISO-2]]
+|-
+|{{Bandiera|Afghanistan}}||[[Afghanistan]]||AFG||AFG||AFG||AF
+|-
+|{{Bandiera|Albania}}||[[Albania]]||ALB||ALB||ALB||AL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Algeria}}||[[Algeria]]||ALG||ALG||DZA||DZ
+|-
+|{{Bandiera|Andorra}}||[[Andorra]]||AND||AND||AND||AD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Angola}}||[[Angola]]||ANG||ANG||AGO||AO
+|-
+|{{Bandiera|Anguilla}}||[[Anguilla (isola)|Anguilla]]|| ||AIA||AIA||AI
+|-
+|{{Bandiera|Antartide}}||[[Antartide]]|| || ||ATA||AQ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Antigua e Barbuda}}||[[Antigua e Barbuda]]||ANT||ATG||ATG||AG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Antille Olandesi}}||[[Antille Olandesi]]||AHO||ANT||ANT||AN
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Arabia Saudita}}||[[Arabia Saudita]]||KSA||KSA||SAU||SA
+|-
+|{{Bandiera|Argentina}}||[[Argentina]]||ARG||ARG||ARG||AR
+|-
+|{{Bandiera|Armenia}}||[[Armenia]]||ARM||ARM||ARM||AM
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Aruba}}||[[Aruba]]||ARU||ARU||ABW||AW
+|-
+|{{Bandiera|Australia}}||[[Australia]]||AUS||AUS||AUS||AU
+|-
+|{{Bandiera|Austria}}||[[Austria]]||AUT||AUT||AUT||AT
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Palestina}}||[[Autorità Nazionale Palestinese]]||PLE||PLE||PSE||PS
+|-
+|{{Bandiera|Azerbaijan}}||[[Azerbaijan]]||AZE||AZE||AZE||AZ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bahamas}}||[[Bahamas]]||BAH||BAH||BHS||BS
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bahrain}}||[[Bahrain]]||BRN||BHR||BHR||BH
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bangladesh}}||[[Bangladesh]]||BAN||BAN||BGD||BD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Barbados}}||[[Barbados]]||BAR||BRB||BRB||BB
+|-
+|{{Bandiera|Bielorussia}}||[[Bielorussia]]||BLR||BLR||BLR||BY
+|-
+|{{Bandiera|Belgio}}||[[Belgio]]||BEL||BEL||BEL||BE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Belize}}||[[Belize]]||BIZ||BLZ||BLZ||BZ
+|-
+|{{Bandiera|Benin}}||[[Benin]]||BEN||BEN||BEN||BJ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bermuda}}||[[Bermuda]]||BER||BER||BMU||BM
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bhutan}}||[[Bhutan]]||BHU||BHU||BTN||BT
+|-
+|{{Bandiera|Bolivia}}||[[Bolivia]]||BOL||BOL||BOL||BO
+|-
+|{{Bandiera|Bosnia ed Erzegovina}}||[[Bosnia ed Erzegovina]]||BIH||BIH||BIH||BA
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Botswana}}||[[Botswana]]||BOT||BOT||BWA||BW
+|-
+|{{Bandiera|Brasile}}||[[Brasile]]||BRA||BRA||BRA||BR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Brunei}}||[[Brunei]]||BRU||BRU||BRN||BN
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Bulgaria}}||[[Bulgaria]]||BUL||BUL||BGR||BG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Burkina Faso}}||[[Burkina Faso]]||BUR||BFA||BFA||BF
+|-
+|{{Bandiera|Burundi}}||[[Burundi]]||BDI||BDI||BDI||BI
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Cambogia}}||[[Cambogia]]||CAM||CAM||KHM||KH
+|-
+|{{Bandiera|Camerun}}||[[Camerun]]||CMR||CMR||CMR||CM
+|-
+|{{Bandiera|Canada}}||[[Canada]]||CAN||CAN||CAN||CA
+|-
+|{{Bandiera|Capo Verde}}||[[Capo Verde]]||CPV||CPV||CPV||CV
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Ciad}}||[[Ciad]]||CHA||CHA||TCD||TD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Cile}}||[[Cile]]||CHI||CHI||CHL||CL
+|-
+|{{Bandiera|Cina}}||[[Cina]] (Repubblica Popolare)<ref>La Cina madreterra (Repubblica Popolare cinese escluse [[Hong Kong]] e [[Macao]]) è chiamata "Repubblica Popolare della Cina", in breve "Cina" dal CIO, e "Cina PR", in breve "Cina" dalla FIFA.</ref> ||CHN||CHN||CHN||CN
+|-
+|{{Bandiera|Vaticano}}||[[Città del Vaticano]]|| || ||VAT||VA
+|-
+|{{Bandiera|Colombia}}||[[Colombia]]||COL||COL||COL||CO
+|-
+|{{Bandiera|Comore}}||[[Comore]]||COM||COM||COM||KM
+|-
+|{{Bandiera|Corea del Nord}}||[[Corea del Nord]]<ref>La [[Corea del Nord]] è chiamata "Democratic People's Republic of Korea" (Repubblica Democratica Popolare di Corea), in breve "DPRK" dal CIO, e "Corea DPR" dalla FIFA.</ref> ||PRK||PRK||PRK||KP
+|-
+|{{Bandiera|Corea del Sud}}||[[Corea del Sud]]<ref>La [[Corea del Sud]] è chiamata solamente "[[Corea]]" dal CIO, e "Repubblica di Corea" dalla FIFA.</ref> ||KOR||KOR||KOR||KR
+|-
+|{{Bandiera|Costa d'Avorio}}||[[Costa d'Avorio]]||CIV||CIV||CIV||CI
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Costa Rica}}||[[Costa Rica]]||CRC||CRC||CRI||CR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Croazia}}||[[Croazia]]||CRO||CRO||HRV||HR
+|-
+|{{Bandiera|Cuba}}||[[Cuba]]||CUB||CUB||CUB||CU
+|-
+|{{Bandiera|Cipro}}||[[Cipro]]||CYP||CYP||CYP||CY
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Danimarca}}||[[Danimarca]]||DEN||DEN||DNK||DK
+|-
+|{{Bandiera|Dominica}}||[[Dominica]]<ref>Il "Commonwealth of Dominica" è chiamato in breve "Dominica" dal CIO e dalla FIFA.</ref>||DMA||DMA||DMA||DM
+|-
+|{{Bandiera|Ecuador}}||[[Ecuador]]||ECU||ECU||ECU||EC
+|-
+|{{Bandiera|Egitto}}||[[Egitto]]||EGY||EGY||EGY||EG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|El Salvador}}||[[El Salvador]]||ESA||SLV||SLV||SV
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Emirati Arabi Uniti}}||[[Emirati Arabi Uniti]]||UAE||UAE||ARE||AE
+|-
+|{{Bandiera|Eritrea}}||[[Eritrea]]||ERI||ERI||ERI||ER
+|-
+|{{Bandiera|Estonia}}||[[Estonia]]||EST||EST||EST||EE
+|-
+|{{Bandiera|Etiopia}}||[[Etiopia]]||ETH||ETH||ETH||ET
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Figi}}||[[Figi]]||FIJ||FIJ||FJI||FJ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Filippine}}||[[Filippine]]||PHI||PHI||PHL||PH
+|-
+|{{Bandiera|Finlandia}}||[[Finlandia]]||FIN||FIN||FIN||FI
+|-
+|{{Bandiera|Francia}}||[[Francia]]||FRA||FRA||FRA||FR
+|-
+|{{Bandiera|Gabon}}||[[Gabon]]||GAB||GAB||GAB||GA
+|-
+|{{Bandiera|Galles}}||[[Galles]]|| ||WAL||<ref>"GB-WLS" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Gambia}}||[[Gambia]]||GAM||GAM||GMB||GM
+|-
+|{{Bandiera|Georgia}}||[[Georgia]]||GEO||GEO||GEO||GE
+|-
+|{{Bandiera|Georgia del Sud e isole Sandwich meridionali}}||[[Georgia del Sud e isole Sandwich meridionali|Georgia del Sud e isole Sandwich]]|| || ||SGS||GS
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Germania}}||[[Germania]]||GER||GER||DEU||DE
+|-
+|{{Bandiera|Ghana}}||[[Ghana]]||GHA||GHA||GHA||GH
+|-
+|{{Bandiera|Giamaica}}||[[Giamaica]]||JAM||JAM||JAM||JM
+|-
+|{{Bandiera|Giappone}}||[[Giappone]]||JPN||JPN||JPN||JP
+|-
+|{{Bandiera|Gibilterra}}||[[Gibilterra]]|| || ||GIB||GI
+|-
+|{{Bandiera|Gibuti}}||[[Gibuti]]||DJI||DJI||DJI||DJ
+|-
+|{{Bandiera|Giordania}}||[[Giordania]]||JOR||JOR||JOR||JO
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Grecia}}||[[Grecia]]||GRE||GRE||GRC||GR
+|-
+|{{Bandiera|Groenlandia}}||[[Groenlandia]]|| || ||GRL||GL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Grenada}}||[[Grenada]]||GRN||GRN||GRD||GD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guadalupa}}||[[Guadalupa]]|| ||GPE||GLP||GP
+|-
+|{{Bandiera|Guam}}||[[Guam]]||GUM||GUM||GUM||GU
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guatemala}}||[[Guatemala]]||GUA||GUA||GTM||GT
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guernsey}}||[[Guernsey]]|| || ||GGY<ref>"GB-GSY" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>||GG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guinea}}||[[Guinea]]||GUI||GUI||GIN||GN
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guinea-Bissau}}||[[Guinea-Bissau]]||GBS||GNB||GNB||GW
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Guinea Equatoriale}}||[[Guinea Equatoriale]]||GEQ||EQG||GNQ||GQ
+|-
+|{{Bandiera|Guiana Francese}}||[[Guiana Francese]]|| || ||GUF||GF
+|-
+|{{Bandiera|Guyana}}||[[Guyana]]||GUY||GUY||GUY||GY
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Haiti}}||[[Haiti]]||HAI||HAI||HTI||HT
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Honduras}}||[[Honduras]]||HON||HON||HND||HN
+|-
+|{{Bandiera|Hong Kong}}||[[Hong Kong]]<ref>[[Hong Kong]] è chiamata "Hong Kong, Cina" dal CIO, e "Hong Kong" dalla FIFA.</ref>||HKG||HKG||HKG||HK
+|-
+|{{Bandiera|India}}||[[India]]||IND||IND||IND||IN
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Indonesia}}||[[Indonesia]]||INA||IDN||IDN||ID
+|-
+|{{Bandiera|Inghilterra}}||[[Inghilterra]]|| ||ENG||<ref>"GB-ENG" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Iran}}||[[Iran]]||IRI||IRN||IRN||IR
+|-
+|{{Bandiera|Iraq}}||[[Iraq]]||IRQ||IRQ||IRQ||IQ
+|-
+|{{Bandiera|Irlanda}}||[[Irlanda]]<ref>Riguarda solo la [[Repubblica d'Irlanda]] per il CIO e la FIFA. Per la [[FIFA]], il nome "[[Repubblica d'Irlanda]]" è usato per distinguerlo dalla nazione unita dell'[[Isola d'Irlanda|Irlanda]] facente parte dello scomparso [[Regno Unito di Gran Bretagna e Irlanda]].</ref>||IRL||IRL||IRL||IE
+|-
+|{{Bandiera|Irlanda del Nord}}||[[Irlanda del Nord]]|| ||NIR||<ref>"GB-NIR" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>
+|-
+|{{Bandiera|Islanda}}||[[Islanda]]||ISL||ISL||ISL||IS
+|-
+|{{Bandiera|Isola Bouvet}}||[[Isola Bouvet]]|| ||||BVT||BV
+|-
+|{{Bandiera|Isola di Man}}||[[Isola di Man]]|| || ||IMN<ref>"GB-IOM" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>||IM
+|-
+|{{Bandiera|Isola di Natale}}||[[Isola di Natale]]|| || ||CXR||CX
+|-
+|{{Bandiera|Isola Norfolk}}||[[Isola Norfolk]]|| || ||NFK||NF
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Isole Cayman}}||[[Isole Cayman]]||CAY||CAY||CYM||KY
+|-
+|{{Bandiera|Isole Cocos}}||[[Isole Cocos]] (Keeling)|| || ||CCK||CC
+|-
+|{{Bandiera|Isole Cook}}||[[Isole Cook]]||COK||COK||COK||CK
+|-
+|{{Bandiera|Isole Falkland}}||[[Isole Falkland]]||FLK||FLK||FLK||FK
+|-
+|{{Bandiera|Isole Faroe}}||[[Isole Fær Øer]]|| ||FRO||FRO||FO
+|-
+|{{Bandiera|Isole Heard e McDonald}}||[[Isole Heard e McDonald]]|| || ||HMD||HM
+|-
+|{{Bandiera|Isole Marshall}}||[[Isole Marshall]]||MHL|| ||MHL||MH
+|-
+|{{Bandiera|Isole minori esterne degli Stati Uniti}}||[[Isole minori esterne degli Stati Uniti|Isole minori degli Stati Uniti]]|| || ||UMI||UM
+|-
+|{{Bandiera|Isole Marianne Settentrionali}}||[[Isole Marianne Settentrionali]]|| || ||MNP||MP
+|-
+|{{Bandiera|Isole Pitcairn}}||[[Isole Pitcairn]]|| || ||PCN||PN
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Isole Salomone}}||[[Isole Salomone]]||SOL||SOL||SLB||SB
+|-
+|{{Bandiera|Isole Turks e Caicos}}||[[Isole Turks e Caicos]]|| ||TCA||TCA||TC
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Isole Vergini statunitensi}}||[[Isole Vergini Statunitensi]]<ref>Le [[Isole Vergini statunitensi]] sono chiamate solamente [[Isole Vergini]] dal CIO.</ref>||ISV||VIR||VIR||VI
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Isole Vergini britanniche}}||[[Isole Vergini Britanniche]]<ref>Il CIO le chiama [[Isole Vergini britanniche]], mentre chiama semplicemente [[Isole Vergini]] le [[Isole Vergini statunitensi]].</ref>||IVB||VGB||VGB||VG
+|-
+|{{Bandiera|Israele}}||[[Israele]]||ISR||ISR||ISR||IL
+|-
+|{{Bandiera|Italia}}||[[Italia]]||ITA||ITA||ITA||IT
+|-
+|{{Bandiera|Jersey}}||[[Jersey]]|| || ||JEY<ref>"GB-JSY" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>||JE
+|-
+|{{Bandiera|Kazakistan}}||[[Kazakistan]]||KAZ||KAZ||KAZ||KZ
+|-
+|{{Bandiera|Kenya}}||[[Kenya]]||KEN||KEN||KEN||KE
+|-
+|{{Bandiera|Kiribati}}||[[Kiribati]]||KIR|| ||KIR||KI
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Kuwait}}||[[Kuwait]]||KUW||KUW||KWT||KW
+|}
+|
+{|class="wikitable sortable" style="font-size:90%"
+|-
+! Bandiera
+! Paese
+! CIO
+! FIFA
+! [[ISO 3166-1 alpha-3|ISO-3]]
+! [[ISO 3166-1 alpha-2|ISO-2]]
+|-
+|{{Bandiera|Kirghizistan}}||[[Kirghizistan]]||KGZ||KGZ||KGZ||KG
+|-
+|{{Bandiera|Laos}}||[[Laos]]||LAO||LAO||LAO||LA
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Lettonia}}||[[Lettonia]]||LAT||LVA||LVA||LV
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Libano}}||[[Libano]]||LIB||LIB||LBN||LB
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Lesotho}}||[[Lesotho]]||LES||LES||LSO||LS
+|-
+|{{Bandiera|Liberia}}||[[Liberia]]||LBR||LBR||LBR||LR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Libia}}||[[Libia]]||LBA||LBY||LBY||LY
+|-
+|{{Bandiera|Liechtenstein}}||[[Liechtenstein]]||LIE||LIE||LIE||LI
+|-
+|{{Bandiera|Lituania}}||[[Lituania]]||LTU||LTU||LTU||LT
+|-
+|{{Bandiera|Lussemburgo}}||[[Lussemburgo]]||LUX||LUX||LUX||LU
+|-
+|{{Bandiera|Macao}}||[[Macao]]<ref>[[Macao]] è chiamato "Macao, Cina" dal CIO, e "Macao" dalla FIFA.</ref>|| ||MAC||MAC||MO
+|-
+|{{Bandiera|Macedonia}}||[[Repubblica di Macedonia|Macedonia]]<ref>La [[Repubblica di Macedonia]] è chiamata "Former Yugoslav Republic Of Macedonia" (Ex Repubblica Jugoslava di Macedonia), in breve "FYR Macedonia" dal CIO e dalla FIFA.</ref>||MKD||MKD||MKD||MK
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Madagascar}}||[[Madagascar]]||MAD||MAD||MDG||MG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Malawi}}||[[Malawi]]||MAW||MWI||MWI||MW
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Malesia}}||[[Malesia]]||MAS||MAS||MYS||MY
+|-
+|{{Bandiera|Maldive}}||[[Maldive]]||MDV||MDV||MDV||MV
+|-
+|{{Bandiera|Mali}}||[[Mali]]||MLI||MLI||MLI||ML
+|-
+|{{Bandiera|Malta}}||[[Malta]]||MLT||MLT||MLT||MT
+|-
+|{{Bandiera|Marocco}}||[[Marocco]]||MAR||MAR||MAR||MA
+|-
+|{{Bandiera|Martinica|local}}||[[Martinica]]|| ||MTQ||MTQ||MQ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Mauritania}}||[[Mauritania]]||MTN||MTN||MRT||MR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Mauritius}}||[[Mauritius]]||MRI||MRI||MUS||MU
+|-
+|{{Bandiera|Mayotte|local}}||[[Mayotte]]|| || ||MYT||YT
+|-
+|{{Bandiera|Messico}}||[[Messico]]||MEX||MEX||MEX||MX
+|-
+|{{Bandiera|Moldavia}}||[[Moldavia]]||MDA||MDA||MDA||MD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Mongolia}}||[[Mongolia]]||MGL||MGL||MNG||MN
+|-
+|{{Bandiera|Montenegro}}||[[Montenegro]]||MNE||MNE||MNE||ME
+|-
+|{{Bandiera|Montserrat}}||[[Montserrat]]|| ||MSR||MSR||MS
+|-
+|{{Bandiera|Mozambico}}||[[Mozambico]]||MOZ||MOZ||MOZ||MZ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Myanmar}}||[[Myanmar]]||MYA||MYA||MMR||MM
+|-
+|{{Bandiera|Namibia}}||[[Namibia]]||NAM||NAM||NAM||NA
+|-
+|{{Bandiera|Nauru}}||[[Nauru]]||NRU|| ||NRU||NR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Nepal}}||[[Nepal]]||NEP||NEP||NPL||NP
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Nicaragua}}||[[Nicaragua]]||NCA||NCA||NIC||NI
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Niger}}||[[Niger]]||NIG||NIG||NER||NE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Nigeria}}||[[Nigeria]]||NGR||NGA||NGA||NG
+|-
+|{{Bandiera|Niue}}||[[Niue]]|| || ||NIU||NU
+|-
+|{{Bandiera|Norvegia}}||[[Norvegia]]||NOR||NOR||NOR||NO
+|-
+|{{Bandiera|Nuova Caledonia}}||[[Nuova Caledonia]]|| ||NCL||NCL||NC
+|-
+|{{Bandiera|Nuova Zelanda}}||[[Nuova Zelanda]]||NZL||NZL||NZL||NZ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Oman}}||[[Oman]]||OMA||OMA||OMN||OM
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Paesi Bassi}}||[[Paesi Bassi]]||NED||NED||NLD||NL
+|-
+|{{Bandiera|Pakistan}}||[[Pakistan]]||PAK||PAK||PAK||PK
+|-
+|{{Bandiera|Palau}}||[[Palau]]||PLW|| ||PLW||PW
+|-
+|{{Bandiera|Panama}}||[[Panama]]||PAN||PAN||PAN||PA
+|-
+|{{Bandiera|Papua Nuova Guinea}}||[[Papua Nuova Guinea]]||PNG||PNG||PNG||PG
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Paraguay}}||[[Paraguay]]||PAR||PAR||PRY||PY
+|-
+|{{Bandiera|Perù}}||[[Perù]]||PER||PER||PER||PE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Polinesia Francese}}||[[Polinesia Francese]]|| ||TAH||PYF||PF
+|-
+|{{Bandiera|Polonia}}||[[Polonia]]||POL||POL||POL||PL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Portogallo}}||[[Portogallo]]||POR||POR||PRT||PT
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Porto Rico}}||[[Porto Rico]]||PUR||PUR||PRI||PR
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Monaco}}||[[Principato di Monaco]]||MON|| ||MCO||MC
+|-
+|{{Bandiera|Qatar}}||[[Qatar]]||QAT||QAT||QAT||QA
+|-
+|{{Bandiera|Regno Unito}}||[[Regno Unito]]<ref>Il nome abbreviato del Regno Unito usato dal CIO è "Gran Bretagna e Irlanda del Nord" o solo "Gran Bretagna".</ref>||GBR|| ||GBR||GB<ref>Tuttavia, il codice di due lettere usato per i dominî Internet del Regno Unito è “uk”.</ref>
+|-
+|{{Bandiera|Réunion}}||[[Réunion]]|| || ||REU||RE
+|-
+|{{Bandiera|Repubblica Ceca}}||[[Repubblica Ceca]]||CZE||CZE||CZE||CZ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Repubblica Centrafricana}}||[[Repubblica Centrafricana]]||CAF||CTA||CAF||CF
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Repubblica del Congo}}||[[Repubblica del Congo]]<ref>La [[Repubblica del Congo]] è chiamata in breve "Congo" dal CIO e dalla FIFA.</ref>||CGO||CGO||COG||CG
+|-
+|{{Bandiera|Repubblica Democratica del Congo}}||[[Repubblica Democratica del Congo]]<ref>La [[Repubblica Democratica del Congo]] è chiamata in breve "DR Congo" dal CIO, e "Congo DR" dalla FIFA.</ref>||COD||COD||COD||CD
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Taiwan}}||[[Repubblica di Cina]] ([[Taiwan]])<ref>I codici TW e TWN si riferiscono a "[[Taiwan]], Provincia della [[Cina]]" nell'elenco dei codici ISO 3166. La [[Repubblica di Cina]] è chiamata "[[Cina Taipei]]" dal CIO e dalla FIFA.</ref>||TPE||TPE||TWN||TW
+|-
+|{{Bandiera|Repubblica Dominicana}}||[[Repubblica Dominicana]]<ref>La [[Repubblica Dominicana]] è chiamata sempre "Repubblica Dominicana" (e mai Dominica) dal CIO e dalla FIFA.</ref>||DOM||DOM||DOM||DO
+|- 
+|{{Bandiera|Romania}}||[[Romania]]||ROU||ROU||ROU||RO
+|-
+|{{Bandiera|Ruanda}}||[[Ruanda]]||RWA||RWA||RWA||RW
+|-
+|{{Bandiera|Russia}}||[[Russia]]||RUS||RUS||RUS||RU
+|-
+|{{Bandiera|Sahara Occidentale}}||[[Sahara Occidentale]]|| || ||ESH||EH
+|-
+|{{Bandiera|Saint Helena}}||[[Sant'Elena (isola)|Sant'Elena]]|| || ||SHN||SH
+|-
+|{{Bandiera|Saint Lucia}}||[[Santa Lucia (stato)|Santa Lucia]]||LCA||LCA||LCA||LC
+|-
+|{{Bandiera|France}}||[[Saint-Barthélemy (Francia)|Saint-Barthélemy]]|| || ||BLM||BL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Saint Kitts e Nevis}}||[[Saint Kitts e Nevis]]||SKN||SKN||KNA||KN
+|-
+|{{Bandiera|France}}||[[Saint-Martin (Francia)|Saint-Martin]]|| || ||MAF||MF
+|-
+|{{Bandiera|Saint-Pierre e Miquelon}}||[[Saint-Pierre e Miquelon]]|| || ||SPM||PM
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Saint Vincent e Grenadine}}||[[Saint Vincent e Grenadine]]||VIN||VIN||VCT||VC
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Samoa}}||[[Samoa]]<ref name="Samoa">Il nome "Samoa" comprende solamente lo stato indipendente di [[Samoa]] e non il territorio statunitense delle [[Samoa Americane]].</ref>||SAM||SAM||WSM||WS
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Samoa Americane}}||[[Samoa Americane]]<ref name="Samoa" />||ASA||ASA||ASM||AS
+|-
+|{{Bandiera|San Marino}}||[[San Marino]]||SMR||SMR||SMR||SM
+|-
+|{{Bandiera|São Tomé e Príncipe}}||[[São Tomé e Príncipe]]||STP||STP||STP||ST
+|-
+|{{Bandiera|Scozia}}||[[Scozia]]|| ||SCO||<ref>"GB-SCT" è il suo codice [[ISO 3166-2]]. Vedi anche [[ISO 3166-2:GB#Codici solo BS]].</ref>
+|-
+|{{Bandiera|Senegal}}||[[Senegal]]||SEN||SEN||SEN||SN
+|-
+|{{Bandiera|Serbia}}||[[Serbia]]||SRB||SRB||SRB||RS
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Seychelles}}||[[Seychelles]]||SEY||SEY||SYC||SC
+|-
+|{{Bandiera|Sierra Leone}}||[[Sierra Leone]]||SLE||SLE||SLE||SL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Singapore}}||[[Singapore]]||SIN||SIN||SGP||SG
+|-
+|{{Bandiera|Siria}}||[[Siria]]||SYR||SYR||SYR||SY
+|-
+|{{Bandiera|Slovacchia}}||[[Slovacchia]]||SVK||SVK||SVK||SK
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Slovenia}}||[[Slovenia]]||SLO||SVN||SVN||SI
+|-
+|{{Bandiera|Somalia}}||[[Somalia]]||SOM||SOM||SOM||SO
+|-
+|{{Bandiera|Spagna}}||[[Spagna]]||ESP||ESP||ESP||ES
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Sri Lanka}}||[[Sri Lanka]]||SRI||SRI||LKA||LK
+|-
+|{{Bandiera|Micronesia}}||[[Stati Federati di Micronesia]]||FSM||FSM||FSM||FM
+|-
+|{{Bandiera|Stati Uniti d'America}}||[[Stati Uniti d'America]]||USA||USA||USA||US
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Sudafrica}}||[[Sudafrica]]||RSA||RSA||ZAF||ZA
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Sudan}}||[[Sudan]]||SUD||SUD||SDN||SD
+|-
+|{{Bandiera|Suriname}}||[[Suriname]]||SUR||SUR||SUR||SR
+|-
+|{{Bandiera|Svalbard e Jan Mayen}}||[[Svalbard e Jan Mayen]]|| || ||SJM||SJ
+|-
+|{{Bandiera|Svezia}}||[[Svezia]]||SWE||SWE||SWE||SE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Svizzera}}||[[Svizzera]]||SUI||SUI||CHE||CH
+|-
+|{{Bandiera|Swaziland}}||[[Swaziland]]||SWZ||SWZ||SWZ||SZ
+|-
+|{{Bandiera|Tagikistan}}||[[Tagikistan]]||TJK||TJK||TJK||TJ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Tanzania}}||[[Tanzania]]||TAN||TAN||TZA||TZ
+|-
+|{{Bandiera|Territori francesi meridionali}}||[[Territori francesi meridionali]]|| || ||ATF||TF
+|-
+|{{Bandiera|Territorio Britannico dell'Oceano Indiano}}||[[Territorio Britannico dell'Oceano Indiano]]|| ||||IOT||IO
+|-
+|{{Bandiera|Thailandia}}||[[Thailandia]]||THA||THA||THA||TH
+|-
+|{{Bandiera|Timor Est}}||[[Timor Est]]<ref>[[Timor Est]] (o Timor-Leste) è generalmente conosciuta come "[[Timor Est]]". Il [[Timor Ovest]] fa parte dell'[[Indonesia]].</ref>||TLS||TLS||TLS||TL
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Togo}}||[[Togo]]||TOG||TOG||TGO||TG
+|-
+|{{Bandiera|Tokelau}}||[[Tokelau]]|| || ||TKL||TK
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Tonga}}||[[Tonga]]||TGA||TGA||TON||TO
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Trinidad e Tobago}}||[[Trinidad e Tobago]]||TRI||TRI||TTO||TT
+|-
+|{{Bandiera|Tunisia}}||[[Tunisia]]||TUN||TUN||TUN||TN
+|-
+|{{Bandiera|Turchia}}||[[Turchia]]||TUR||TUR||TUR||TR
+|-
+|{{Bandiera|Turkmenistan}}||[[Turkmenistan]]||TKM||TKM||TKM||TM
+|-
+|{{Bandiera|Tuvalu}}||[[Tuvalu]]||TUV|| ||TUV||TV
+|-
+|{{Bandiera|Uganda}}||[[Uganda]]||UGA||UGA||UGA||UG
+|-
+|{{Bandiera|Ucraina}}||[[Ucraina]]||UKR||UKR||UKR||UA
+|-
+|{{Bandiera|Ungheria}}||[[Ungheria]]||HUN||HUN||HUN||HU
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Uruguay}}||[[Uruguay]]||URU||URU||URY||UY
+|-
+|{{Bandiera|Uzbekistan}}||[[Uzbekistan]]||UZB||UZB||UZB||UZ
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Vanuatu}}||[[Vanuatu]]||VAN||VAN||VUT||VU
+|-
+|{{Bandiera|Venezuela}}||[[Venezuela]]||VEN||VEN||VEN||VE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Vietnam}}||[[Vietnam]]||VIE||VIE||VNM||VN
+|-
+|{{Bandiera|Wallis e Futuna}}||[[Wallis e Futuna]]|| || ||WLF||WF
+|-
+|{{Bandiera|Yemen}}||[[Yemen]]||YEM||YEM||YEM||YE
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Zambia}}||[[Zambia]]||ZAM||ZAM||ZMB||ZM
+|- bgcolor="#FFE4B5"
+|{{Bandiera|Zimbabwe}}||[[Zimbabwe]]||ZIM||ZIM||ZWE||ZW
+|-
+|{{Bandiera|Åland}}||[[Åland]]|| || ||ALA||AX
+|}
+|}
+
+{{references|2}}
+
+== Vôsce cullegate ==
+* [[ISO 3166-1]]
+* [[Liste de le codece naziunele d'a FIFA]]
+* [[Liste de le codece naziunele d'u CIO]]
+
+[[Category:Liste di codici nazionali|Confronto]]
+
+[[bg:Спортни кодове на държави и територии]]
+[[cy:Cymhariaeth byrfoddau gwledydd yn ôl yr IOC, FIFA ac ISO]]
+[[en:Comparison of IOC, FIFA, and ISO 3166 country codes]]
+[[id:Daftar perbedaan kode negara KOI, FIFA, dan ISO 3166]]
+[[pt:Comparação entre códigos de países COI, FIFA, e ISO 3166]]
