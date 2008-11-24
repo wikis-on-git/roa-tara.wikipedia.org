@@ -1,1 +1,55 @@
 [[Image:HersheyChaseEx.png|thumb|Visione de l'esperimende]]
+
+'''L'esperimende de Alfred D. Hershey e Martha Chase''' prove definitivamende jndr'à 'u [[1953]] ca 'u materiele genetiche jè costituite da [[DNA]] e non da proteine. Cchiù nnande a chiste resultete incontrovertibbeli pure le scenziete ca averene critichete l'[[Esperimende de Avery|esperimende di Avery, MacLeod e McCarty]] se convingerene da l'imbortandissime ruole biologiche d'u DNA.
+
+== Scheme de l'esperimende ==
+Hershey e Chase svolgevano studi su un [[fago]], ovvero un [[Vira|virus]] in grado di infettare i batteri; in particolare il fago di loro interesse era noto come "[[T2]]". Questo virus è in grado di attaccare ''[[E. coli]]'' (un batterio utilizzato spesso come modello in questo genere di studi).
+
+All'epoca era noto che T2 era formato ''esclusivamente'' da DNA protetto da un involucro proteico.
+
+I due scienziati prepararono in parallelo due colture di ''E. coli'':
+* Nel terreno di coltura della prima introdussero fosforo marcato radioattivamente (l'[[isotopo]] <sup>32</sup>P).
+* Nel terreno di coltura della seconda introdussero zolfo marcato radioattivamente (l'isotopo <sup>35</sup>S).
+
+I batteri delle due colture metabolizzarono da una parte il fosforo marcato e dall'altra lo zolfo marcato introducendo questi atomi radioattivi nelle biomolecole presenti all'interno delle cellule. 
+In particolare:
+* Il fosforo marcato si troverà in gran parte nei [[nucleotide | nucleotidi]] e di conseguenza anche negli acidi nucleici; non sarà presente invece in quantità significative nelle proteine.
+* Lo zolfo marcato si troverà nelle [[proteine]] (in particolare nell'amminoacido [[cisteina]]) e non si troverà nei nucleotidi.
+
+A questo punto i ricercatori infettarono parallelamente le due colture batteriche con il fago T2. Questo virus utilizza l'apparato biosintetico delle cellule di ''E. coli'' per replicare il proprio DNA e per sintetizzare le proteine del rivestimento (cfr. [[Ciclo litico di un virus]]). 
+
+Dal momento che i nucleotidi e gli amminoacidi utilizzati nella sintesi del DNA e delle proteine virali sono quelli presenti all'interno della cellula infettata, ne risulta che i fagi sviluppati dall'infezione nella prima coltura avranno un DNA marcato radioattivamente, mentre quelli sviluppati dall'infezione della seconda coltura avranno il rivestimento proteico esterno marcato radioattivamente.
+
+<center>[[immagine:Esperimento_Hershey-Chase1.png]]</center>
+
+Hershey e Chase separarono i fagi neoformati (quelli marcati) dai due terreni di coltura e, separatamente, li utilizzarono per infettare altre due colture di ''E. coli'', in questo caso cresciute su terreni "standard" privi di isotopi radioattivi.
+
+* Nel caso in cui i fagi infettanti avessero il DNA marcato, in seguito all'infezione gran parte della radioattività veniva misurata ''all'interno'' delle cellula batteriche colpite (e nel DNA di una parte dei nuovi fagi sviluppatisi in seguito a questa infezione).
+  
+* Nel caso in cui i fagi infettanti avessero il rivestimento proteico marcato la radioattività veniva misurata solamente ''all'esterno'' delle cellule batteriche colpite (e non era presente sul rivestimento proteico dei nuovi fagi sviluppatisi in seguito a questa infezione).
+
+Il processo utilizzato per determinare se la radioattività provenisse dall'interno o dall'esterno delle cellule fu il seguente: dopo un certo tempo dall'inizio dell'infezione, il terreno di coltura veniva posto in un omogenizzatore. La conseguente agitazione provocava il distacco del rivestimento proteico dei virus dalla membrana cellulare (in questo caso si parla di "''ombre fagiche''" poiché questi rivestimenti proteici non contengono il DNA che è già stato iniettato nella cellula).
+Il tutto veniva poi centrifugato: la parte cellulare (contenente eventualmente il DNA marcato) rimaneva sul fondo della provetta, mentre i rivestimenti proteici distaccati dalle membrane cellulari rimanevano in sospensione. A seconda di dove si misurava la maggiore radioattività era possibile dedurre se la molecola marcata si trovasse o meno all'interno della cellula.
+
+Nel caso del DNA marcato la radioattività si misurò sul fondo della provetta:
+
+<center>[[immagine:Esperimento_Hershey-Chase3.png]]</center>
+
+Nel caso delle proteine marcate la radioattività si misurò sul sopranatante:
+
+<center>[[immagine:Esperimento_Hershey-Chase2.png]]</center>
+
+== Conclusione ==
+Dal momento che il fago per replicarsi ha bisogno di introdurre all'interno della cellula ospite il suo materiale genetico per poter sfruttare l'apparato batterico di [[replicazione del DNA|replicazione]] / [[trascrizione (biologia)|trascrizione]] / [[traduzione (biologia)|traduzione]], appare evidente che questo materiale genetico deve essere per forza il DNA poiché, come dimostrato, le proteine non entrano nella cellula colpita mentre il DNA sì.
+
+A questo punto rimaneva aperta un'ultima questione: "''Di cosa è fatto il materiale genetico degli "organismi" che non contengono DNA (i virus a RNA)?''".
+La risposta a questa domanda non tardò ad arrivare in seguito a studi condotti sul virus del mosaico del tabacco (TMV) da ''[[Esperimenti su TMV | Gierer e Schramm (1956) e da Fraenkel-Conrat e Singer (1957)'']].
+
+[[Categoria:Esperimenti classici (genetica)]]
+{{censbio}} <!--Template di servizio del Progetto Bio - Si prega di non cancellare!-->
+
+[[de:Hershey-Chase-Experiment]]
+[[en:Hershey-Chase experiment]]
+[[es:Experimento de Hershey y Chase]]
+[[pl:Eksperyment Hersheya-Chase]]
+[[zh:赫希-蔡斯實驗]]
