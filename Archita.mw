@@ -54,7 +54,7 @@ Siccome ca Archita ere 'nu [[pitagoriche]], 'a matemateche ere 'cambe d'azione p
 Seconde [[Eutocio]] de Ascalona, 'u probbleme d'a ''"duplicazzione d'u cube"'', ca già in passate [[Ippocrate de Chio]] avère ricondotte a 'nu probbleme de proporzionalitate, avenìe resolte da Archita ausanne 'na costruzione geometriche ca ausave 'na curve ca pigghije 'u nome sue. 'N'otra scuperte indressande assaije jndr'à 'u cambe d'a matemateche, de Archita, '' 'a teorie de le proporziune'', jè quedde ca dice ''non ge pò essere nisciune numere ca jè 'nu mmienze geometriche 'mbrà doje numere jndr'à 'u rapporte (n+1): n''. 'A cose cchiù interessande sus 'a deduziona soje ète ca jè vicine a quedde de [[Euclide]], ca fu formulata 'nu sacche de anne cchiù tarde, e ca cite jndr'ò le note teoreme d'u VIII Libbre de le [[Eleminde de Euclide]].
 
 === Curva de Archita ===
-È la prima curva gobba (cioè non contenuta in alcun piano) che si incontra nella storia della matematica, introdotta da Archita per risolvere il problema della duplicazione del cubo. Alla sua equazione si arriva nel seguente modo: dati due segmenti <math>a</math>, <math>b</math> siano <math>u</math> e <math>v</math> i loro medi proporzionali, cioè sia <math>a:u=u:v=v:b</math>.
+Ète 'a prima curve cu 'u sciumme (cioè ca non ge stè jndr'à nisciune piane) ca se 'ngondre jndr'à storie d'a matemateche, 'ndrodotte da Archita pe resolvere 'u probbleme d'a duplicazione d'u cube. A l'equaziona soje se arrive jndr'à 'u seguende mode: date doje segmende, <math>a</math>, <math>b</math> onna essere <math>u</math> e <math>v</math> le lore proporzionale medie, ca vvò ccu dice <math>a:u=u:v=v:b</math>.
 :<math>
 \left\{
 \begin{matrix}
@@ -64,7 +64,7 @@ v = \sqrt{x^2+y^2}
 \right.
 </math>
 
-Sostituendo questi valori nella proporzione si ricavano le seguenti relazioni:
+Cangianne ste valure jndr'à proporzzione se recavescene le relaziune seguende:
 :<math>
 \left\{
 \begin{matrix}
@@ -74,7 +74,8 @@ x^2+y^2+z^2 = \frac{a^2}{b^2} x^2
 \end{matrix}
 \right.
 </math>
-che sono equazioni di superfici. La prima è un toro, le altre due sono un cilindro e un cono quadrici che si incontrano lungo una linea di quart'ordine che costituisce la curva di Archita. Se si proietta questa curva sul piano <math>xy</math>, la sua equazione in coordinate polari <math>(\rho, \theta)</math> è la seguente:
+
+ca sonde equazione de superficie. 'A prime ète 'nu tore, le otre e doje sonde 'nu cilindre e 'nu cone quadratece ca se 'ngrondescene lunghe 'na linea de quart'ordine ca costituisce 'a curve de Archita. Ce se proiette sta curve sus a 'u piane <math>xy</math>, l'equaziona soje cu le coordinate polare <math>(\rho, \theta)</math> ète 'a seguende:
 :<math>
 \rho = \frac{b^2}{a cos^2 \theta}
 </math>
