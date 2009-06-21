@@ -7,7 +7,7 @@ Partenne da 'a metà de l'[[anne 1980|anne '80]] le codece a doje lettere onne s
 
 Le doje lettere d'u codece ISO 3166-1 crejene le prime doje lettere de le codece stàndàrd [[ISO 4217]] pe le [[valute]].
 
-Sonde pure ausare pe le "Numere de Condo Corrente Bancarie 'Ndernaziunele" ([[ISO 6166]]),  jndr'à 'u "Numere de Identificazione 'Ndernaziunele de le Struminde Finanziarie" ([[ISIN]] [[ISO 7372]]), jndr'à l'[[ISO 9375]], jndr'à 'u stàndàrd ISO/IEC 7501-1 pe le documende de viaggie ca ponne essere litte da le maghene, jndr'à l'[[UN/LOCODE]] (p'a codifiche de le nome de puerte e aeropuerte, ecc.), e jndr'à 'u stàndàrd [[WIPO]] ST.3 (pe codificà 'a nazione ca cerche 'nu brevette).
+Sonde pure ausare pe le "Numere de Condo Corrente Bancarie 'Ndernaziunele" ([[ISO 6166]]), jndr'à 'u "Numere de Identificazione 'Ndernaziunele de le Struminde Finanziarie" ([[ISIN]] [[ISO 7372]]), jndr'à l'[[ISO 9375]], jndr'à 'u stàndàrd ISO/IEC 7501-1 pe le documende de viaggie ca ponne essere litte da le maghene, jndr'à l'[[UN/LOCODE]] (p'a codifiche de le nome de puerte e aeropuerte, ecc.), e jndr'à 'u stàndàrd [[WIPO]] ST.3 (pe codificà 'a nazione ca cerche 'nu brevette).
 
 Le cangiaminde a l'ISO 3166-1 alpha-2 sonde tracciate da l' [[ISO 3166-3]].
 
@@ -39,7 +39,7 @@ Ce 'nu codece non ge ste jndr'à liste allre pò essere ca ète 'nu codece vicch
 |-
 |9 || '''AO''' || [[Angola]] || 
 |-
-|10 || '''AQ''' || [[Antartico]] || aqquà definite cumme tutte quidde ca stè a 'u Sud de le 60&deg;S di [[latitudine]]
+|10 || '''AQ''' || [[Antartico]] || aqquà definite cumme tutte quidde ca stè a 'u Sud de le 60°S di [[latitudine]]
 |-
 |11 || '''AR''' || [[Argentina]] || 
 |-
@@ -589,7 +589,7 @@ Vide Bbuene:<br/>
 #Codece sotte a le Convenziune sus a 'u traffeche d'u 1968.
 #Stu codece avène ausete pe 'ndicà a Bolivia e 'u Botswana.
 
-==== Codece ca non ge s'onne ausà ==== 
+==== Codece ca non ge s'onne ausà ====
 Osce a die l'ISO 3166 MA ha ditte ca non ge s'onne ausà le codece c'avènene de l'alpha-2 d'u stàndàrd WIPO ST.3.
 
 Comunque ste reservaziune non ge sonde classificate cumme a tranzitorie, indeterminete o eccezziunele purcè non ge sonde riferite a naziune, dipendenze o otre reggione sciugrafiche:
@@ -645,6 +645,7 @@ Ste codece sonde vicchje e onne state reterete, vò ccu dice ca non ge sonde cch
 [[Category:Liste de codece naziunele]]
 
 [[en:ISO 3166-1 alpha-2]]
+[[hr:ISO 3166-1 alpha-2]]
 [[id:ISO 3166-1 alpha-2]]
 [[it:ISO 3166-1 alpha-2]]
 [[ko:ISO 3166-1 alpha-2]]
