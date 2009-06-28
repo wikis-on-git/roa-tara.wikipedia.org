@@ -11,25 +11,25 @@ Stè ccréjame 'na [['ngeclopedije]] [[GNU Free Documentation License|lìbbere]]
 {{finestra|col1=1160A5|col2=F0F8FF|sfondo=sfondo_bagliore.png|titolo=Battaglia Vinta|contenuto='''Uicchipedie in Tarandine non g'achiude!|leggi=Wikipedia:Wiki in tarantino non chiude|font-size=12}}
 ----
 
-<div style="float:left; clear:left; width:59%">
+<div style="float:left; clear:left; width:57%">
 {{FinestraVert
 |titolo=Convenzioni d'u Tarandìne
 |padding=0|contenuto={{Convenzioni d'u Tarandìne}}
 }}</div>
 
-<div style="float:right; clear:right; width:40%">
+<div style="float:right; clear:right; width:42%">
 {{FinestraVert
 |titolo=Sommarie
 |padding=0|contenuto={{Elenco Categorie Principali}}
 }}</div>
 
-<div style="float:left; clear:left; width:59%">
+<div style="float:left; clear:left; width:57%">
 {{FinestraVert
 |titolo=Prùggette Wikifratellanza
 |padding=0|contenuto={{Wikifratellanza}}
 }}</div>
 
-<div style="float:left; clear:left; width:59%">
+<div style="float:left; clear:left; width:57%">
 {{FinestraVert
 |titolo=Uicchipèdie d'u Munne
 |padding=0|contenuto={{Uicchi d'u Munne}}
