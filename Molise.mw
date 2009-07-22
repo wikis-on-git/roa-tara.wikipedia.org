@@ -1,20 +1,32 @@
 {{s}}
-{{GeoBox NomeRegione|Molise}} 
-{{GeoBox Stemma e Bandiera|Regione-Molise-Stemma.svg|Flag of Molise.svg}}
-{{GeoBox NomeOriginale|'''Molise'''}} 
-{{GeoBox Stato Bandiera|ITA}}
-{{GeoBox Capoluogo|Cambevasce}}
-{{GeoBox Coordinate Linkate|41|40|N|14|30|E}}
-{{GeoBox Superficie|4.438}}
-{{GeoBox PopolazioneCitta|abitanti=320.838|anno=31-12-2007}}
-{{GeoBox Densita|72,29}}
-{{GeoBox Suddivisione Generica|Presedente|[[Michele Iorio]] (PDL)}}
-{{GeoBox Suddivisione Generica|[[Provinge tagliáne|Provinge]]|[[File:Provincia di Campobasso-Stemma.png|25px]] [[Provinge de Cambevasce|Cambevasce]] </br>
-[[File:Provincia di Isernia-Stemma.png|25px]] [[Provinge de Isernia|Isernia]] </br>}}
-{{GeoBox Suddivisione Generica|[[Comune tagliáni|Comune]]|[[:Category:Comune d'u Molise|136]] comune}}
-{{GeoBox Mappa|MOL-Mappa.png}}
-{{GeoBox Sito|http://www.regione.molise.it}}
-{{GeoBox Fine}}
+'''{{Coord|41|40|N|14|30|E|region:IT_type:adm1st(320907)_source:GNS-enwiki|display=title}}
+
+<!-- Il testo commentato è SOLO UN ESEMPIO -->
+{{Regione
+|nomeRegione = Regione Molise
+|linkBandiera = Flag of Molise.svg
+|linkStemma = Regione-Molise-Stemma.svg
+|zona = [[Italia meridionale]]
+|capoluogo = [[Campobasso]]
+|superficie = 4.438
+|abitanti = 320.838
+|anno = 2007 <!-- solo valore numerico dell'anno di riferimento  -->
+|densita = 72,29
+|province = {{IT-CB}}, {{IT-IS}} 
+|categoriaComuni = Comuni del Molise
+|numeroComuni = 136
+|presidente =[[Michele Iorio]]
+|presidentePartito = [[Il Popolo della Libertà|PDL]]
+|presidenteData = 2001
+|giunta = [[Casa delle Libertà]]
+|consiglio =
+|elezioniUltime = [[Elezioni regionali in Molise del 2006|5 e 6 novembre 2006]]
+|elezioniProssime = 2011
+|linkMappa = Molise-Mappa.png
+|note =  <!-- note libere -->
+|sito = http://www.regione.molise.it/web/PortaleRegioneMolise.nsf?Open
+}} <!-- fine della tabella - per la compilazione vedi -> Aiuto:Regione -->
+
 'U '''Molise''' éte na reggione [[Italie|tagliáne]]. 'U capeluoghe éte [[Cambevasce]].
 
 == Storie ==
@@ -24,6 +36,7 @@
 Image:Molise Provinces.png|Provinge
 Image:Regione Molise 2.svg|Mappa (2)
 </gallery>
+
 === Provinge ===
 {|
 | valign="top" |
@@ -46,8 +59,7 @@ Image:Regione Molise 2.svg|Mappa (2)
 * [[Cambevasce]]
 * [[Isernia]]
 
-
-== Ati pruggette ==
+== Otre pruggette ==
 * [[File:Commons-logo.svg|20px]] '''[[:Commons:Main Page|Wikimedia Commons]]''' tene file multimediale pe la '''[[:commons:Category:Molise|Molise]]'''
 
 == Collegamende sus a indernette ==
