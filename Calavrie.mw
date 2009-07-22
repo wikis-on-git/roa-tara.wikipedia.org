@@ -1,23 +1,29 @@
 {{s}}
-{{GeoBox NomeRegione|Calavrie}} 
-{{GeoBox Stemma e Bandiera|Coat of arms of Calabria.svg|Flag of Calabria.svg}}
-{{GeoBox NomeOriginale|'''Calabria'''}} 
-{{GeoBox Stato Bandiera|ITA}}
-{{GeoBox Capoluogo|Catanzaro}}
-{{GeoBox Coordinate Linkate|39|00|N|16|30|E}}
-{{GeoBox Superficie|15.082}}
-{{GeoBox PopolazioneCitta|abitanti=2.009.124|anno=31-11-2008}}
-{{GeoBox Densita|133,1}}
-{{GeoBox Suddivisione Generica|Presedente|[[Agazio Loiero]] (PD)}}
-{{GeoBox Suddivisione Generica|[[Provinge tagliáne|Provinge]]|[[File:Provincia di Catanzaro-Stemma.png|25px]] [[Provinge de Catanzaro|Catanzaro]] </br>
-[[File:Provincia di Cosenza-Stemma.png|25px]] [[Provinge de Cosenza|Cosenza]] </br>
-[[Image:Italy.Province.Crotone.COA.png||25px]] [[Provinge de Crotone|Crotone]] </br>
-[[File:Provincia di Reggio Calabria-Stemma.png|25px]] [[Provinge de Reggio Calavrie|Reggio Calavrie]] </br>
-[[File:Provincia di Vibo Valentia-Stemma.png|25px]] [[Provinge de Vibo Valentia|Vibo Valentia]] </br>}}
-{{GeoBox Suddivisione Generica|[[Comune tagliáni|Comune]]|[[:Category:Comune d'a Calavrie|409]] comune}}
-{{GeoBox Mappa|CAL-Mappa.png}}
-{{GeoBox Sito|http://www.regione.calabria.it}}
-{{GeoBox Fine}}
+{{Coord|39|00|N|16|30|E|type:adm1st(2004415)|region:IT|display=title}}
+{{quote|Patisco d'amor patrio, soffro di sentimentalità per il glorioso nostro passato, mi cruccio dell'abbandono in cui siamo caduti e tenuti... e specialmente cerco di far apparire nobile, grande e bella la nostra Calabria, anche quando è giustamente accusata.|Francesco Jerace, 1909}}
+{{Regione
+|nomeRegione = Regione Calabria
+|linkStemma = Coat of arms of Calabria.svg
+|linkBandiera = Flag of Calabria.svg
+|zona = [[Italia meridionale]]
+|capoluogo = [[Catanzaro]]
+|superficie = 15.082
+|abitanti = 2.009.124|anno = 11-2008
+|densita = 133,1
+|province ={{IT-CZ}}<br/> {{IT-CS}}<br/> {{IT-KR}}<br/> {{IT-RC}}<br/> {{IT-VV}}
+|categoriaComuni = Comuni della Calabria
+|numeroComuni = 409
+|presidente = [[Agazio Loiero]]
+|presidentePartito = [[Partito Democratico (Italia)|Partito Democratico]]
+|presidenteData = 2005
+|giunta = [[L'Unione]]
+|consiglio =
+|elezioniUltime = [[Elezioni regionali italiane del 2005|4 aprile 2005]]
+|elezioniProssime = 2010
+|linkMappa = Regione-Calabria-Posizione.png
+|sito = http://www.regione.calabria.it/
+}} <!-- fine della tabella - per la compilazione vedi -> Aiuto:Regione -->
+
 'A '''Calavrie''' éte na reggione [[Italie|tagliáne]]. 'U capeluoghe éte [[Catanzaro]].
 
 == Storie ==
