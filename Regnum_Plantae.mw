@@ -158,7 +158,7 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 
 <tr>
 <td rowspan="10"><center><small>[[Pinophyta]]</td>
-<td  rowspan="4"><center><small>[[Cycadatae]]</td>
+<td rowspan="4"><center><small>[[Cycadatae]]</td>
 <td><center><small>-</td>
 <td><center><small>[[Pteridospermales]]</td>
 <td><center><small>-</td>
@@ -254,7 +254,7 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 
 
 <tr>
-<td rowspan="190"><center><small>[[Magnoliophyta]]  ([[Magnoliophyta|Angio-spermatophyta]])</td>
+<td rowspan="190"><center><small>[[Magnoliophyta]] ([[Magnoliophyta|Angio-spermatophyta]])</td>
 <td rowspan="109"><center><small>[[Magnoliatae]] ([[Magnoliatae|Dicotiledonatae]])</td>
 <td rowspan="15"><center><small>[[Magnoliidae]]</td>
 <td rowspan="2"><center><small>[[Magnoliales]]</td>
@@ -604,10 +604,10 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 </td>
 
 <tr>
-<td  rowspan="10"><center><small>[[Caryophyllidae]]</td>
-<td  rowspan="8"><center><small>[[Caryophyllales]]</td>
-<td  rowspan="8"><center><small>[[Caryophyllaceae]]</td>
-<td  rowspan="4"><center><small>[[Alsinoideae]]</td>
+<td rowspan="10"><center><small>[[Caryophyllidae]]</td>
+<td rowspan="8"><center><small>[[Caryophyllales]]</td>
+<td rowspan="8"><center><small>[[Caryophyllaceae]]</td>
+<td rowspan="4"><center><small>[[Alsinoideae]]</td>
 <td><center><small>[[Stellaria]]</td>
 <td><center><small>[[-]]</td>
 </td>
@@ -767,7 +767,7 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 </td>
 
 <tr>
-<td  rowspan="2"><center><small>[[Plantaginaceae]]</td>
+<td rowspan="2"><center><small>[[Plantaginaceae]]</td>
 <td><center><small>-</td>
 <td><center><small>[[Plantago]]</td>
 <td><center><small>[[-]]</td>
@@ -1070,7 +1070,7 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 
 <tr>
 <td><center><small>-</td>
-<td><center><small>[[Cypripedium ]]</td>
+<td><center><small>[[Cypripedium]] </td>
 <td><center><small>[[-]]</td>
 </td>
 
@@ -1109,7 +1109,7 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 
 <tr>
 <td><center><small>-</td>
-<td><center><small>[[Schoenoplectus ]]</td>
+<td><center><small>[[Schoenoplectus]] </td>
 <td><center><small>[[Schoenoplectus lacustris]]</td>
 </td>
 
@@ -1126,8 +1126,8 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 </td>
 
 <tr>
-<td  rowspan="17"><center><small>[[Poales]]</td>
-<td  rowspan="17"><center><small>[[Poaceae]]</td>
+<td rowspan="17"><center><small>[[Poales]]</td>
+<td rowspan="17"><center><small>[[Poaceae]]</td>
 <td><center><small>-</td>
 <td><center><small>[[Triticum]]</td>
 <td><center><small>[[-]]</td>
@@ -1229,9 +1229,9 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 </td>
 
 <tr>
-<td  rowspan="16"><center><small>[[Arecidae]]</td>
-<td  rowspan="6"><center><small>[[Arales]]</td>
-<td  rowspan="3"><center><small>[[Araceae]]</td>
+<td rowspan="16"><center><small>[[Arecidae]]</td>
+<td rowspan="6"><center><small>[[Arales]]</td>
+<td rowspan="3"><center><small>[[Araceae]]</td>
 <td><center><small>[[-]]</td>
 <td><center><small>[[Arum]]</td>
 <td><center><small>[[-]]</td>
@@ -1379,7 +1379,6 @@ Queste jè 'a gerarchije ''Regnum Plantae'' addò se iacchiene tutte le chiande 
 [[pnb:پودا]]
 [[pt:Plantae]]
 [[qu:Yura]]
-[[rm:Plantas]]
 [[ro:Plantă]]
 [[ru:Растения]]
 [[sah:Үүнээйи]]
