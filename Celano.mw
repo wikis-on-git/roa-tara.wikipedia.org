@@ -1,4 +1,32 @@
 {{S}}
+{{Comune
+|nomeComune =Celano <!--scrivere qui il nome del comune-->
+|linkStemma = Celano-Stemma.png
+|panorama = Castello_Piccolomini_e_Borgo_di_Celano.jpg
+|nomepaese =[[Italia]] <!--non modificare-->
+|nomeregione =[[Abruzzo]] <!--regione di appartenenza - con doppie parentesi quadre-->
+|siglaRegione = ABR
+|nomeprovincia =dell'Aquila <!--nome provincia di appartenenza - senza parentesi quadre - col prefisso di Xxx-->
+|siglaProvincia = AQ <!--sigla della provincia di appartenenza - senza parentesi quadre-->
+|latitudine =42° 05‘ <!--scrivere la latitudine del capoluogo del comune - non scrivere Nord che viene messo automaticamente-->
+|longitudine =13° 33‘ <!--scrivere la longitudine del capoluogo del comune - non scrivere Est che viene messo automaticamente-->
+|altitudine = &nbsp; <!--scrivere l'altezza del capoluogo del comune in metri - non scrivere la m finale che viene messa automaticamente-->
+|superficie =91 <!--scrivere la superficie del comune (in km²) - di solito con due decimali - - non scrivere km² che viene messo automaticamente-->
+|abitanti =10.978 <!--scrivere la popolazione totale del comune - col punto separatore delle migliaia - eventualmente aggiungere <small>2001</small>-->
+|anno = 2001
+|densita =121 <!--scrivere la densità  di popolazione del comune - con due decimali-->
+|frazionicomune =&nbsp; <!--Eventuali frazioni - se non ci sono lasciare lo spazio &nbsp; - non scrivere nella riga sopra, ma solo in questa - nomi senza parentesi quadre (di norma) - separati da virgola e spazio - non usare <br> perché  va a capo automaticamente-->
+|comuniLimitrofi =[[Aielli]], [[Avezzano]], [[Castelvecchio Subequo]], [[Cerchio (Italia)|Cerchio]], [[Collarmele]], [[Gagliano Aterno]], [[Luco dei Marsi]], [[Ovindoli]], [[Pescina]], [[San Benedetto dei Marsi]], [[Secinaro]], [[Trasacco]] 
+|cap =67043 <!--codice di avviamento postale del comune - anche più di uno-->
+|prefisso =0863 <!--prefisso telefonico del comune - anche più di uno-->
+|istat =066032 <!--codice istat del comune - 6 cifre con 0 iniziale-->
+|fiscale =C426 <!--iniziale del codice fiscale-->
+|nomeabitanti =Celanesi <!--nome degli abitanti-->
+|nomepatrono =Santi Martiri <!--nome del Santo Patrono del Comune-->
+|datapatrono =24, 25, 26 agosto
+|sito =http://www.comune.celano.aq.it/ <!--sito internet ufficiale del comune - con singole parentesi quadre-->
+}}
+
 '''Celano''' éte 'nu comune [[Italie|tagliáne]] de 11.075 crestiáne.
 
 [[Category:Comune de l'Abbruzze]]
