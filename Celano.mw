@@ -6,11 +6,11 @@
 |nomepaese =[[Italia]] <!--non modificare-->
 |nomeregione =[[Abruzzo]] <!--regione di appartenenza - con doppie parentesi quadre-->
 |siglaRegione = ABR
-|nomeprovincia =dell'Aquila <!--nome provincia di appartenenza - senza parentesi quadre - col prefisso di Xxx-->
-|siglaProvincia = AQ <!--sigla della provincia di appartenenza - senza parentesi quadre-->
-|latitudine =42° 05‘ <!--scrivere la latitudine del capoluogo del comune - non scrivere Nord che viene messo automaticamente-->
-|longitudine =13° 33‘ <!--scrivere la longitudine del capoluogo del comune - non scrivere Est che viene messo automaticamente-->
-|altitudine = &nbsp; <!--scrivere l'altezza del capoluogo del comune in metri - non scrivere la m finale che viene messa automaticamente-->
+|nomeprovincia =L'Aquila <!--nome provincia di appartenenza - senza parentesi quadre - col prefisso di Xxx-->
+|siglaProvincia = AQ 
+|latitudine =42° 05‘ 
+|longitudine =13° 33‘
+|altitudine = &nbsp; 
 |superficie =91 <!--scrivere la superficie del comune (in km²) - di solito con due decimali - - non scrivere km² che viene messo automaticamente-->
 |abitanti =10.978 <!--scrivere la popolazione totale del comune - col punto separatore delle migliaia - eventualmente aggiungere <small>2001</small>-->
 |anno = 2001
