@@ -1,4 +1,31 @@
 {{S}}
+{{Comune
+|nomeComune = Lei
+|linkStemma = Lei-Stemma.png
+|siglaRegione = SAR
+|siglaProvincia = NU
+|latitudineGradi = 40
+|latitudineMinuti = 18
+|latitudineSecondi = 0
+|longitudineGradi = 8
+|longitudineMinuti = 55
+|longitudineSecondi = 0
+|altitudine = 500 <!-- solo valore numerico dell'altitudine -->
+|superficie = 19,01
+|abitanti = 601
+|anno = 31-12-04
+|densita = 31,61
+|frazioni =  <!-- elenco delle frazioni, separate da virgola e spazio - senza ritorni a capo -->
+|comuniLimitrofi = [[Bolotana]], [[Silanus]]
+|cap = 08010
+|prefisso = [[0785]]
+|istat = 091038
+|fiscale = E517 <!-- B102 -->
+|nomeAbitanti =  leiesi <!-- nome degli abitanti minuscolo --> 
+|patrono =  <!-- [[San Pietro]]-->
+|festivo =  <!-- [[7 aprile]] -->
+|sito =  http://www.comune.lei.nu.it <!-- http://www.comune.bovezzo.bs.it/ -->
+}} 
 '''Lei''' éte 'nu comune [[Italie|tagliáne]] de 601 crestiáne.
 
 [[Category:Comune d'a Sardegna]]
