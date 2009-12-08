@@ -1,32 +1,32 @@
 {{S}}
-{{Comune
+{{Comune  <!-- per la compilazione vedi Aiuto:Comune -->
 |nomeComune = Acqui Terme
-|panorama = 
-|linkStemma = Acqui Terme Stemma.gif
+|panorama = Acqui Terme – La Bollente.jpg
+|linkStemma = Acqui Terme-Stemma.png
 |siglaRegione = PMN
 |siglaProvincia = AL
 |latitudineGradi = 44
 |latitudineMinuti = 40
-|latitudineSecondi = 34
+|latitudineSecondi = 034
 |longitudineGradi = 8
 |longitudineMinuti = 28
 |longitudineSecondi = 7
-|mappaX = 205
-|mappaY = 214
-|altitudine = 156 
-|superficie = 33,42 
+|altitudine = 156
+|superficie = 33,42
 |abitanti = 20.488
 |anno = 30-09-2008 (fonte Istat)
 |densita = 613
-|frazioni = Lussito, Moirano, Ovrano.
-|comuniLimitrofi = [[Alice Bel Colle]], [[Carpeneto]], [[Castel Rocchero]] (AT), [[Cavatore]], [[Grognardo]], [[Melazzo]], [[Montabone]] (AT), [[Ricaldone]], [[Strevi]], [[Terzo]], [[Visone]].
+|frazioni = Lussito, Moirano, Ovrano
+|comuniLimitrofi = [[Alice Bel Colle]], [[Castel Rocchero]] (AT), [[Cavatore]], [[Grognardo]], [[Melazzo]], [[Montabone]] (AT), [[Ricaldone]], [[Strevi]], [[Terzo (Italia)|Terzo]], [[Visone (Italia)|Visone]], [[Carpeneto]]
 |cap = 15011
-|prefisso = 0144
+|prefisso = [[0144]]
 |istat = 006001
-|fiscale = A052 
-|nomeAbitanti = acquesi 
-|patrono = San Guido 
-|festivo = 11 luglio 
+|fiscale = A052
+|gradiGiorno = 2613
+|zonaSismica = 4
+|nomeAbitanti = acquesi
+|patrono = [[San Guido]]
+|festivo =  [[11 luglio]]
 |sito = http://www.comuneacqui.com
 }}
 
