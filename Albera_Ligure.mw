@@ -1,8 +1,8 @@
 {{S}}
-{{Comune
+{{Comune  <!-- per la compilazione vedi Aiuto:Comune -->
 |nomeComune = Albera Ligure
-|panorama = 
-|linkStemma = Albera Ligure Stemma.gif
+|panorama = Albera.jpg
+|linkStemma = Albera Ligure-Stemma.png
 |siglaRegione = PMN
 |siglaProvincia = AL
 |latitudineGradi = 44
@@ -11,24 +11,24 @@
 |longitudineGradi = 9
 |longitudineMinuti = 4
 |longitudineSecondi = 2
-|mappaX = 205
-|mappaY = 214
-|altitudine = 423 
+|altitudine = 423
 |superficie = 21,38
 |abitanti = 332
-|anno = 31-12-2006
+|anno =  31-12-2006
 |densita = 15,53
-|frazioni = Astrata, Figino, San Martino, San Nazzaro, Santa Maria, Vendersi, Vigo, Volpara.
-|comuniLimitrofi = [[Cabella Ligure]], [[Cantalupo Ligure]], [[Fabbrica Curone]], [[Montacuto]], [[Rocchetta Ligure]].
+|frazioni = Astrata, Figino, San Martino, San Nazzaro, Santa Maria,  Vendersi, Vigo, Volpara
+|comuniLimitrofi = [[Cabella Ligure]], [[Cantalupo Ligure]], [[Fabbrica Curone]], [[Montacuto]], [[Rocchetta Ligure]]
 |cap = 15060
-|prefisso = 0143
+|prefisso = [[0143]]
 |istat = 006002
-|fiscale = A146 
-|nomeAbitanti = acquesi 
-|patrono = San Giovanni Battista 
-|festivo = 24 giugno 
-|sito = 
-}}
+|fiscale = A146
+|gradiGiorno = 2831
+|zonaSismica = 3
+|nomeAbitanti = alberesi
+|patrono = [[San Giovanni Battista]]
+|festivo = [[24 giugno]]
+|sito =  
+}} 
 
 '''Albera Ligure''' éte 'nu comune [[Italie|tagliáne]] de 332 crestiáne.
 
