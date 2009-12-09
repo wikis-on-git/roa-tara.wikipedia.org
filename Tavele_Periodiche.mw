@@ -4,35 +4,35 @@
 
 {|style="width: 100%"
 |-
-!Grupa
-!Group 1 element|1
-!Group 2 element|2
-!Group 3 element|3
-!Group 4 element|4
-!Group 5 element|5
-!Group 6 element|6
-!Group 7 element|7
-!Group 8 element|8
-!Group 9 element|9
-!Group 10 element|10
-!Group 11 element|11
-!Group 12 element|12
-!Group 13 element|13
-!Group 14 element|14
-!Group 15 element|15
-!Group 16 element|16
-!Group 17 element|17
-!Group 18 element|18
+!Gruppe
+!Gruppe 1 elemende|1
+!Gruppe 2 eleminde|2
+!Gruppe 3 eleminde|3
+!Gruppe 4 eleminde|4
+!Gruppe 5 eleminde|5
+!Gruppe 6 eleminde|6
+!Gruppe 7 eleminde|7
+!Gruppe 8 eleminde|8
+!Gruppe 9 eleminde|9
+!Gruppe 10 eleminde|10
+!Gruppe 11 eleminde|11
+!Gruppe 12 eleminde|12
+!Gruppe 13 eleminde|13
+!Gruppe 14 eleminde|14
+!Gruppe 15 eleminde|15
+!Gruppe 16 eleminde|16
+!Gruppe 17 eleminde|17
+!Gruppe 18 eleminde|18
 |-
-!Perioada
+!Periode
 |colspan="19"|<br />
 |-
-!Period 1 element|1
+!Periode 1 elemende|1
 |style="text-align:center;background-color:#a0ffa0;color:red;border:1px solid black;"|1<br />H
 |colspan="16"|<br />
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|2<br />He
 |-
-!Period 2 element|2
+!Periode 2 eleminde|2
 |style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|3<br />Li
 |style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|4<br />Be
 |colspan="10"|<br />
@@ -43,7 +43,7 @@
 |style="text-align:center;background-color:#ffff99;color:red;border:1px solid black;"|9<br />F
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|10<br />Ne
 |-
-!Period 3 element|3
+!Periode 3 eleminde|3
 |style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|11<br />Na
 |style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|12<br />Mg
 |colspan="10"|<br />
@@ -54,7 +54,7 @@
 |style="text-align:center;background-color:#ffff99;color:red;border:1px solid black;"|17<br />Cl
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|18<br />Ar
 |-
-!Period 4 element|4
+!Periode 4 eleminde|4
 |style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|19<br />K
 |style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|20<br />Ca
 |style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|21<br />Sc
@@ -74,7 +74,7 @@
 |style="text-align:center;background-color:#ffff99;color:green;border:1px solid black;"|35<br />Br
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|36<br />Kr
 |-
-!Period 5 element|5
+!Periode 5 eleminde|5
 |style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|37<br />Rb
 |style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|38<br />Sr
 |style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|39<br />Y
@@ -94,7 +94,7 @@
 |style="text-align:center;background-color:#ffff99;color:black;border:1px solid black;"|53<br />I
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|54<br />Xe
 |-
-!Period 6 element|6
+!Periode 6 eleminde|6
 |style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|55<br />Cs
 |style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|56<br />Ba
 |style="vertical-align: top; text-align:center;background-color:#ffbfff;"|*<br />
@@ -114,7 +114,7 @@
 |style="text-align:center;background-color:#ffff99;color:black;border:1px dashed black;"|85<br />At
 |style="text-align:center;background-color:#c0ffff;color:red;border:1px dashed black;"|86<br />Rn
 |-
-!Period 7 element|7
+!Periode 7 eleminde|7
 |style="text-align:center;background-color:#ff6666;color:black;border:1px dashed black;"|87<br />Fr
 |style="text-align:center;background-color:#ffdead;color:black;border:1px dashed black;"|88<br />Ra
 |style="vertical-align: top; text-align:center;background-color:#ff99cc;"|**<br />
@@ -193,11 +193,11 @@
 </table>
 
 
-'''Stato a temperatura e presa normal'''
+'''State a temberature e presa normale'''
 
-* estas en <font color="red">roja</font> es gases
-* estas en <font color="green">verde</font> es licuidos
-* estas en <font color="black">negra</font> es solides
+* state in <font color="red">russe</font> jè [[gas|gassose]]
+* state in <font color="green">verde</font> jè [[liquide]]
+* state in <font color="black">gniure</font> jè [[solide]]
 
 
 {| class="toccolours" border="1" cellpadding="4" style="margin: 0 0 1em 1em; width: 40%; border-collapse: collapse; font-size: 95%; clear: right"
