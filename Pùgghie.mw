@@ -1,24 +1,28 @@
 {{s}}
-{{GeoBox NomeRegione|Pugghie}} 
-{{GeoBox Stemma e Bandiera||}}
-{{GeoBox NomeOriginale|'''Puglia'''}} 
-{{GeoBox Stato Bandiera|ITA}}
-{{GeoBox Capoluogo|Bari}}
-{{GeoBox Coordinate Linkate|41|0|N|16|30|E}}
-{{GeoBox Superficie|19.358}}
-{{GeoBox PopolazioneCitta|abitanti=4.076.546|anno=31-12-2007}}
-{{GeoBox Densita|210,6}}
-{{GeoBox Suddivisione Generica|Presedente|[[Nichi Vendola]] (PRC)}}
-{{GeoBox Suddivisione Generica|[[Provinge tagliáne|Provinge]]|[[File:Provincia di Bari-Stemma.png|25px]] [[Provinge de Bari|Bari]] </br>
-[[File:Provincia di Barletta Andria Trani-Stemma.gif|25px]] [[Provinge de Barletta-Andria-Trani|Barletta-Andria-Trani]] </br>
- [[Provinge de Brinnese|Brinnese]] </br>
-[[File:Provincia di Foggia-Stemma.png|25px]] [[Provinge de Foggia|Foggia]] </br>
-[[File:Provincia di Lecce-Stemma.png|25px]] [[Provinge de Lecce|Lecce]] </br>
-[[File:Provincia di Taranto-Stemma.png|25px]] [[Provinge de Tarde|Tarde]] </br>}}
-{{GeoBox Suddivisione Generica|[[Comune tagliáni|Comune]]|[[:Category:Comune d'a Pugghie|258]] comune}}
-{{GeoBox Mappa|PUG-Mappa.png}}
-{{GeoBox Sito|http://www.regione.puglia.it}}
-{{GeoBox Fine}}
+{{Regione
+|nomeRegione = Reggione Pugghie
+|linkBandiera = Stub Puglia.png
+|linkStemma = Regione Puglia-Stemma.png
+|zona = [[Itaglie meridionale]]
+|capoluogo = [[Bari]]
+|superficie = 19.358<ref name="AnnuarioTerritorio">{{cita web|http://www.istat.it/istat/eventi/2006/annuariopuglia/volume/TERRITORIO.htm|Annuario statistico regionale Puglia 2004: Territorio|26-03-2008}}</ref>
+|abitanti = 4.079.530
+|anno = 31.04.2009
+|densita = 211
+|province = {{IT-BA}}<br/>{{IT-BT}}<br/>{{IT-BR}}<br/>{{IT-FG}}<br/>{{IT-LE}}<br/>{{IT-TA}}
+|categoriaComuni = Comune d'a Pugghie
+|numeroComuni = 258
+|presidente = [[Nichi Vendola]]
+|presidentePartito = [[Sinistra e Libertà]]
+|presidenteData = 2005
+|giunta = [[L'Unione]]
+|consiglio = 
+|elezioniUltime = [[Eleziune reggionale tagliàne d'u 2005|4 abbrile 2005]]
+|elezioniProssime = 2010
+|linkMappa = Map Region of Puglia.svg
+|sito = http://www.regione.puglia.it/
+}}
+
 'A '''Pugghie''' éte na reggione [[Italie|tagliáne]]. 'U capeluoghe éte [[Bari]].
 
 == Storie ==
@@ -28,6 +32,7 @@
 Image:Apulia Provinces.png|Provinge
 Image:Regione Apulia 2.svg|Mappa (2)
 </gallery>
+
 === Provinge ===
 {|
 | valign="top" |
