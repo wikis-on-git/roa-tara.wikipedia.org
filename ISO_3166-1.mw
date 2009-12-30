@@ -35,7 +35,7 @@ Sonde in ordene 'fabbeteco asseconde 'u nome tagliàne.
 | 024 || AGO || AO || [[ISO 3166-2:AO]]
 |-
 |{{AIA}}
-| 660 || AIA || AI || [[ISO 3166-2:AI]]**
+| 660 || AIA || AI || [[ISO 3166-2:AI]]***
 |-
 |{{ATA}}
 | 010 || ATA || AQ || [[ISO 3166-2:AQ]]**
@@ -758,8 +758,9 @@ Sonde in ordene 'fabbeteco asseconde 'u nome tagliàne.
 | 716 || ZWE || ZW || [[ISO 3166-2:ZW]]
 |}
 
-<sup>*</sup>da Tradurre
-<sup>**</sup>da Implementare
+<sup>*</sup>da Traducere
+<sup>**</sup>da Imblemendà
+<sup>***</sup>Imblemandate ma onne definì le codece
 
 == Liste de le codece riservete ==
 Suverchie 'a le codece assignete, stonne otre codece ca onne state riservete o s'onne fatte vicchie. Le codece riservete sonde codece ca, pure ca non ge fanne propriamende parte de l'ISO 3166-1, avenéne ausate pe ote mutive, pe rennere combatibbili cu le codece ISO 3166-1 e dà flessibilità a 'u sisteme. A'u solite se referiscene a l'organizzazioni ndernaziunele e a quacche paise ret a 'u màre.
