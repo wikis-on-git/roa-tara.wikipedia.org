@@ -95,6 +95,162 @@ A parte a le colle ditte sus, jndr'à cetate de osce a die sonde combrese divers
 {{vedi anche|Stazione meteorologgeche de Rome Cendre|Stazione meteorologgeche de Rome Monde Mario|Stazione meteorologgeche de Rome Urbe}}
 [[File:Roma-monte mario.jpg|thumb|290px|left|[[Monde Mario]], sede de una de le[[:Category:Clime de Rome|stazione meteorologgeche de Rome]]]]
 
+Seconde 'a [[classificazione de le clime de Köppen]], Rome appartene a 'a fasce ''[[Clime mediterranèe#Csa|Csa]]'', cioè a 'u clime temberate de le medie latitudine, cu estate assaihe cavede (temberature medie assolute d'u mese cchiù cavede superiore a le 22°) e estate relativamende assutte<ref>{{cita web|url=http://www.meteogiornale.it/news/read.php?id=13273&action=pdf|titolo=Classificazione de le clime de Köppen|accesso=24-09-2009}} {{pdf}}</ref>.
+
+'A cetate gode de 'nu tipiche [[clime mediterranèe]], particolarmende mite e confortevole jndr'à le periode [[primavere|primaverile]] e [[autunne|autunnale]]<ref>L'espressione romanesche ''ottobrata'' stè proprie a indicà 'a tipeche sciurnate soleggiate e relativamende cavede de [[ottommre]].</ref>.
+
+Le [[staggione|staggiune]] cchiù chiovose sonde 'a primavere e l'autunne, prevalendemende jndr'à le mise de [[novemmre]] e [[abbrile]]. L'estrate jè cavede, assaije umide e tendenzialmende siccitose, invece l'[[inverne]] jè abbastanze mite, cu notevole e imbrovvise picche de fridde, [[chiogge|chiovose]], cu rarissime fenomene [[neve|nevose]] de 'na certa consistenze<ref>{{cita web|url=http://www.meteo-net.it/articoli/storiconeve.aspx|titolo=Storia della neve a Roma|accesso=24-09-2009}}</ref>. In generale, 'u clime jè abbastanze vendilate, cu 'na prevalenze de vinde settendrionale, cumme 'a [[tramondane]] e 'u [[grecale]] e occidendale, cumme 'u [[maestrale]], 'u [[libecce]] e 'u [[ponendine]], accuss' chiamate purcé proveniende da 'a zone a ponende d'a cetate.
+
+{{ClimaAnnuale
+| nome = <!-- Se non indicato, apparirà "Mese" -->
+<!-- Temperature massime mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmax01 = 12
+| tempmax02 = 13
+| tempmax03 = 14
+| tempmax04 = 17
+| tempmax05 = 23
+| tempmax06 = 27
+| tempmax07 = 31
+| tempmax08 = 30
+| tempmax09 = 26
+| tempmax10 = 21
+| tempmax11 = 15
+| tempmax12 = 12
+<!-- Temperature medie mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmedia01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| tempmedia02 = 
+| tempmedia03 = 
+| tempmedia04 = 
+| tempmedia05 = 
+| tempmedia06 = 
+| tempmedia07 = 
+| tempmedia08 = 
+| tempmedia09 = 
+| tempmedia10 = 
+| tempmedia11 = 
+| tempmedia12 = 
+<!-- Temperature minime mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmin01 = 2
+| tempmin02 = 4
+| tempmin03 = 5
+| tempmin04 = 8
+| tempmin05 = 11
+| tempmin06 = 15
+| tempmin07 = 17
+| tempmin08 = 18
+| tempmin09 = 15
+| tempmin10 = 9
+| tempmin11 = 7
+| tempmin12 = 4
+<!-- Piovosità totali mensili (numero anche con cifre decimali, misurato in mm), da gennaio (01) a dicembre (12) -->
+| pioggia01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| pioggia02 = 
+| pioggia03 = 
+| pioggia04 = 
+| pioggia05 = 
+| pioggia06 = 
+| pioggia07 = 
+| pioggia08 = 
+| pioggia09 = 
+| pioggia10 = 
+| pioggia11 = 
+| pioggia12 = 
+<!-- I giorni di pioggia (numero anche con cifre decimali, senza unità di misura), da gennaio (01) a dicembre (12) -->
+| giornipioggia01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| giornipioggia02 = 
+| giornipioggia03 = 
+| giornipioggia04 = 
+| giornipioggia05 = 
+| giornipioggia06 = 
+| giornipioggia07 = 
+| giornipioggia08 = 
+| giornipioggia09 = 
+| giornipioggia10 = 
+| giornipioggia11 = 
+| giornipioggia12 =
+<!-- Le onde di calore (numero di giorni, anche con cifre decimali, con T.<small>max</small> ≥ 34 °C), da gennaio (01) a dicembre (12) -->
+| warm01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| warm02 = 
+| warm03 = 
+| warm04 = 
+| warm05 = 
+| warm06 = 
+| warm07 = 
+| warm08 = 
+| warm09 = 
+| warm10 = 
+| warm11 = 
+| warm12 =
+<!-- I giorni di gelo (numero anche con cifre decimali, senza unità di misura), da gennaio (01) a dicembre (12) -->
+| giornigelo01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| giornigelo02 = 
+| giornigelo03 = 
+| giornigelo04 = 
+| giornigelo05 = 
+| giornigelo06 = 
+| giornigelo07 = 
+| giornigelo08 = 
+| giornigelo09 = 
+| giornigelo10 = 
+| giornigelo11 = 
+| giornigelo12 =
+<!-- Umidità percentuali medie mensili (numero anche con cifre decimali, misurato in %), da gennaio (01) a dicembre (12) -->
+| umido01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| umido02 = 
+| umido03 = 
+| umido04 = 
+| umido05 = 
+| umido06 = 
+| umido07 = 
+| umido08 = 
+| umido09 = 
+| umido10 = 
+| umido11 = 
+| umido12 = 
+<!-- Insolazioni giornaliere medie mensili (numero anche con cifre decimali, misuratoin h), da gennaio (01) a dicembre (12) -->
+| elio01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| elio02 = 
+| elio03 = 
+| elio04 = 
+| elio05 = 
+| elio06 = 
+| elio07 = 
+| elio08 = 
+| elio09 = 
+| elio10 = 
+| elio11 = 
+| elio12 = 
+<!-- Ventosità medie mensili, direzione (S-E-N-W-SSW-SSE-NNW-ecc.) 
+e valore (numero anche con cifre decimali, misurato in nodi), da gennaio (01) a dicembre (12) -->
+| vento01 = 
+| intensità01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| vento02 = 
+| intensità02 = 
+| vento03 = 
+| intensità03 = 
+| vento04 = 
+| intensità04 = 
+| vento05 = 
+| intensità05 = 
+| vento06 = 
+| intensità06 = 
+| vento07 = 
+| intensità07 = 
+| vento08 = 
+| intensità08 = 
+| vento09 = 
+| intensità09 = 
+| vento10 = 
+| intensità10 = 
+| vento11 = 
+| intensità11 = 
+| vento12 = 
+| intensità12 = 
+}}
+
+
+*[[Classificazione climateche]]: zone D, 1415 GG
+
 == Storie ==
 
 == Culture ==
