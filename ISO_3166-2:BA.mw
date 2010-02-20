@@ -2,16 +2,93 @@
 
 '''ISO 3166-2:AW''' ète 'n'[[Organizzazione 'Ndernaziunale pe le Standardizzazioni|ISO]] stàndàrd ca dìce le codece geografeche: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Bosnie-Erzegovine]]. 
 
+Osce a die doje levèlle de suddivisiune onne state assignate:
+
+* [[Entità d'a Bosnie-Erzegovine|2 entità]]<ref group="note">'U [[Distrette de Brčko]], formalmende gestite da tutte e doje l'otre entità ma guvernate autonomamende e jè angore senza codece.</ref> &mdash; Ogne codece accumenze pe <tt>BA-</tt>, seguite da tre lettere.
+* [[Candune d'a Bosnie-Erzegovine|10 candune]] &mdash; Ogne codece accumenze pe <tt>BA-</tt>, seguite da doje numere (01&ndash;10).
+
+== Newsletter ==
+* [[ISO 3166-2:2007-12-13]]
+
 == Liste de le codece ==
-Osce a die angore non g'onne state attribbuite codece a le suddivisiune
+
+=== Entità (2) ===
+{| class="wikitable sortable"
+|-
+! Codece
+! Nome d'a suddivisione
+|-
+| <tt>BA-BIH</tt>
+| {{Bandiera|Federacija Bosna i Hercegovina}}
+|-
+| <tt>BA-SRP</tt>
+| {{Bandiera|Republika Srpska}}
+|}
+
+=== Candune (10) ===
+
+[[File:CantonsofBosnia.PNG|thumb|300px|right|Mappe d'a Bosnie-Erzegovine cu ogne candone etichettate cu 'a seconde stuèzze d'u codece ISO 3166-2]]
+
+{| class="wikitable sortable"
+|-
+! Codece
+! Nome d'a suddivisione<ref group="note">Le codece pe le candune onne state aggiunde jndr'à [[#2° edizione|2° edizione de l'ISO 3166-2]]. Le nome elengate aqquà tènene le lore nome origgenale e non necessariamende le nome de le suddivisiune ausate jndr'à 'u standàrd ufficiale.</ref>
+! Entità d'appartenenze
+|-
+| <tt>BA-01</tt>
+| [[Candone de Una-Sana|Unsko-sanski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-02</tt>
+| [[Candone de Posavina|Posavski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-03</tt>
+| [[Candone de Tuzla|Tuzlanski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-04</tt>
+| [[Candone de Zenica-Doboj|Zeničko-dobojski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-05</tt>
+| [[Candone de Bosnian Podrinje|Bosansko-podrinjski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-06</tt>
+| [[Candone de Central Bosnia|Srednjobosanski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-07</tt>
+| [[Candone de Herzegovina-Neretva|Hercegovačko-neretvanski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-08</tt>
+| [[Candone de West Herzegovina|Zapadnohercegovački kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-09</tt>
+| [[Candone de Sarajevo|Sarajevski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|-
+| <tt>BA-10</tt>
+| [[Candone 10|Herceg-bosanski kanton]]
+| [[Federacija Bosna i Hercegovina]] (<tt>BIH</tt>)
+|}
+
+; Note
+<references group="note" />
 
 == Vide pure ==
 *[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
 *[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
 * [[Suddivisiune d'a Bosnie-Erzegovine]]
 
+== Note ==
+<references />
+
 == Collegaminde fore a Uicchipèdie ==
-* [http://www.statoids.com/uba.html Destritte de Bosnie-Erzegovine], Statoids.com
+* [http://www.statoids.com/uba.html Destritte d'a Bosnie-Erzegovine], Statoids.com
 
 {{ISO 3166}}
 
