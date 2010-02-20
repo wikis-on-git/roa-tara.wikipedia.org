@@ -199,9 +199,8 @@
 * state in <font color="green">verde</font> jè [[liquide]]
 * state in <font color="black">gniure</font> jè [[solide]]
 
-
+{{MultiCol}}
 {| class="toccolours" border="1" cellpadding="4" style="margin: 0 0 1em 1em; width: 40%; border-collapse: collapse; font-size: 95%; clear: right"
-
 |H||[[-]]
 |-
 |He||[[-]]
@@ -313,6 +312,9 @@
 |Cs||[[-]]
 |-
 |Ba||[[-]]
+|}
+{{ColBreak}}
+{| class="toccolours" border="1" cellpadding="4" style="margin: 0 0 1em 1em; width: 40%; border-collapse: collapse; font-size: 95%; clear: right"
 |-
 |La||[[-]]
 |-
@@ -424,6 +426,7 @@
 |-
 |Rg||[[-]]
 |}
+{{EndMultiCol}}
 
 [[Category:Chìmeche]]
 
