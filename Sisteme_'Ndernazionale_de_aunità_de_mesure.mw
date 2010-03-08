@@ -1,0 +1,544 @@
+[[File:Non-Metric User.svg|thumb|350px|In rosso gli unici tre stati in cui il Sistema internazionale non è stato adottato come principale o unico sistema di misurazione: gli [[Stati Uniti d'America]], la [[Liberia]] e la [[Birmania]].]]
+[[File:World_metrication.svg|350px|thumb|Gli stati del mondo per periodo di adozione del Sistema internazionale: in verde i primi, in rosso gli ultimi, in nero quelli che non l'hanno adottato, in grigio quelli su cui non ci sono informazioni.]]
+Il '''Sistema internazionale di unità di misura''' (in [[lingua francese|francese]] '''Système international d'unités'''), abbreviato in '''SI''' e pronunciato ''esse i''<ref>[http://www.inrim.it/ldm/cd_ldm/html/vita_quotidiana/04.htm nota dell'Istituto Nazionale di Ricerca Metrologica]</ref>, è il più diffuso tra i sistemi di unità di misura. Assieme al [[Sistema CGS]], viene spesso indicato come  '''sistema metrico decimale''', soprattutto nei paesi anglosassoni.
+
+Le unità, la terminologia e le raccomandazioni del Sistema internazionale vengono stabilite dalla ''[[Conférence générale des poids et mesures]]'' (CGPM), denominata in italiano "Conferenza generale dei pesi e delle misure", organismo collegato con il ''[[Bureau international des poids et mesures]]'' (BIPM), chiamato in italiano "Ufficio internazionale dei pesi e delle misure"; entrambi gli organismi sono stati creati durante la [[Convention du Mètre|Convenzione del Metro]] del [[1875]].
+
+Questo sistema di grandezze fisiche e unità di misura nasce nel [[1889]] con la 1ª [[CGPM]] ed allora si chiamava "Sistema MKS" perché comprendeva solo le unità fondamentali di lunghezza ([[metro]]), massa ([[chilogrammo]]) e tempo ([[secondo]]). Nel [[1935]], su proposta del fisico italiano [[Giovanni Giorgi (fisico)|Giovanni Giorgi]], il sistema fu denominato "Sistema MKSΩ" ed adottato dalla [[Commissione Elettrotecnica Internazionale]], perché la quarta unità fondamentale introdotta fu l'[[ohm]], per la misura della resistenza elettrica. Nel [[1946]], su proposta di [[Giovanni Giorgi (fisico)|Giovanni Giorgi]], la [[CGPM]] approva l'entrata dell'[[ampere]] come unità di misura fondamentale della corrente elettrica, in sostituzione alla resistenza elettrica. Nasce così il "Sistema MKSA", anche chiamato "Sistema Giorgi" in onore del fisico. Nel [[1954]], la 10ª [[CGPM]], aggiunge il [[kelvin]] e la [[Candela (unità di misura)|candela]] come unità di misura fondamentali. Nel [[1961]] la 11ª [[CGPM]] sancisce la nascita del Sistema internazionale (SI). Nel [[1971]] la 14ª [[CGPM]] aggiunge la [[mole]] fra le unità fondamentali di questo sistema.
+
+Oggi, quindi, l'SI è basato su sette [[Grandezza fisica|grandezze fisiche]] fondamentali (con le rispettive unità di misura), con le quali vengono definite le grandezze fisiche derivate (e rispettive unità di misura). Il SI, inoltre, definisce una sequenza di prefissi da premettere alle unità di misura per identificare i loro multipli e sottomultipli.
+
+Il Sistema internazionale è un ''sistema coerente'', in quanto le sue grandezze fisiche e unità derivate si ricavano come prodotto di grandezze fisiche e unità fondamentali.
+
+== Norme de scretture ==
+Per uniformare la grafia ed evitare errori di interpretazione, l'SI prevede alcune norme per la scrittura delle unità di misura e dei relativi simboli.
+
+=== Scretture de le aunità ===
+Per quanto riguarda le [[unità di misura]], esse dovrebbero essere scritte per esteso, e non indicate con il simbolo, se inserite in un testo discorsivo; la scrittura estesa deve essere in [[Carattere tipografico|carattere]] tondo [[minuscolo]] e si devono evitare segni grafici come accenti o [[segno diacritico|segni diacritici]].
+Ad esempio si deve scrivere [[ampere]], e non ampère o Ampere.
+
+=== Scretture de le simbole ===
+Quando si usano i simboli, questi devono essere indicati con l'iniziale minuscola, ad eccezione di quelli in cui l'unità di misura è eponima o deriva dal nome di una persona; ad esempio, per il [[chilogrammo]] si scrive kg e non Kg, mentre il simbolo SI della pressione, dedicato a [[Blaise Pascal]], è [[Pascal (unità di misura)|Pa]], mentre l'unità di misura viene scritta per esteso in minuscolo [[Pascal (unità di misura)|pascal]]. Il [[secondo]] è s e non sec, il [[grammo]] g e non gr.
+L'unica eccezione è permessa per il [[litro]] dove è accettabile sia la l che la L.
+
+Al contrario delle [[abbreviazione|abbreviazioni]], i simboli dell'SI non devono mai essere seguiti da un punto (per il [[metro]]: m e non m.); essi devono inoltre seguire il valore numerico e non precederlo (si scrive 20 cm, e non cm 20) con uno spazio tra i numeri ed i simboli: 2,21 kg, {{M|7,3|e=2|-|m}}². Nelle unità di misura composte (ad esempio il [[newton metro]]: N&nbsp;m) i simboli delle singole unità devono essere separati da uno spazio o da un punto a mezza altezza;<ref>Il punto a mezza altezza (·) può essere scritto al computer in ambiente [[Linux]] premendo contemporaneamente i tasti "Alt Gr" e "." e in ambiente [[Microsoft Windows]] premendo la sequenza numerica 250 mentre si tiene premuto il tasto "Alt".</ref> non è ammesso l'uso di altri caratteri, come ad esempio il trattino: ad esempio si può scrivere N&nbsp;m oppure N·m, ma non N-m. In caso di divisione fra unità di misura, si può usare la frazione / (o la barra orizzontale) o un esponente negativo: ad esempio J/kg o J&nbsp;kg<sup>−1</sup> o J·kg<sup>-1</sup>.
+
+Qualora necessario, gruppi di unità di misura si possono mettere fra parentesi: {{tutto attaccato|J/K mol}} o J/K·mol o {{tutto attaccato|J·K<sup>-1</sup>·mol<sup>-1</sup>}} o {{tutto attaccato|J (K·mol)<sup>-1</sup>}}.
+
+È preferibile non usare l'italico o il grassetto per i simboli, in modo da differenziarli dalle variabili matematiche e fisiche (ad esempio, ''m'' per la massa, ''l'' per la lunghezza).
+
+=== Scretture de le cifre ===
+L'SI usa gli spazi per separare le cifre intere in gruppi di tre. Ad esempio 1&nbsp;000&nbsp;000 o 342&nbsp;142 (contrariamente alle virgole ed ai punti usati in altri sistemi: 1,000,000 o 1.000.000). Inoltre, l'SI usa la virgola come separatore tra i numeri interi e quelli decimali come in 24,51. Nel [[2003]] il [[CGPM]] ha concesso la possibilità di usare il punto nei testi in lingua inglese.
+
+=== Disposizioni di legge ===
+L'SI viene usato in ogni nazione e, in alcune di esse, il suo uso è obbligatorio. Come in [[Italia]], dove l'uso dell'SI è stato adottato ufficialmente per legge ai sensi del DPR 802/1982 e della [[Direttiva]] del Consiglio CEE del 18 ottobre 1971 71/1354/CEE modificata il 27 luglio 1976 (76/770/CEE), il suo utilizzo è obbligatorio nella stesura di [[atto giuridico|atti]] e documenti con valore legale; pertanto il mancato rispetto delle norme di scrittura sopraccitate potrebbe comportare l'invalidazione di tali atti.
+
+== Le aunità de mesure d'u SI ==
+=== Aunità fondamendale ===
+Ogni altra grandezza fisica (e la relativa unità di misura) è una combinazione di due o più grandezze fisiche (unità) di base, od il [[reciproco]] di una di esse. Con l'eccezione del chilogrammo, tutte le altre unità sono definibili misurando fenomeni naturali. Inoltre, è da notare che il chilogrammo è l'unica unità di misura di base contenente un [[:Categoria:Prefissi SI|prefisso]]: questo perché il grammo è troppo "piccolo" per la maggior parte delle applicazioni pratiche.
+{| {{prettytable}}
+|-----
+! Grandezza fisica
+! Simbolo della<br />grandezza<br />fisica
+! Nome dell'unità SI
+! Simbolo dell'unità SI
+|-----
+| [[lunghezza]] || ''l'' || [[metro]] || m
+|-----
+| [[massa (fisica)|massa]] || ''M'' || [[chilogrammo]]
+| kg
+|-----
+|  [[Tempo (fisica)|intervallo di tempo]] || ''t'' || [[secondo]] || s
+|-----
+| [[Intensità di corrente]] || ''I, i'' || [[ampere]]
+| A
+|-----
+| [[temperatura assoluta]]
+| ''T'' || [[kelvin]] || K
+|-----
+| [[quantità di sostanza]] || ''n'' || [[mole]]
+| mol
+|-----
+| [[intensità luminosa]] || ''I''<sub>v</sub> || [[candela (unità di misura)|candela]]
+| cd
+|}
+
+=== Aunità derivate ===
+La maggior parte delle grandezze fisiche derivate sono una moltiplicazione o una divisione di grandezze fisiche di base. Alcune di esse hanno nomi particolari. In questo modo, non solo si vede immediatamente la relazione che intercorre tra due grandezze fisiche ma, con un controllo dimensionale, è facile verificare la correttezza del proprio lavoro.
+{| {{prettytable}}
+|-
+! Grandezza fisica
+! Simbolo della<br />grandezza<br />fisica
+! Nome dell'unità SI
+! Simbolo dell'unità SI
+! colspan="2" | Equivalenza in termini di unità fondamentali SI
+|-
+| colspan="6" |
+<center>''Nomi e simboli speciali''</center>
+|-
+| [[frequenza]] || ''f, ν'' || [[hertz]] || Hz
+| s<sup>−1</sup> 
+|
+|-
+| [[forza (fisica)|forza]] || ''F'' || [[newton (unità di misura)|newton]]
+| N
+| kg · m · s<sup>−2</sup>
+| 
+|-
+| [[pressione]], [[Tensione interna|sollecitazione]], [[pressione di vapore]]
+| ''p'' || [[pascal (unità di misura)|pascal]] || Pa
+| N · m<sup>−2</sup>
+| = kg · m<sup>−1</sup> · s<sup>−2</sup>
+|-
+| [[energia]], [[lavoro (fisica)|lavoro]], [[calore]]
+| ''E, Q'' || [[joule]] || J
+| N · m
+| = kg · m<sup>2</sup> · s<sup>−2</sup>
+|-
+| [[potenza (fisica)|potenza]], [[flusso radiante]]
+|'' P, W'' || [[watt]] || W
+| J · s<sup>−1</sup>
+| = kg · m<sup>2</sup> · s<sup>−3</sup>
+|-
+| [[carica elettrica]] || ''q'' || [[coulomb]] || C
+| A · s
+| 
+|-
+| [[potenziale elettrico]], [[forza elettromotrice]], [[tensione elettrica]]
+| ''V, E'' || [[volt]] || V
+| J · C<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−3</sup> · A<sup>−1</sup>
+|-
+| [[resistenza elettrica]] || ''R'' || [[ohm]] || Ω
+| V · A<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−3</sup> · A<sup>−2</sup>
+|-
+| [[conduttanza elettrica]] || ''G'' || [[siemens (unità di misura)|siemens]]
+| S
+| A · V<sup>−1</sup>
+| = s<sup>3</sup> · A<sup>2</sup> · m<sup>−2</sup> · kg<sup>−1</sup>
+|-
+| [[capacità elettrica]] || ''C'' || [[farad]] || F
+| C · V<sup>−1</sup>
+| = s<sup>4</sup> · A<sup>2</sup> · m<sup>−2</sup> · kg<sup>−1</sup>
+|-
+| [[induzione magnetica|densità flusso magnetico]] || ''B'' || [[tesla]]
+| T
+| V ·  s · m<sup>−2</sup>
+| = kg · s<sup>−2</sup> · A<sup>−1</sup>
+|-
+| [[flusso magnetico]] || ''Φ(B)'' || [[weber]] || Wb
+| V · s
+| = m<sup>2</sup> · kg · s<sup>−2</sup> · A<sup>−1</sup>
+|-
+| [[induttanza]] || ''L'' || [[henry]] || H
+| V · s · A<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−2</sup> · A<sup>−2</sup>
+|-
+| [[temperatura]] || ''T'' || [[Grado (unità di misura)|grado]] [[Celsius]]
+| °C || K<!-- NON modificare questa riga, vedi pagina di discussione #Grado Celsius --><ref>Una data temperatura differisce nelle due scale di 273,15 (scala Celsius = scala Kelvin + 273,15), ma la differenza di temperatura di 1 grado Celsius = 1 kelvin</ref> || &nbsp;
+|-
+| [[angolo|angolo piano]]<ref name="angolo">Inizialmente, queste unità creavano una categoria a parte chiamata "Unità supplementari". Questa categoria è stata abrogata nel [[1995]] dalla 20ª Conferenza Generale dei Pesi e delle Misure ([[CGPM]]), ed il radiante e lo steradiante sono ora considerate unità derivate.</ref>
+| ''φ, θ'' || [[radiante]] || rad 
+| 1
+| = m · m<sup>−1</sup>
+|-
+| [[angolo solido]]<ref name="angolo" /> || ''Ω'' || [[steradiante]]
+| sr 
+| 1
+| = m<sup>2</sup> · m<sup>−2</sup>
+|-
+| [[flusso luminoso]] || || [[lumen]] || lm
+| cd · sr
+| 
+|-
+| [[illuminamento]]
+|  || [[lux]] || lx
+| cd · sr · m<sup>−2</sup>
+| 
+|-
+| [[rifrazione]] || ''D'' || [[diottria]] || D
+| m<sup>−1</sup>
+|
+|-|-
+| [[Attività (fisica)|attività]] di un [[radionuclide]] <ref>Talvolta, non correttamente, chiamata [[radioattività]] (radioattività è il fenomeno fisico implicato, mentre attività è la grandezza fisica derivata corrispondente).</ref> || A || [[becquerel]]
+| Bq
+| s<sup>−1</sup>
+| 
+|-
+| [[dose assorbita]] || ''D'' || [[gray (unità di misura)|gray]] || Gy
+| J · kg<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−2</sup>
+|-
+| [[dose equivalente]] || ''H'' || [[sievert]] || Sv
+| J · kg<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−2</sup>
+|-
+| [[dose efficace]] || ''E'' || [[sievert]] || Sv
+| J · kg<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−2</sup>
+|-
+| [[attività catalitica]] || || [[katal]] || kat
+| mol · s<sup>−1</sup>
+| 
+|-
+| colspan="6" |
+<center>''Altre grandezze fisiche''</center>
+|-
+| [[area]] || ''A'' || [[metro quadro]] || m²
+| m<sup>2</sup>
+| 
+|-
+| [[volume]] || ''V'' || [[metro cubo]] || m³
+| m<sup>3</sup>
+| 
+|-
+| [[velocità]] || ''v'' || [[metro al secondo]] || m/s
+| m · s<sup>−1</sup>
+| 
+|-
+| [[velocità angolare]] || ''ω'' ||&nbsp; || &nbsp;
+| s<sup>−1</sup><br />rad ·  s<sup>−1</sup>
+| 
+|-
+| [[accelerazione]] || ''a'' || &nbsp; || &nbsp;
+| m · s<sup>−2</sup>
+| 
+|-
+| [[momento torcente]] || &nbsp; || &nbsp; || &nbsp;
+| N · m
+| = m<sup>2</sup>  · kg · s<sup>−2</sup>
+|-
+| [[numero d'onda]] || ''n'' || &nbsp; || &nbsp;
+| m<sup>−1</sup>
+| 
+|-
+| [[densità]] || ρ || chilogrammo al metro cubo || kg/m³
+| kg · m<sup>−3</sup>
+| 
+|-
+| volume specifico || &nbsp; || &nbsp; || &nbsp;
+| m<sup>3</sup> · kg<sup>−1</sup>
+| 
+|-
+| [[molarità]] SI<ref>Nella pratica la molarità si continua a misurare in mol/L</ref>
+| &nbsp; || &nbsp; || &nbsp;
+| mol · dm<sup>−3</sup>
+| 
+|-
+| [[volume molare]] || ''V''<sub>m</sub> || &nbsp; || &nbsp;
+| m<sup>3</sup> · mol<sup>−1</sup>
+| 
+|-
+| [[capacità termica]], [[Entropia (termodinamica)|entropia]] || ''C, S'' || &nbsp;
+| &nbsp;
+| J · K<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−2</sup> · K<sup>−1</sup>
+|-
+| [[calore specifico|calore molare]], entropia molare
+| ''C''<sub>m</sub>, S<sub>m</sub> || &nbsp; || &nbsp;
+| J · K<sup>−1</sup> · mol<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−2</sup> · K<sup>−1</sup> · mol<sup>−1</sup>
+|-
+| [[calore specifico]], entropia specifica
+| ''c, s'' ||&nbsp; || &nbsp;
+| J · K<sup>−1</sup>  · kg<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−2</sup> · K<sup>−1</sup>
+|-
+| energia molare || ''E''<sub>m</sub> || &nbsp; || &nbsp;
+| J · mol<sup>−1</sup>
+| = m<sup>2</sup> · kg · s<sup>−2</sup> · mol<sup>−1</sup>
+|-
+| energia specifica || ''e'' || &nbsp; || &nbsp;
+| J · kg<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−2</sup>
+|-
+| densità di energia || ''U'' ||&nbsp; || &nbsp;
+| J · m<sup>−3</sup>
+| = m<sup>−1</sup> · kg · s<sup>−2</sup>
+|-
+| [[tensione superficiale]] || ''σ'' || &nbsp; || &nbsp;
+| N · m<sup>−1</sup>
+| = J · m<sup>−2</sup><br /> = kg · s<sup>−2</sup>
+|-
+| densità di flusso calorico, irradianza
+| σ || &nbsp; || &nbsp;
+| W · m<sup>−2</sup>
+| = kg · s<sup>−3</sup>
+|-
+| [[conduttività termica]] || &nbsp; || &nbsp; || &nbsp;
+| W ·  m<sup>−1</sup> · K<sup>−1</sup>
+| = m · kg ·  s<sup>−3</sup> · K<sup>−1</sup>
+|-
+| [[Viscosità#Viscosità cinematica|viscosità cinematica]], coefficiente di [[diffusione]]
+| ''η'' || &nbsp; || &nbsp;
+| m<sup>2</sup> · s<sup>−1</sup>
+| 
+|-
+| [[Viscosità#Viscosità assoluta (o dinamica)|viscosità dinamica]] || ''ρ'' || &nbsp; || &nbsp;
+| N · s · m<sup>−2</sup> 
+| = Pa · s <br />= m<sup>−1</sup> · kg · s<sup>−1</sup>
+|-
+| densità di carica elettrica || &nbsp;
+| &nbsp; || &nbsp;
+| C · m<sup>−3</sup>
+| = m<sup>−3</sup> · s · A
+|-
+| densità di corrente elettrica || ''j'' || &nbsp;
+| &nbsp;
+| A · m<sup>−2</sup>
+| 
+|-
+| [[conduttività elettrica]] || ''ρ'' || &nbsp;
+| &nbsp;
+| S · m<sup>−1</sup>
+| = m<sup>−3</sup> · kg<sup>−1</sup> · s<sup>3</sup> · A<sup>2</sup>
+|-
+| conduttività molare || ''ρ'' ||&nbsp; || &nbsp;
+| S · m<sup>2</sup> · mol<sup>−1</sup>
+| = kg<sup>−1</sup> · mol<sup>−1</sup> · s<sup>3</sup> · A<sup>2</sup>
+|-
+| [[permittività elettrica]] || ''ε'' || &nbsp; || &nbsp;
+| F ·  m<sup>−1</sup>
+| = m<sup>−3</sup> · kg<sup>−1</sup> · s<sup>4</sup> · A<sup>2</sup>
+|-
+| [[permeabilità magnetica]] || ''μ'' || &nbsp; || &nbsp;
+| H · m<sup>−1</sup>
+| = m · kg · s<sup>−2</sup> · A<sup>−2</sup>
+|-
+| (intensità) di [[campo elettrico]] || ''F, E'' || &nbsp;
+| &nbsp;
+| V · m<sup>−1</sup>
+| =  m · kg · s<sup>−3</sup> · A<sup>−1</sup>
+|-
+| (intensità) di [[campo magnetico]] || ''H'' || &nbsp;
+| &nbsp;
+| A · m<sup>−1</sup>
+| 
+|-
+| [[magnetizzazione]] || ''M'' || &nbsp;
+| &nbsp;
+| A · m<sup>−1</sup>
+| 
+
+|-
+| [[Luminanza (fisica)|luminanza]] || &nbsp; || &nbsp;<ref>Usato il nome non SI di [[Nit (unità di misura)|Nit]]</ref> || &nbsp;
+| cd · m<sup>−2</sup>
+| 
+|-
+| esposizione (raggi X e gamma) || &nbsp; || &nbsp;
+| &nbsp;
+| C · kg<sup>−1</sup>
+| = kg<sup>−1</sup> · s · A
+|-
+| tasso di dose assorbita || &nbsp; || &nbsp; || &nbsp;
+| Gy · s<sup>−1</sup>
+| = m<sup>2</sup> · s<sup>−3</sup>
+|}
+
+=== Prefisse ===
+Le unità SI possono avere prefissi per rendere più comodamente utilizzabili grandi e piccole misurazioni. Per esempio, la luce visibile ha un'ampiezza d'onda pari più o meno a 0,0000005 m, che, più comodamente, è possibile scrivere come 500 nm.
+
+Si noti l'importanza di utilizzare correttamente i simboli maiuscoli e minuscoli per evitare ambiguità. Non è più permesso utilizzare più prefissi in cascata: ad esempio, non si può scrivere 10&nbsp;000 m = 1 dakm.
+
+
+{{Prefissi SI}}
+=== Aunità non SI accettate pè essere ausate cu 'u Sisteme 'ndernaziunale ===
+Queste unità vengono accettate accanto a quelle ufficiali dell'SI in quanto il loro uso è tutt'oggi molto diffuso in tutta la popolazione anche non di ambiente scientifico. Il loro uso è tollerato per permettere agli studiosi di far capire le loro ricerche ad un pubblico molto ampio, anche di non esperti nel settore. Questa categoria contiene soprattutto unità di tempo e di angoli. In teoria anche i simboli ° ' " andrebbero scritti distanziati dal valore numerico, per esempio 25&nbsp;°C è la forma corretta, mentre 25°C è la forma errata.
+
+{| {{prettytable}}
+|-
+!Nome
+!Simbolo
+!Equivalenza in termini di unità fondamentali SI
+|-
+|[[minuto]] ||min ||1 min = 60 s
+|-
+|[[Ora (unità di misura)|ora]] ||h ||1 h = 60 min = 3 600 s
+|-
+|[[giorno]] ||d ||1 d = 24 h = 86 400 s
+|-
+|[[Grado (unità di misura)|grado]]
+|° ||1° = (π/180) rad
+|-
+|[[Primo (geometria)|minuto primo]] || ′ || 1′ = (1/60)° = (π/10 800) rad
+|-
+|[[Secondo (geometria)|minuto secondo]] || ″ || 1″ = (1/60)′ = (π/648 000) rad
+|-
+|[[litro]] ||l, L<ref>Il simbolo l fu adottato dalla [[Comité International des Poids et Mesures|CIPM]] nel 1879, l'alternativa maiuscola L fu adottata dalla 16ª [[Conférence Générale des Poids et Mesures|CGPM]] per evitare ambiguità tra l'unità 1 (numero) e l (minuscola).</ref>
+|1 L = 1 dm<sup>3</sup> = 10<sup>−3</sup> m<sup>3</sup>
+|-
+|[[tonnellata]] ||t ||1 t = 10<sup>3</sup> kg
+|-
+|[[neper]]<ref name="bel_neper">Queste unità sono usate per esprimere il valore logaritmico della misura. Molto usato nella tecnica è il sottomultiplo del bel, il [[decibel]]: dB. Sia per il neper che per il bel è particolarmente importante che la quantità misurata sia specificata, ad esempio dB<sub>V</sub> nella misura di tensione. Per maggiori informazioni consultare lo standard [[ISO 31]].</ref> ||Np ||1 Np = ''[[E (costante matematica)|e]]'' qualsiasi unità fondamentale dell'SI
+|-
+|[[bel (unità di misura)|bel]]<ref name="bel_neper" /> ||B ||1 B = (ln 10)/2 Np = 10 qualsiasi unità fondamentale dell'SI
+|}
+
+==== Aunità non SI accettate purcè cchiù precise ====
+Queste unità sono accettate perché quelle previste ufficialmente dall'SI sono ricavate tramite relazioni fisiche che includono costanti non conosciute con precisione sufficiente. In questo caso si tollera l'uso di altre unità non ufficiali per la maggiore precisione ricavata.
+{| {{prettytable}}
+|-
+!Nome
+!Simbolo
+!Equivalenza in termini di unità fondamentali SI
+|-
+|[[elettronvolt]] ||eV
+|1 eV = 1,602&nbsp;177&nbsp;33(49) × 10<sup>–19</sup> J
+|-
+|[[unità di massa atomica]]
+|u
+|1 u = 1,660&nbsp;540&nbsp;2(10) × 10<sup>−27</sup> kg
+|-
+|[[Unità Astronomica|unità astronomica]]
+|ua
+|1 ua = 1,495 978 70(30) ×10<sup>11</sup> m
+|}
+
+==== Otre aunità non SI ôsce a die accettate ====
+Queste unità sono attualmente usate in ambiti commerciali, legali, e nella navigazione. Queste unità dovrebbero essere definite in relazione all'SI in ogni documento in cui vengono usate. Il loro uso è scoraggiato.
+{| {{prettytable}}
+|-
+!Nome
+!Simbolo
+!Equivalenza in termini di unità fondamentali SI
+|-
+|[[angstrom]] ||Å ||1 Å = 0,1 nm = 10<sup>−10</sup> m
+|-
+|[[miglio nautico]]
+| nm ||1 miglio nautico =1 852 m
+|-
+|[[Nodo (unità di misura)|nodo]]
+| kn
+|1 nodo = 1 miglio nautico all'ora = (1 852/3 600) m/s
+|-
+|[[barn]] ||b
+|1 b = 100 fm<sup>2</sup> = 10<sup>−28</sup> m<sup>2</sup>
+|-
+|[[Ara (unità di misura)|ara]] ||a
+|1 a = 1 dam<sup>2</sup> = 10<sup>2</sup> m<sup>2</sup>
+|-
+|[[ettaro]] ||ha
+|1 ha = 1 hm<sup>2</sup> = 10<sup>4</sup> m<sup>2</sup>
+|-
+|[[Bar (unità di misura)|bar]] ||bar
+|1 bar = 0,1 MPa = 100 kPa = 1 000 hPa = 10<sup>5</sup> Pa
+|}
+
+== Note ==
+<references />
+
+== Bibliografije ==
+* {{cita libro|Michelangelo|Fazio|SI, MKSA, CGS & Co. dizionario e manuale delle unità di misura|1995|Zanichelli Editore|Bologna|id=ISBN 88-08-08962-2}} 
+* {{cita libro|Robert|Perry|[[Perry's Chemical Engineers' Handbook]]|2007|McGraw-Hill|wkautore=Robert H. Perry|coautori=Dow.W.Green|ed=8|lingua=inglese|id=ISBN 0-07-142294-3}}
+
+== Vôsce cullegate ==
+* [[Metrologije]]
+* [[Aunità de mesure]]
+* [[Sisteme CGS]]
+
+== Collegamende fore a Uicchipèdie ==
+* {{lingue|en|fr}} [http://www.bipm.fr Sito ufficiale del BIPM, l'Ufficio internazionale dei pesi e delle misure]
+* {{lingue|en|fr}} [http://www.bipm.org/utils/common/pdf/si_brochure_8.pdf SI brochure, 8a Ed. 2006] ([[PDF]], 3,88 MB)
+* {{en}} [http://www.nist.gov Sito dell'istituto nazionale americano per gli standard e le tecnologie, NIST]
+* {{en}} [http://physics.nist.gov/Pubs/SP330/sp330.pdf L'SI di unità di misura, Pubblicazione Speciale 330, NIST 2008]
+* {{en}} [http://physics.nist.gov/cuu/pdf/sp811.pdf Guida per l'uso dell'SI di unità di misura, Pubblicazione Speciale 811, NIST 2008]
+* [http://www.inrim.it/ Sito dell'istituto nazionale di ricerca metrologica]
+* [http://www.inrim.it/ntp/webclock_i.shtml Cliccate qui per sincronizzarvi con il campione nazionale ufficiale di tempo]
+
+[[Category:Sisteme 'ndernaziunale de aunità de mesure]]
+
+{{Unità di misura}}
+
+{{Link AdQ|vi}}
+{{Link AdQ|ro}}
+
+[[af:SI-stelsel]]
+[[als:SI-Einheitensystem]]
+[[an:Sistema Internacional d'Unidatz]]
+[[ar:نظام الوحدات الدولي]]
+[[ast:Sistema Internacional d'Unidaes]]
+[[bat-smg:SI]]
+[[be-x-old:Міжнародная сыстэма СІ]]
+[[bg:Международна система единици]]
+[[bn:এস্‌আই একক]]
+[[br:Sistem etrevroadel unanennoù ar fizik]]
+[[bs:SI sistem]]
+[[ca:Sistema Internacional d'Unitats]]
+[[cs:Soustava SI]]
+[[cu:Междѹнародьнъ мѣръ сѷстима]]
+[[da:Système International d'Unités]]
+[[de:Internationales Einheitensystem]]
+[[el:Διεθνές σύστημα μονάδων]]
+[[en:International System of Units]]
+[[eo:Sistemo Internacia de Unuoj]]
+[[es:Sistema Internacional de Unidades]]
+[[et:SI-süsteem]]
+[[eu:Nazioarteko Unitate Sistema]]
+[[fa:سیستم استاندارد بین‌المللی واحدها]]
+[[fi:Kansainvälinen yksikköjärjestelmä]]
+[[fr:Système international d'unités]]
+[[fur:Sisteme internazionâl di unitâts]]
+[[ga:Córas Idirnáisiúnta na nAonad]]
+[[gan:國際單位系統]]
+[[gd:Système international d'unités]]
+[[gl:Sistema Internacional de Unidades]]
+[[he:מערכת היחידות הבינלאומית]]
+[[hi:अन्तर्राष्ट्रीय इकाई प्रणाली]]
+[[hr:Međunarodni sustav mjernih jedinica]]
+[[hu:SI mértékegységrendszer]]
+[[ia:Systema International de Unitates]]
+[[id:Sistem Satuan Internasional]]
+[[io:Unaj-internaciona sistemo]]
+[[is:Alþjóðlega einingakerfið]]
+[[it:Sistema internazionale di unità di misura]]
+[[ja:国際単位系]]
+[[jbo:treci'e]]
+[[jv:Petungan Internasional]]
+[[ka:ერთეულთა საერთაშოირისო სისტემა]]
+[[kk:Өлшем бірліктерінің халықаралық жүйесі]]
+[[ko:국제단위계]]
+[[ksh:SI-Basiseinheite]]
+[[ku:Sîstema Navneteweyî ya Yekînan]]
+[[la:Systema Internationale]]
+[[lb:Internationaalt Eenheetesystem]]
+[[lt:SI (sistema)]]
+[[lv:Starptautiskā mērvienību sistēma]]
+[[mk:Меѓународен систем на мерни единици]]
+[[ml:അന്താരാഷ്ട്ര ഏകകവ്യവസ്ഥ]]
+[[mn:Олон улсын нэгжийн систем]]
+[[ms:Sistem Unit Antarabangsa]]
+[[nds:Internatschonal Eenheitensystem]]
+[[nl:SI-stelsel]]
+[[nn:SI-systemet]]
+[[no:SI-systemet]]
+[[oc:Sistèma Internacionau d'Unitats]]
+[[pl:Układ SI]]
+[[pt:Sistema Internacional de Unidades]]
+[[qu:SI tupuy]]
+[[ro:Sistemul internaţional de unităţi]]
+[[ru:СИ]]
+[[sco:SI]]
+[[simple:International System of Units]]
+[[sk:SI]]
+[[sl:Mednarodni sistem enot]]
+[[sq:Sistemi SI]]
+[[sr:Међународни систем јединица]]
+[[su:SI]]
+[[sv:Système International]]
+[[sw:Vipimo sanifu vya kimataifa]]
+[[ta:அனைத்துலக முறை அலகுகள்]]
+[[th:หน่วยเอสไอ]]
+[[tl:Sistemang pandaigdig ng mga yunit]]
+[[tr:Uluslararası Birimler Sistemi]]
+[[uk:Міжнародна система СІ]]
+[[ur:بین الاقوامی نظام اکائیات]]
+[[uz:SI]]
+[[vec:SI]]
+[[vi:SI]]
+[[vls:SI-systèm]]
+[[war:Kanasodnon Sistema han mga Panukol]]
+[[yo:Ìwọ̀n Ẹyọ Akáríayé SI]]
+[[zh:国际单位制]]
+[[zh-min-nan:Kok-chè Tan-ūi Hē-thóng]]
+[[zh-yue:國際單位制]]
