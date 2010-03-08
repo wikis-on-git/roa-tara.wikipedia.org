@@ -17,15 +17,15 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 
 {| class="wikitable sortable" border=1 align=center cellspacing="0" width=100%
 |- align=center bgcolor=#F1FFDF
-| width=5%|'''[[Numero atomico|N]]'''
-|'''Elemento'''
-|'''[[Simbolo chimico|Simbolo]]'''
-|'''[[Peso atomico]]'''
-| width=20%|'''[[Configurazione elettronica|Configurazione<br />elettronica]]'''
-|'''[[Energia di ionizzazione|EI<sub>1</sub>]] <small>([[Elettronvolt|eV]])</small>'''
-|'''[[Affinità elettronica|AE]] <small>([[Elettronvolt|eV]])</small>'''
+| width=5%|'''[[Numere atomiche|N]]'''
+|'''Elemende'''
+|'''[[Simbole chìmeche|Simbole]]'''
+|'''[[Pese atomiche]]'''
+| width=20%|'''[[Configurazione elettroneche|Configurazione<br />elettroneche]]'''
+|'''[[Energie de ionizzazione|EI<sub>1</sub>]] <small>([[Elettronvolt|eV]])</small>'''
+|'''[[Affinità elettroneche|AE]] <small>([[Elettronvolt|eV]])</small>'''
 |'''[[Elettronegatività|Χ <small>(Pauling)</small>]]'''
-|'''[[Scoperta degli elementi chimici|Anno <br />di scoperta]]'''
+|'''[[Scuperte de le elemende chìmeche|Anne <br />de scuperte]]'''
 |- align=center
 |1
 |[[Idrogeno]]
@@ -85,7 +85,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |11,26030
 |1,263
 |2,5
-|antichità
+|andichità
 |- align=center
 |7
 |[[Azoto]]
@@ -185,7 +185,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |10,36001
 |2,077
 |2,5
-|antichità
+|andichità
 |- align=center
 |17
 |[[Cloro]]
@@ -218,7 +218,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1807]]
 |- align=center
 |20
-|[[Calcio (metallo)|Calcio]]
+|[[Calcio (metalle)|Calcio]]
 |Ca
 |40,08
 |[Ar]4s<sup>2</sup>
@@ -285,7 +285,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |7,9024
 |0,163
 |1,8
-|antichità
+|andichità
 |- align=center
 |27
 |[[Cobalto]]
@@ -315,7 +315,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |7,72638
 |1,227
 |1,9
-|antichità
+|andichità
 |- align=center
 |30
 |[[Zinco]]
@@ -325,10 +325,10 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |9,3940
 |0
 |1,6
-|[[XV secolo]]
+|[[XV sèchele]]
 |- align=center
 |31
-|[[Gallio (elemento)|Gallio]]
+|[[Gallio (elemende)|Gallio]]
 |Ga
 |69,72
 |[Ar]3d<sup>10</sup>4s<sup>2</sup>4p
@@ -355,7 +355,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |9,8152
 |0,808
 |2,0
-|[[XV secolo]]
+|[[XV sèchele]]
 |- align=center
 |34
 |[[Selenio]]
@@ -378,7 +378,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1826]]
 |- align=center
 |36
-|[[Kripton (elemento)|Kripton]]
+|[[Kripton (elemende)|Kripton]]
 |Kr
 |83,80
 |[Ar]3d<sup>10</sup>4s<sup>2</sup>4p<sup>6</sup>
@@ -478,7 +478,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1803]]
 |- align=center
 |46
-|[[Palladio (elemento)|Palladio]]
+|[[Palladio (elemende)|Palladio]]
 |Pd
 |106,42
 |[Kr]4d<sup>10</sup>5s<sup>0</sup>
@@ -495,7 +495,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |7,57624
 |1,302
 |1,9
-|antichità
+|andichità
 |- align=center
 |48
 |[[Cadmio]]
@@ -518,14 +518,14 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1863]]
 |- align=center
 |50
-|[[stagno (metallo)|Stagno]]
+|[[stagno (metalle)|Stagno]]
 |Sn
 |118,71
 |[Kr]4d<sup>10</sup>5s<sup>2</sup>5p<sup>2</sup>
 |7,34381
 |1,112
 |1,8
-|antichità
+|andichità
 |- align=center
 |51
 |[[Antimonio]]
@@ -535,7 +535,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |8,64
 |1,070
 |1,9
-|[[XV secolo]]
+|[[XV sèchele]]
 |- align=center
 |52
 |[[Tellurio]]
@@ -568,7 +568,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1898]]
 |- align=center
 |55
-|[[Cesio (elemento)|Cesio]]
+|[[Cesio (elemende)|Cesio]]
 |Cs
 |132,9054
 |[Xe]6s
@@ -815,17 +815,17 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |9,22567
 |2,309
 |2,4
-|antichità
+|andichità
 |- align=center
 |80
-|[[Mercurio (elemento)|Mercurio]]
+|[[Mercurio (elemende)|Mercurio]]
 |Hg
 |200,59
 |[Xe]4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>
 |10,43750
 |0
 |1,9
-|antichità
+|andichità
 |- align=center
 |81
 |[[Tallio]]
@@ -845,7 +845,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |7,4167
 |0,364
 |1,9
-|antichità
+|andichità
 |- align=center
 |83
 |[[Bismuto]]
@@ -898,7 +898,7 @@ Si riporta di seguito una tabella che raccoglie alcune informazioni sugli elemen
 |[[1939]]
 |- align=center
 |88
-|[[Radio (elemento)|Radio]]
+|[[Radio (elemende)|Radio]]
 |Ra
 |226,0254
 |[Rn]7s<sup>2</sup>
