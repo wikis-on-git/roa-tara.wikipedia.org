@@ -1,0 +1,515 @@
+{{T}}
+{{Costante
+|nomealt = Pi greco
+|tipo = matematica 
+|simbolo = π
+|valore = 3,14159 26535 89793...
+|nome = 
+|campo =  
+|fcont = <math> \frac{4}{\pi} = 1 + \frac{1}{3 + \frac{4}{5 + \frac{9}{7 + \frac{16}{9 + \frac{25}{11 + \frac{36}{13 + ...}}}}}} </math>
+|oeis = 
+|insieme = trascendenti
+}} 
+[[File:Pi-symbol.svg|thumb|Simbolo di pi greco]]
+La [[costante matematica]] '''''π''''' (si scrive '''pi''' dove le [[Alfabeto greco|lettere greche]] non sono disponibili) è utilizzata moltissimo in [[matematica]] e [[fisica]]. Nella [[geometria euclidea|geometria piana]], ''π'' viene definito come il [[rapporto]] tra la [[circonferenza]] e il [[diametro]] di un [[cerchio]], o anche come l'[[area]] di un cerchio di [[Raggio (geometria)|raggio]] 1. Molti libri moderni di [[analisi matematica]] definiscono ''π'' usando le [[funzioni trigonometriche]], per esempio come il più piccolo [[numero]] strettamente positivo per cui sen(x)=0 oppure il più piccolo numero che diviso per 2 annulla cos(x).
+Tutte le definizioni sono equivalenti.
+
+''π'' è conosciuto anche come la  '''costante di [[Archimede]]''' (da non confondere con i [[numero di Archimede|numeri di Archimede]]), la '''costante di [[Ludolph van Ceulen|Ludolph]]''' o '''numero di Ludolph'''. Contrariamente ad un'idea comune, ''π'' non è una [[costante fisica]] o [[natura]]le, quanto piuttosto una [[costante matematica]] definita in modo astratto, indipendente dalle misure di carattere fisico.
+
+Le prime 64 cifre [[decimali]] di ''π'' sono (sequenza [http://www.research.att.com/cgi-bin/access.cgi/as/njas/sequences/eisA.cgi?Anum=A000796 A000796] del [[OEIS]]) :
+:[[Pi greco (prime 100 mila cifre)|3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510 58209 74944 592]]
+
+== Proprietà ==
+[[File:Pi-unrolled-720.gif|thumb|250px|Il rapporto tra la lunghezza della circonferenza di una ruota e il suo diametro è π]]
+''π'' è un [[numero irrazionale]], non può cioè essere scritto come quoziente di due [[numeri interi|interi]], come dimostrato nel [[1761]] da [[Johann Heinrich Lambert]]. Inoltre, è un [[numero trascendente]] (ovvero non è un [[numero algebrico]]): questo fatto è stato provato da [[Ferdinand von Lindemann]] nel [[1882]]. Questo significa che non ci sono [[polinomio|polinomi]] con coefficienti interi o [[numeri razionali|razionali]] di cui ''π'' è radice. Di conseguenza, è impossibile esprimere ''π'' usando un numero finito di interi, di frazioni e delle loro radici.
+
+Questo risultato stabilisce ''a fortiori'' l'impossibilità della [[quadratura del cerchio]], cioè la costruzione, con soli riga e compasso, di un quadrato della stessa area di un dato cerchio.
+
+== Formule che riguardano ''π'' ==	
+=== Geometria ===
+{{vedi anche|geometria}}
+* La [[circonferenza]] di un [[cerchio]] o di una [[sfera]] di raggio ''r'':
+:<math> C = 2{\pi} r </math>
+* L'[[area]] di un cerchio di raggio ''r'':
+:<math> A = {\pi} {r^2} </math>
+* L'area di un'[[ellisse]] di semiassi ''a'' e ''b'':
+:<math> A = {\pi}ab </math>
+* Il [[volume]] di una [[sfera]] di raggio ''r'':
+:<math> V = \frac{4}{3} {\pi} {r^3} </math>
+* La [[superficie]] di una sfera di raggio ''r'':   
+:<math> S = 4 {\pi} {r^2}  </math>  
+* Il [[volume]] di un [[cilindro (geometria)|cilindro]] di altezza ''h'' e raggio ''r'':  
+:<math> V = {\pi} {r^2} h  </math>
+* L'area della superficie di un cilindro di altezza ''h'' e raggio ''r'': 
+:<math> S = 2{\pi}r \cdot (r+h)</math>
+* [[Angolo|Angoli]]: 180 [[grado (unità di misura)|gradi]] equivalgono a ''π'' [[radiante|radianti]].
+
+=== Analisi ===
+{{vedi anche|analisi matematica}}
+* [[Formula di Viète]], [[1593]]: 
+::<math>2
+\frac {2}{\sqrt2}
+\frac {2}{\sqrt {2+\sqrt2}}
+\frac {2}{\sqrt {2+\sqrt{2+\sqrt2}}}\ldots = \pi </math>
+
+* [[Formula di Leibniz per pi|Formula di Leibniz]]:
+::<math> \frac{1}{1} - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \cdots = \frac{\pi}{4} </math>
+:dalla quale si ricava che:
+::<math> \frac{1}{1\cdot3} + \frac{1}{5\cdot7} + \frac{1}{9\cdot11} + \frac{1}{13\cdot15} + \frac{1}{17\cdot19} + \cdots = \frac{\pi}{8} </math>
+
+* [[Prodotto di Wallis]]:
+::<math> 
+\prod_{n=1}^{\infty} \frac{(2n)(2n)}{(2n-1)(2n+1)} = \frac{2}{1} \cdot \frac{2}{3} \cdot \frac{4}{3} \cdot \frac{4}{5} \cdot \frac{6}{5} \cdot \frac{6}{7} \cdot \frac{8}{7} \cdot \frac{8}{9} \cdots = \frac{\pi}{2}
+</math>
+
+* Il [[problema di Basilea]]:
+::<math> \zeta(2) = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots = \frac{\pi^2}{6} </math>
+:risolto da [[Leonhard Euler|Eulero]]. Un'altra formula che usa la [[funzione zeta di Riemann]]:
+::<math>\zeta(4)= \frac{1}{1^4} + \frac{1}{2^4} + \frac{1}{3^4} + \frac{1}{4^4} + \cdots = \frac{\pi^4}{90}</math>
+
+* Il [[prodotto di Eulero]]
+::<math>\frac{1}{\left(1-\frac{1}{2^2}\right)}\frac{1}{\left(1-\frac{1}{3^2}\right)} \frac{1}{\left(1-\frac{1}{5^2}\right)}\frac{1}{\left(1-\frac{1}{7^2}\right)} \frac{1}{\left(1-\frac{1}{11^2}\right)} \cdots = \frac{\pi^2}{6}</math>
+:Dove il prodotto percorre tutti i numeri primi
+
+* L'[[integrale di Gauss]]:
+::<math> \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} </math>
+
+* L'[[integrale di Eulero]]
+::<math>\int_{-\infin}^{+\infin}e^{\frac{-u^2}{2}}du = \sqrt{2\pi}</math>
+
+* I seguenti [[Tavola degli integrali definiti|integrali definiti]]
+::<math> \int_{-\infty}^{\infty} \frac{1}{1+{x^2}}\, dx = \pi </math>
+::<math>\int_0^{+\infty}{\frac{x}{e^x-1}\,dx} = \frac{\pi^2}{6}</math>
+::<math>\int_0^{+\infty}\frac{\mathrm{sen}(x)}{x}\,dx=\frac{\pi}{2}</math>
+
+* L'[[integrale di Fresnel]]
+::<math>\int_{-\infty}^{+\infty}\cos(x^2)\,dx=\int_{-\infty}^{+\infty}\mathrm{sen}(x^2)\,dx= \sqrt{\frac{\pi}{2}}</math> 
+
+* La [[funzione gamma]] calcolata in <math>1/2</math>:
+::<math> \Gamma\left({1 \over 2}\right)=\sqrt{\pi}</math>
+
+* L'[[approssimazione di Stirling]]:
+::<math> n! \sim \sqrt{2 \pi n} \left(\frac{n}{e}\right)^n </math>
+
+* La [[funzione phi di Eulero]]:
+::<math>\sum_{k=0}^{n} \phi (k) \sim 3 n^2 / \pi^2</math>
+
+* L'[[identità di Eulero]]:
+::<math> e^{\pi i} + 1 = 0\; </math>
+:definita da [[Richard Feynman]] «la più notevole formula della matematica».
+
+* Il [[Teorema dei residui]]:
+::<math>\oint\frac{dz}{z}=2\pi i</math>
+
+* ''π'' ha delle rappresentazioni come [[frazione continua|frazioni continue]]:
+::<math> \frac{4}{\pi} = 1 + \frac{1}{3 + \frac{4}{5 + \frac{9}{7 + \frac{16}{9 + \frac{25}{11 + \frac{36}{13 + ...}}}}}} </math> 
+::<math> \frac{4}{\pi} = 1 + \frac{1}{2 + \frac{3^2}{2 + \frac{5^2}{2 + \frac{7^2}{2 + \frac{9^2}{2 + \frac{11^2}{2 + ...}}}}}} </math> 
+
+* La frazione continua di [[Ramanujan]]:
+::<math>\sqrt{\phi^2+1} = \phi+ \cfrac{e^{-2 \pi/5}}{1 + \cfrac{e^{-2 \pi}}{1 + \cfrac{e^{-4 \pi}}{1+ \cfrac{e^{-6 \pi}}{1+\,\cdots}}}} </math>
+
+* Data una semicirconferenza di raggio ''r'' centrata nell'origine del piano cartesiano, ''π''''r'' è definibile come  [[curva piana#Lunghezza in forma cartesiana esplicita|lunghezza in forma cartesiana esplicita]] su tutto il dominio della funzione che descrive la semicirconferenza: 
+::<math>f\left( x\right) := \sqrt{r^2 - x^2} </math>
+::<math>
+\pi = \frac{1}{r}\int_{- r}^{r} \sqrt{\left(\frac{d}{dx} f\left(x\right)\right)^2 + 1} d x</math>
+::<math>= \frac{1}{r}{\int_{- r}^{r} \sqrt{\frac{x^2}{r^2 - x^2} + 1} d x}</math>
+::<math>= \frac{1}{r}[{\mathrm{arcsen}\left(r\right) - \mathrm{arcsen}\left(-r\right)]}</math>
+
+=== Teoria dei numeri ===
+{{vedi anche|teoria dei numeri}}
+* La [[probabilità]] che due interi scelti a caso siano primi fra loro è di :<math> \frac{6}{\pi^2}</math>
+* Il numero medio di modi in cui è possibile scrivere un intero positivo come somma di due [[quadrato perfetto|quadrati perfetti]] è :<math> \frac{\pi}{4}</math>.
+
+=== Sistemi dinamici, teoria ergodica ===
+{{vedi anche|sistema dinamico (teoria dei sistemi)|teoria ergodica}}
+* <math> \lim_{n \to \infty} \frac{1}{n} \sum_{i = 1}^{n} \sqrt{x_i} = \frac{2}{\pi} </math> per quasi tutti i [[Numero reale|reali]] ''x''<sub>0</sub> in [0, 1] dove  gli ''x''<sub>''i''</sub> sono iterazioni della [[Mappa logistica]] per ''r'' = 4.
+
+=== Probabilità e statistica ===
+{{vedi anche|probabilità|statistica}}
+* La [[funzione di densità di probabilità]] nella [[distribuzione normale]].
+::<math>f(x) = {1 \over \sigma\sqrt{2\pi} }\,e^{-{(x-\mu )^2 \over 2\sigma^2}}</math>
+* Il naturalista francese [[Georges-Louis Leclerc]], conte di Buffon, scoprì che lasciando cadere un ago su una superficie piana come un pavimento con delle linee parallele distanti quanto la lunghezza dell'ago, la probabilità che quest'ultimo cada toccando una delle linee è esattamente uguale a 2/''π'', che equivale a circa il 64%. Questo problema è noto come [[Ago di Buffon]].<ref> Cento anni dopo il [[matematico]] [[Augustus de Morgan]] propose ad alcuni dei suoi studenti di verificare i calcoli di Leclerc. Dopo 600 lanci aveva toccato le linee per 382 volte, da cui si ricava un valore di ''π'' di 3,14. Se si volesse verificare più accuratamente il risultato (ad esempio trovando anche la terza cifra decimale) occorrerebbe effettuare decine di migliaia di lanci.</ref>
+
+=== Aerodinamica ===
+{{Vedi anche|aerodinamica}}
+* La massima pendenza ([[teoria di Glauert]]) del tratto lineare della curva <math>C_{L} / \alpha </math> (ovvero [[coefficiente di portanza]] diviso l'[[angolo d'attacco]]) per qualsiasi profilo alare bidimensionale sottile è <math>2 \pi</math>
+
+=== Fisica ===
+{{Vedi anche|fisica}}
+* [[pendolo|Periodo di oscillazione del pendolo]]
+::<math>T = 2 \pi \sqrt \frac {l}{g}</math>
+* [[Trasformata di Fourier]]
+::<math>\mathcal{F}f(\omega)= \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^\infty f(t) e^{-i \omega t} \,\mathrm{d} t</math>
+* [[Principio di indeterminazione di Heisenberg]]
+::<math> \Delta x \Delta p  \ge \frac{h}{2\pi} </math>
+* Equazione di campo di Einstein della [[relatività generale]]
+::<math> R_{ik} - {g_{ik} R \over 2} + \Lambda g_{ik} = {8 \pi G \over c^4} T_{ik} </math>
+* [[Forza di Coulomb]]
+::<math> F = \frac{\left|q_1q_2\right|}{4 \pi \epsilon_0 r^2} </math>
+
+== Approssimazioni numeriche di ''π'' ==
+A causa della sua natura trascendente, non ci sono semplici espressioni finite che rappresentano ''π''. Di conseguenza i calcoli numerici devono usare approssimazioni del numero. In molti casi, 3,14 è sufficiente, ma molti ingegneri spesso usano 3,1416 (cinque cifre significative) o 3,14159 (6 cifre significative).
+
+Uno scriba egizio di nome [[Ahmes]] è lo scrittore del più antico testo conosciuto contenente un'approssimazione di <math>\pi</math>, il [[papiro di Rhind]], datato al XVII secolo a.C. e descrive il valore come 256/81 oppure 3,160.
+
+[[Archimede]] elaborò un metodo con cui è possibile ottenere approssimazioni comunque buone di ''π'' e lo usò per dimostrare che esso è compreso tra 223/71 e 22/7 (la media dei due valori è circa 3,1419).
+
+Il matematico cinese [[Liu Hui]] calcolò ''π'' come 3,141014 (scorretto dalla quarta cifra decimale) nel 263 e suggerì 3,14 come buona approssimazione.
+
+Il matematico ed astronomo cinese [[Zu Chongzhi]] calcolò nel V secolo ''π'' come compreso fra 3,1415926 e 3,1415927 e diede due approssimazioni di ''π'': 355/113 e 22/7.
+
+Il matematico ed astronomo iraniano [[Ghyath ad-din Jamshid Kashani]], 1350-1439, calcolò le prime 9 cifre in base 60 di ''π'', che sono equivalenti nella base decimale alle 16 cifre:
+
+:2 ''π'' = 6,2831853071795865
+
+Il matematico tedesco [[Ludolph van Ceulen]] (1600 circa) calcolò i primi 35 decimali. Era così fiero del suo risultato che lo fece scrivere sulla sua lapide.
+
+Il matematico sloveno [[Jurij Vega]] nel [[1789]] calcolò le prime 140 cifre decimali di ''π'', di cui le prime 137 erano corrette, e mantenne il record mondiale per 52 anni, fino al [[1841]], quando [[William Rutherford]] calcolò 208 cifre decimali di cui le prime 152 erano corrette. Vega migliorò la formula proposta da [[John Machin]] nel [[1706]].
+
+Nessuna delle formule sopraelencate può fornire un efficiente metodo per l'approssimazione di ''π''. Per calcoli veloci, si può usare una formula come quella di Machin:
+
+:<math>\frac{\pi}{4} = 4 \arctan\frac{1}{5} - \arctan\frac{1}{239} </math> 
+
+Insieme con l'espansione delle [[serie di Taylor]] per la funzione arctan(''x''). Questa formula si può verificare facilmente usando le [[coordinate polari]] dei [[numeri complessi]], partendo da: 
+
+:<math>(5+i)^4\cdot(-239+i)=-114244-114244 \, i.</math>
+
+Formule di questo genere sono note come ''formule di tipo Machin''.
+
+Espansioni decimali molto lunghe di ''π'' sono calcolate tipicamente con l'algoritmo Gauss-Legendre e l'algoritmo Borwein; in passato era usato anche l'algoritmo Salamin-Brent, inventato nel [[1976]].
+
+L'elenco del primo milione di cifre di ''π'' e di 1/''π'' si può trovare sul Progetto Gutenberg (vedi il collegamento esterno a fondopagina).
+Il record attuale (dicembre [[2002]]) è di 1.241.100.000.000 di cifre (1,2411 × 10 <sup>12</sup>), calcolate nel settembre [[2002]] da [[Yasumasa Kanada]] su un [[supercomputer]] [[Hitachi]] a 64 nodi con un [[Byte|terabyte]] di memoria principale, in grado di compiere 2 miliardi di operazioni per secondo, quasi il doppio del computer usato per il precedente record (206 miliardi di cifre).
+Sono state usate le seguenti formule di tipo Machin:
+
+:<math> \frac{\pi}{4} = 12 \arctan\frac{1}{49} + 32 \arctan\frac{1}{57} - 5 \arctan\frac{1}{239} + 12 \arctan\frac{1}{110443}</math>
+:K. Takano ([[1982]]).
+
+: <math> \frac{\pi}{4} = 44 \arctan\frac{1}{57} + 7 \arctan\frac{1}{239} - 12 \arctan\frac{1}{682} + 24 \arctan\frac{1}{12943}</math>
+:F. C. W. Störmer ([[1896]]).
+
+Queste approssimazioni sono così complesse da non essere utili per nessuno scopo pratico, se non per provare le prestazioni di nuovi supercomputer o per analisi statistiche sulle cifre di pi greco.
+
+Nel [[1996]] David H. Bailey, insieme a Peter Borwein e Simon Plouffe, scoprì una nuova formula per calcolare ''π'' come serie infinita:
+
+: <math>\pi = \sum_{k = 0}^{\infty} \frac{1}{16^k}
+\left( \frac{4}{8k + 1} - \frac{2}{8k + 4} - \frac{1}{8k + 5} - \frac{1}{8k + 6}\right)</math>
+
+Questa formula permette di calcolare facilmente la ''k''-esima cifra [[sistema numerico binario|binaria]] o [[sistema numerico esadecimale|esadecimale]] di ''π'' senza dover calcolare tutte le cifre precedenti.
+Il [http://www.nersc.gov/~dhbailey/ sito web di Bailey] ne contiene l'implementazione in vari [[linguaggio di programmazione|linguaggi di programmazione]].
+
+Alcune altre formule usate per calcolare stime di ''π'' sono:
+
+* <math>
+\frac{\pi}{2}=
+\sum_{k=0}^\infty\frac{k!}{(2k+1)!!}=
+1 + \frac{1}{3} + \frac{1 \cdot 2}{3 \cdot 5} + \frac{1 \cdot 2 \cdot 3}{3 \cdot 5 \cdot 7} + \cdots
+</math>
+:da [[Isaac Newton|Newton]].
+
+* <math> \frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum^\infty_{k=0} \frac{(4k!)(1103+26390k)}{(k!)^4 396^{4k}} </math>
+:da [[Srinivasa Ramanujan|Ramanujan]].
+
+* <math> \frac{1}{\pi} = 12 \sum^\infty_{k=0} \frac{(-1)^k (6k)! (13591409 + 545140134k)}{(3k)!(k!)^3 640320^{3k + 3/2}} </math>
+:da [[David Chudnovsky]] e [[Gregory Chudnovsky]].
+
+* <math>{\pi} = 20 \arctan\frac{1}{7} - 8 \arctan\frac{3}{79} </math> 
+:da [[Leonhard Euler|Eulero]].
+
+* <math>  \frac {\displaystyle \prod_{n=1}^{\infty} \left (1 + \frac{1}{4n^2-1} \right )}{\displaystyle\sum_{n=1}^{\infty} \frac {1}{4n^2-1}}  =  \frac {\displaystyle\left (1 + \frac{1}{3} \right ) \left (1 + \frac{1}{15} \right ) \left (1 + \frac{1}{35} \right ) \cdots} {\displaystyle \frac{1}{3} +  \frac{1}{15} +  \frac{1}{35} + \cdots}  = \pi </math>
+:nota come [[Formula simmetrica]]
+
+* <math>\sum_{k=0}^\infty\frac{(-1)^k(\sqrt{2}-1)^{2k+1}}{2k+1} = \frac{\pi}{8}.</math>
+:<math>\sum_{k=0}^\infty\frac{(-1)^k(2-\sqrt{3})^{2k+1}}{2k+1}=\frac{\pi}{12}.</math>
+:da [[Pafnuty Chebyshev|Chebyshev]]  
+
+* <math> \pi = \sum_{k=0}^\infty \frac{2(-1)^k\; 3^{\frac{1}{2} - k}}{2k+1}</math>
+
+== Storia ==
+Il simbolo ''π'' per la costante di [[Archimede]] è stato introdotto nel [[1706]] dal [[matematico]] inglese [[William Jones (matematico)|William Jones]] quando pubblicò ''A New Introduction to Mathematics'', benché lo stesso simbolo fosse stato utilizzato in precedenza per indicare la circonferenza del cerchio. La notazione diventò di uso comune dopo che la utilizzò [[Leonhard Euler|Eulero]]. In entrambi i casi ''π'' è la prima lettera di ''περίμετρος'' (perimetros), che significa «misura attorno» in [[lingua greca|greco]]. Inoltre il simbolo ''π'' venne usato all'inizio dallo stesso William Jones che, nel [[1706]] lo usò in onore di [[Pitagora]] (l'iniziale di pitagora nell'alfabeto greco è appunto Π, ma trattandosi di un numero si preferisce usare la minuscola). Tuttavia, ancora nel [[1739]] lo svizzero [[Eulero]] usava il simbolo ''p''.
+
+Ecco una breve cronologia di ''π'':
+
+=== Nell'antichità ===
+* [[XX secolo a.C.]]: i [[Babilonesi]] usavano 25/8 per ''π'' (=3,125)
+* XX secolo a.C.: gli [[Egizi]] ([[Papiro di Rhind]]) usano ''π'' = (16/9)<sup>2</sup> = 3,1605
+* [[XII secolo a.C.]]: i [[Cinesi]] usano 3 per ''π''
+* [[550 a.C.]]: Nell'[[Antico Testamento]] si dice (non esplicitamente) che il ''π'' è uguale a 3
+* [[434 a.C.]]: [[Anassagora]] tenta la quadratura del cerchio con riga e compasso
+* [[430 a.C.]]: [[Antifonte|Antifonte il sofista]] e [[Brisone di Eraclea]] esprimono il [[metodo di esaustione|principio di esaustione]]
+* [[335 a.C.]]: [[Dinostrato]] usa la quadratrice per [[Quadratura del cerchio|quadrare il cerchio]]
+* [[III secolo a.C.]]: [[Archimede]], utilizzando l'esaustione e il [[metodo di compressione]], calcola su [[poligono|poligoni]] di 96 lati che 223/71 < ''π'' < 22/7<ref>[http://it.wikibooks.org/wiki/Dimostrazione_che_22/7_%C3%A8_maggiore_di_%CF%80 Dimostrazione che 22/7 è maggiore di π]</ref>, e trova inoltre l'approssimazione ''π'' = 211875/67441 = 3,14163...
+* [[I secolo a.C.]]: [[Marco Vitruvio Pollione|Vitruvio]] usa 25/8 <ref>''De Architectura'' X, 9, 1, [http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Vitruvius/10*.html in linea] su [[LacusCurtius]].</ref>
+* [[II secolo|II secolo d.C.]]: [[Claudio Tolomeo|Tolomeo]] usa ''π'' = 377/120 = 3,14166...
+* [[III secolo d.C.]]: [[Chang Hong]] usa ''π'' = √10, [[Wang Fau]] usa ''π'' = 142/45 e [[Liu Hui]] usa ''π'' = 157/50
+
+=== Nel Medioevo ===
+* [[V secolo]] (450 circa): [[Zu Chongzhi]] ([[Tsu Ch'ung-chih]]) scopre che 3,1415926 < ''π'' < 3,1415927, e utilizza il valore 355/113 = 3,1415929...
+* [[VI secolo]](530 circa): [[Aryabhata]], in India, utilizza il valore 62832/20000
+* [[VII secolo]](650 circa): [[Brahmagupta]], in India, utilizza il valore √10
+* [[IX secolo]]: [[Muhammad ibn Musa al-Khwarizmi|al Khwarizmi]] usa 3,1416
+* [[1220]]: [[Fibonacci]] usa il valore 3,141818
+* [[1430]]: [[al Kashi]] calcola le prime 14 cifre di ''π''
+
+=== Misure moderne ===
+* [[1573]]: [[Valenthus Otho]] calcola le prime 6 cifre di ''π''
+* [[1593]]: [[François Viète]] calcola 9 cifre di ''π'' e [[Adriaan van Roomen]] 16 cifre
+* [[1596]]: [[Ludolph van Ceulen]] calcola 20 cifre di ''π''
+* [[1610]]: van Ceulen, 35 cifre
+* [[1621]]: [[Willebrord Snell]] perfeziona il metodo di [[Archimede]]
+* [[1654]]: [[Huygens]] dimostra la validità del perfezionamento di Snell
+* [[1655]]: [[John Wallis]] trova un prodotto infinito razionale per ''π''; [[Brouncker]] lo converte in una frazione continua
+* [[1663]]: [[Muramatsu Shigekiyo]] in [[Giappone]] trova 7 cifre decimali esatte
+* [[1665]]: [[Isaac Newton]] scopre il [[calcolo infinitesimale]] e calcola il ''π'' fino alla 16ª cifra decimale
+* [[1671]]: [[James Gregory (astronomo)|James Gregory]] scopre le serie delle arcotangenti
+* [[1674]]: [[Leibniz|Gottfried Wilhem Leibniz]] scopre la serie delle arcotangenti per ''π''
+* [[1699]]: [[Abraham Sharp]], 72 cifre
+* [[1700]]: [[Seki Kowa]] in [[Giappone]] calcola 10 cifre
+* [[1730]]: [[Kamata]] in [[Giappone]] calcola 25 cifre
+* [[1706]]: [[John Machin]], 100 cifre
+* [[1713]]: La [[Corte Cinese]] pubblica il [[Su-li Ching-yun]] e presenta le prime 19 cifre decimali di ''π''
+* [[1719]]: [[Thomas Fantet de Lagny]] calcola 127 cifre, di cui 112 sono corrette
+* [[1723]]: [[Takebe Kenko]] in [[Giappone]] calcola 41 cifre
+* [[1734]]: Adottato da [[Leonhard Euler|Eulero]], l'uso del simbolo ''π'' si diffonde
+* [[1739]]: [[Matsunaga]], 50 cifre
+* [[1748]]: [[Eulero]] pubblica l'[[Introductio in analysis infinitorium]] contenente il cosiddetto [[Teorema di Eulero]] e molte serie per ''π'' e ''π''<sup>2</sup>
+* [[1761]]: [[Johann Heinrich Lambert]] prova che ''π'' è un [[numero irrazionale]]
+* [[1775]]: [[Eulero]] deriva una serie di arcotangenti rapidamente convergenti e ipotizza che ''π'' possa essere [[numero trascendente|trascendente]]
+
+=== Misure contemporanee ===
+* [[1794]] – [[Jurij Vega]], 140 cifre, di cui 136 sono corrette
+* 1794 – [[Adrien-Marie Legendre]] dimostra che ''π''<sup>2</sup> (e quindi ''π'') è irrazionale, e considera la possibilità che ''π'' sia trascendente
+* [[1824]] – [[William Rutherford]] calcola 208 cifre, di cui 152 sono corrette
+* [[1844]] – [[Johann Dase]] calcola 200 cifre
+* [[1847]] – [[Thomas Clausen]], 248 cifre
+* [[1853]] – [[Lehmann]], 261 cifre
+* 1853 – [[William Rutherford]], 440 cifre
+* [[1855]] – Richter, 500 cifre
+* [[1874]] – [[William Shanks]], 707 cifre, ma solo 527 sono corrette
+* 1874 – [[Tseng Chi-hung]] calcola in [[Cina]] 100 cifre
+* [[1882]] – [[Ferdinand von Lindemann]] dimostra che ''π'' è trascendente
+* [[1947]] – [[D. F. Ferguson]]: 808 cifre calcolate in quasi un anno, utilizzando una delle prime calcolatrici da tavolo
+* [[1948]] – [[George Rietwiesner]], [[John von Neumann]] e [[Nicholas Constantine Metropolis]]: 2.037 cifre calcolate in 70 ore utilizzando l'[[ENIAC]] 
+* [[1954]] – La [[United States Navy|marina statunitense]] calcolò 3.089 cifre in 13 minuti alla presentazione del [[IBM NORC|NORC]] (il supercomputer commissionato alla [[IBM]])
+* [[1958]] – "Paris Data Processing Center": 10.000 cifre calcolate in un'ora e 40 minuti utilizzando un [[IBM 704]]
+* [[1961]] – John Wrench e Daniel Shanks (nessuna parentela con William Shanks): 100.265 cifre in 8 ore e 43 minuti, con un un IBM 7090
+* [[1966]] – "Paris Data Processing Center": 250.000 cifre di pi greco con un [[IBM 7030 Stretch]]
+* [[1967]] – "Paris Data Processing Center": 500.000 cifre con un computer [[CDC 6600]]
+* [[1973]] – [[Jean Guilloud]] e [[M. Bouyer]]: 1.000.000 cifre calcolate in 23 ore e 18 minuti con il  computer [[CDC 7600]]
+* [[1976]] – [[Eugene Salamin]] e [[Richard Brent]] svilupparono indipendentemente un algoritmo quadraticamente convergente per il calcolo del Pi greco, algoritmo che poi risultò molto simile a quello per la valutazione degli integrali ellittici di [[Carl Friedrich Gauss]]
+* [[1982]] – [[Yoshiaki Tamura]] e [[Yasumasa Kanada]]: 8.388.608 cifre in meno di 30 ore con  l'[[algoritmo di Gauss-Brent-Salamin]], con un [[Hitachi]] M-280H
+* [[1988]] – [[Yasumasa Kanada]]: 201.326.000 cifre calcolate in 6 ore utilizzando un [[Hitachi S-820]]
+* [[1989]] – i fratelli [[David Chudnovsky]] e [[Gregory Chudnovsky]]: 480.000.000 di cifre
+* 1989 – [[Yasumasa Kanada]]: 536.000.000 di cifre
+* 1989 – [[David Chudnovsky]] e [[Gregory Chudnovsky]]: 1.000.000.000 di cifre (1 miliardo)
+* [[1995]] – [[Yasumasa Kanada]]: 6.000.000.000 di cifre (6 miliardi)
+* [[1996]] – [[David Chudnovsky]] e [[Gregory Chudnovsky]]: più di 8.000.000.000 di cifre (8 miliardi)
+* [[1997]] – [[Yasumasa Kanada]] e Yoshiaki Tamura: 51.539.607.552 di cifre (51,5 miliardi) calcolate in poco più di 29 ore utilizzando un computer [[Hitachi]] SR2201
+* [[2002]] – [[Yasumasa Kanada]]: 1.241,1 miliardi di cifre calcolate in 600 ore (25 giorni) con un  [[Hitachi]] SR8000/MPP a 64 [[nodo (informatica)|nodi]]. A tuttora (2009) questo record non è stato superato.
+
+== Questioni aperte ==
+La più pressante questione aperta su ''π'' riguarda il fatto che sia o meno [[numero normale|normale]], cioè se la frequenza con cui è presente ogni sequenza di cifre sia la stessa che ci si aspetterebbe se le cifre fossero completamente casuali. Questo deve essere vero in ogni base, non solo in base 10. Non sappiamo molto su questo.
+
+Bailey e Crandall dimostrarono nel [[2000]] che l'esistenza della sopramenzionata formula Bailey-Borwein-Plouffe e formule simili implica che la normalità in base 2 di ''π'' si deduce da una plausibile [[congettura]] della [[teoria del caos]]. Vedi il sopramenzionato sito web di Bailey per ulteriori informazioni.
+
+== La natura di ''π'' ==
+Mentre, nella [[geometria euclidea]], la somma degli angoli interni di un [[triangolo]] misurata in [[radiante|radianti]] è uguale a ''π'', nelle [[geometrie non-euclidee]] la stessa somma può essere maggiore ([[geometria ellittica]]) o minore ([[geometria iperbolica]]) e il rapporto fra una circonferenza ed il suo diametro può non essere ''π''. Questo non cambia la definizione di ''π'', ma influisce su qualsiasi formula in cui appare ''π''. Quindi, in particolare, ''π'' non è legato alla [[forma dell'universo]]; è una costante matematica, non fisica.
+
+== La legge dell'Indiana su ''π'' ==
+Un divertente aneddoto riguardante ''π'' secondo il quale uno stato degli [[Stati Uniti d'America|USA]] avrebbe cercato di fissarne per legge il valore al numero 3, ha in effetti radici storiche.<ref>Vedi anche: ''[http://www.straightdope.com/classics/a3_341.html questo]'' e ''[http://www.agecon.purdue.edu/crd/Localgov/Second%20Level%20pages/Indiana_Pi_Story.htm questo] resoconto.</ref><ref>[[:en:Indiana Pi Bill|Indiana Pi Bill]]</ref> Lo stato in questione era l'[[Indiana]], dove nel 1897 il deputato  T.I. Record, della contea di Posey, presentò alla Camera dei Deputati un disegno di legge redatto dal matematico e fisico dilettante Edward (o Edwin) J. Goodwin. 
+
+Nel testo del disegno di legge<ref>Consultabile sul sito della [[Purdue University]]: [http://www.agecon.purdue.edu/crd/Localgov/Second%20Level%20pages/indiana_pi_bill.htm]</ref>, Goodwin si presentava come il solutore dei problemi della [[trisezione dell'angolo]], della [[duplicazione del cubo]], e  della [[quadratura del cerchio]] (problemi l'impossibilità della cui soluzione era già all'epoca ampiamente dimostrata). Il suo disegno di legge riguardava l'introduzione di una ''"nuova verità matematica"'' consistente  nel suo metodo per la quadratura del cerchio. Il testo in effetti non menziona specificamente ''π'', benché l'effetto pratico sia quello di fissarne il valore. Il disegno di legge è confuso e contiene affermazioni sorprendenti, introdotte da frasi del tipo: ''"Poiché la regola ora in uso ... non funziona ..., è opportuno che essa venga rifiutata come insufficiente e ingannevole per le applicazioni pratiche."''. Bisogna notare che, anche come quadratura del cerchio, quella di Goodwin era una procedura molto scadente, che dà per le aree coinvolte un errore relativo di 1−''π''/4, circa il 21% (un cerchio di area pari a 80 avrebbe, usando la regola di Goodwin, un'area di circa 64).
+
+Oltre a fissare scorrettamente il valore di
+
+:<math>\sqrt{2}=10/7\approx 1,429</math>
+
+ed a seconda della lettura che ne viene  data, la procedura di Goodwin fissa da tre a nove nuovi valori per ''π'' discendenti da diverse affermazioni presenti nel testo e in scritti di Goodwin sulla questione. Alcune presenti nel testo sono:
+* la circonferenza di un cerchio sta al diametro come 5/4 a 4, da cui ''π'' varrebbe 16/5 o 3,2;
+* l'area di un cerchio è uguale all'area di un quadrato il cui lato è pari ad 1/4 la circonferenza del cerchio, da cui ''π'' varrebbe 4;
+* il rapporto tra un arco di 90 gradi alla sua corda è 8/7: questo  renderebbe ''π'' pari a
+:<math>\sqrt{2 \times 16/7} \approx 3,23</math>.
+
+Al progetto di legge fu assegnato il numero 246 e venne assegnato all'esame della Commissione per le aree palustri, che si dichiarò incompetente e lo inviò alla Commissione per l'educazione. Questa, con parere favorevole, lo rinviò all'aula, dove fu approvato all'unanimità con un voto di 67 a 0. Uno dei motivi del voto fu che il ''"professor"'' Goodwin, pur avendo brevettato il proprio metodo, lo offriva in usufrutto gratuito alle scuole dell'Indiana. 
+
+Per il passaggio al Senato, il Bill 246 fu inviato alla Commissione per la Temperanza, che lo approvò in prima lettura. Stando al  ''Penguin Dictionary of Curious and Interesting Numbers'' il disegno di legge fu poi affondato quando un membro della commissione lo mostrò a [[Clarence Abiathar Waldo]], un professore di matematica alla [[Purdue University]] che si trovava nell'edificio del Senato per altre faccende, chiedendogli se gli sarebbe piaciuto conoscerne il geniale autore. Waldo rispose che conosceva già abbastanza matti e passò il resto della giornata e parte della notte a parlare con altri Senatori della Commissione. Il Bill 246 non andò mai in seconda lettura. 
+
+Come si vede, la proposta non era di porre ''π'' a 3: il fatto che la versione più popolare dell'aneddoto riporti questo numero deriva forse dal fatto che nell'antichità esso era spesso utilizzato come valore approssimato, come ad esempio si vede dal seguente passo [[Bibbia|biblico]]: 
+
+{{quote|Egli fece il mare come una gran vasca di bronzo fuso, dieci cubiti da una sponda all'altra: era perfettamente circolare. La sua altezza era cinque cubiti e una linea di trenta cubiti misurava la sua circonferenza| Cronache, 4:2}}
+
+== Approssimazioni di Pi greco ==
+Sono qui elencate alcune approssimazioni di pi greco.
+* <math> \pi \simeq 3,14159\,\,\,26535\,\,\,8979\dots</math><br /><br />
+* La frazione  <math>\frac{355}{113}=3,14159\,\,\,29...</math>  è una delle più semplici approssimazione razionale con numeri di 3 cifre.<br /><br />
+* <math> ^{64}\sqrt{\frac{708}{37}} \cdot {3} = 3,14159\,\,\,2652 \dots</math><br /><br />
+* <math> ^{1,8}\sqrt{\frac{157}{20}} = 3,14159\,\,\,21  \dots</math><br /><br />
+* <math> \sqrt{\frac{73}{1250}} \cdot {13} = 3,14159\,\,\,19 \dots </math><br /><br />
+* <math> ^3\sqrt{31} = 3,1413 \dots </math> <br /><br />
+* <math> ^5\sqrt{306} = 3,14155  \dots</math><br /><br />
+* <math> ^4\sqrt{\frac{2143}{22}} = 3,14159\,\,\,26525 \dots </math><br /><br />
+
+== Cultura legata al Pi greco e curiosità ==
+{{curiosità}}
+* C'è un intero campo di studi divertenti, ma seri, che riguardano l'uso di tecniche di memorizzazione per ricordare le cifre di ''π''. Esempio: "''Tre imperfettibile è degno archetipo di quella serie che svela, volgendo circolare, mirabil relazione''". Oppure: "'' Ave o Roma, o  madre gagliarda di latine virtù, che tanto luminoso splendore prodiga spargesti con la tua saggezza''". Contando le lettere di ogni parola della frase si individuano le prime 14 (e 19 nel secondo caso) cifre decimali di ''π'': 3,14159265358979. Una forma mnemonica più avanzata è "Che n'ebbe d'utile Archimede, da ustori vetri, sua somma scoperta? Umanitade incerta, infantile, che ad ogni progenie vede negato il divin vero. Ma non combatte già la terrema fragilità."
+
+* Esistono gare organizzate per la recita a memoria delle cifre di pi greco, ed anche record mondiali. Nel [[2002]] il giapponese Akira Haraguchi di [[Chiba]], 59 anni, ha recitato a memoria 83.431 cifre <ref> [http://forums.macrumors.com/showthread.php?t=135883 New world record - Akira Haraguchi recites 83.431 digits of pi] </ref>. Il record ufficiale, riconosciuto dal [[Guinness Book of Records]], appartiene tuttavia al cinese Lu Chao dello [[Jiangxi]], che il 19 novembre 2005, all'età di 24 anni, ha recitato 67.890 cifre esatte, impiegando 24 ore e 4 minuti <ref> [http://www.flumesday.com/archive/2006/1127-pirecord.html Chinese student sets pi record] </ref>. Il record precedente apparteneva allo studente giapponese Hiroyuki Goto, che nel 1995 era arrivato "appena" a 42.192 cifre. 
+
+* La popstar [[Kate Bush]] ha interamente dedicato al numero ''π'' il secondo brano (intitolato per l'appunto ''π'') del suo ottavo album ''[[Aerial]]'', del [[2005]], nel quale reciterebbe le sue prime 140 cifre. Ma anche altri musicisti ed artisti in genere hanno dedicato alcune loro opere alla costante.
+
+* Il [[14 marzo]] si celebra il "[[giorno di pi greco]]", in quanto nella sua scrittura anglosassone (3/14) esso ricorda l'approssimazione più comune di ''π''.<ref>[http://www.corriere.it/scienze_e_tecnologie/10_marzo_14/pi-greco-compleanno_593a9a2c-2f90-11df-a29d-00144f02aabe.shtml www.corriere.it]</ref> Pi greco si celebra anche il [[22 luglio]], in quanto nella sua scrittura numerica (22/7) esso ricorda la frazione che meglio approssima il valore di ''π''.
+
+== Note ==
+<references />
+
+== Bibliografia ==
+* {{cita libro| Giovanni | Gentili Belloni | Pi greco - 4000 anni di storia dalle Piramidi al computer | 2007 | Edizioni Lulu |url= http://www.lulu.com/content/747295}}
+* [[Jean-Paul Delahaye]], ''L'affascinante numero π'', Ghisetti e Corvi Editori, [[Milano]], [[2003]], ISBN 88-8013-905-3
+* [[David Blatner]], ''Le gioie del π'', Garzanti, [[Milano]], [[1999]]
+* [[Petr Beckmann]], ''[[A History of π]]''. St. Martin's Press; 1971.
+
+'''Sulla legge dell'Indiana:'''
+* "Indiana's squared circle" di Arthur E. Hallerberg (Mathematics Magazine, vol. 50 (1977), pp. 136-140).
+* David Singmaster, "The legal values of pi" (Mathematical Intelligencer, vol. 7 (1985), pp. 69-72)
+
+== Voci correlate ==
+* [[Calcolo di pi greco]]
+* [[Cerchio]]
+* [[Circonferenza]]
+* [[Identità di Eulero]]
+* [[Ago di Buffon]]
+* [[Papiro di Rhind]]
+* [[Quadratura del cerchio]]
+* [[Giorno del pi greco]]
+* [[Pi greco (prime 100 mila cifre)]]
+
+== Altri progetti ==
+{{interprogetto|commons=Category:Pi|s=Matematica allegra/5}}
+
+== Collegamenti esterni ==
+
+=== Siti sulla storia di ''π'' ===
+* [http://www-history.mcs.st-andrews.ac.uk/history/HistTopics/Pi_through_the_ages.html J J O'Connor e E F Robertson: ''A history of Pi''. Mac Tutor project]
+* [http://mathforum.org/isaac/problems/pi1.html Alla ricerca del valore di Pi]
+* [[PlanetMath]]: [http://planetmath.org/encyclopedia/Pi.html Pi] 
+* [http://www2.polito.it/didattica/polymath/htmlS/argoment/APPUNTI/TESTI/Apr_03/APPUNTI.HTM Storia del calcolo di Pi ''di Alessandra Del Piccolo - Progetto Polymath'']
+* {{cita web|url=http://www.newyorker.com/archive/1992/03/02/1992_03_02_036_TNY_CARDS_000362534?currentPage=all|titolo=The Mountains of Pi|editore=New Yorker|data=2 marzo 1992|autore=Richard Preston|lingua=en|accesso=2009-07-27}}
+
+=== Siti con le cifre di ''π'' ===
+* [http://3.141592653589793238462643383279502884197169399375105820974944592.com/index314.html http://3.141592653589793238462643383279502884197169399375105820974944592.com]
+* [http://www.super-computing.org/pi-decimal_current.html Statistiche sui primi 1,2 miliardi di cifre di pi]
+* [http://www.gutenberg.net/etext/50 Un testo del Progetto Gutenberg contenente un milione di cifre di pi]
+* [http://pidifferent.pi.funpic.de/index-en.html Pi-memory]
+
+[[Categoria:Matemateche| ]]
+
+{{Link AdQ|af}}
+{{Link AdQ|ca}}
+{{Link AdQ|de}}
+{{Link AdQ|eo}}
+{{Link AdQ|mk}}
+{{Link AdQ|nl}}
+
+[[af:Pi]]
+[[als:Pi (Mathematik)]]
+[[an:Numero π]]
+[[ar:ط (رياضيات)]]
+[[arz:باى (رياضيات)]]
+[[ast:Pi]]
+[[az:Pi (ədəd)]]
+[[bat-smg:Pi]]
+[[be:Пі]]
+[[be-x-old:Пі]]
+[[bg:Пи]]
+[[bn:পাই]]
+[[bs:Pi]]
+[[ca:Nombre π]]
+[[ceb:Pi]]
+[[cs:Číslo pí]]
+[[cy:Pi]]
+[[da:Pi (tal)]]
+[[de:Kreiszahl]]
+[[el:Αριθμός π]]
+[[en:Pi]]
+[[eo:Pi (nombro)]]
+[[es:Número π]]
+[[et:Pii]]
+[[eu:Pi (zenbakia)]]
+[[fa:عدد پی]]
+[[fi:Pii (vakio)]]
+[[fr:Pi]]
+[[fur:Pi grêc]]
+[[ga:Pi]]
+[[gan:圓周率]]
+[[gl:Número pi]]
+[[haw:Pai (makemakika)]]
+[[he:פאי]]
+[[hi:पाई]]
+[[hr:Pi (broj)]]
+[[hsb:Konstanta π]]
+[[ht:Pi (matematik)]]
+[[hu:Pi (szám)]]
+[[ia:Pi]]
+[[id:Pi]]
+[[is:Pí]]
+[[it:Pi greco]]
+[[ja:円周率]]
+[[jv:Pi]]
+[[ka:პი (რიცხვი)]]
+[[kk:Пи саны]]
+[[ko:원주율]]
+[[ksh:Pi (Kräjßzal)]]
+[[ku:Pi]]
+[[la:Numerus pi]]
+[[li:Pi (wiskónde)]]
+[[lmo:Nümar Pi]]
+[[lt:Pi]]
+[[lv:Pī]]
+[[mg:Pi]]
+[[mk:Пи]]
+[[ml:പൈ (ഗണിതം)]]
+[[mn:Пи]]
+[[mr:पाय, अव्यय राशी (π)]]
+[[ms:Pi]]
+[[nds:Krinktall]]
+[[nl:Pi (wiskunde)]]
+[[nn:Pi]]
+[[no:Pi]]
+[[oc:Pi]]
+[[pcd:Pi]]
+[[pl:Pi]]
+[[pt:Pi]]
+[[qu:Chiqaluwa]]
+[[ro:Pi]]
+[[ru:Пи (число)]]
+[[sah:Пи]]
+[[scn:Pi grecu]]
+[[sco:Pi]]
+[[sh:Pi]]
+[[simple:Pi]]
+[[sk:Ludolfovo číslo]]
+[[sl:Pi]]
+[[sq:Numri pi]]
+[[sr:Пи]]
+[[sv:Pi]]
+[[sw:Pi]]
+[[szl:Pi]]
+[[ta:பை (கணித மாறிலி)]]
+[[te:పై]]
+[[th:พาย (ค่าคงตัว)]]
+[[tl:Pi]]
+[[tr:Pi sayısı]]
+[[tt:Пи саны]]
+[[uk:Число пі]]
+[[ur:پائی]]
+[[uz:Pi]]
+[[vi:Pi (hằng số)]]
+[[war:Pi]]
+[[wuu:圆周率]]
+[[xal:Пи]]
+[[yi:פי]]
+[[yo:Pi]]
+[[zh:圓周率]]
+[[zh-classical:圓周率]]
+[[zh-min-nan:Îⁿ-chiu-lu̍t]]
+[[zh-yue:圓周率]]
