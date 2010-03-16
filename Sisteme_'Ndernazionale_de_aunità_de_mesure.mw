@@ -65,78 +65,78 @@ Ogne otre grannezze fiseche (e 'a relative aunità de mesure) j 'na combinazione
 |}
 
 === Aunità derivate ===
-La maggior parte delle grandezze fisiche derivate sono una moltiplicazione o una divisione di grandezze fisiche di base. Alcune di esse hanno nomi particolari. In questo modo, non solo si vede immediatamente la relazione che intercorre tra due grandezze fisiche ma, con un controllo dimensionale, è facile verificare la correttezza del proprio lavoro.
+La maggior parte de le grannezze fiseche derivate sonde 'na moltiplicazione o 'na divisione de grannezze fiseche de base. Alcune de jedde tènene nome assaje particolare. Jndre quiste mode, non sule se vide subbete subbete 'a relazione ca 'ndercorre 'mbrà dò grannezze fiseche me, cu 'nu condrolle dimensionale, jè facele verifecà 'a correttezze d'a proprie fatije.
 {| {{prettytable}}
 |-
-! Grandezza fisica
-! Simbolo della<br />grandezza<br />fisica
-! Nome dell'unità SI
-! Simbolo dell'unità SI
-! colspan="2" | Equivalenza in termini di unità fondamentali SI
+! Grannezze fiseche
+! Simbole d'a<br />grannezze<br />fiseche
+! Nome de l'aunità SI
+! Simbole de l'aunità SI
+! colspan="2" | Equivalenze jndre termine de aunità fondamendale SI
 |-
 | colspan="6" |
-<center>''Nomi e simboli speciali''</center>
+<center>''Nome e simbole speciale''</center>
 |-
-| [[frequenza]] || ''f, ν'' || [[hertz]] || Hz
+| [[frequenze]] || ''f, ν'' || [[hertz]] || Hz
 | s<sup>−1</sup> 
 |
 |-
-| [[forza (fisica)|forza]] || ''F'' || [[newton (unità di misura)|newton]]
+| [[forze (fiseche)|forze]] || ''F'' || [[newton (aunità de mesure)|newton]]
 | N
 | kg · m · s<sup>−2</sup>
 | 
 |-
-| [[pressione]], [[Tensione interna|sollecitazione]], [[pressione di vapore]]
-| ''p'' || [[pascal (unità di misura)|pascal]] || Pa
+| [[pressione]], [[Tensione 'nderne|sollecitazione]], [[pressione de vapore]]
+| ''p'' || [[pascal (aunità de mesure)|pascal]] || Pa
 | N · m<sup>−2</sup>
 | = kg · m<sup>−1</sup> · s<sup>−2</sup>
 |-
-| [[energia]], [[lavoro (fisica)|lavoro]], [[calore]]
+| [[energie]], [[lavore (fiseche)|lavore]], [[calore]]
 | ''E, Q'' || [[joule]] || J
 | N · m
 | = kg · m<sup>2</sup> · s<sup>−2</sup>
 |-
-| [[potenza (fisica)|potenza]], [[flusso radiante]]
+| [[putenze (fiseche)|putenze]], [[flusse radiante]]
 |'' P, W'' || [[watt]] || W
 | J · s<sup>−1</sup>
 | = kg · m<sup>2</sup> · s<sup>−3</sup>
 |-
-| [[carica elettrica]] || ''q'' || [[coulomb]] || C
+| [[careche elettriche]] || ''q'' || [[coulomb]] || C
 | A · s
 | 
 |-
-| [[potenziale elettrico]], [[forza elettromotrice]], [[tensione elettrica]]
+| [[potenziale elettriche]], [[forze elettromotrice]], [[tensione elettriche]]
 | ''V, E'' || [[volt]] || V
 | J · C<sup>−1</sup>
 | = m<sup>2</sup> · kg · s<sup>−3</sup> · A<sup>−1</sup>
 |-
-| [[resistenza elettrica]] || ''R'' || [[ohm]] || Ω
+| [[resistenze elettriche]] || ''R'' || [[ohm]] || Ω
 | V · A<sup>−1</sup>
 | = m<sup>2</sup> · kg · s<sup>−3</sup> · A<sup>−2</sup>
 |-
-| [[conduttanza elettrica]] || ''G'' || [[siemens (unità di misura)|siemens]]
+| [[conduttanze elettriche]] || ''G'' || [[siemens (aunità de mesure)|siemens]]
 | S
 | A · V<sup>−1</sup>
 | = s<sup>3</sup> · A<sup>2</sup> · m<sup>−2</sup> · kg<sup>−1</sup>
 |-
-| [[capacità elettrica]] || ''C'' || [[farad]] || F
+| [[capacetà elettriche]] || ''C'' || [[farad]] || F
 | C · V<sup>−1</sup>
 | = s<sup>4</sup> · A<sup>2</sup> · m<sup>−2</sup> · kg<sup>−1</sup>
 |-
-| [[induzione magnetica|densità flusso magnetico]] || ''B'' || [[tesla]]
+| [['nduzione magneteche|denzetà flusse magnetiche]] || ''B'' || [[tesla]]
 | T
 | V ·  s · m<sup>−2</sup>
 | = kg · s<sup>−2</sup> · A<sup>−1</sup>
 |-
-| [[flusso magnetico]] || ''Φ(B)'' || [[weber]] || Wb
+| [[flusse magneteche]] || ''Φ(B)'' || [[weber]] || Wb
 | V · s
 | = m<sup>2</sup> · kg · s<sup>−2</sup> · A<sup>−1</sup>
 |-
-| [[induttanza]] || ''L'' || [[henry]] || H
+| [['nduttanze]] || ''L'' || [[henry]] || H
 | V · s · A<sup>−1</sup>
 | = m<sup>2</sup> · kg · s<sup>−2</sup> · A<sup>−2</sup>
 |-
-| [[temperatura]] || ''T'' || [[Grado (unità di misura)|grado]] [[Celsius]]
+| [[temberature]] || ''T'' || [[Grade (aunità de mesure)|grade]] [[Celsius]]
 | °C || K<!-- NON modificare questa riga, vedi pagina di discussione #Grado Celsius --><ref>Una data temperatura differisce nelle due scale di 273,15 (scala Celsius = scala Kelvin + 273,15), ma la differenza di temperatura di 1 grado Celsius = 1 kelvin</ref> || &nbsp;
 |-
 | [[angolo|angolo piano]]<ref name="angolo">Inizialmente, queste unità creavano una categoria a parte chiamata "Unità supplementari". Questa categoria è stata abrogata nel [[1995]] dalla 20ª Conferenza Generale dei Pesi e delle Misure ([[CGPM]]), ed il radiante e lo steradiante sono ora considerate unità derivate.</ref>
