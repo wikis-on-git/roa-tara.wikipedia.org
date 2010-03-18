@@ -346,35 +346,35 @@ Se pòte vedè 'a 'mbortanze de ausà correttamende le simbole maiuscole e minus
 {{Prefissi SI}}
 
 === Aunità non SI accettate pè essere ausate cu 'u Sisteme 'ndernaziunale ===
-Queste unità vengono accettate accanto a quelle ufficiali dell'SI in quanto il loro uso è tutt'oggi molto diffuso in tutta la popolazione anche non di ambiente scientifico. Il loro uso è tollerato per permettere agli studiosi di far capire le loro ricerche ad un pubblico molto ampio, anche di non esperti nel settore. Questa categoria contiene soprattutto unità di tempo e di angoli. In teoria anche i simboli ° ' " andrebbero scritti distanziati dal valore numerico, per esempio 25&nbsp;°C è la forma corretta, mentre 25°C è la forma errata.
+Quèste aunità sonde accettate apprisse a quèdde ufficiale d'u SI 'n quanne 'u lòre ause jè ôsce a die assaje diffuse jndre totte 'a populazzione pure ce non de 'nu ambiende scientifeche. 'U lòre ause jè tollerate pè permette a le studiuse de fà capì le lòre recerche a 'nu pubbleche assaje cchiù ambie, pure de non esperte jndr'ô settore. Quèste categorije tène specialmende aunità de timbe e de angole. 'N teorie pure le simbole ° ' " sonde da esse scritte distanziate da 'u valore numereche, pè esembie 25&nbsp;°C jè 'a forme corrette, mendre 25°C jè 'a forme sbagliate.
 
 {| {{prettytable}}
 |-
 !Nome
-!Simbolo
-!Equivalenza in termini di unità fondamentali SI
+!Simbole
+!Equivalenze jndre termine de aunità fondamendale SI
 |-
-|[[minuto]] ||min ||1 min = 60 s
+|[[minute]] ||min ||1 min = 60 s
 |-
-|[[Ora (unità di misura)|ora]] ||h ||1 h = 60 min = 3 600 s
+|[[Ore (aunità de mesure)|ore]] ||h ||1 h = 60 min = 3 600 s
 |-
-|[[giorno]] ||d ||1 d = 24 h = 86 400 s
+|[[sciurne]] ||d ||1 d = 24 h = 86 400 s
 |-
-|[[Grado (unità di misura)|grado]]
+|[[Grade (aunità de mesure)|grade]]
 |° ||1° = (π/180) rad
 |-
-|[[Primo (geometria)|minuto primo]] || ′ || 1′ = (1/60)° = (π/10 800) rad
+|[[Prime (geometrije)|minute prime]] || ′ || 1′ = (1/60)° = (π/10 800) rad
 |-
-|[[Secondo (geometria)|minuto secondo]] || ″ || 1″ = (1/60)′ = (π/648 000) rad
+|[[Seconne (geometrije)|minute seconne]] || ″ || 1″ = (1/60)′ = (π/648 000) rad
 |-
-|[[litro]] ||l, L<ref>Il simbolo l fu adottato dalla [[Comité International des Poids et Mesures|CIPM]] nel 1879, l'alternativa maiuscola L fu adottata dalla 16ª [[Conférence Générale des Poids et Mesures|CGPM]] per evitare ambiguità tra l'unità 1 (numero) e l (minuscola).</ref>
+|[[litre]] ||l, L<ref>'U simbole l fù adottate d'a [[Comité International des Poids et Mesures|CIPM]] jndr'ô 1879, l'alternative maiuscole L fù adottate d'a 16ª [[Conférence Générale des Poids et Mesures|CGPM]] pè evità ambiguità 'mbrà l'aunità 1 (numere) e l (minuscole).</ref>
 |1 L = 1 dm<sup>3</sup> = 10<sup>−3</sup> m<sup>3</sup>
 |-
-|[[tonnellata]] ||t ||1 t = 10<sup>3</sup> kg
+|[[tonnellate]] ||t ||1 t = 10<sup>3</sup> kg
 |-
-|[[neper]]<ref name="bel_neper">Queste unità sono usate per esprimere il valore logaritmico della misura. Molto usato nella tecnica è il sottomultiplo del bel, il [[decibel]]: dB. Sia per il neper che per il bel è particolarmente importante che la quantità misurata sia specificata, ad esempio dB<sub>V</sub> nella misura di tensione. Per maggiori informazioni consultare lo standard [[ISO 31]].</ref> ||Np ||1 Np = ''[[E (costante matematica)|e]]'' qualsiasi unità fondamentale dell'SI
+|[[neper]]<ref name="bel_neper">Quèste aunità sonde ausate pè esprimere 'u valore logaritmeche d'a mesure. Assaje ausate jndr'à tecneche jè 'u sottomultiple d'u bel, 'u [[decibel]]: dB. Sie pè 'u neper ca pè 'u bel jè particolarmende 'mbortande ca 'a quantità mesurate sie specificate, pè esembie dB<sub>V</sub> jndr'à mesure de tensione. Pè maggiore 'nformazione conzultare 'u standard [[ISO 31]].</ref> ||Np ||1 Np = ''[[E (costande matemateche)|e]]'' ogne aunità fondamendale d'u SI
 |-
-|[[bel (unità di misura)|bel]]<ref name="bel_neper" /> ||B ||1 B = (ln 10)/2 Np = 10 qualsiasi unità fondamentale dell'SI
+|[[bel (aunità de mesure)|bel]]<ref name="bel_neper" /> ||B ||1 B = (ln 10)/2 Np = 10 ogne aunità fondamendale d'u SI
 |}
 
 ==== Aunità non SI accettate purcè cchiù precise ====
