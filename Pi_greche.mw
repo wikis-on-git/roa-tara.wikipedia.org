@@ -135,16 +135,16 @@ Questo risultato stabilisce ''a fortiori'' l'impossibilità della [[quadratura d
 * 'A massime pendenze ([[teorie de Glauert]]) d'u tratte lineare d'a curve <math>C_{L} / \alpha </math> (ovvere [[coefficiende de portanze]] divise l'[[angole d'attacche]]) pè qualsiase profile alare bidimensionale sottile jè <math>2 \pi</math>
 
 === Fiseche ===
-{{Vedi anche|fisica}}
-* [[pendolo|Periodo di oscillazione del pendolo]]
+{{Vedi anche|fiseche}}
+* [[pendole|Periode de oscillazione d'u pendole]]
 ::<math>T = 2 \pi \sqrt \frac {l}{g}</math>
-* [[Trasformata di Fourier]]
+* [[Trasfurmate de Fourier]]
 ::<math>\mathcal{F}f(\omega)= \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^\infty f(t) e^{-i \omega t} \,\mathrm{d} t</math>
-* [[Principio di indeterminazione di Heisenberg]]
+* [[Prengipie de 'ndeterminazione de Heisenberg]]
 ::<math> \Delta x \Delta p  \ge \frac{h}{2\pi} </math>
-* Equazione di campo di Einstein della [[relatività generale]]
+* Equazione de cambe de Einstein d'a [[relatività generale]]
 ::<math> R_{ik} - {g_{ik} R \over 2} + \Lambda g_{ik} = {8 \pi G \over c^4} T_{ik} </math>
-* [[Forza di Coulomb]]
+* [[Forze de Coulomb]]
 ::<math> F = \frac{\left|q_1q_2\right|}{4 \pi \epsilon_0 r^2} </math>
 
 == Approssimazione numereche de ''π'' ==
