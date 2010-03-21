@@ -45,70 +45,70 @@ Questo risultato stabilisce ''a fortiori'' l'impossibilità della [[quadratura d
 * [[Angole|Angole]]: 180 [[grade (aunità de mesure)|grade]] sonde auguale a ''π'' [[radiante|radiante]].
 
 === Analese ===
-{{vedi anche|analisi matematica}}
-* [[Formula di Viète]], [[1593]]: 
+{{vedi anche|analese matemateche}}
+* [[Formule de Viète]], [[1593]]: 
 ::<math>2
 \frac {2}{\sqrt2}
 \frac {2}{\sqrt {2+\sqrt2}}
 \frac {2}{\sqrt {2+\sqrt{2+\sqrt2}}}\ldots = \pi </math>
 
-* [[Formula di Leibniz per pi|Formula di Leibniz]]:
+* [[Formule de Leibniz pè pi|Formula de Leibniz]]:
 ::<math> \frac{1}{1} - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \cdots = \frac{\pi}{4} </math>
-:dalla quale si ricava che:
+:d'a quale se recave ca:
 ::<math> \frac{1}{1\cdot3} + \frac{1}{5\cdot7} + \frac{1}{9\cdot11} + \frac{1}{13\cdot15} + \frac{1}{17\cdot19} + \cdots = \frac{\pi}{8} </math>
 
-* [[Prodotto di Wallis]]:
+* [[Prodotte de Wallis]]:
 ::<math> 
 \prod_{n=1}^{\infty} \frac{(2n)(2n)}{(2n-1)(2n+1)} = \frac{2}{1} \cdot \frac{2}{3} \cdot \frac{4}{3} \cdot \frac{4}{5} \cdot \frac{6}{5} \cdot \frac{6}{7} \cdot \frac{8}{7} \cdot \frac{8}{9} \cdots = \frac{\pi}{2}
 </math>
 
-* Il [[problema di Basilea]]:
+* 'U [[probbleme de Basilea]]:
 ::<math> \zeta(2) = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + \cdots = \frac{\pi^2}{6} </math>
-:risolto da [[Leonhard Euler|Eulero]]. Un'altra formula che usa la [[funzione zeta di Riemann]]:
+:resolte da [[Leonhard Euler|Eulero]]. N'otre formule ca ause 'a [[funziune zeta de Riemann]]:
 ::<math>\zeta(4)= \frac{1}{1^4} + \frac{1}{2^4} + \frac{1}{3^4} + \frac{1}{4^4} + \cdots = \frac{\pi^4}{90}</math>
 
-* Il [[prodotto di Eulero]]
+* 'U [[prodotte de Eulero]]
 ::<math>\frac{1}{\left(1-\frac{1}{2^2}\right)}\frac{1}{\left(1-\frac{1}{3^2}\right)} \frac{1}{\left(1-\frac{1}{5^2}\right)}\frac{1}{\left(1-\frac{1}{7^2}\right)} \frac{1}{\left(1-\frac{1}{11^2}\right)} \cdots = \frac{\pi^2}{6}</math>
-:Dove il prodotto percorre tutti i numeri primi
+:Addò'u prodotte percorre totte le numere prime
 
-* L'[[integrale di Gauss]]:
+* Le [['ndegrale de Gauss]]:
 ::<math> \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi} </math>
 
-* L'[[integrale di Eulero]]
+* Le [['ndegrale de Eulero]]
 ::<math>\int_{-\infin}^{+\infin}e^{\frac{-u^2}{2}}du = \sqrt{2\pi}</math>
 
-* I seguenti [[Tavola degli integrali definiti|integrali definiti]]
+* Le seguende [[Tavele de le 'ndegrale definite|'ndegrale definite]]
 ::<math> \int_{-\infty}^{\infty} \frac{1}{1+{x^2}}\, dx = \pi </math>
 ::<math>\int_0^{+\infty}{\frac{x}{e^x-1}\,dx} = \frac{\pi^2}{6}</math>
 ::<math>\int_0^{+\infty}\frac{\mathrm{sen}(x)}{x}\,dx=\frac{\pi}{2}</math>
 
-* L'[[integrale di Fresnel]]
+* Le [['ndegrale de Fresnel]]
 ::<math>\int_{-\infty}^{+\infty}\cos(x^2)\,dx=\int_{-\infty}^{+\infty}\mathrm{sen}(x^2)\,dx= \sqrt{\frac{\pi}{2}}</math> 
 
-* La [[funzione gamma]] calcolata in <math>1/2</math>:
+* 'A [[funziune gamma]] calcolate jndre <math>1/2</math>:
 ::<math> \Gamma\left({1 \over 2}\right)=\sqrt{\pi}</math>
 
-* L'[[approssimazione di Stirling]]:
+* L'[[approssimazione de Stirling]]:
 ::<math> n! \sim \sqrt{2 \pi n} \left(\frac{n}{e}\right)^n </math>
 
-* La [[funzione phi di Eulero]]:
+* 'A [[funziune phi de Eulero]]:
 ::<math>\sum_{k=0}^{n} \phi (k) \sim 3 n^2 / \pi^2</math>
 
-* L'[[identità di Eulero]]:
+* 'A [[identità de Eulero]]:
 ::<math> e^{\pi i} + 1 = 0\; </math>
-:definita da [[Richard Feynman]] «la più notevole formula della matematica».
+:definite da [[Richard Feynman]] «'a cchiù notevole formule d'a matemateche».
 
-* Il [[Teorema dei residui]]:
+* 'U [[Teoreme de le residue]]:
 ::<math>\oint\frac{dz}{z}=2\pi i</math>
 
-* ''π'' ha delle rappresentazioni come [[frazione continua|frazioni continue]]:
+* ''π'' tène de le rappresentazione cumme [[fraziune condinue|fraziune condinue]]:
 ::<math> \frac{4}{\pi} = 1 + \frac{1}{3 + \frac{4}{5 + \frac{9}{7 + \frac{16}{9 + \frac{25}{11 + \frac{36}{13 + ...}}}}}} </math> 
 ::<math> \frac{4}{\pi} = 1 + \frac{1}{2 + \frac{3^2}{2 + \frac{5^2}{2 + \frac{7^2}{2 + \frac{9^2}{2 + \frac{11^2}{2 + ...}}}}}} </math> 
 
-* La frazione continua di [[Ramanujan]]:
+* 'A fraziune condinue de [[Ramanujan]]:
 ::<math>\sqrt{\phi^2+1} = \phi+ \cfrac{e^{-2 \pi/5}}{1 + \cfrac{e^{-2 \pi}}{1 + \cfrac{e^{-4 \pi}}{1+ \cfrac{e^{-6 \pi}}{1+\,\cdots}}}} </math>
 
-* Data una semicirconferenza di raggio ''r'' centrata nell'origine del piano cartesiano, ''π''''r'' è definibile come  [[curva piana#Lunghezza in forma cartesiana esplicita|lunghezza in forma cartesiana esplicita]] su tutto il dominio della funzione che descrive la semicirconferenza: 
+* Date 'na semicirconferenze de ragge ''r'' cendrata jndr'à origggene d'u piane cartesiane, ''π''''r'' jè definibbele cumme  [[curve piane#Lunghezze jndre forme cartesiane esplicite|lunghezze jndre forme cartesiane esplicite]] sus a totte 'u dominie d'a funziune ca descrive 'a semicirconferenze: 
 ::<math>f\left( x\right) := \sqrt{r^2 - x^2} </math>
 ::<math>
 \pi = \frac{1}{r}\int_{- r}^{r} \sqrt{\left(\frac{d}{dx} f\left(x\right)\right)^2 + 1} d x</math>
