@@ -121,8 +121,8 @@ Questo risultato stabilisce ''a fortiori'' l'impossibilità della [[quadratura d
 * 'U numere medie de mode jndre cui jè possibbele scrivere 'nu 'ndere positive cumme somme de dò [[quadrate perfette|quadrate perfette]] jè :<math> \frac{\pi}{4}</math>.
 
 === Sisteme dinameche, teorie ergodiche ===
-{{vedi anche|sistema dinamico (teoria dei sistemi)|teoria ergodica}}
-* <math> \lim_{n \to \infty} \frac{1}{n} \sum_{i = 1}^{n} \sqrt{x_i} = \frac{2}{\pi} </math> per quasi tutti i [[Numero reale|reali]] ''x''<sub>0</sub> in [0, 1] dove  gli ''x''<sub>''i''</sub> sono iterazioni della [[Mappa logistica]] per ''r'' = 4.
+{{vedi anche|sisteme dinameche (teorie de le sisteme)|teorie ergodiche}}
+* <math> \lim_{n \to \infty} \frac{1}{n} \sum_{i = 1}^{n} \sqrt{x_i} = \frac{2}{\pi} </math> pè quase totte le [[Numere reale|reale]] ''x''<sub>0</sub> jndre [0, 1] addò le ''x''<sub>''i''</sub> sonde iterazione d'a [[Mappe logisteche]] pè ''r'' = 4.
 
 === Probabilità e statisteche ===
 {{vedi anche|probabilità|statistica}}
