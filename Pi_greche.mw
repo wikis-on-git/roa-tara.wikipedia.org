@@ -125,10 +125,10 @@ Questo risultato stabilisce ''a fortiori'' l'impossibilità della [[quadratura d
 * <math> \lim_{n \to \infty} \frac{1}{n} \sum_{i = 1}^{n} \sqrt{x_i} = \frac{2}{\pi} </math> pè quase totte le [[Numere reale|reale]] ''x''<sub>0</sub> jndre [0, 1] addò le ''x''<sub>''i''</sub> sonde iterazione d'a [[Mappe logisteche]] pè ''r'' = 4.
 
 === Probabilità e statisteche ===
-{{vedi anche|probabilità|statistica}}
-* La [[funzione di densità di probabilità]] nella [[distribuzione normale]].
+{{vedi anche|probabilità|statisteche}}
+* 'A [[funziune de denzetà de probabilità]] jndr'à [[distribuzione normale]].
 ::<math>f(x) = {1 \over \sigma\sqrt{2\pi} }\,e^{-{(x-\mu )^2 \over 2\sigma^2}}</math>
-* Il naturalista francese [[Georges-Louis Leclerc]], conte di Buffon, scoprì che lasciando cadere un ago su una superficie piana come un pavimento con delle linee parallele distanti quanto la lunghezza dell'ago, la probabilità che quest'ultimo cada toccando una delle linee è esattamente uguale a 2/''π'', che equivale a circa il 64%. Questo problema è noto come [[Ago di Buffon]].<ref> Cento anni dopo il [[matematico]] [[Augustus de Morgan]] propose ad alcuni dei suoi studenti di verificare i calcoli di Leclerc. Dopo 600 lanci aveva toccato le linee per 382 volte, da cui si ricava un valore di ''π'' di 3,14. Se si volesse verificare più accuratamente il risultato (ad esempio trovando anche la terza cifra decimale) occorrerebbe effettuare decine di migliaia di lanci.</ref>
+* 'U naturaliste frangise [[Georges-Louis Leclerc]], conte de Buffon, scuprì ca lassanne cadè 'nu aghe sus a 'na superficie piane cumme 'nu pavimende cu de le linee parallele distande quanne 'a lunghezze de l'aghe, 'a probabilità ca quiste urteme cade toccanne une de le linee jè esattamende auguale a 2/''π'', ca equivale a cirche 'u 64%. Quiste probbleme jè canosciute cumme [[Aghe de Buffon]].<ref> Cinde anne dope 'u [[matemateche]] [[Augustus de Morgan]] propose ad alcune de le soje studende de verifecà le calcule de Leclerc. Dope 600 lange avéve tuccate le linee pè 382 vote, da cui se recave 'nu valore de ''π'' de 3,14. Ce se vole verifecà cchiù accuratamende 'u resultate (pè esembie truvanne pure 'a terze cifre decimale) s'avrebbe da effettuà decine de migliaie de lange.</ref>
 
 === Aerodinameche ===
 {{Vedi anche|aerodinamica}}
