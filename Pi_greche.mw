@@ -162,15 +162,15 @@ A cause d'a soje nature trascendende, non ge sonde semblice espressione finite c
 
 :2 ''π'' = 6,2831853071795865
 
-Il matematico tedesco [[Ludolph van Ceulen]] (1600 circa) calcolò i primi 35 decimali. Era così fiero del suo risultato che lo fece scrivere sulla sua lapide.
+'U matemateche tudesche [[Ludolph van Ceulen]] (1600 cirche) calcule le prime 35 decimale. Ere accusì fiere d'a fatije soje ca 'a fece scrive sus 'a soje lapide.
 
-Il matematico sloveno [[Jurij Vega]] nel [[1789]] calcolò le prime 140 cifre decimali di ''π'', di cui le prime 137 erano corrette, e mantenne il record mondiale per 52 anni, fino al [[1841]], quando [[William Rutherford]] calcolò 208 cifre decimali di cui le prime 152 erano corrette. Vega migliorò la formula proposta da [[John Machin]] nel [[1706]].
+'U matemateche slovene [[Jurij Vega]] jndr'ô [[1789]] calcule le prime 140 cifre decimale de ''π'', de cui le prime 137 erene currette, e mandenne 'u record munndiale pè 52 anne, fine a 'u [[1841]], quanne [[William Rutherford]] calculò 208 cifre decimale de cui le prime 152 erene currette. Vega migliore 'a formule proposte da [[John Machin]] jndr'ô [[1706]].
 
-Nessuna delle formule sopraelencate può fornire un efficiente metodo per l'approssimazione di ''π''. Per calcoli veloci, si può usare una formula come quella di Machin:
+Nisciune de le formule elengate sus pòte fornì 'nu efficiende metode pè l'approssimazione de ''π''. Pè calcule veloce, se pòte ausà 'na formule cumme quèdde de Machin:
 
 :<math>\frac{\pi}{4} = 4 \arctan\frac{1}{5} - \arctan\frac{1}{239} </math> 
 
-Insieme con l'espansione delle [[serie di Taylor]] per la funzione arctan(''x''). Questa formula si può verificare facilmente usando le [[coordinate polari]] dei [[numeri complessi]], partendo da: 
+'Nzieme cu l'espanzione de le [[serie de Taylor]] pè 'a funzione arctan(''x''). Quèste formule se pòte verifecà facilmende ausanne le [[coordinate polare]] de le [[numere comblesse]], partenne da: 
 
 :<math>(5+i)^4\cdot(-239+i)=-114244-114244 \, i.</math>
 
