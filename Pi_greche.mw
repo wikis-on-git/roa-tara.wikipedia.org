@@ -174,12 +174,12 @@ Nisciune de le formule elengate sus pòte fornì 'nu efficiende metode pè l'app
 
 :<math>(5+i)^4\cdot(-239+i)=-114244-114244 \, i.</math>
 
-Formule di questo genere sono note come ''formule di tipo Machin''.
+Formule de quiste genere sonde canosciute cumme ''formule de tipe Machin''.
 
-Espansioni decimali molto lunghe di ''π'' sono calcolate tipicamente con l'algoritmo Gauss-Legendre e l'algoritmo Borwein; in passato era usato anche l'algoritmo Salamin-Brent, inventato nel [[1976]].
+Espanzione decimale assaje luènghe de ''π'' sonde calculate tipicamende cu l'algoritme Gauss-Legendre e l'algoritme Borwein; jndre le timbe passate ere ausate pure l'algoritme Salamin-Brent, 'nventade jndr'ô [[1976]].
 
-L'elenco del primo milione di cifre di ''π'' e di 1/''π'' si può trovare sul Progetto Gutenberg (vedi il collegamento esterno a fondopagina).
-Il record attuale (dicembre [[2002]]) è di 1.241.100.000.000 di cifre (1,2411 × 10 <sup>12</sup>), calcolate nel settembre [[2002]] da [[Yasumasa Kanada]] su un [[supercomputer]] [[Hitachi]] a 64 nodi con un [[Byte|terabyte]] di memoria principale, in grado di compiere 2 miliardi di operazioni per secondo, quasi il doppio del computer usato per il precedente record (206 miliardi di cifre).
+L'elenghe d'u prime miglione de cifre de ''π'' e de 1/''π'' se pòte trovà sus ô Pruggette Gutenberg (vide 'u cullegamende esterne a 'u funne d'a pàggene).
+'U record attuale (decemmre [[2002]]) jè de 1.241.100.000.000 de cifre (1,2411 × 10 <sup>12</sup>), calculate jndr'ô settemmre [[2002]] da [[Yasumasa Kanada]] sus a 'nu [[supercomputer]] [[Hitachi]] a 64 node cu 'nu [[Byte|terabyte]] de memorie prengepale, capace de combiere 2 migliarde de operazione pè seconne, quase 'u doppie d'u computer ausate pè 'u precedende record (206 migliarde de cifre).
 Sono state usate le seguenti formule di tipo Machin:
 
 :<math> \frac{\pi}{4} = 12 \arctan\frac{1}{49} + 32 \arctan\frac{1}{57} - 5 \arctan\frac{1}{239} + 12 \arctan\frac{1}{110443}</math>
@@ -188,17 +188,15 @@ Sono state usate le seguenti formule di tipo Machin:
 : <math> \frac{\pi}{4} = 44 \arctan\frac{1}{57} + 7 \arctan\frac{1}{239} - 12 \arctan\frac{1}{682} + 24 \arctan\frac{1}{12943}</math>
 :F. C. W. Störmer ([[1896]]).
 
-Queste approssimazioni sono così complesse da non essere utili per nessuno scopo pratico, se non per provare le prestazioni di nuovi supercomputer o per analisi statistiche sulle cifre di pi greco.
-
-Nel [[1996]] David H. Bailey, insieme a Peter Borwein e Simon Plouffe, scoprì una nuova formula per calcolare ''π'' come serie infinita:
-
-: <math>\pi = \sum_{k = 0}^{\infty} \frac{1}{16^k}
+Quèste approssimazione sonde accusì comblesse da non esse utile pè nisciune scope pratiche, se non pè provà le prestazione de nuève supercomputer o pè analise statisteche sus a le cifre de pi greche.
+z
+Jndr'ô [[1996]] David H. Bailey, 'nzieme a Peter Borwein e Simon Plouffe, scuprì 'na formule nuève pè calculà ''π'' cumme serie 'nfinite: <math>\pi = \sum_{k = 0}^{\infty} \frac{1}{16^k}
 \left( \frac{4}{8k + 1} - \frac{2}{8k + 4} - \frac{1}{8k + 5} - \frac{1}{8k + 6}\right)</math>
 
-Questa formula permette di calcolare facilmente la ''k''-esima cifra [[sistema numerico binario|binaria]] o [[sistema numerico esadecimale|esadecimale]] di ''π'' senza dover calcolare tutte le cifre precedenti.
-Il [http://www.nersc.gov/~dhbailey/ sito web di Bailey] ne contiene l'implementazione in vari [[linguaggio di programmazione|linguaggi di programmazione]].
+Quèste formule permette de calculà facilmende 'a ''k''-esime cifre [[sisteme numereche binarie|binarie]] o [[sisteme numereche esadecimale|esadecimale]] de ''π'' senze dovè calculà totte le cifre precedende.
+'U [http://www.nersc.gov/~dhbailey/ site web de Bailey] ne tène l'implementazione jndre varie [[lèngagge de programmazione|lèngagge de programmazione]].
 
-Alcune altre formule usate per calcolare stime di ''π'' sono:
+Alcune otre formule ausate pè calculà stime de ''π'' sonde:
 
 * <math>
 \frac{\pi}{2}=
@@ -217,7 +215,7 @@ Alcune altre formule usate per calcolare stime di ''π'' sono:
 :da [[Leonhard Euler|Eulero]].
 
 * <math>  \frac {\displaystyle \prod_{n=1}^{\infty} \left (1 + \frac{1}{4n^2-1} \right )}{\displaystyle\sum_{n=1}^{\infty} \frac {1}{4n^2-1}}  =  \frac {\displaystyle\left (1 + \frac{1}{3} \right ) \left (1 + \frac{1}{15} \right ) \left (1 + \frac{1}{35} \right ) \cdots} {\displaystyle \frac{1}{3} +  \frac{1}{15} +  \frac{1}{35} + \cdots}  = \pi </math>
-:nota come [[Formula simmetrica]]
+:nota come [[Formule simmetriche]]
 
 * <math>\sum_{k=0}^\infty\frac{(-1)^k(\sqrt{2}-1)^{2k+1}}{2k+1} = \frac{\pi}{8}.</math>
 :<math>\sum_{k=0}^\infty\frac{(-1)^k(2-\sqrt{3})^{2k+1}}{2k+1}=\frac{\pi}{12}.</math>
