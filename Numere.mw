@@ -3,10 +3,10 @@
 
 Le numere ponne essere manipolate cu le quattre operaziune fondamendale, [[somma]], [[sottrazione]], [[moltiplicazione]] e [[divisione, matemateche|divisione]]. 'U studie de le proprietà de chìste operaziune jè parte de l'[[algebra elemendare]].
 
-== Tipi de numere ==
+== Tipe de numere ==
 
 === Numere naturale ===
-Stonne 'nu sacche de tipe de numere. Chìdde ca sonde ausate de cchiù de tutte sonde le [[numere naturale]] { 1, 2, 3... } ca avènene ausate pe cundà e 'u sione ète 'a lettera '''N'''.
+Stonne 'nu sacche de tipe de numere. Chìdde ca sonde ausate de cchiù de tutte sonde le [[numere naturale]] { 1, 2, 3... } ca avènene ausate pe cundà e 'u sione ète 'a lettera '''N'''. 
 
 'A presenze d'u [[zero]] 'mbra le numere naturale depènne d'a a convenzione scacchiate. 'U zero jè comungue previste da le [[assiome de Peano]].
 
@@ -24,6 +24,10 @@ Le numere raziunale non ge cumbrendene tutte le numere ca se ponne esprimere cu 
 Stonne certe numere cu 'nu numere ca non ge spicce de cifre decimale no [[numere decimale periodiche|periodiche]], ca no ge ponne essere scritte cumme 'na frazione di doje 'ndere: pe esembie, <math>\pi</math> ([[pi greche]]), <math>\sqrt{2}</math>. Ste numere avènene ditte [[numeri irraziunale|irraziunale]], purcé no se ponne pigghià da le fraziune.
 
 L'aunìone de le numere 'ndere, raziunale e irraziunale fanne crejà l'inzieme de le [[numere reale]], ca tène cumme sione 'a lettera  '''R'''.
+
+Doje esembie de numere reale, assaije famose sonde:
+* 'u pi greche, <math>\pi = 3.14159265358979\dots.\,</math>
+* 'a radice quadrate, :<math>\sqrt{2} = 1.41421356237 \dots\,</math>
 
 === Numere comblesse ===
 'U 'nzieme de le numere reale non g'avaste a furnì tutte le soluziune de le [[equazione algebriche|equaziune algebriche]]. Pe esembie, l'equazione
