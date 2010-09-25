@@ -518,7 +518,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 585 || PLW || PW || [[ISO 3166-2:PW]]
 |-
 |{{PSE}}
-| 275 || PSE || PS || [[ISO 3166-2:PS]]**
+| 275 || PSE || PS || [[ISO 3166-2:PS]]***
 |-
 |{{PAN}}
 | 591 || PAN || PA || [[ISO 3166-2:PA]]
@@ -533,19 +533,19 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 604 || PER || PE || [[ISO 3166-2:PE]]
 |-
 |{{PYF}}
-| 258 || PYF || PF || [[ISO 3166-2:PF]]**
+| 258 || PYF || PF || [[ISO 3166-2:PF]]***
 |-
 |{{POL}}
 | 616 || POL || PL || [[ISO 3166-2:PL]]
 |-
 |{{PRI}}
-| 630 || PRI || PR || [[ISO 3166-2:PR]]**
+| 630 || PRI || PR || [[ISO 3166-2:PR]]***
 |-
 |{{PRT}}
 | 620 || PRT || PT || [[ISO 3166-2:PT]]
 |-
 |{{MCO}}
-| 492 || MCO || MC || [[ISO 3166-2:MC]]**
+| 492 || MCO || MC || [[ISO 3166-2:MC]]***
 |-
 |{{QAT}}
 | 634 || QAT || QA || [[ISO 3166-2:QA]]
@@ -569,7 +569,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 214 || DOM || DO || [[ISO 3166-2:DO]]
 |-
 |{{REU}}
-| 638 || REU || RE || [[ISO 3166-2:RE]]**
+| 638 || REU || RE || [[ISO 3166-2:RE]]***
 |-
 |{{ROU}}
 | 642 || ROU || RO || [[ISO 3166-2:RO]]
@@ -596,13 +596,13 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 670 || VCT || VC || [[ISO 3166-2:VC]]
 |-
 |{{BLM}}
-| 652 || BLM || BL || [[ISO 3166-2:BL]]**
+| 652 || BLM || BL || [[ISO 3166-2:BL]]***
 |-
 |{{MAF}}
-| 663 || MAF || MF || [[ISO 3166-2:MF]]**
+| 663 || MAF || MF || [[ISO 3166-2:MF]]***
 |-
 |{{SPM}}
-| 666 || SPM || PM || [[ISO 3166-2:PM]]**
+| 666 || SPM || PM || [[ISO 3166-2:PM]]***
 |-
 |{{WSM}}
 | 882 || WSM || WS || [[ISO 3166-2:WS]]
@@ -662,7 +662,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 740 || SUR || SR || [[ISO 3166-2:SR]]
 |-
 |{{SJM}}
-| 744 || SJM || SJ || [[ISO 3166-2:SJ]]**
+| 744 || SJM || SJ || [[ISO 3166-2:SJ]]***
 |-
 |{{SWE}}
 | 752 || SWE || SE || [[ISO 3166-2:SE]]
@@ -683,10 +683,10 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 834 || TZA || TZ || [[ISO 3166-2:TZ]]
 |-
 |{{ATF}}
-| 260 || ATF || TF || [[ISO 3166-2:TF]]**
+| 260 || ATF || TF || [[ISO 3166-2:TF]]***
 |-
 |{{IOT}}
-| 086 || IOT || IO || [[ISO 3166-2:IO]]**
+| 086 || IOT || IO || [[ISO 3166-2:IO]]***
 |-
 |{{THA}}
 | 764 || THA || TH || [[ISO 3166-2:TH]]
@@ -698,7 +698,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 768 || TGO || TG || [[ISO 3166-2:TG]]
 |-
 |{{TKL}}
-| 772 || TKL || TK || [[ISO 3166-2:TK]]**
+| 772 || TKL || TK || [[ISO 3166-2:TK]]***
 |-
 |{{TON}}
 | 776 || TON || TO || [[ISO 3166-2:TO]]
@@ -716,7 +716,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 795 || TKM || TM || [[ISO 3166-2:TM]]
 |-
 |{{TCA}}
-| 796 || TCA || TC || [[ISO 3166-2:TC]]**
+| 796 || TCA || TC || [[ISO 3166-2:TC]]***
 |-
 |{{TUV}}
 | 798 || TUV || TV || [[ISO 3166-2:TV]]
@@ -746,7 +746,7 @@ Sonde in ordine 'fabbeteche asseconde 'u nome tagliàne.
 | 704 || VNM || VN || [[ISO 3166-2:VN]]
 |-
 |{{WLF}}
-| 876 || WLF || WF || [[ISO 3166-2:WF]]**
+| 876 || WLF || WF || [[ISO 3166-2:WF]]***
 |-
 |{{YEM}}
 | 887 || YEM || YE || [[ISO 3166-2:YE]]
