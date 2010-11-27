@@ -1,0 +1,425 @@
+<includeonly>"man" non è il codice che appartiene ad alcuna [[nazione]], scegli un codice da questa [[ISO 3166-1|lista]]</includeonly>
+
+Questo template serve per visualizzare bandiera e wikilink a una qualunque nazionale sportiva.
+
+==Sintassi==
+Questa la sintassi del template:
+
+ <nowiki>{{Naz|codice sport|codice nazione|sesso|altro|</nowiki><span style="color:#7AC47A">'''h'''</span><nowiki>}}</nowiki>
+
+== Parametri ==
+*'''codice sport''': sostituirlo con uno dei seguenti codici:
+{{MultiCol}}
+:'''BV''' per il [[beach volley]]
+:'''C5''' per il [[calcio a 5]]
+:'''CA''' per il [[calcio (sport)|calcio]]
+:'''CR''' per il [[cricket]]
+:'''RH''' per l’[[hockey su pista]] (Rink Hockey)
+{{ColBreak}}
+:'''HG''' per l’[[hockey su ghiaccio]]
+:'''HP''' per l’[[hockey su prato]]
+:'''BK''' o '''PC''' per la [[pallacanestro]]
+:'''HB''' o '''PM''' per la [[pallamano]]
+:'''PN''' per la [[pallanuoto]]
+{{ColBreak}}
+:'''VB''' o '''PV''' per la [[pallavolo]]
+:'''R15''' per il [[rugby a 15|rugby XV]] (Rugby Union)
+:'''R13''' per il [[rugby a 13|rugby XIII]] (Rugby League)
+:'''R7''' per il [[rugby a 7]] (Rugby Seven)
+:'''TT''' per il [[tennis tavolo]]
+{{EndMultiCol}}
+:È possibile aggiungere altri sport modificando la sottopagina di template {{tl|Naz/Sport}}.
+*'''codice nazione''': sostituirlo con il codice [[ISO 3166-1|ISO]] della nazione o del Paese; sono anche supportati i codici [[Lista dei codici nazionali della FIFA|FIFA]] e i nomi completi dei Paesi in italiano. Preferire sempre, ove possibile, il codice ISO.
+*'''sesso''': valorizzarlo solo con “F” o “M”. ''Non esiste default'', quindi non inserendo alcun valore esso non verrà valorizzato.
+*'''altro''': eventuali ulteriori specificazioni (es. “Under-21”)
+*<span style="color:#7AC47A">'''h''' (''hide'', ''nascondi'')</span>: parametro facoltativo. Se valorizzato non visualizza il parametro contenuto nel campo '''altro''', ma lo inserisce solo nel wikilink.
+
+==Esempi==
+{| {{prettytable|width=80%|align=center|text-align=center|font-size=}}
+! Sintassi || Risultato || Wikilink
+|- 
+| <pre>{{Naz|HG|CAN}}</pre> || {{Naz|HG|CAN}} || Nazionale di hockey su ghiaccio del Canada
+|- 
+| <pre>{{Naz|PV|ITA|F}}</pre> || {{Naz|PV|ITA|F|}} || Nazionale di pallavolo femminile dell'Italia
+|- 
+| <pre>{{Naz|CA|ITA||Under-21}}</pre> || {{Naz|CA|ITA||Under-21}} || Nazionale di calcio dell'Italia Under-21
+|- 
+| <pre>{{Naz|CA|ITA||Under-21|h}}</pre> || {{Naz|CA|ITA||Under-21|h}} || Nazionale di calcio dell'Italia Under-21</br>''(il parametro h nasconde "Under-21", ma non nel wikilink)''
+|- 
+| <pre>{{Naz|HG|ZMB|M|Over-75}}</pre> || {{Naz|HG|ZMB|M|Over-75}} || Nazionale di hockey su ghiaccio maschile dello Zambia Over-75</br>''(wikilink rosso, non esiste la pagina)''
+|}
+
+== Elenco codici ==
+* '''[[Template:Naz/Man/Codici|Elenco automatico]]''': per un elenco completo in ordine alfabetico dei codici utilizzabili (generato automaticamente)
+* '''[[Template:Bandiera/Man/Codici|Elenco ragionato]]''': per un elenco ragionato per paese in ordine alfabetico (generato offline)
+
+Per aggiungere altri codici, vedere [[Template:Naz/man#Aggiunta_di_codici|più in basso]].
+
+==Codici speciali==
+Sono qui riportati alcuni dei codici presenti.
+{{MultiCol}}
+{| {{prettytable|width=99%|text-align=center}}
+! Bandiera || Nazione || Codice
+|- 
+| [[Image:Flag of England.svg|20px|border]] || Inghilterra || ENG
+|- 
+| [[Image:Ulster_banner.svg|20px|border]] || Irlanda del Nord || NIR
+|- 
+| [[Image:Flag of Scotland.svg|20px|border]] || Scozia || SCO
+|- 
+| [[Image:Flag of Wales.svg|20px|border]] || Galles || WAL
+|- 
+| [[Image:Flag of French Polynesia.svg|20px|border]] || Tahiti <small>(sport)</small> || TAH
+|- 
+| [[Image:Flag of the Netherlands.svg|20px|border]] || Olanda <small>(sport)</small> || NED
+|-
+| [[Image:Chinese Taipei Football Flag.svg|20px|border]] || Taipei Cinese <small>(calcio)</small> || TPE calcio
+|- 
+| [[Image:Flag of Chinese Taipei for Olympic games.svg|20px|border]] || Taipei Cinese <small>(altri sport)</small> || TPE
+|- 
+| [[Image:Flag of Ireland rugby.svg|20px|border]] || Irlanda || IRL rugby
+|- 
+| [[Image:Flag of Catalonia.svg|20px|border]] || Catalogna || Catalogna
+|- 
+| [[Image:Flag_of_Chechen_Republic_since_2004.svg|20px|border]] || Cecenia || Cecenia
+|- 
+| [[Image:Flag of Corsica.svg|20px|border]] || Corsica || Corsica
+|- 
+| [[Image:Flag of South Moluccas.svg|20px|border]] || Molucche meridionali || Molucche
+|- 
+| [[Image:Flag of Occitania.svg|20px|border]] || Occitania || Occitania
+|- 
+| [[Image:Flag of Padania.svg|20px|border]] || Padania || Padania
+|- 
+| [[Image:Flag of the Basque Country.svg|20px|border]] || Paesi Baschi || Paesi Baschi
+|- 
+| [[Image:Flag of Saar.svg|20px|border]] || Saarland || SAA
+|- 
+| [[Image:Sami flag.svg|20px|border]] || Sami (Lapponia) || Sami (o Lapponia)
+|- 
+| [[Image:Flag of Somaliland.svg|20px|border]] || Somaliland || SOD
+|- 
+| [[Image:Flag of Tibet.svg|20px|border]] || Tibet || Tibet
+|- 
+| [[Image:Flag of Zanzibar.svg|20px|border]] || Zanzibar || EAZ
+|- 
+|}
+{{ColBreak}}
+{| {{prettytable|width=99%|text-align=center}}
+! Bandiera || Nazione || Codice
+|- 
+| [[Image:Flag of Antarctica.svg|20px|border]] || Antartide || ATA
+|- 
+| [[Image:Flag of Austria (state).svg|20px|border]] || Austria <small>(bandiera di stato)</small> || AUT stato
+|- 
+| [[Image:Flag of Germany (state).svg|20px|border]] || Germania <small>(bandiera di stato)</small> || DEU stato
+|- 
+| [[Image:Flag of the City of London.svg|20px|border]] || Londra || Londra
+|- 
+| [[Image:Flag of the Sovereign Military Order of Malta.svg|20px|border]] || Sovrano Militare Ordine di Malta || SMOM
+|- 
+| [[Image:Flag of Europe.svg|20px|border]] || Europa || EUR
+|- 
+| [[Image:Flag of Europe.svg|20px|border]] || Selezione Europea || Selezione Europea
+|- 
+| [[Image:Flag of Europe.svg|20px|border]] || Unione Europea || UE
+|- 
+| [[Image:Flag of the United Nations.svg|20px|border]] || World Stars || World Stars
+|- 
+| [[Image:Flag of the United Nations.svg|20px|border]] || ONU || ONU
+|- 
+|}
+{{EndMultiCol}}
+
+==Codici obsoleti==
+Sono qui riportati alcuni dei codici presenti.
+{{MultiCol}}
+{| {{prettytable|width=99%||text-align=center}}
+! Bandiera || Nazione (anni) || Codice
+|- 
+| [[Image:NF 1931 - 1974.jpg|20px|border]] || Afghanistan || AFG 1930-1973
+|- 
+| [[Image:Flag of Albania 1946.svg|20px|border]] || Albania || ALB 1946-1992
+|- 
+| [[Image:Flag of Upper Volta.svg|20px|border]] || Alto Volta <small>(1960-1984)</small>|| HVO
+|- 
+| [[Image:Flag of the Habsburg Monarchy.svg|20px|border]] || Austria || AUT 1804-1918
+|- 
+| [[Image:Flag of Austria-Hungary 1869-1918.svg|20px|border]] || Austria-Ungheria <small>(1869-1918)</small>|| Austria-Ungheria
+|- 
+| [[Image:Flag of Biafra.svg|20px|border]] || Biafra || Biafra
+|- 
+| [[Image:Flag_of_Belarus_(1991-1995).svg|20px|border]] || Bielorussia || BLR 1991-1995
+|- 
+| [[Image:Flag of Burma (1948-1974).svg|20px|border]] || Birmania || BUR 1948-1974
+|-
+| [[Image:Flag of Myanmar.svg|20px|border]] || Birmania <small>(dal 1989 Myanmar)</small>|| BUR
+|-
+| [[Image:Flag_of_North_Borneo.gif|20px|border]] || Borneo del Nord || NBO
+|- 
+| [[Image:Flag_of_Bosnia_and_Herzegovina_1992-1998_(bordered).svg|20px|border]] || Bosnia-Erzegovina || BIH 1992-1998
+|-
+| [[Image:Flag of Brazil (1889-1960).svg|20px|border]] || Brasile || BRA 1889-1960
+|-
+| [[Image:Flag of Bulgaria (1946-1967).svg|20px|border]] || Bulgaria || BGR 1946-1967<ref name="FIFA">Si possono anche usare i codici FIFA: BUL (Bulgaria), COB (Congo-Brazaville), DAH (Dahomey), GER (Germania), GRE (Grecia), HAI (Haiti), LES (Lesotho), MRI (Mauritius), NRH (Rhodesia del Nord), PUR (Porto Rico), RSA (Sudafrica), SEY (Seychelles), SRH (Rhodesia del Sud), SUD (Sudan), TAA (Tanganica), URS (Unione Sovietica).</ref>
+|- 
+| [[Image:Flag of Bulgaria (1967).png|20px|border]] || Bulgaria || BGR 1967-1971<ref name="FIFA" />
+|- 
+|  || Bulgaria || BGR 1971-1990<ref name="FIFA" />
+|-
+| [[Image:Flag of Cameroon (1957).svg|20px|border]] || Camerun || CMR 1954-1971
+|-
+| [[Image:Flag of Cameroon (1961).svg|20px|border]] || Camerun || CMR 1961-1975
+|-
+| [[Image:Flag of Canada-1868-Red.svg|20px|border]] || Canada || CAN 1868-1921
+|-
+| [[Image:Flag of Canada 1921.svg|20px|border]] || Canada || CAN 1921-1957
+|-
+| [[Image:Canadian Red Ensign.svg|20px|border]] || Canada || CAN 1957-1965
+|-
+| [[Image:Flag of Cape Verde 1975.svg|20px|border]] || Capo Verde || CPV 1975-1992
+|-
+| [[Image:Flag of Czechoslovakia.svg|20px|border]] || Cecoslovacchia <small>(1918-1992)</small>|| CSK
+|-
+| [[Image:Flag of Ceylon.svg|20px|border]] || Ceylon || CEY
+|-
+| [[Image:Flag of the Comoros (1978-1992).svg|20px|border]] || Comore || COM 1978-1992
+|-
+| [[Image:Flag of the People's Republic of Congo.svg|20px|border]] || Congo-Brazaville || RCB<ref name="FIFA" />
+|-
+| [[Image:Flag of Congo Kinshasa 1960.svg|20px|border]] || Congo-Kinshasa || CKN 1960-1963
+|-
+| [[Image:Flag of Congo Kinshasa 1963.svg|20px|border]] || Congo-Kinshasa || CKN 1963-1966
+|-
+| [[Image:Flag of Congo Kinshasa 1966.svg|20px|border]] || Congo-Kinshasa || CKN 1966-1971
+|-
+| [[Image:Flag of Benin.svg|20px|border]] || Dahomey || DHY<ref name="FIFA" />
+|-
+| [[Image:Egypt flag 1882.svg|20px|border]] || Egitto || EGY 1882-1922
+|-
+| [[Image:Flag of Egypt 1922.svg|20px|border]] || Egitto || EGY 1922-1952
+|-
+| [[Image:Flag of Egypt 1952.svg|20px|border]] || Egitto || EGY 1952-1958
+|-
+| [[Image:Flag of United Arab Republic.svg|20px|border]] || Rep. Araba Unita (Egitto) || EGY 1958-1972 (o UAR)
+|-
+| [[Image:Flag of Egypt 1972.svg|20px|border]] || Egitto || EGY 1972-1984
+|-
+| [[Image:Flag of Ethiopia (1897).svg|20px|border]] || Etiopia || ETH 1897-1974
+|-
+| [[Image:Flag of Ethiopia (1975-1987, 1991-1996).svg|20px|border]] || Etiopia || ETH 1975-1987 e ETH 1991-1996
+|-
+|  || Galles || WAL 1807-1953
+|-
+| [[Image:Wales1953-1959.gif|20px|border]] || Galles || WAL 1953-1959
+|- 
+| [[Image:Flag of the German Empire.svg|20px|border]] || Germania || DEU 1871-1918<ref name="FIFA" />
+|- 
+| [[Image:Flag_of_Germany_(3-2_aspect_ratio).svg|20px|border]] || Germania || DEU 1918-1933<ref name="FIFA" />
+|- 
+| [[Image:Flag of Germany 1933.svg|20px|border]] || Germania || DEU 1933-1945<ref name="FIFA" />
+|-
+| [[Image:Flag of East Germany.svg|20px|border]] || Germania Est <small>(1949-1990)</small>|| DDR
+|-
+| [[Image:Flag of Germany.svg|20px|border]] || Germania Ovest <small>(1949-1990)</small>|| FRG
+|- 
+| [[Image:Flag of Georgia (1918-1921).svg|20px|border]] || Georgia || GEO 1918-1921
+|- 
+| [[Image:Flag of Georgia (1990-2004).svg|20px|border]] || Georgia || GEO 1990-2004
+|- 
+| [[Image:Ghana flag 1964.svg|20px|border]] || Ghana || GHA 1964-1966
+|- 
+| [[Image:Flag of Greece (1828-1978).svg|20px|border]] || Grecia || GRC 1822-1969 e GRC 1975-1978<ref name="FIFA" />
+|- 
+| [[Image:Flag of the Gold Coast.svg|20px|border]] || Gold Coast || GOC
+|- 
+| [[Image:Flag of Haiti (1964-1986).svg|20px|border]] || Haiti || HTI 1964-1986<ref name="FIFA" />
+<!--
+|- 
+| [[Image:Flag of None.svg|20px|border]] || Hong Kong || HKG 1910-1959
+-->
+|- 
+| [[Image:Flag of Hong Kong 1959.svg|20px|border]] || Hong Kong || HKG 1959-1997
+|- 
+| [[Image:Flag of Iran (1925).svg|20px|border]] || Iran || IRN 1925-1964
+|- 
+| [[Image:Flag of Iran (1964).svg|20px|border]] || Iran || IRN 1964-1979
+|- 
+| [[Image:Flag of Iraq 1924.svg|20px|border]] || Iraq || IRQ 1921-1959
+|- 
+| [[Image:Flag of Iraq 1959-1963.svg|20px|border]] || Iraq || IRQ 1959-1963
+|- 
+| [[Image:Flag of Iraq (1963-1991).svg|20px|border]] || Iraq || IRQ 1963-1991
+|- 
+| [[Image:Flag of Iraq, 1991-2004.svg|20px|border]] || Iraq || IRQ 1991-2004
+|- 
+| [[Image:Flag of Iraq 2004-2008.svg|20px|border]] || Iraq || IRQ 2004-2008
+|-
+| [[Image:St Patrick's saltire.svg|20px|border]] || Irlanda Unita <small>(1783-1922)</small> || Irlanda Unita
+|- 
+| [[Image:Flag of Italy (1861-1946).svg|20px|border]] || Italia || ITA 1861-1946
+|- 
+| [[Image:Flag of the Kingdom of Yugoslavia.svg|20px|border]] || Jugoslavia || YUG 1918-1943
+|- 
+| [[Image:Flag of SFR Yugoslavia.svg|20px|border]] || Jugoslavia || YUG 1943-1992
+|}
+{{ColBreak}}
+{| {{prettytable|width=99%|text-align=center}}
+! Bandiera || Nazione (anni) || Codice
+|- 
+| [[Image:Flag of FR Yugoslavia.svg|20px|border]] || Jugoslavia || YUG 1992-2003
+|- 
+| [[Image:Flag of Serbia and Montenegro.svg|20px|border]] || Serbia e Montenegro<br/> <small>(2003-2006)</small>|| SCG
+|- 
+| [[Image:Flag of Lesotho (1966).svg|20px|border]] || Lesotho || LSO 1966-1987<ref name="FIFA" />
+|- 
+| [[Image:Flag of Lesotho (1987-2006).svg|20px|border]] || Lesotho || LSO 1987-2006<ref name="FIFA" />
+|- 
+| [[Image:Flag of Libya (1951).svg|20px|border]] || Libia || LBY 1951-1969
+|- 
+| [[Image:Flag of Lithuania 1918-1940.svg|20px|border]] || Lituania || LTU 1918-1940
+|- 
+| [[Image:Flag of Lithuania 1989-2004.svg|20px|border]] || Lituania || LTU 1989-2004
+|- 
+| [[Image:Flag_of_the_Republic_of_Macedonia_1991-1995.svg|20px|border]] || Macedonia || MKD 1991-1995
+|- 
+| [[Image:Flag of Manchukuo.svg|20px|border]] || Manchukuo || Manchukuo
+|- 
+| [[Image:Blue ensign of Mauritius 1923-1968.gif|20px|border]] || Mauritius || MUS 1923-1968<ref name="FIFA" />
+|- 
+| [[Image:Flag of Mexico (1917-1934).png|20px|border]] || Messico || MEX 1917-1934
+|- 
+| [[Image:Flag of Mexico (1934-1968).png|20px|border]] || Messico || MEX 1934-1968
+|- 
+| [[Image:Flag of Mozambique (1975-1983).svg|20px|border]] || Mozambico || MOZ 1975-1983
+|- 
+| [[Image:Flag of Mozambique (1983).svg|20px|border]] || Mozambico || MOZ 1983
+|- 
+| [[Image:Flag of France.svg|20px|border]] || Nuove Ebridi || NHB
+|- 
+| [[Image:Flag of Nyasaland.svg|20px|border]] || Nyasaland || Nyasaland
+|- 
+| [[Image:Ottoman Flag.svg|20px|border]] || Impero Ottomano || Impero Ottomano
+|- 
+| [[Image:Flag of Puerto Rico (1952-1995).svg|20px|border]] || Porto Rico || PRI 1952-1995<ref name="FIFA" />
+|- 
+| [[Image:Slovakia WW2 flag.svg|20px|border]] || Repubblica Slovacca <small>(1939-1945)</small> || SVK 1939-1945
+|- 
+| [[Image:Flag of Rhodesia.svg|20px|border]] || Rhodesia || RHO
+|- 
+| [[Image:Flag of Northern Rhodesia-1939.svg|20px|border]] || Rhodesia del Nord || RNR<ref name="FIFA" />
+|- 
+| [[Image:Flag of Southern Rhodesia.svg|20px|border]] || Rhodesia del Sud || RSR<ref name="FIFA" />
+|- 
+| [[Image:Flag of Romania (1948-1952).png|20px|border]] || Romania || ROU 1948-1952
+|- 
+| [[Image:Flag of Romania (1952-1965).png|20px|border]] || Romania || ROU 1952-1965
+|- 
+| [[Image:Flag of Romania (1965-1989).svg|20px|border]] || Romania || ROU 1965-1989
+|-
+| [[Image:Flag_of_Rwanda_(1962-2001).svg|20px|border]] || Ruanda || RWA 1962-2001
+|-
+| [[Image:Flag of the Seychelles 1977.svg|20px|border]] || Seychelles || SYC 1977-1996<ref name="FIFA" />
+|- 
+| [[Image:Flag of Thailand.svg|20px|border]] || Siam || SIA
+|- 
+| [[Image:Syria-flag 1932-58 1961-63.svg|20px|border]] || Siria || SYR 1932-1958 e SYR 1961-1963
+|- 
+| [[Image:Flag of Spain (1785-1873 and 1875-1931).svg|20px|border]] || Spagna || ESP 1875-1931
+|- 
+| [[Image:Flag of the Second Spanish Republic.svg|20px|border]] || Spagna || ESP 1931-1939
+|- 
+| [[Image:Flag of Spain under Franco 1938 1945.svg|20px|border]] || Spagna || ESP 1939-1945
+|- 
+| [[Image:Flag of Spain 1945 1977.svg|20px|border]] || Spagna || ESP 1945-1977
+|- 
+| [[Image:Flag of Spain (1977-1981).svg|20px|border]] || Spagna || ESP 1977-1981
+|- 
+| [[Image:US flag 38 stars.svg|20px|border]] || Stati Uniti || USA 1877-1890
+|- 
+| [[Image:US flag 48 stars.svg|20px|border]] || Stati Uniti || USA 1912-1959
+|- 
+| [[Image:South Africa Red Ensign.png|20px|border]] || Sudafrica || ZAF 1910-1928<ref name="FIFA" />
+|- 
+| [[Image:Flag of South Africa 1928-1994.svg|20px|border]] || Sudafrica || ZAF 1928-1994<ref name="FIFA" />
+|- 
+| [[Image:Flag of Sudan (1956-1970).svg|20px|border]] || Sudan || SDN 1956-1970<ref name="FIFA" />
+|- 
+| [[Image:Flag of France.svg|20px|border]] || Tahiti || TAH 1946-1983
+|-
+| [[Image:Flag of Tanganyika (1919-1961).svg|20px|border]] || Tanganica || EAT 1919-1961<ref name="FIFA" />
+|- 
+| [[Image:Flag of Tanganyika.svg|20px|border]] || Tanganica || EAT<ref name="FIFA" />
+|- 
+| [[Image:Ugandaoflag.gif|20px|border]] || Uganda || UGA 1914-1962
+|- 
+| [[Image:Flag of Uganda 1962.svg|20px|border]] || Uganda || UGA 1962
+|- 
+| [[Image:Flag of Hungary (1867-1918).svg|20px|border]] || Ungheria || HUN 1867-1918
+|- 
+| [[Image:Flag_of_Hungary.svg|20px|border]] || Ungheria || HUN 1918-1940
+|- 
+| [[Image:Flag of Hungary 1940.svg|20px|border]] || Ungheria || HUN 1940-1945
+|- 
+| [[Image:Flag of Hungary (1946-1949, 1956-1957).svg|20px|border]] || Ungheria || HUN 1946-1949 e  HUN 1956-1957
+|- 
+| [[Image:Flag of Hungary 1949-1956.svg|20px|border]] || Ungheria || HUN 1949-1956
+|- 
+| [[Image:Flag of Hungary (1957-1989).png|20px|border]]|| Ungheria || HUN 1957-1989
+|- 
+| [[Image:Flag of the Soviet Union 1923.svg|20px|border]] || Unione Sovietica || SUN 1923-1955<ref name="FIFA" />
+|- 
+| [[Image:Flag of the Soviet Union 1955.svg|20px|border]] || Unione Sovietica || SUN 1955-1980<ref name="FIFA" />
+|- 
+| [[Image:Flag of the Soviet Union.svg|20px|border]] || Unione Sovietica || SUN 1980-1991<ref name="FIFA" />
+|- 
+| [[Image:Flag of the CIS.svg|20px|border]] || Comunità degli Stati<br/> Indipendenti <small>(1992)</small>|| CIS
+|- 
+| [[Image:Flag of Venezuela 1930-2006.svg|20px|border]] || Venezuela || VEN 1930-2006
+|- 
+| [[Image:Flag of North Vietnam.svg|20px|border]] || Vietnam del Nord <small>(1945-1976)</small>|| VDR
+|- 
+| [[Image:Flag of South Vietnam.svg|20px|border]] || Vietnam del Sud <small>(1954-1976)</small>|| VSO
+|- 
+| [[Image:Flag of North Yemen.svg|20px|border]] || Yemen del Nord <small>(1962-1990)</small>|| NYE
+|- 
+| [[Image:Flag of South Yemen.svg|20px|border]] || Yemen del Sud <small>(1967-1990)</small>|| YMD
+|- 
+| [[Image:Flag of Zaire.svg|20px|border]] || Zaire <small>(1971-1997)</small>|| ZAR
+|}
+{{EndMultiCol}}
+
+{{references}}
+
+==Sottopagine==
+Questo template fa uso di varie sottopagine, in comune con i template {{tl|NazBD}}, {{tl|NazBA}}, {{tl|NazNB}} e {{tl|Bandiera}}:
+* Naz/''Codice'' (ad es. [[template:Naz/ITA|Naz/ITA]]) converte il <tt>codice nazione</tt> nel collegamento alla bandiera, nella preposizione relativa (''dell', della, delle'', etc.), nel nome completo dello Stato, eventualmente in nomi alternativi dello Stato.
+* [[template:Naz/Sport|Naz/Sport]] converte il <tt>codice sport</tt> nel nome dello sport
+
+==Aggiunta di codici==
+''Prima di aggiungere un nuovo codice, verificare con attenzione che non esista già una sottopagina con nome diverso ma contenuto identico; in caso esista e si voglia creare comunque la nuova sottopagina, crearla come redirect al codice ISO. Non aggiungere codici inventati, ma utilizzare sempre codici standard (CIO, ISO, FIFA etc).''<br>Per aggiungere un nuovo codice, è sufficiente incollare in una nuova pagina dal nome ''[[template:Naz/Nuovocodice]]'' (con il nome del codice in '''MAIUSCOLO''' al posto di ''Nuovocodice'') il seguente contenuto:
+
+<pre>
+<includeonly>{{ #switch: {{{1}}}
+| a = 
+| b = 
+| c = 
+| d = 
+| e = 
+| tipo = 
+}}</includeonly>
+</pre>
+
+* dopo '''"a = "''' introdurre il collegamento alla bandiera senza "Image:" e completo di estensione (ad es. ''Flag of Italy.svg'' o ''Ulster banner.svg'')
+* dopo '''"b = "''' introdurre la preposizione corretta, comprensiva di eventuale spazio (&amp;#32;) dove necessario (ad es. ''<nowiki>dell'</nowiki>'' o ''della&amp;#32;'')
+* dopo '''"c = "''' introdurre il nome dello Stato (ad es. ''Italia'')
+* dopo '''"d = "''' (<span style="color:green">''facoltativo''</span>) introdurre l'eventuale link alla pagina della squadra nazionale completo di preposizione ma senza "Nazionale di ''Nomesport''" e solo '''se diverso da "Nazionale di ''Nomesport +'b'+'c<nowiki>'</nowiki>'' "'''. In questo caso il link viene creato utilizzando "d" mentre "c" viene usato per il nome. Vedi ad es. [[template:Naz/BUR]] che dà come risultato {{Naz|CA|BUR}}, con wikilink a ''Myanmar''.
+* dopo '''"e = "''' (''<span style="color:green">facoltativo</span>, per l'uso con il [[template:Bandiera]]'') introdurre l'eventuale link alla pagina del paese e solo '''se diverso da "c"'''. In questo caso il link viene creato utilizzando "e" mentre "c" viene usato per il nome. Vedi ad es. [[template:Naz/DDR]] che dà come risultato {{Bandiera|DDR|nome}}.
+* dopo '''"tipo = "''' (''<span style="color:green">facoltativo</span>, usato dalle Selezioni non riconosciute ufficialmente'') introdurre "selezione" per potere creare il link corretto Vedi ad es. [[template:Naz/Paesi Baschi]] che dà come risultato {{Naz|CA|Paesi Baschi}}.
+
+==Template affini==
+* [[Template:NazNB]] identico a questo, ma non visualizza la bandiera
+* [[Template:NazBD]] identico a questo, ma visualizza la bandiera a destra, invece che a sinistra
+* [[Template:NazBA]] simile a questo, visualizza una bandiera più grande in alto, sopra al wikilink
+
+<noinclude>[[Category:Manuali dei template|Naz]]</noinclude>
