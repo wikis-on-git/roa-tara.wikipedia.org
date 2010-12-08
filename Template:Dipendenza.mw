@@ -1,0 +1,124 @@
+<includeonly>{| class="sinottico" summary="Tabella sinottica che riassume le principali caratteristiche di uno Stato"
+|- class="sinottico_testata"
+! colspan="2" style="background:#F0E68C;" class="sinottico_testata" | {{{nomeCorrente}}}
+|-
+| colspan="2" style="text-align:center;" | 
+{| align="center" cellpadding="0" cellspacing="0" style="background:transparent"
+|- 
+| style="max-width:125px; margin-left:5px; vertical-align:middle" | {{#if:{{{linkBandiera|}}} | [[File:{{{linkBandiera}}}|125px|border|{{{nomeCorrente}}} - Bandiera]] }}
+| style="max-width:80px;" | {{#if:{{{linkStemma|}}} | [[File:{{{linkStemma}}}|80px|{{{nomeCorrente}}} - Stemma]] }}
+|-
+| style="max-width:125px; margin-left:5px;" | {{#if:{{{paginaBandiera|}}} | <small>([[{{{paginaBandiera}}}|dettagli]])</small>}}
+| style="max-width:80px;" | {{#if:{{{paginaStemma|}}} | <small>([[{{{paginaStemma}}}|dettagli]])</small>}}
+|-
+| colspan="2" style="padding:1px 0px" | {{#if:{{{motto|}}} | '''[[Motto]]:''' {{{motto}}} }}
+|}
+|-
+| colspan="2" style="padding:1px 0px" | [[File:{{{linkLocalizzazione}}}|center|250px|{{{nomeCorrente}}} - Localizzazione]]
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Dati amministrativi
+|-
+! Nome completo
+| style="width:150px;" | {{{nomeCompleto}}}
+|-
+! Nome ufficiale
+| style="width:150px;" | {{{nomeUfficiale}}}
+|-
+! Dipendente da
+| style="width:150px;" | {{{stato}}}
+|-
+! [[Lingua ufficiale|Lingue ufficiali]]
+| style="width:150px;" | {{{lingua}}}
+|-
+{{#if:{{{altrelingue|}}} |
+! Altre [[lingua (idioma)|lingue]]
+{{!}} style="width:150px;" {{!}} {{{altrelingue}}} }}
+|-
+{{#if:{{{capitale|}}} |
+! [[Capitale (città)|Capitale]]
+{{!}} style="width:150px;" {{!}} {{{capitale}}} {{#if:{{{capitaleAbitanti|}}}|&nbsp;<small>({{{capitaleAbitanti}}}&nbsp;ab.{{#if:{{{capitaleAbitantiAnno|}}}|&nbsp;/&nbsp;{{{capitaleAbitantiAnno}}}}})</small>}} }}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Politica
+|-
+! [[Forma di governo|Status]]
+| style="width:150px;" | {{{governo}}}
+|-
+{{#if:{{{presidente|}}} |
+! {{#if:{{{elenco capi di stato|}}}|{{{elenco capi di stato}}}|[[Capo di Stato]]}}
+{{!}} style="width:150px;" {{!}} {{{presidente}}} }}
+|-
+{{#if:{{{primoMinistro|}}} |
+! {{#if:{{{elenco capi di governo|}}}|{{{elenco capi di governo}}}|Capo di Governo}}
+{{!}} style="width:150px;" {{!}} {{{primoMinistro}}} }}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Superficie
+|-
+! [[Area|Totale]]
+| style="width:150px;" | {{{superficieTotale}}} [[Chilometro quadro|km²]]{{#if:{{{superficieOrdine|}}}|&nbsp;([[Lista di stati per superficie|{{{superficieOrdine}}}º]])}}
+|-
+{{#if:{{{superficieAcqua|}}} |
+! % delle acque
+{{!}} style="width:150px;" {{!}} {{#ifeq:{{{superficieAcqua}}}|trascurabile|trascurabile|{{{superficieAcqua}}}&nbsp;%}} }}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Popolazione
+|-
+! [[Popolazione|Totale]]
+| style="width:150px;" | {{{popolazioneTotale}}} ab.{{#if:{{{popolazioneAnno|}}}|&nbsp;<small>({{{popolazioneAnno}}})</small>}}{{#if:{{{popolazioneOrdine|}}}|&nbsp;([[Lista di stati per popolazione|{{{popolazioneOrdine}}}º]])}}
+|-
+! [[Densità di popolazione|Densità]]
+| style="width:150px;" | {{{popolazioneDensita}}} ab./[[Chilometro quadro|km²]]{{#if:{{{popolazioneDensitaOrdine|}}}|([[Lista di stati per densità di popolazione|{{{popolazioneDensitaOrdine}}}º]])}}
+|-
+{{#if:{{{nomeAbitanti|}}} |
+! [[Demotico (onomastica)|Nome degli abitanti]]
+{{!}} style="width:150px;" {{!}} {{{nomeAbitanti}}} }}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Geografia
+|-
+! [[Continente]]
+| style="width:150px;" | {{{continente}}}
+|-
+! [[Fuso orario]]
+| style="width:150px;" | {{{orario}}}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Economia
+|-
+! [[Valuta]]
+| style="width:150px;" | {{{valuta}}}
+|-
+{{#if:{{{PIL|}}} |
+! [[Prodotto interno lordo|PIL]] ([[Teoria della parità dei poteri di acquisto|PPA]])
+{{!}} style="width:150px;" {{!}} {{{PIL}}} milioni di {{{PILValuta}}} {{#if:{{{PILOrdine|}}}|&nbsp;([[Lista di stati per PIL (PPA)|{{{PILOrdine}}}º]])}} }}
+|-
+{{#if:{{{PILprocapite|}}} |
+! [[Reddito pro capite|PIL pro capite]] ([[Parità dei poteri di acquisto|PPA]])
+{{!}} style="width:150px;" {{!}} {{{PILprocapite}}} {{{PILprocapiteValuta}}} {{#if:{{{PILprocapiteAnno|}}}|&nbsp;({{{PILprocapiteAnno}}})}} {{#if:{{{PILprocapiteOrdine|}}}|&nbsp;([[Lista di stati per PIL (PPA) procapite|{{{PILprocapiteOrdine}}}º]])}} }}
+|- class="sinottico_divisione"
+! colspan="2" style="background:#F0E68C; height:8px;" | Varie
+|-
+! [[Dominio di primo livello|TLD]]
+| style="width:150px;" | {{{tld}}}
+|-
+{{#if:{{{telefono|}}} |
+! [[Prefissi telefonici internazionali|Prefisso tel.]]
+{{!}} style="width:150px;" {{!}} {{{telefono}}} }}
+|-
+{{#if:{{{targa|}}} |
+! [[Sigla automobilistica internazionale|Sigla autom.]]
+{{!}} style="width:150px;" {{!}} {{{targa}}} }}
+|-
+{{#if:{{{inno|}}} |
+! [[:Categoria:Inni nazionali|Inno nazionale]]
+{{!}} style="width:150px;" {{!}} {{{inno}}} }}
+|-
+{{#if:{{{festa|}}} |
+! [[Festa nazionale]]
+{{!}} style="width:150px;" {{!}} {{{festa}}} }}
+|-
+{{#if:{{{linkMappa|}}} |
+{{!}} colspan="2" style="padding:1px 0px" {{!}} [[File:{{{linkMappa}}}|center|250px|{{{nomeCorrente}}} - Mappa]] }}
+|-
+| colspan="2" style="background:#F0E68C;" class="sinottico_piede" | {{#if:{{{note|}}} | {{{note}}} | &nbsp; }}
+|}</includeonly><noinclude>
+[[fr:Modèle:Infobox Territoire]]
+[[it:Template:Dipendenza]]
+</noinclude>
