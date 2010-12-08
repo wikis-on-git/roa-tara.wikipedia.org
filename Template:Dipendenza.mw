@@ -5,8 +5,8 @@
 | colspan="2" style="text-align:center;" | 
 {| align="center" cellpadding="0" cellspacing="0" style="background:transparent"
 |- 
-| style="max-width:125px; margin-left:5px; vertical-align:middle" | {{#if:{{{linkBandiera|}}} | [[File:{{{linkBandiera}}}|125px|border|{{{nomeCorrente}}} - Bandiera]] }}
-| style="max-width:80px;" | {{#if:{{{linkStemma|}}} | [[File:{{{linkStemma}}}|80px|{{{nomeCorrente}}} - Stemma]] }}
+| style="max-width:125px; margin-left:5px; vertical-align:middle" | {{#if:{{{linkBandiera|}}} | [[File:{{{linkBandiera}}}|125px|border|{{{nomeCorrente}}} - Bandiere]] }}
+| style="max-width:80px;" | {{#if:{{{linkStemma|}}} | [[File:{{{linkStemma}}}|80px|{{{nomeCorrente}}} - Stemme]] }}
 |-
 | style="max-width:125px; margin-left:5px;" | {{#if:{{{paginaBandiera|}}} | <small>([[{{{paginaBandiera}}}|dettagli]])</small>}}
 | style="max-width:80px;" | {{#if:{{{paginaStemma|}}} | <small>([[{{{paginaStemma}}}|dettagli]])</small>}}
@@ -14,104 +14,103 @@
 | colspan="2" style="padding:1px 0px" | {{#if:{{{motto|}}} | '''[[Motto]]:''' {{{motto}}} }}
 |}
 |-
-| colspan="2" style="padding:1px 0px" | [[File:{{{linkLocalizzazione}}}|center|250px|{{{nomeCorrente}}} - Localizzazione]]
+| colspan="2" style="padding:1px 0px" | [[File:{{{linkLocalizzazione}}}|center|250px|{{{nomeCorrente}}} - Localizzaziune]]
 |- class="sinottico_divisione"
-! colspan="2" style="background:#F0E68C; height:8px;" | Dati amministrativi
+! colspan="2" style="background:#F0E68C; height:8px;" | Date amministrative
 |-
-! Nome completo
+! Nome comblete
 | style="width:150px;" | {{{nomeCompleto}}}
 |-
 ! Nome ufficiale
 | style="width:150px;" | {{{nomeUfficiale}}}
 |-
-! Dipendente da
+! Dependente da
 | style="width:150px;" | {{{stato}}}
 |-
-! [[Lingua ufficiale|Lingue ufficiali]]
+! [[Lènga ufficiale|Lènghe ufficiale]]
 | style="width:150px;" | {{{lingua}}}
 |-
 {{#if:{{{altrelingue|}}} |
-! Altre [[lingua (idioma)|lingue]]
+! Otre [[lènga (idiome)|lènghe]]
 {{!}} style="width:150px;" {{!}} {{{altrelingue}}} }}
 |-
 {{#if:{{{capitale|}}} |
-! [[Capitale (città)|Capitale]]
+! [[Capitale (cetate)|Capitale]]
 {{!}} style="width:150px;" {{!}} {{{capitale}}} {{#if:{{{capitaleAbitanti|}}}|&nbsp;<small>({{{capitaleAbitanti}}}&nbsp;ab.{{#if:{{{capitaleAbitantiAnno|}}}|&nbsp;/&nbsp;{{{capitaleAbitantiAnno}}}}})</small>}} }}
 |- class="sinottico_divisione"
-! colspan="2" style="background:#F0E68C; height:8px;" | Politica
+! colspan="2" style="background:#F0E68C; height:8px;" | Polìteche
 |-
-! [[Forma di governo|Status]]
+! [[Forme de guverne|Status]]
 | style="width:150px;" | {{{governo}}}
 |-
 {{#if:{{{presidente|}}} |
-! {{#if:{{{elenco capi di stato|}}}|{{{elenco capi di stato}}}|[[Capo di Stato]]}}
+! {{#if:{{{elenco capi di stato|}}}|{{{elenco capi di stato}}}|[[Cape de State]]}}
 {{!}} style="width:150px;" {{!}} {{{presidente}}} }}
 |-
 {{#if:{{{primoMinistro|}}} |
-! {{#if:{{{elenco capi di governo|}}}|{{{elenco capi di governo}}}|Capo di Governo}}
+! {{#if:{{{elenco capi di governo|}}}|{{{elenco capi di governo}}}|Cape de Guverne}}
 {{!}} style="width:150px;" {{!}} {{{primoMinistro}}} }}
 |- class="sinottico_divisione"
-! colspan="2" style="background:#F0E68C; height:8px;" | Superficie
+! colspan="2" style="background:#F0E68C; height:8px;" | Grannèzze
 |-
-! [[Area|Totale]]
-| style="width:150px;" | {{{superficieTotale}}} [[Chilometro quadro|km²]]{{#if:{{{superficieOrdine|}}}|&nbsp;([[Lista di stati per superficie|{{{superficieOrdine}}}º]])}}
+! [[Aree|Totale]]
+| style="width:150px;" | {{{superficieTotale}}} [[Chilometre quadrate|km²]]{{#if:{{{superficieOrdine|}}}|&nbsp;([[Liste de state pè grannèzze|{{{superficieOrdine}}}º]])}}
 |-
 {{#if:{{{superficieAcqua|}}} |
 ! % delle acque
 {{!}} style="width:150px;" {{!}} {{#ifeq:{{{superficieAcqua}}}|trascurabile|trascurabile|{{{superficieAcqua}}}&nbsp;%}} }}
 |- class="sinottico_divisione"
-! colspan="2" style="background:#F0E68C; height:8px;" | Popolazione
+! colspan="2" style="background:#F0E68C; height:8px;" | Populazzione
 |-
-! [[Popolazione|Totale]]
-| style="width:150px;" | {{{popolazioneTotale}}} ab.{{#if:{{{popolazioneAnno|}}}|&nbsp;<small>({{{popolazioneAnno}}})</small>}}{{#if:{{{popolazioneOrdine|}}}|&nbsp;([[Lista di stati per popolazione|{{{popolazioneOrdine}}}º]])}}
+! [[Populazzione|Totale]]
+| style="width:150px;" | {{{popolazioneTotale}}} ab.{{#if:{{{popolazioneAnno|}}}|&nbsp;<small>({{{popolazioneAnno}}})</small>}}{{#if:{{{popolazioneOrdine|}}}|&nbsp;([[Liste de state pè populazzione|{{{popolazioneOrdine}}}º]])}}
 |-
-! [[Densità di popolazione|Densità]]
-| style="width:150px;" | {{{popolazioneDensita}}} ab./[[Chilometro quadro|km²]]{{#if:{{{popolazioneDensitaOrdine|}}}|([[Lista di stati per densità di popolazione|{{{popolazioneDensitaOrdine}}}º]])}}
+! [[Denzetà de populazzione|Denzetà]]
+| style="width:150px;" | {{{popolazioneDensita}}} ab./[[Chilometre quadrate|km²]]{{#if:{{{popolazioneDensitaOrdine|}}}|([[Liste de state pè denzetà de populazzione|{{{popolazioneDensitaOrdine}}}º]])}}
 |-
 {{#if:{{{nomeAbitanti|}}} |
-! [[Demotico (onomastica)|Nome degli abitanti]]
+! [[Demotiche (onomasteche)|Nome de le crestiáne]]
 {{!}} style="width:150px;" {{!}} {{{nomeAbitanti}}} }}
 |- class="sinottico_divisione"
 ! colspan="2" style="background:#F0E68C; height:8px;" | Geografia
 |-
-! [[Continente]]
+! [[Continende]]
 | style="width:150px;" | {{{continente}}}
 |-
-! [[Fuso orario]]
+! [[Fuse orarije]]
 | style="width:150px;" | {{{orario}}}
 |- class="sinottico_divisione"
-! colspan="2" style="background:#F0E68C; height:8px;" | Economia
-|-
+! colspan="2" style="background:#F0E68C; height:8px;" | Economije|-
 ! [[Valuta]]
 | style="width:150px;" | {{{valuta}}}
 |-
 {{#if:{{{PIL|}}} |
-! [[Prodotto interno lordo|PIL]] ([[Teoria della parità dei poteri di acquisto|PPA]])
-{{!}} style="width:150px;" {{!}} {{{PIL}}} milioni di {{{PILValuta}}} {{#if:{{{PILOrdine|}}}|&nbsp;([[Lista di stati per PIL (PPA)|{{{PILOrdine}}}º]])}} }}
+! [[Prodotte 'nderne lorde|PIL]] ([[Teorie d'a parità de le potere de acquiste|PPA]])
+{{!}} style="width:150px;" {{!}} {{{PIL}}} miglione de {{{PILValuta}}} {{#if:{{{PILOrdine|}}}|&nbsp;([[Liste de state pè PIL (PPA)|{{{PILOrdine}}}º]])}} }}
 |-
 {{#if:{{{PILprocapite|}}} |
-! [[Reddito pro capite|PIL pro capite]] ([[Parità dei poteri di acquisto|PPA]])
-{{!}} style="width:150px;" {{!}} {{{PILprocapite}}} {{{PILprocapiteValuta}}} {{#if:{{{PILprocapiteAnno|}}}|&nbsp;({{{PILprocapiteAnno}}})}} {{#if:{{{PILprocapiteOrdine|}}}|&nbsp;([[Lista di stati per PIL (PPA) procapite|{{{PILprocapiteOrdine}}}º]])}} }}
+! [[Reddite pro capite|PIL pro capite]] ([[Parità de le potere de acquiste|PPA]])
+{{!}} style="width:150px;" {{!}} {{{PILprocapite}}} {{{PILprocapiteValuta}}} {{#if:{{{PILprocapiteAnno|}}}|&nbsp;({{{PILprocapiteAnno}}})}} {{#if:{{{PILprocapiteOrdine|}}}|&nbsp;([[Liste de state pè PIL (PPA) procapite|{{{PILprocapiteOrdine}}}º]])}} }}
 |- class="sinottico_divisione"
 ! colspan="2" style="background:#F0E68C; height:8px;" | Varie
 |-
-! [[Dominio di primo livello|TLD]]
+! [[Dominie de prime levèlle|TLD]]
 | style="width:150px;" | {{{tld}}}
 |-
 {{#if:{{{telefono|}}} |
-! [[Prefissi telefonici internazionali|Prefisso tel.]]
+! [[Prefisse telefoneche 'ndernazionale|Prefisse tel.]]
 {{!}} style="width:150px;" {{!}} {{{telefono}}} }}
 |-
 {{#if:{{{targa|}}} |
-! [[Sigla automobilistica internazionale|Sigla autom.]]
+! [[Sigle automobilisteche 'ndernazionale|Sigle autom.]]
 {{!}} style="width:150px;" {{!}} {{{targa}}} }}
 |-
 {{#if:{{{inno|}}} |
-! [[:Categoria:Inni nazionali|Inno nazionale]]
+! [[:Category:Inne naziunale|Inne naziunale]]
 {{!}} style="width:150px;" {{!}} {{{inno}}} }}
 |-
 {{#if:{{{festa|}}} |
-! [[Festa nazionale]]
+! [[Feste naziunale]]
 {{!}} style="width:150px;" {{!}} {{{festa}}} }}
 |-
 {{#if:{{{linkMappa|}}} |
