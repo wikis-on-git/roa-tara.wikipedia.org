@@ -1,0 +1,15 @@
+<div style="position:absolute; z-index:100; right:{{{right|10px}}}; top:{{{top|45px}}};" class="icona del titolo">
+<div style="position: relative; width: {{{dimensione|40}}}px; height: {{{dimensione2|40}}}px; overflow: hidden">
+<div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3; font-size:150pt;">[[{{{link|esempio link}}}|<span title="{{{testo|esempio di testo}}}">&nbsp;&nbsp;&nbsp;</span>]]</div>
+<div style="position: absolute; top: 0px; left: 0px; z-index: 2">[[File:{{{Image|Fairytale bookmark.png}}}|{{{dimensione|20}}}px|{{{testo|esempio di testo}}}]]</div>
+</div>
+</div><noinclude>{{esoteric}}
+{{man}}
+
+[[Category:Template condizionali]]
+[[eo:Ŝablono:Titola ikono]]
+[[fr:Modèle:Icône de titre]]
+[[ru:Шаблон:Right-uppermost image]]
+[[scn:template:icona tìtulu]]
+
+</noinclude>
