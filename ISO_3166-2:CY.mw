@@ -1,39 +1,57 @@
 {{torna a|ISO 3166-1}}
 
-'''ISO 3166-2:CY''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a [[Cipro]]. 
+'''ISO 3166-2:CY''' ète 'n'[[Organizzazione 'Ndernazionale pe le Standardizzaziune|ISO]] stàndàrd ca dìce le codece sciugrafece: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a [[Cipro]]. 
 
-== Codes ==
+== Liste de le codece ==
 {| class="wikitable sortable"
-! Codëcë !! Nome
+! Codece !! Nome!! Nome (el)* !! Nome (tr)**
 |-
 ! <code>CY-01</code>
-| [[Dëstrittë dë Kyrenia]]
+| [[Distrette de Nicosia|Nicosia]]
+| Lefkosia
+| Lefkoşa
 |-
 ! <code>CY-02</code>
-| [[Dëstrittë dë Nicosia]]
+| [[Distrette de Limassol|Limassol]]
+| Lemesos
+| Leymosun
 |-
 ! <code>CY-03</code>
-| [[Dëstrittë dë Famagusta]]
+| [[Distrette de Larnaca|Larnaca]]
+| Larnaka
+| Larnaka
 |-
 ! <code>CY-04</code>
-| [[Dëstrittë dë Larnaca]]
+| [[Distrette de Famagusta|Famagusta]]
+| Ammochostos
+| Mağusa
 |-
 ! <code>CY-05</code>
-| [[Dëstrittë dë Limassol]]
+| [[Distrette de Paphos|Paphos]]
+| Pafos
+| Baf
 |-
 ! <code>CY-06</code>
-| [[Dëstrittë dë Paphos]]
+| [[Distrette de Kyrenia|Kyrenia]]
+| Keryneia
+| Girne
 |}
 
-== Vidë pure ==
-*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
-*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
-* [[Dëstrittë dë Cipro]]
+<nowiki>* el = [[Lènga greche|Greche]]</nowiki>
+<nowiki>** tr = [[Lènga turche|Turche]]</nowiki>
+
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
+* [[Destritte de Cipro]]
+
+== Collegaminde fore a Uicchipèdie ==
+* [http://www.statoids.com/ucy.html Destritte de Cipro], Statoids.com
 
 {{ISO 3166}}
 
-[[Category:Sciugrafije dë Cipro| ]]
-[[Category:Dëstrittë dë Cipro| ]]
+[[Category:Sciugrafije de Cipro| ]]
+[[Category:Destritte de Cipro| ]]
 [[Category:ISO 3166|2:CY]]
 
 [[cs:ISO 3166-2:CY]]
