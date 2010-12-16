@@ -1,0 +1,118 @@
+Questo template serve per riassumere in uno specchietto i dati salienti di un personaggio che abbia assunto una o più importanti cariche pubbliche (un capo di stato o di governo, un vicecapo o cariche analoghe).
+
+==Esempi di utilizzo==
+{{Infobox carica pubblica
+|bandiera = Flag of Germany.svg
+|stemma = Coat of Arms of Germany.svg
+|carica = [[Presidente federale (Germania)|Presidente della Repubblica Federale Tedesca]]
+|nome = Horst Köhler
+|immagine = Horst Köhler.jpg
+|luogo nascita = Skierbieszów
+|data nascita = 22 febbraio 1943
+|luogo morte = 
+|data morte = 
+|partito = [[Unione Cristiano Democratica (Germania)|Christlich Demokratische Union Deutschlands]]
+|mandato = [[1 luglio]] [[2004]]
+|elezione = 
+|professione = 
+|titolo vice= 
+|vice = 
+|predecessore = 
+|successore = 
+}}
+
+{{Infobox carica pubblica
+|bandiera = 
+|stemma = 
+|carica = [[Fondo Monetario Internazionale|Presidente del Fondo Monetario Internazionale]]
+|nome = 
+|immagine = 
+|luogo nascita = 
+|data nascita = 
+|luogo morte = 
+|data morte = 
+|partito = 
+|mandato = [[1 maggio]] [[2000]] - [[4 marzo]] [[2004]]
+|elezione = 
+|professione = 
+|titolo vice= 
+|vice = 
+|predecessore = 
+|successore = 
+}}
+
+Nel caso le cariche assunte siano più d'una sarà possibile usare più volte lo stesso template:
+
+{{Istruzioni per template}}
+
+{| style="background:transparent" width="100%" cellpadding="7px" cellspacing="5"
+|align="left" width="20%" cellspacing="4" style="border: 1px solid #C0C090; background-color: #F8EABA; margin-bottom: 3px;" rowspan="2"|
+'''<nowiki>{{</nowiki>Infobox carica pubblica'''<br />
+'''|<span style="color:green">bandiera =</span>'''&nbsp;<br />
+'''|<span style="color:green">stemma =</span>'''&nbsp;<br />
+'''|<span style="color:green">numero =</span>'''&nbsp;<br />
+'''|<span style="color:red">carica =</span>'''&nbsp;<br />
+'''|<span style="color:red">nome =</span>'''&nbsp;<br />
+'''|<span style="color:green">immagine =</span>'''&nbsp;<br />
+'''|<span style="color:green">didascalia =</span>'''&nbsp;<br />
+'''|<span style="color:blue">luogo nascita =</span>'''&nbsp;<br />
+'''|<span style="color:green">data nascita =</span>'''&nbsp;<br />
+'''|<span style="color:green">luogo morte =</span>'''&nbsp;<br />
+'''|<span style="color:green">data morte =</span>'''&nbsp;<br />
+'''|<span style="color:green">partito =</span>'''&nbsp;<br />
+'''|<span style="color:green">coalizione =</span>'''&nbsp;<br />
+'''|<span style="color:green">tipo mandato =</span>'''&nbsp;<br />
+'''|<span style="color:blue">mandato =</span>'''&nbsp;<br />
+'''|<span style="color:blue">elezione =</span>'''&nbsp;<br />
+'''|<span style="color:green">titolo di studio =</span>'''&nbsp;<br />
+'''|<span style="color:green">professione =</span>'''&nbsp;<br />
+'''|<span style="color:green">definizione coniuge =</span>'''&nbsp;<br />
+'''|<span style="color:green">coniuge =</span>'''&nbsp;<br />
+'''|<span style="color:green">titolo vice =</span>'''&nbsp;<br />
+'''|<span style="color:green">vice =</span>'''&nbsp;<br />
+'''|<span style="color:green">predecessore =</span>'''&nbsp;<br />
+'''|<span style="color:green">successore =</span>'''&nbsp;<br />
+'''|<span style="color:green">nome campo 1 =</span>'''&nbsp;<br />
+'''|<span style="color:green">campo 1 =</span>'''&nbsp;<br />
+'''|<span style="color:green">nome campo 2 =</span>'''&nbsp;<br />
+'''|<span style="color:green">campo 2 =</span>'''&nbsp;<br />
+'''|<span style="color:green">nome campo 3 =</span>'''&nbsp;<br />
+'''|<span style="color:green">campo 3 =</span>'''&nbsp;<br />
+'''<nowiki>}}</nowiki>
+! style="border: 1px solid #DDDDDD; background-color: #F8F8F8" height="20px"|Istruzioni
+|-
+| style="border: 1px solid #DDDDDD; background-color: #FFFFFF" |
+*'''bandiera ''': la bandiera di stato (nel caso fosse superflua, il titolo tende ad occupare questa zona se vuota).
+*'''stemma ''': lo stemma di stato (nel caso fosse superflua, il titolo tende ad occupare questa zona se vuota).
+*'''numero''': numerale del titolo assunto (ad es. III presidente dell'Afghanistan).
+*'''carica''': il titolo della carica assunta.
+*'''nome''': nome completo.
+*'''immagine''': immagine, completa di estensione, di un primo piano.
+*'''didascalia''': la didascalia dell'immagine soprastante.
+*'''luogo nascita''': luogo di nascita.
+*'''data nascita''': data di nascita.
+*'''luogo morte''': luogo di morte.
+*'''data morte''': data di morte.
+*'''partito''': partito politico di riferimento.
+*'''tipo mandato''': nel caso in cui non ci fosse mandato (ad es. regno, investitura ...).
+*'''mandato''': date di inizio e termine del mandato.
+*'''elezione''': modalità di elezione.
+*'''professione''': la professione esercitata nella vita privata.
+*'''definizione coniuge''': eventuale nome alternativo (moglie, consorte, marito ...).
+*'''coniuge''': nome del coniuge.
+*'''titolo vice''': eventuale nome della carica del vice.
+*'''vicepresidente''': nome dell'eventuale vicepresidente.
+*'''predecessore''': nome dell'eventuale predecessore.
+*'''successore''': nome dell'eventuale successore.
+*'''nome campo 1''': eventuale carica precedente assunta.
+*'''campo 1''': eventuale partito politico di riferimento.
+*'''nome campo 2''': periodo del mandato della carica.
+*'''campo 2''': modalità di elezione.
+*'''nome campo 3''': eventuale nome della carica del vice.
+*'''campo 3''': nome dell'eventuale predecessore.
+|}
+
+==Template simili==
+*[[Template:Presidente della Repubblica Italiana]]
+
+<noinclude>[[Category:Manuali dei template|Presidente]]</noinclude>
