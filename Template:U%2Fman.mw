@@ -1,0 +1,70 @@
+Questo [[Aiuto:Template|template]] serve per segnalare l'[[Wikipedia:Pagine da unire|unione]] di pagine che trattano lo stesso argomento, oppure argomenti che possono essere inclusi l'uno nell'altro. ''L'avviso va posto in entrambe le pagine''. La pagina viene categorizzata automaticamente nelle opportune sottocategorie di [[:Categoria:Da unire]].
+
+==Istruzioni semplificate==
+L'utilizzo minimo e più semplice del template, consiste nel copiare e incollare la tabella sotto riportata, compilando i campi appropriatamente:
+
+ {&#123;U| pagina | argomento | mese anno}}
+
+Con
+*'''pagina''' il nome della pagina con la quale si propone l'unione;
+*'''argomento''' l'argomento generale della voce, v. [[:categoria:Da unire per argomento]].
+
+Esempio di utilizzo:
+
+ {&#123;U|Wikipedia|Coordinamento|{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+che restituisce:
+
+{{U|Wikipedia|Coordinamento|{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+==Sintassi completa==
+ {&#123;U|pagina= |verso = |discussione= |argomento= |argomento2= |data= |sezione= |commento= |multi1=...}}.
+Significato dei parametri:
+
+; pagina: Il titolo dell'altra voce con cui unire la voce; questo è l'unico parametro '''obbligatorio'''.
+; verso: può assumere facoltativamente i valori
+::'''a''' se si propone l'unione nella voce indicata
+::'''da''' se si propone che i contenuti della voce indicata siano integrati all'interno della voce nella quale è apposta la segnalazione
+; discussione: eventuale link a una pagina di discussione suggerita per dibattere il tema dell'unione
+; argomento: L'argomento generale (storia, geografia...). Inserisce anche la voce nella categoria specifica, se presente (es. [[:Categoria:Da unire - storia]]).
+; argomento2 / arg2: Eventuale secondo argomento.
+; data: Data della segnalazione, in formato mese anno (es. {{LOCALMONTHNAME}} {{CURRENTYEAR}}). Inserisce anche la voce nella categoria specifica, se presente (es. [[:Categoria:Da unire - {{LOCALMONTHNAME}} {{CURRENTYEAR}}]]).
+; sezione: Quando la voce a cui si deve unire la pagina tratta un argomento più ampio puoi, se credi, indicare la sezione in cui inserirla (già esistente o meno).
+; commento: Un commento di testo libero, utile per dare suggerimenti, in particolare il verso dell'unione. Volendo può anche essere firmato. Se il commento è lungo è preferibile scrivere i dettagli nella pagina di discussione.
+; multi1, multi2, ... multi9: Quando ci sono più di due pagine da unire insieme, permettono di specificare le altre. Non è compatibile col parametro ''verso''
+
+== Esempi di utilizzo e resa grafica ==
+===utilizzo semplificato===
+ {&#123;U|Wikipedia|letteratura|{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{U|Wikipedia|letteratura|{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+===con indicazione del verso di unione===
+  {&#123;U|pagina=Wikipedia|verso=a|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{U|pagina=Wikipedia|verso=a|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+===con indicazione del link specifico alla discussione===
+ {&#123;U|pagina=Wikipedia|verso=a|discussione=Discussione:Pagina_principale|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{U|pagina=Wikipedia|verso=a|discussione=Discussione:Pagina_principale|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+con link "questa pagina di discussione"  che punta alla pagina indicata
+
+===con indicazione della provenienza===
+ {&#123;U|pagina=Wikipedia|verso=da|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{U|pagina=Wikipedia|verso=da|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+===con indicazione del progetto di riferimento ===
+ {&#123;U|pagina=Wikipedia|argomento=Letteratura|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+{{U|pagina=Wikipedia|argomento=Letteratura|data={{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+
+==Categorie==
+Il template inserisce automaticamente la voce nelle opportune sottocategorie della [[:Categoria:Da unire]], suddivise per argomento e data. Ci sono sottocategorie apposite anche per i casi di parametri assenti o non riconosciuti.
+
+L'albero delle categorie è visualizzabile utilizzando il seguente tool:
+{{Albero categorie|Categoria:Da unire}}
+
+== Vide pure ==
+* [[Help:Unione]]
+* [[Help:Scorporo]]
+* [[Template:ScorporoUnione]]
+* [[Wikipedia:Segnala delle pagine da unire]]
+
+<noinclude>[[Category:Manuali dei template|U]]</noinclude>
