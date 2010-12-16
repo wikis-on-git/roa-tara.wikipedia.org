@@ -1,0 +1,38 @@
+{| cellpadding="2" cellspacing="0" style="float:right; clear:right; margin-left:0.5em; margin-bottom:0.5em; width:300px" 
+|-
+! style="background:lightsteelblue; border:1px solid #808080; text-align:center" colspan="2" | <big>{{{comunità}}}</big>
+|-
+{{Box bandiera|{{{linkBandiera}}}|{{{paginaBandiera|}}}|{{{linkStemma}}}|{{{paginaStemma|}}}}} 
+|-
+{{Box link|[[State]]|ESP}}
+|- {{#if:{{{motto|}}}||class="hiddenStructure noprint"}}  | {{Box|Motto|{{{motto}}}}} 
+{{#if:{{{capoluogo|}}}|{{GeoBox Capoluogo|{{{capoluogo}}}}}}}{{#if:{{{doppio capoluogo|}}}|{{Geobox doppio capoluogo|{{{capoluogo1}}}|{{{capoluogo1}}}|{{{capoluogo2}}}}}}}
+|-
+| valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | [[Area|Grannenèzze]] <br />&nbsp;- Totale <br />&nbsp;- % Spagne || style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"|&nbsp; <br/>{{{superficie}}} km² <small>([[Elenghe de le comunitate autonome spagnole pe superficie|{{{posizione}}}]] posizione)</small><br />{{{proporzione superficie}}} %  
+|-
+| valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | [[Crestiáne]] <br />&nbsp;- Totale <small>''([[{{{data popolazione}}}]])''</small><br />&nbsp;- % Spagne <br />&nbsp;- [[Denzetà d'a popolazzione|Denzetà]]|| style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"|  [[Elenghe de le comunitate autonome spagnole pe popolazzione|{{{posizione popolazione}}}]] posizione<br />{{{popolazione}}} hab<br />{{{percentuale popolazione}}} %<br />{{{densità popolazione}}} ab./km²
+|-
+|valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | [[Nome abitande:]]<br />
+- jndr'ô [[lènga tagliàne|tagliàne]]<br />
+- jndr'ô [[lènga spagnole|spagnole]]<br />
+- jndr'à lènga reggionale
+|style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;" |<br />
+{{{abitanti italiano}}}<br />
+{{{abitanti spagnolo}}}<br />
+{{{abitanti lingua regionale}}}
+|-
+| valign="top" style="background-color:#EFEFEF;border-bottom:1px solid #808080; border-left:1px solid #808080;" | Suddivisione || style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"| [[:Categoria:{{{categoriaComuni}}}|Comuni]] e [[:Categoria:{{{categoriaProvince}}}|province]]
+|-
+{{Box|[[Presidende]]|{{{presidente}}}&nbsp;&nbsp;<small>{{{elezioni}}}</small>}}
+|- {{#if:{{{note|}}}||class="hiddenStructure noprint"}}  | {{Box|Note|{{{note}}}}} 
+|-
+| valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | [[Cortes Generales|Segge parlamendare]] || style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"| {{{numero congressisti}}} [[Congresse spagnole|congressiste]]<br />{{{numero senatori}}} [[Senate spagnole|senatore]]
+|-
+| valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | Statute de autonomie || style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"|{{{data autonomia}}}
+|-
+| valign="top" style="background-color:#EFEFEF; border-bottom:1px solid #808080; border-left:1px solid #808080;" | [[ISO 3166-2:ES]] || style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;"| {{{ISO}}}
+|-
+|colspan="2" align="center" style="background-color:#FFFFFF; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " | [[Image:{{{linkMappa}}}|300px|]]
+|-
+{{Box sito |{{{sito}}}}}
+{{Box fine}}
