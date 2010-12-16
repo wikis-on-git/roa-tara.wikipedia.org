@@ -1,0 +1,134 @@
+<noinclude>{{protetta}}</noinclude>
+<includeonly>{{#if:{{{1|}}}{{{pagina|}}}|{{avviso
+|tipo=struttura
+|immagine={{#switch:{{{verso|}}}<!--    
+  -->|a =[[File:Merge-arrow.svg|40px|Pagine da unire]]<!--      
+  -->|da =[[File:Mergefrom.svg|40px|Pagine da unire]]<!--      
+  -->|#default =[[File:Merge-arrows.svg|40px|Pagine da unire]]<!--
+  -->}}
+|testo='''Questa pagina {{Argomenti avviso|{{{2|}}}{{{argomento|}}}|{{{arg2|}}}{{{argomento2|}}}}}<!--  
+-->{{#switch:{{{verso|}}}<!--      
+  -->|a = &#32;sembra trattare lo stesso argomento, o comunque argomenti unificabili nella pagina [[{{{1|}}}{{{pagina|}}}]]{{#if:{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}<!--  
+    -->|&#32;(alla sezione [[{{{1|}}}{{{pagina|}}}#{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}|{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}]])}}.<!--  
+  -->|da = &#32;sembra trattare {{#if:{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}<!--   
+    -->|&#32;(alla sezione [[#{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}|{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}]])&#32;<!--    
+    -->}}lo stesso argomento, o comunque argomenti unificabili alla pagina [[{{{1|}}}{{{pagina|}}}]] che può confluire qui.<!--  
+  -->|#default = &#32;sembra trattare lo stesso argomento, o comunque argomenti unificabili, <!--  
+                       -->{{#if:{{{6|}}}{{{multi1|}}}<!--  
+                            -->|delle pagine<!--
+                        -->|della pagina<!--
+                   -->}} [[{{{1|}}}{{{pagina|}}}]]<!--
+                   -->{{#if:{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}<!--
+                            -->|&#32;(alla sezione [[{{{1|}}}{{{pagina|}}}#{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}|{{{4|}}}{{{paragrafo|}}}{{{sezione|}}}]])<!--
+                   -->}}<!--
+                   -->{{#if:{{{6|}}}{{{multi1|}}}<!--
+                            -->|{{#if:{{{7|}}}{{{multi2|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{6|}}}{{{multi1|}}}]]}}<!--
+                   -->{{#if:{{{7|}}}{{{multi2|}}}<!--
+                            -->|{{#if:{{{8|}}}{{{multi3|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{7|}}}{{{multi2|}}}]]}}<!--
+                   -->{{#if:{{{8|}}}{{{multi3|}}}<!--
+                            -->|{{#if:{{{9|}}}{{{multi4|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{8|}}}{{{multi3|}}}]]}}<!--
+                   -->{{#if:{{{9|}}}{{{multi4|}}}<!--
+                            -->|{{#if:{{{10|}}}{{{multi5|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                              -->}} [[{{{9|}}}{{{multi4|}}}]]}}<!--
+                   -->{{#if:{{{10|}}}{{{multi5|}}}<!--
+                            -->|{{#if:{{{11|}}}{{{multi6|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{10|}}}{{{multi5|}}}]]}}<!--
+                   -->{{#if:{{{11|}}}{{{multi6|}}}<!--
+                            -->|{{#if:{{{12|}}}{{{multi7|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                              -->}} [[{{{11|}}}{{{multi6|}}}]]}}<!--
+                   -->{{#if:{{{12|}}}{{{multi7|}}}<!--
+                            -->|{{#if:{{{13|}}}{{{multi8|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{12|}}}{{{multi7|}}}]]}}<!--
+                   -->{{#if:{{{13|}}}{{{multi8|}}}<!--
+                            -->|{{#if:{{{14|}}}{{{multi9|}}}<!--
+                                  -->|,<!--
+                                  -->|&#32;e<!--
+                             -->}} [[{{{13|}}}{{{multi8|}}}]]}}<!--
+                   -->{{#if:{{{14|}}}{{{multi9|}}}<!--  
+                            -->|&#32;e     [[{{{14|}}}{{{multi9|}}}]]<!--
+                   -->}}.'''{{#if:{{{5|}}}{{{commento|}}}<!--
+  -->|<div style="font-size: 90%;">'''Motivo''': ''{{{5|}}}{{{commento|}}}''</div>}}<!--   
+-->}}
+----
+<div style="font-size:90%;">Puoi contribuire [[Wikipedia:Unione|unendo]] i contenuti in una pagina unica. {{#if:{{{discussione|}}}<!--     
+  -->|&#32;Commenta la procedura di unione usando [[{{{discussione|}}}|questa pagina di discussione]].|{{#switch:{{{verso|}}}<!--    
+    -->|a=&#32;Commenta la procedura di unione usando [[Discussione:{{{1|}}}{{{pagina|}}}|questa pagina di discussione]].<!--   
+    -->|da=&#32;Commenta la procedura di unione usando [[{{TALKPAGENAME}}|questa pagina di discussione]].}}<!--  
+ -->}} {{Categorie avviso
+|base = Da unire
+|arg1 = {{{2|}}}{{{argomento|}}}
+|arg2 = {{{arg2|}}}{{{argomento2|}}}
+|data = {{{3|}}}{{{data|}}}
+|sintassi = <nowiki>{{U|altra pagina|argomento|mese anno}}</nowiki>
+}}</div>
+}}
+|{{avviso	<!-- avviso speciale in caso di mancanza parametro fondamentale -->
+|tipo=stile
+|immagine=[[File:Emblem-question-yellow.svg|40px|Errore nella sintassi del template U]]
+|testo='''Questa segnalazione non è corretta'''.
+----
+<div style="font-size:90%">La [[Template:U/man|sintassi]] minima corretta di questo template è: {{tl|U|pagina da unire|argomento|data}}.</div>
+}}}}</includeonly><noinclude>
+
+{{template complesso}}
+{{Man}}
+
+[[Category:Template di avviso|U]]
+
+[[ar:قالب:دمج]]
+[[be-x-old:Шаблён:Аб'яднаць]]
+[[bg:Шаблон:Сливане]]
+[[ca:Plantilla:Fusió]]
+[[cs:Šablona:Sloučit]]
+[[da:Skabelon:Sammenskrives]]
+[[de:Vorlage:Redundanz]]
+[[el:Πρότυπο:Συγχώνευση]]
+[[en:Template:Merge]]
+[[eo:Ŝablono:Kunigu]]
+[[es:Plantilla:Fusionar]]
+[[fi:Malline:Yhdistettävä]]
+[[fr:Modèle:À fusionner]]
+[[hi:साँचा:Merge]]
+[[hsb:Předłoha:Zjednoćić]]
+[[hu:Sablon:Összevon]]
+[[ia:Patrono:Fusionar]]
+[[ja:Template:記事統合]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Merge]]
+[[ko:틀:합병]]
+[[lt:Šablonas:Merge]]
+[[lv:Veidne:Apvienot]]
+[[nl:Sjabloon:Samenvoegen]]
+[[no:Mal:Fletting]]
+[[pl:Szablon:Integruj]]
+[[pt:Predefinição:Fusão]]
+[[ro:Format:Uneşte]]
+[[ru:Шаблон:Объединить]]
+[[simple:Template:Merge]]
+[[sk:Šablóna:Spojiť s]]
+[[sl:Predloga:Združi]]
+[[sq:Stampa:Bashkoji]]
+[[sr:Шаблон:Спајање]]
+[[sv:Mall:Slå ihop]]
+[[tr:Şablon:Birleş]]
+[[uk:Шаблон:Об'єднати]]
+[[vi:Tiêu bản:Hợp nhất]]
+[[zh:Template:Merge]]
+[[zh-yue:Template:合併]]
+</noinclude>
