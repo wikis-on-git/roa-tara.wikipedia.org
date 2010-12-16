@@ -7,7 +7,7 @@
 {{template:città/{{{stato}}} | {{{suddivisioneAmministrativa1|}}} | {{{suddivisioneAmministrativa2|}}} | {{{suddivisioneAmministrativa3|}}} | {{{suddivisioneAmministrativa4|}}}  | {{{suddivisioneAmministrativa5|}}} }}|}}
 |- {{#if:{{{capoluogo|}}}|{{Box|[[Capoluogo]]|{{{capoluogo}}}}} }}
 |- {{#if:{{{latitudineNS|}}}|{{Box coordinate|{{{latitudineGradi}}}|{{{latitudinePrimi}}}|{{{latitudineSecondi|}}}|{{{latitudineNS}}}|{{{longitudineGradi}}}|{{{longitudinePrimi}}}|{{{longitudineSecondi|}}}|{{{longitudineEW}}}}} }}
-|- {{#if:{{{latitudine_d|}}}| {{GeoBox coordinate dec|latitudine={{{latitudine_d}}}|longitudine={{{longitudine_d}}} }} }}
+|- {{#if:{{{latitudine_d|}}}| {{GeoBox Coordinate dec|latitudine={{{latitudine_d}}}|longitudine={{{longitudine_d}}} }} }}
 |- {{#if:{{{altitudine|}}}|{{Box|[[Altitudine]]|{{{altitudine}}}&nbsp;[[m s.l.m.]]}} }}
 |- {{#if:{{{superficie|}}}|{{Box|[[Area|Superficie]]|{{{superficie}}}&nbsp;[[chilometro quadro|km&sup2;]]}} }}
 |- {{#if:{{{abitanti|}}} |{{Box|[[Popolazzione|Crestiàne]] |{{{abitanti}}}&nbsp;&nbsp;<small>({{{anno}}})</small>}} }}
