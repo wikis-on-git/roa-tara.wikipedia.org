@@ -1,0 +1,68 @@
+<includeonly>{| style="border: 1px solid #aaa; background-color: #f9f9f9; color: black; margin-bottom: 1em; margin-left: 1em; padding: 0.2em 0.2em 0.2em 0.2em; float: right; clear: right; width: 300px; text-align: left; font-size: 90%;" cellspacing="1px" cellpadding="0px"
+|-
+!colspan="2" align="center" valign="middle"|
+{| width="100%" style="background-color: #f0f0f0; font-size: 120%;"
+|-align="center" valign="middle"
+{{#if:{{{bandiera|}}}|{{!}}width="60px"{{!}}[[File:{{{bandiera}}}|50x50px|Bandiera]]|}}
+!{{{numero|}}} {{{carica}}}
+{{#if:{{{stemma|}}}|{{!}}width="60px"{{!}}[[File:{{{stemma}}}|50x50px|Stemma]]|}}
+|}
+|-{{#if:{{{immagine|}}}||class="hiddenStructure noprint"}}
+| colspan="2" |[[File:{{{immagine}}}|center|200x300px]] <small><center>{{{didascalia|}}}</center></small>
+|-
+!colspan="2" style="background:#f0f0f0;" align="center" valign="middle"|  <big>{{{nome}}}</big>
+|-{{#if:{{{luogo nascita|}}}||class="hiddenStructure noprint"}}
+! style="width:120px" align=left valign="top"|Luèche de nascite
+| style="width:230px" align=left | {{{luogo nascita}}}
+|-{{#if:{{{data nascita|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Date de nascite
+| align=left | {{{data nascita}}}
+|-{{#if:{{{luogo morte|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Luèche de morte
+| align=left | {{{luogo morte}}}
+|-{{#if:{{{data morte|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Date de morte
+| align=left | {{{data morte}}}
+|-{{#if:{{{partito|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Partite politeche
+| align=left | {{{partito}}}
+|-{{#if:{{{coalizione|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Coalizione
+| align=left | {{{coalizione}}}
+|-{{#if:{{{mandato|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{#if:{{{tipo mandato|}}}|{{{tipo mandato|}}}|Mandate}}
+| align=left | {{{mandato}}}
+|-{{#if:{{{elezione|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Elezione
+| align=left | {{{elezione}}}
+|-{{#if:{{{titolo di studio|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Titele de studie
+| align=left | {{{titolo di studio}}}
+|-{{#if:{{{professione|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Professione
+| align=left | {{{professione}}}
+|-{{#if:{{{coniuge|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{#if:{{{definizione coniuge|}}}|{{{definizione coniuge}}}|Coniuge}}
+| align=left | {{{coniuge}}}
+|-{{#if:{{{vice|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{#if:{{{titolo vice|}}}|{{{titolo vice}}}|Vicepresidende}}
+| align=left | {{{vice}}}
+|-{{#if:{{{predecessore|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Predecessore
+| align=left | {{{predecessore}}}
+|-{{#if:{{{successore|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|Successore
+| align=left | {{{successore}}}
+|-{{#if:{{{campo 1|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{{nome campo 1}}}
+| align=left | {{{campo 1}}}
+|-{{#if:{{{campo 2|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{{nome campo 2}}}
+| align=left | {{{campo 2}}}
+|-{{#if:{{{campo 3|}}}||class="hiddenStructure noprint"}}
+! align=left valign="top"|{{{nome campo 3}}}
+| align=left | {{{campo 3}}}
+|}</includeonly><noinclude>{{U|Template:Carica pubblica|template|maggio 2010}}{{esoteric}}{{man}}
+[[Category:Template sinottici - Cariche pubbliche|Carica pubblica]]
+[[en:Template:Infobox Officeholder]]
+</noinclude>
