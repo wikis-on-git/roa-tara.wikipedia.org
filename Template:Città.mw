@@ -1,0 +1,35 @@
+<includeonly>{{Box titolo|CCCCFF|{{{nomeCitta}}}|amministrazioni}}
+|-{{#if: {{{nomeOriginale|}}} | {{Box sezione|E5E5FF|{{{nomeOriginale}}}|}} }}
+|-{{#if:{{{linkStemma|}}}{{{linkBandiera|}}}|{{Box bandiera stemma|linkBandiera ={{{linkBandiera|}}}|linkStemma={{{linkStemma|}}} }} }}
+|- {{#if:{{{panorama|}}}||class="hiddenStructure noprint"}}  | {{box panorama|{{{panorama}}}}} 
+|-{{Box link|[[Stato]]|{{{stato}}}}}{{#if: {{{notastato|}}}|{{{notastato|}}}|}}
+|-{{ #ifexist: template:città/{{{stato}}} |
+{{template:città/{{{stato}}} | {{{suddivisioneAmministrativa1|}}} | {{{suddivisioneAmministrativa2|}}} | {{{suddivisioneAmministrativa3|}}} | {{{suddivisioneAmministrativa4|}}}  | {{{suddivisioneAmministrativa5|}}} }}|}}
+|- {{#if:{{{capoluogo|}}}|{{Box|[[Capoluogo]]|{{{capoluogo}}}}} }}
+|- {{#if:{{{latitudineNS|}}}|{{Box coordinate|{{{latitudineGradi}}}|{{{latitudinePrimi}}}|{{{latitudineSecondi|}}}|{{{latitudineNS}}}|{{{longitudineGradi}}}|{{{longitudinePrimi}}}|{{{longitudineSecondi|}}}|{{{longitudineEW}}}}} }}
+|- {{#if:{{{latitudine_d|}}}| {{GeoBox coordinate dec|latitudine={{{latitudine_d}}}|longitudine={{{longitudine_d}}} }} }}
+|- {{#if:{{{altitudine|}}}|{{Box|[[Altitudine]]|{{{altitudine}}}&nbsp;[[m s.l.m.]]}} }}
+|- {{#if:{{{superficie|}}}|{{Box|[[Area|Superficie]]|{{{superficie}}}&nbsp;[[chilometro quadro|km&sup2;]]}} }}
+|- {{#if:{{{abitanti|}}} |{{Box|[[Popolazzione|Crestiàne]] |{{{abitanti}}}&nbsp;&nbsp;<small>({{{anno}}})</small>}} }}
+|- {{#if:{{{densità|}}}| {{Box|[[Denzetà de popolazzione|Denzetà]]|{{{densità}}}&nbsp;ab./[[chilometre quadrate|km&sup2;]]}} }}
+|- {{#if:{{{cap|}}}|{{Box|[[Codice postale|CAP]]|{{{cap}}} }} }}
+|- {{#if:{{{prefisso|}}}| {{Box|[[Prefisse telefoneche|Prefisso tel]]|{{{prefisso}}} }} }}
+|- {{#if:{{{targa|}}}| {{Box|[[Targa automobilisteche|Targa]]|{{{targa}}} }} }}
+|- {{#if:{{{nomeAbitanti|}}}|{{Box|[[Nome de le javetande|Nome javetande]]|{{{nomeAbitanti}}} }} }}
+|- {{#if:{{{status|}}}|{{Box|[[Status]]|{{{status}}} }} }}
+|- {{#if:{{{sindaco|}}}|{{Box|[[Sinnache]]|{{{sindaco}}}}} }}
+|- {{#if:{{{lingua|}}}|{{Box|[[Lènghe, idiome|Lènghe]]|{{{lingua}}}}} }}
+|- {{#if:{{{fuso|}}}|{{Box|[[Fuse orarie]]|{{{fuso}}}}} }}
+|-{{ #ifexist: template:Mappa di localizzazione/{{{stato}}} |{{#if:{{{latitudine_d|}}}|{{Box localizzazione dec|{{{stato}}} |{{{nomeCitta}}} |{{{latitudine_d}}} |{{{longitudine_d}}} }}|
+{{#if:{{{latitudineGradi|}}}|{{Box localizzazione|{{{stato}}} |{{{nomeCitta}}} |{{{latitudineGradi}}} |{{{latitudinePrimi}}}|{{{longitudineGradi}}} |{{{longitudinePrimi}}} |{{{latitudineNS}}} |{{{longitudineEW}}} }} }} }} }}
+|- {{#if:{{{linkMappa|}}}| {{#if:{{{linkMappa|}}}|{{Box mappa|{{{linkMappa}}}|{{{pxMappa}}}}} }} }}
+|- {{#if:{{{noteMappa|}}}|{{Box note|{{{noteMappa}}} }} }}
+|- {{#if:{{{note|}}}|{{Box note|{{{note}}} }} }}
+|- {{#if:{{{sito|}}}| {{Box sito|{{{sito}}}}} }}
+{{Box fine}}</includeonly><noinclude>{{templateprotetto}}{{esoteric}}{{man}}
+
+== Vide pure ==
+* [[Progetto:Amministrazioni]]
+* [[Wikipedia:GeoBox]]
+
+[[Category:Template sinottici - Geografia|Città]]</noinclude>
