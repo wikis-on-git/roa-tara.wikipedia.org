@@ -1,0 +1,280 @@
+{{copyright}}
+{{abbreviazioni|Wikipedia:C}}
+Lo scopo di [[Wikipedia]] è creare una fonte di informazione sotto forma di [[enciclopedia]] liberamente disponibile. La licenza che usiamo garantisce un accesso libero ai nostri contenuti nello stesso senso in cui il software libero viene rilasciato liberamente. Questo per dire che il contenuto di Wikipedia può essere copiato, modificato e ridistribuito ''a patto che'' la nuova versione garantisca la stessa libertà ad altri e riconosca gli autori delle voci di Wikipedia usate (un link diretto alla voce soddisfa le nostre richieste di credito agli autori). Le voci di Wikipedia perciò rimarranno libere per sempre e possono essere usate da chiunque sotto certe condizioni, la maggior parte delle quali serve per garantire questa libertà.
+
+Per soddisfare gli scopi indicati sopra, il testo contenuto in Wikipedia è licenzato sotto la ''GNU Free Documentation License'' (GFDL). Il testo completo di questa licenza è disponibile alla pagina [[Wikipedia:Testo della GNU Free Documentation License|Testo della GNU Free Documentation License]].
+
+:'''È garantito il permesso di copiare, distribuire e/o modificare questo documento secondo i termini della GNU Free Documentation License, Versione 1.2 o qualsiasi altra versione pubblicata successivamente dalla [[Free Software Foundation]]; senza alcuna sezione invariante, senza alcun testo di copertina, e senza nessun testo di retro copertina.'''
+:'''Una copia della licenza è inclusa nella sezione intitolata "[[Wikipedia:Testo della GNU Free Documentation License|GNU Free Documentation License]]".'''
+:'''Il contenuto di Wikipedia è coperto da [[Wikipedia:general disclaimer|disclaimer]].'''
+
+Il testo della GFDL è l'unico documento legalmente vincolante; quello che segue è la nostra interpretazione della GFDL: diritti e doveri di utenti e contributori.
+
+<font size="+1">IMPORTANTE: se vuoi usare dei contenuti di Wikipedia, prima leggi la sezione [[#Diritti e doveri degli utenti|Diritti e doveri degli utenti]]. Poi dovresti leggere la [[Wikipedia:Testo della GNU Free Documentation License|GNU Free Documentation License]].</font>
+
+== Diritti e doveri degli utenti ==
+Se vuoi usare dei materiali di Wikipedia nei tuoi libri/articoli/siti web o altre pubblicazioni, puoi farlo, ma seguendo quanto prescritto nella [[GNU Free Documentation License|GFDL]].
+
+Se stai semplicemente duplicando una voce di Wikipedia, devi attenerti alla sezione due della GFDL sulla ''copia testuale'' (come discusso in {{en}}[http://en.wikipedia.org/wiki/Wikipedia:Verbatim_copying Wikipedia:Verbatim copying]).
+
+Se crei una versione derivata cambiando o aggiungendo dei contenuti, questo ''obbligatoriamente'' implica che:
+* il tuo materiale deve obbligatoriamente essere rilasciato con licenza GFDL,
+* devi riconoscere la paternità della voce (sezione 4B), e
+* devi fornire l'accesso alla "copia trasparente" del materiale (sezione 4J); la "copia trasparente" di una voce di Wikipedia è il suo [[wikitesto]].
+
+Se userai il materiale di Wikipedia su un sito web, gli ultimi due obblighi possono essere soddisfatti fornendo un link in posizione che ne consenta adeguata visibilità alla voce di Wikipedia che si trova su questo sito web. Inoltre devi fornire l'accesso alla copia trasparente del nuovo testo.
+
+Se userai il materiale di Wikipedia su altri ''media'' (incluse pubblicazioni cartacee o digitali o radio-televisive, e comunque su ogni altro veicolo di trasmissione di informazioni in genere) obbligatoriamente dovrai rispettare tutti gli adempimenti sopra previsti.
+
+=== Nota d'esempio ===
+Una nota di esempio, che si attiene correttamente alla GFDL, per un articolo che usa la voce [[Italia]] di Wikipedia potrebbe essere come la seguente:
+:Questo articolo è rilasciato sotto i termini della [http://www.gnu.org/copyleft/fdl.html GNU Free Documentation License]. Esso utilizza materiale tratto dalla [http://it.wikipedia.org/wiki/Italia voce di Wikipedia: "Italia"].
+
+(Naturalmente "Italia" e la URL di Wikipedia devono essere sostituiti secondo le esigenze)
+
+''In alternativa puoi distribuire la tua copia di "Italia" assieme ad una copia della GFDL (come spiegato nel testo) ed elencare almeno cinque (o tutti se sono meno di cinque) degli autori principali sulla pagina di copertina (o all'inizio del documento).''
+
+*Vedi anche [[Aiuto:Come citare Wikipedia]].
+
+=== Materiale Fair use e requisiti speciali ===
+Pur se in misura minore rispetto al recente passato, le voci di Wikipedia possono includere immagini, suoni o citazioni di testi in base alla dottrina del "[[fair use]]" prevista dalla legge statunitense sul copyright.
+
+In questo caso, il materiale deve essere identificato come proveniente da una fonte esterna (sulla pagina di descrizione dell'immagine, o nella cronologia della pagina, a seconda dei casi). Dato che il "fair use" è invocato per l'uso specifico che viene fatto dal contributore, è meglio includere una descrizione di equo utilizzo ragionevole indicando l'utilizzo specifico o in una parte nascosta del testo o nella [[Wikipedia:Pagina_di_descrizione|pagina di descrizione dell'immagine]].
+
+È bene ricordare che quello che Wikipedia definisce ''fair use'' può non essere considerato alla stessa stregua in un altro contesto.
+
+Per esempio, se abbiamo incluso un'immagine sotto il ''fair use'', è necessario garantire che anche l'uso che si farà della voce rientri nel ''fair use'' (potrebbe non rientrarvi il caso in cui, ad esempio, si stia usando una voce di Wikipedia, che sarebbe consentito dalla [[GFDL]] e dal fair use, a scopo commerciale, non ammesso dal fair use).
+
+Wikipedia utilizza alcuni testi sottoposti a licenze che sono compatibili con la [[GFDL]] ma possono richiedere termini addizionali che non sono richiesti per i testi originali di Wikipedia (come l'inclusione di sezioni immodificabili, titoli di copertina o di coda). Quando si utilizzano tali testi, è necessario includere queste sezioni immodificabili ''alla lettera''.
+
+== Diritti e obblighi dei contributori ==
+Se contribuite con del materiale a Wikipedia, lo licenziate di conseguenza in base alla licenza GFDL (senza sezioni invarianti, testi di copertina o di retro copertina).
+Per poter contribuire, dovete quindi essere in una posizione che vi permetta di garantire questa licenza, il che significa una delle due cose:
+* possedete il copyright sul materiale, ad esempio perché lo avete prodotto voi stessi, oppure
+* avete acquisito il materiale da una fonte che permette di licenziarlo sotto GFDL, ad esempio perché il materiale è di [[pubblico dominio]] o è già pubblicato sotto GFDL.
+
+Nel primo caso mantenete il copyright sul vostro materiale. Potete successivamente ripubblicarlo e rilicenziarlo nel modo che volete.
+Comunque, non vi sarà mai possibile ritirare la licenza GFDL per le versioni che avete inserito qui: questo materiale resterà sotto GFDL per sempre.
+Nel secondo caso, se incorporate materiale GFDL esterno, come richiesto dalla GFDL, dovete riconoscere chi ne è l'autore e fornire un collegamento alla locazione della copia originale. Se la copia originale prevede sezioni invarianti, dovete incorporarle nella voce di Wikipedia; è comunque desiderabile sostituire i testi GFDL con sezioni invarianti, usando contenuti originali senza sezioni invarianti ogni qualvolta sia possibile.
+
+=== Usare un lavoro protetto da copyright ===
+Se usi una parte di un lavoro protetto da copyright invocando il principio del "[[fair use]]" (dottrina giuridica riconosciuta negli [[Stati Uniti d'America|USA]], ma non, ad esempio, in [[Italia]]), o se ottieni un permesso speciale per usare un lavoro protetto da copyright dal detentore del permesso sotto i termini della nostra licenza, devi aggiungere una nota a riguardo (inclusa di nomi e date).
+
+È nostro obiettivo di redistribuire quanto più materiale della Wikipedia possibile, quindi le immagini originali e i file sonori con licenza GFDL o di [[pubblico dominio]] sono di gran lunga preferibili ai contenuti multimediali protetti da copyright o al "[[fair use]]". Tra i [[Wikipedia:Modello_richiesta_di_permesso|modelli di richiesta di permesso]] puoi trovare una lettera o una mail adatta per chiedere al detentore dei diritti di copyright il permesso per utilizzare un determinato materiale, possibilmente sotto forma di licenza nei termini GFDL. 
+
+==== Non utilizzare mai materiale che viola il copyright altrui ====
+Utilizzare materiale che vìola l'altrui diritto d'autore potrebbe dar luogo a responsabilità legali (che resterebbero personalmente in capo a chi commette la violazione) e danneggiare seriamente il progetto.
+
+:Attenzione: '''il diritto d'autore è riconosciuto a titolo originario e perciò non va di volta in volta precisato: quando trovi del materiale privo di indicazioni sulla licenza con la quale è rilasciato, si deve presumere che esso sia coperto da copyright.'''<br />Solo se il materiale è accompagnato da una indicazione di licenza di "[[pubblico dominio]]", "[[GFDL]]" o alcuni tipi di licenza "[[Creative Commons]]" potrai riutilizzarlo in Wikipedia.
+
+Se hai dei dubbi, realizza da solo il testo, scrivendolo di tuo pugno, o scatta tu stesso una fotografia, invece di utilizzare materiale di terzi.
+
+Nota che il copyright controlla l<nowiki>'</nowiki>''espressione creativa'' delle idee, non l'idea o l'informazione stessa. Per questo motivo, è perfettamente legale leggere un testo, una voce enciclopedica o altro tipo di opera, riformularlo con parole proprie (vedi [[Aiuto:Riformulare un testo]]) e pubblicarlo su Wikipedia. (Ciascun caso specifico può richiedere ulteriori discussioni su quanto debba essere estesa la riformulazione in un particolare contesto.)
+
+==== Traduzioni e diritti d'autore ====
+Sia le traduzioni di un testo che la possibilità di tradurre un testo sono soggette alle norme sul diritto d'autore.  
+
+<small>CASO A</small>: '''opera in lingua originale nel pubblico dominio'''
+
+*Se il traduttore è morto da più di 70 anni, la traduzione è generalmente inclusa nel pubblico dominio (PD), ma una traduzione più recente di un testo in pubblico dominio è sotto copyright dell'autore della traduzione. Salvo che il traduttore non lo licenzi espressamente in GFDL o in PD, non è possibile utilizzare il suo lavoro in wikipedia, ma è comunque possibile:
+
+:*Citarne una parte, ma la citazione deve essere evidenziata (con virgolettato o {{tl|quote}}), breve, funzionale al contesto e contenere i riferimenti precisi ad autore e opere. 
+:*Inserire un collegamento ad un sito web esterno che contenga la traduzione conformemente a quanto specificato nella sezione più sotto: ''Collegamenti con contenuti coperti da diritti d'autore''. 
+
+<small>CASO B</small>: '''opera in lingua originale sotto copyright'''
+
+*Un testo sotto copyright è traducibile solo a seguito di autorizzazione da parte dell'autore o del detentore dei diritti sul testo. Il traduttore non ha il diritto di rilicenziare in altro modo l'opera. Ciò significa che una traduzione di un testo sotto copyright (effettuata da un utente di wikipedia o da un terzo) non è utilizzabile in wikipedia, ma è comunque possibile citarla o inserire un collegamento esterno nei termini indicati nel caso precedente.
+
+=== Collegamenti con contenuti coperti da diritti d'autore ===
+In alcuni casi è consentito inserire collegamenti esterni verso pagine di altri siti web coperte da diritto d'autore, ma è consigliabile controllare che queste non violino i diritti di ''terzi''. Se così fosse non bisogna inserire alcun collegamento. Se infatti un sito da noi ''linkato'' violasse dei diritti, sarà presto o tardi chiamato a risponderne in tribunale e comunque il collegare una nostra pagina a siti che distribuiscono illegalmente l'opera di altri, lede l'immagine ed il prestigio di Wikipedia, salvi eventuali diversi e maggiori danni.
+
+Va inoltre tenuto a mente che alcuni siti non gradiscono ricevere link (in generale o solo a pagine specifiche), [[Wikipedia:Autorizzazioni non ottenute|come si legge qui]]; verifica sempre, prima di inserire collegamenti esterni.
+
+=== Se trovi una violazione del copyright ===
+Analizzare ogni voce alla ricerca di [[Wikipedia:Sospette_violazioni_di_copyright|possibili violazioni del copyright]] non è la parte più tipica del lavoro dei wikipediani (che si occupano di ordinare e classificare le informazioni) ma, se pensate di aver trovato una voce di questo genere, dovreste come minimo sollevare la questione nella pagina di discussione ad essa collegata e nella [[Wikipedia:Sospette violazioni di copyright/Log segnalazioni|pagina apposita]]. Altri utenti possono quindi esaminare la situazione e prendere i necessari provvedimenti. 
+
+L'informazione maggiormente utile che potete fornire in questo caso è l'[[URL]] o altro riferimento che conduca a quello che credete essere la fonte da cui provengono le informazioni contenute nel testo. 
+
+Quando tutta la voce è costituita ''<u>soltanto</u>'' di materiale in violazione di copyright, deve essere [[:Categoria:Da cancellare subito|cancellata immediatamente]]; per segnalare questa irregolarità agli amministratori, oscurate il testo copiato ed immettete il [[Template:cancelcopy]] indicando la fonte originale (la sintassi è <nowiki>{{cancelcopy|firma=~~~|fonte=}}</nowiki>).
+
+Alcuni casi si rivelano essere dei falsi allarmi. Per esempio, se il contributore era in effetti l'autore del testo già pubblicato altrove secondo termini di licenza differenti, questo non interferisce con il suo diritto a pubblicare lo stesso testo qui ma sotto [[GFDL]]. Allo stesso modo, è possibile trovare in giro per il [[Web]] del testo copiato da Wikipedia. In entrambi i casi è una buona idea lasciare un commento nella pagina di discussione della voce (ed avvisare l'utente che ha immesso il contributo sospetto) per scoraggiare il propagarsi di falsi allarmi in futuro.
+
+Se il contenuto di una pagina è sospettato di violazione del copyright (tutto o in parte), la pagina deve essere aggiunta all'elenco pubblicato in "[[Wikipedia:Sospette_violazioni_di_copyright|Wikipedia: Sospette violazioni di copyright]]" e la parte della voce sospettata di violazione deve essere sostituita con l'avviso [[Template:ViolazioneCopyright|qui riportato]]. Se entro una settimana, la sospetta violazione non viene chiarita (o viene confermata), si procederà alla cancellazione di tutte le revisioni della pagina che contengono la violazione. Se in seguito venisse ottenuta l'autorizzazione da parte dell'autore, il testo potrà essere recuperato ed aggiunto alla voce.
+
+Avvisa sempre l'autore della violazione utilizzando il [[Template:Avvisocopyviol]]. In casi estremi di contributori che persistono nel postare materiale coperto da copyright dopo ripetuti avvertimenti, tali utenti possono venire [[Wikipedia:Politiche di blocco degli utenti|esclusi dalla contribuzione]] al fine di salvaguardare il progetto Wikipedia.
+
+==Se sei il proprietario dei diritti di materiale presente su Wikipedia==
+Se sei il proprietario dei diritti di materiale presente su Wikipedia senza il tuo permesso, puoi richiedere che la pagina sia rimossa seguendo le istruzioni contenute in [[Wikipedia:Sospette violazioni di copyright]]. Puoi anche contattare il [[Wikipedia:Rappresentante legale|rappresentante legale]] (o il servizio [[Aiuto:OTRS|OTRS]]) per far sì che la pagina venga rimossa definitivamente, ma questo tipo di cancellazione può richiedere una settimana e oltre (nel frattempo puoi cancellare la pagina, ma il testo rimane presente nella ''cronologia''). In ogni modo è necessario un minimo di documentazione a supporto di questo tipo di richieste.
+
+== Se concedi l'uso del materiale presente sul tuo sito o su altre fonti ==
+{{abbreviazioni|Wikipedia:CONCEDI|Wikipedia:RILASCIA}}
+''Per favore, leggi attentamente questa sezione. In questo modo avremo tutte le informazioni di cui abbiamo bisogno per evadere la tua richiesta appena possibile. Grazie. Per sapere cos'è il servizio OTRS di Wikimedia, [[Aiuto:OTRS|clicca qui]].''
+
+Se vuoi inserire nelle voci di Wikipedia del materiale già presente sul tuo sito (o su altre fonti cartacee di cui sei il detentore del copyright) o semplicemente autorizzarci a usarlo, <span style="color:red;">'''devi <u>prima</u> mandare''' una mail a OTRS ([mailto:permissions-it@wikimedia.org permissions-it@wikimedia.org]), '''specificando quale materiale''' (una singola voce, una foto o il materiale di un intero sito) '''può essere usato''' e '''con quale licenza'''</span>. 
+
+Ricorda che '''se concedi l'uso di testi, l'unica licenza che ci è possibile accettare è la GFDL <small>(vedi l'incipit di questa pagina)</small>; per le immagini trova la più indicata in [[Wikipedia:Copyright immagini]]''', poi potrai utilizzare uno di questi [[Wikipedia:Copyright immagini/Modello autorizzazione|modelli]].
+
+<div style="margin-bottom: 0.5em; border: 1px solid #ccc; padding: 0.5em; background: #F9F9F9; text-align: left; font-size:95%">
+'''Esempio di mail di autorizzazione''' all'uso su Wikipedia di <u>testi</u> già presenti su altre fonti web o cartacee o di altro tipo:
+----
+Sono [ nome cognome ] e sono l'autore/autrice del [ oppure: detengo il copyright sul ] testo presente sul sito web http://[ indirizzo ] [oppure: presente nel libro (titolo, ev. capitolo e pagina) - ''et similia'']. Cedo il testo a Wikipedia con la licenza GFDL, di cui ho letto il testo e di cui accetto le condizioni. Questa mail si riferisce alla voce [ inserire il titolo o il link della '''voce di Wikipedia''' cui si fa riferimento! ]
+</div>
+
+Prima di ripristinare un testo oscurato o cancellato per violazione del copyright, fai pervenire l'autorizzazione a [mailto:permissions-it@wikimedia.org permissions-it@wikimedia.org] e attendi che gli amministratori l'abbiano ricevuta e verificata; sino a quel momento la riproposizione dei testi resta una violazione di copyright.
+
+Le evidenze delle autorizzazioni all'utilizzo del materiale possono essere segnalate in due modi:
+
+*Se l'autore o chi detiene i diritti '''di una determinata voce''' hanno confermato il dono del materiale a Wikipedia, le evidenze della donazione sono riportate nella '''[[Aiuto:Pagina di discussione|pagina di discussione]] della singola voce''' con un [[Template:Crediti|template apposito]].
+
+*Se si tratta di siti [[internet]] o altre fonti che hanno accordato il permesso generico ad utilizzare i loro contenuti, in questo caso le evidenze della donazione sono riportate anche in '''[[Wikipedia:Autorizzazioni ottenute]]'''.
+
+====Attenzione:====
+*Fornisci '''sempre''', quando scrivi a OTRS, il link alla voce per cui è stata contestata la violazione oppure chiarisci se si tratta di una donazione generica;
+*Siamo sicuri che la tua voce sia '''enciclopedica'''? Ricorda che ''qualunque autorizzazione non implica l'automatico mantenimento'' del materiale nella voce relativa se questa non risponde ad alcuni criteri basilari di "[[Aiuto:Cosa_mettere_su_Wikipedia#Enciclopedicit.C3.A0|enciclopedicità]]"; prima di inviarla accertati di aver letto [[Wikipedia:Cosa Wikipedia non_è|cosa ''non'' è Wikipedia]] e [[Aiuto:Cosa_non_mettere_su_Wikipedia|cosa non caricarvi]], mentre per le biografie guarda [[Aiuto:Cosa mettere su Wikipedia/Biografie personaggi|la pagina di aiuto relativa]] e le nostre policy in materia di [[Wikipedia:Pagine promozionali o celebrative|pagine promozionali o celebrative]].
+*Gli operatori '''non possono autorizzare''' materiale per cui è comunque prevista la [[Wikipedia:Cancellazioni immediate|cancellazione immediata]], [[Wikipedia:Regole per la cancellazione|già cancellato in passato]] e reintrodotto senza variazioni e/o validi motivi o che comunque violi ''palesemente'' i [[Wikipedia:Cinque pilastri|5 pilastri del progetto]].
+*È ''auspicabile'' che chi richiede e/o concede materiale si impegni ''anche'' ad [[Aiuto:Manuale#Scrivere_su_Wikipedia|uniformarlo allo stile di Wikipedia]], soprattutto con la [[Aiuto:Wikificare|wikificazione]]. 
+*Se sei webmaster o collaboratore del sito che concede l'autorizzazione, utilizza un indirizzo email da cui si evinca la tua appartenenza al sito stesso (ad esempio ''info@tuodominio.it'' o ''admin@tuodominio.it'').
+*Per inserire un collegamento esterno ad una voce non occorre una liberatoria, ma l'attenta lettura di [[Wikipedia:Collegamenti esterni]] (OTRS non interviene su casi controversi).
+
+
+Puoi inviare la tua '''email a OTRS anche da [http://ticket.wikimedia.org/otrs/webform.pl?Language=it qui] (a meno che''' tu non debba inoltrare l'autorizzazione rilasciata da qualcun altro; in tal caso devi inoltrare dal tuo programma di posta la email originale, completa di header, quindi non puoi utilizzare questo modulo.)
+
+====Cosa succede dopo l'invio dell'email a OTRS?====
+*Se hai seguito scrupolosamente le istruzioni qui sopra, devi solo attendere. Anche l'evasione di queste e-mail, come tutto il lavoro su Wikipedia, è su base volontaria, abbi pertanto qualche giorno di pazienza '''(possono occorrere fino a due settimane prima che una email venga processata)'''. Inviare più volte un'email se non si è ottenuta un risposta immediata non serve; la coda dei messaggi ricevuti segue un ordine cronologico, dunque è inutile intasare il sistema con dei doppioni, '''si rischia che il vecchio messaggio sia unito al nuovo''' e quindi che l'attesa si prolunghi ulteriormente. 
+*Riceverai una email nel cui oggetto è indicato un codice da riportare nelle pagine di discussione delle voci o delle immagini. Questo è un passaggio che generalmente esegue l'operatore stesso o un amministratore e che conclude la procedura.
+
+===Template crediti===
+Per il riconoscimento dei crediti è stato creato il template:
+*'''<nowiki>{{crediti|http://www.sitodonatore.grazie|link, nota o ticket OTRS}}</nowiki>'''
+Che richiama la [[:Categoria:Crediti]]
+
+Per dettagli sull'utilizzo vedere [[Template:Crediti]]
+
+== Linee guida per le immagini ==
+Per una trattazione estesa delle linee guida per le immagini si veda la pagina [[Wikipedia:Copyright immagini]].
+
+==La questione della legislazione da applicare==
+In tutte le questioni riguardanti il diritto d'autore e gli ambiti affini, soprattutto per quanto riguarda le [[Wikipedia:Copyright_immagini|immagini]], si è spesso posto il problema di quale sia la legislazione che Wikipedia debba applicare, se quella italiana o quella statunitense.
+Considerato che
+#Wikipedia risiede fisicamente (coi suoi server) e legalmente (in quanto Wikimedia Foundation, responsabile dei contenuti) negli Stati Uniti;
+#la massima parte dei contributori della Wikipedia in lingua italiana risiede in Italia e dall'Italia si connette a Wikipedia,
+si conclude che il materiale caricato in Wikipedia debba rispettare entrambe le legislazioni, per tutelare pienamente tanto Wikipedia quanto gli utenti stessi.
+Non è pertanto possibile applicare solo la legislazione statunitense, spesso più permissiva, ignorando quella italiana.
+
+Per un approfondimento giuridico si veda [[Wikipedia:Applicazione della legge civile italiana|qui]].
+
+== Pagine correlate ==
+* [[Aiuto:FAQ/Cosa|FAQ]] per domande sul copyright
+* [[Wikipedia:Copyright immagini]] 
+* [[Wikipedia:Cloni]]
+* [[Wikipedia:Pagine da cancellare]]
+* [[Wikipedia:Modello richiesta di permesso]]
+* [[Wikipedia:Lettera standard per la violazione della GFDL]]
+
+==Collegamenti esterni==
+* {{en}} [[:en:Wikipedia:Standard GFDL violation letter]] (su en.wiki)
+* {{en}} [[:en:Wikipedia:Copyright issues]] (su en.wiki)
+* {{en}} [[m:Wikipedia and copyright issues]] (su meta)
+* {{en}} [[m:GFDL FAQ]] (su meta) 
+* {{en}} [[m:Avoid Copyright Paranoia]] (su meta)
+* {{en}} [[m:Permission grant extent]] (su meta)
+* {{en}} [[m:OTRS]] (descrizione del servizio OTRS su Meta e lista degli operatori cui rivolgersi in caso di necessità)
+
+[[Category:Aiuto copyright| ]]
+[[Category:Linee guida sul copyright| ]]
+[[Category:Linee guida senza pagine di aiuto]]
+
+[[af:Wikipedia:Kopiereg]]
+[[als:Wikipedia:Lizenzbestimmungen]]
+[[an:Wikipedia:Dreitos d'autor]]
+[[ar:ويكيبيديا:حقوق التأليف والنشر]]
+[[arz:ويكيبيديا:حقوق النسخ]]
+[[ast:Uiquipedia:Derechos d'autor]]
+[[be:Вікіпедыя:Аўтарскія правы]]
+[[be-x-old:Вікіпэдыя:Аўтарскія правы]]
+[[bg:Уикипедия:Авторско право]]
+[[bn:উইকিপিডিয়া:কপিরাইট]]
+[[bo:Wikipedia:Copyrights]]
+[[br:Wikipedia:Gwirioù aozer (Copyright)]]
+[[bs:Wikipedia:Autorska prava]]
+[[ca:Viquipèdia:Condicions d'ús]]
+[[ceb:Wikipedia:Katungod sa pagpatik]]
+[[cs:Wikipedie:Autorské právo]]
+[[da:Wikipedia:Ophavsret]]
+[[de:Wikipedia:Lizenzbestimmungen]]
+[[dv:ވިކިޕީޑިއާ: ނަކަލުކުރުމުގެ ހައްގު]]
+[[el:Βικιπαίδεια:Πνευματικά δικαιώματα]]
+[[en:Wikipedia:Copyrights]]
+[[eo:Vikipedio:Kopirajto]]
+[[es:Wikipedia:Derechos de autor]]
+[[et:Vikipeedia:Autoriõigused]]
+[[eu:Wikipedia:Egilearen eskubideak]]
+[[fa:ویکی‌پدیا:حق تکثیر]]
+[[ff:Wikipedia:Copyrights]]
+[[fi:Wikipedia:Tekijänoikeudet]]
+[[fiu-vro:Wikipedia:Copyrights]]
+[[fr:Wikipédia:Droit d'auteur]]
+[[ga:Vicipéid:Cóipchearta]]
+[[gl:Wikipedia:Dereitos de autor]]
+[[gu:વિકિપીડિયા:પ્રકાશનાધિકાર]]
+[[he:ויקיפדיה:זכויות יוצרים]]
+[[hi:विकिपीडिया:Copyrights]]
+[[hu:Wikipédia:Szerzői jogok]]
+[[id:Wikipedia:Hak cipta]]
+[[is:Wikipedia:Almennur fyrirvari]]
+[[it:Wikipedia:Copyright]]
+[[ja:Wikipedia:著作権]]
+[[ka:ვიკიპედია:საავტორო უფლებები]]
+[[kk:Уикипедия:Ауторлық құқықтар]]
+[[kl:Wikipedia:Piginnittussaatitaaneq]]
+[[ko:위키백과:저작권]]
+[[ksh:Wikipedia:Lizänz]]
+[[ku:Alîkarî:Mafên telîfê]]
+[[lb:Wikipedia:Copyright]]
+[[li:Wikipedia:Auteursrechte]]
+[[lij:Wikipedia:Copyrights]]
+[[lmo:Wikipedia:Drecc da còpia (copyright)]]
+[[lt:Vikipedija:Autorinės teisės]]
+[[lv:Vikipēdija:Autortiesības]]
+[[mg:Wikipedia:Copyrights]]
+[[mi:Wikipedia:Manatārua]]
+[[mk:Википедија:Авторски права]]
+[[ml:വിക്കിപീഡിയ:പകര്‍പ്പവകാശം]]
+[[mr:विकिपीडिया:कायदा आणि प्रताधिकारमुक्ती प्रकल्प]]
+[[my:Wikipedia:Copyrights]]
+[[ne:विकिपीडिया:लेखाधिकार]]
+[[new:विकिपिडिया:लेखाधिकार]]
+[[nl:Wikipedia:Auteursrechten]]
+[[no:Wikipedia:Opphavsrett]]
+[[os:Википеди:Авторон бар]]
+[[pl:Wikipedia:Prawa autorskie]]
+[[pt:Wikipedia:Direitos de autor]]
+[[qu:Wikipidiya:Ruraqpa hayñin]]
+[[rmy:Vikipidiya:Autorenge xakaya (chachimata)]]
+[[ro:Wikipedia:Drepturi de autor]]
+[[ru:Википедия:Авторские права]]
+[[scn:Wikipedia:Copyrights]]
+[[si:විකිපීඩියා:කර්තෘ හිමිකම්]]
+[[simple:Wikipedia:Copyrights]]
+[[sl:Wikipedija:Avtorske pravice]]
+[[sq:Wikipedia:Të drejta autori]]
+[[sr:Википедија:Ауторско право]]
+[[su:Wikipedia:Hak cipta]]
+[[sv:Wikipedia:Upphovsrätt]]
+[[te:వికీపీడియా:కాపీహక్కులు]]
+[[tet:Wikipedia:Copyrights]]
+[[tg:Википедиа:Copyrights]]
+[[th:วิกิพีเดีย:ลิขสิทธิ์]]
+[[tl:Wikipedia:Karapatang-ari]]
+[[tpi:Wikipedia:Copyrights]]
+[[tr:Vikipedi:Telif hakları]]
+[[udm:Wikipedia:Автор правоос]]
+[[uk:Вікіпедія:Авторські права]]
+[[vec:Wikipedia:Copyright]]
+[[vi:Wikipedia:Quyền tác giả]]
+[[vo:Vükiped:Kopiedagitäts]]
+[[wa:Wikipedia:Abondroets]]
+[[wuu:Wikipedia:版权]]
+[[yi:װיקיפּעדיע:קאפירעכטן]]
+[[zh:Wikipedia:版权信息]]
+[[zh-min-nan:Wikipedia:Tù-chok-koân]]
