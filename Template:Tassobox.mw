@@ -1,0 +1,325 @@
+<includeonly><div class="rad" style="float:right; padding:5px; border:solid 1px #cccccc; margin: 0 0 0.5em 1em; background:#ffffff; ">
+{| style="border-collapse:collapse; text-align:center; width:230px" border="0" cellpadding="0"
+|- style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }} padding-left:20px"
+| {{Template:Come leggere il tassobox}}'''{{{nome}}}'''<!-- INIZIO SOTTO TABELLA DELLO STATO DI CONSERVAZIONE (IUCN) (CITES)  -->{{#if:{{{statocons|}}}| {{#switch:{{{statocons}}} |SE|sicuro|fossile|vedi testo|sconosciuto|preistorico=<br />{{statocons_{{{statocons|}}}|{{#if:{{{dataestinzione|}}}|{{{dataestinzione}}} }} }}{{#if:{{{statocons_ref|}}} |<small>{{{statocons_ref}}}</small>}} }} }}
+{{#if:{{{immagine|}}}| {{!-}}
+{{!}} {{{immagine|}}} {{#if:{{{didascalia|}}}|<br /><small>{{{didascalia|}}}</small>}}
+{{!-}} }}{{#if:{{{statocons|}}}|
+ {{#switch:{{{statocons}}}
+ |LR|basso rischio={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_basso_rischio|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |LC|lc|Least Concern |Least concern |least concern={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_rischio_minimo|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |LR/lc|lr/lc|basso rischio lc|Basso rischio lc={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_basso_rischio_lc|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |NT|nt|near threaned|Near threaned|Near Threaned={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_near_threaned|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |LR/nt|lr/nt|basso rischio nt|Basso rischio nt={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_basso_rischio_nt|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |CD|LR/cd|lr/cd|basso rischio cd|Basso rischio cd={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_basso_rischio_cd|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |VU|vulnerabile={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}}
+       {{!}}{{Statocons_vulnerabile|versione={{{statocons_versione|iucn3.1}}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |EN|endangered|in pericolo={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_in pericolo|versione={{{statocons_versione|iucn3.1}}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |CR|critico={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_critico|versione={{{statocons_versione|iucn3.1}}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |DD|Data Deficient={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_DD|versione={{{statocons_versione|iucn3.1}}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |NE|Not Evaluated={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_NE|versione={{{statocons_versione|iucn3.1}}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |PE|probabilmente estinto={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_probabilmente_estinto|data={{{dataestinzione| }}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |PEW|probabilmente estinto in natura=={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_probabilmente_estinto_in_natura|data={{{dataestinzione| }}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |EX|estinto|estinto data|estinto_data={{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_estinto|versione={{{statocons_versione|none}}}|data={{{dataestinzione| }}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+ |EW|estinto in natura= {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+       {{!}}'''[[Stato di conservazione (biologia)|Stato di conservazione]]'''
+       {{!-}} 
+       {{!}}{{Statocons_estinto_in_natura|versione={{{statocons_versione|iucn3.1}}}|data={{{dataestinzione| }}}|ref={{{statocons_ref| }}} }}
+       {{!-}}
+}}
+ 
+}} 
+<!-- FINE DELLA TABELLA DELLO STATO DI CONSERVAZIONE -->
+|- style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+|'''{{#if:{{{FIL?|}}}|{{#switch:{{{regno}}}|Plantae|[[Plantae]]=[[Sistema Cronquist|Classificazione Cronquist]]|[[Classificazione scientifica|{{#ifeq: {{{FIL?}}} |solo|Classificazione filogenetica|Classificazione classica}}]]}}|[[Classificazione scientifica]]}}'''
+|-
+|<!-- INIZIO SOTTOTABELLA DELLA CLASSIFICAZIONE TASSONOMICA -->
+{{#ifeq: {{{cronquist}}} |no|<small>[[Image:Deletion icon.svg{{!}}25px]] [[taxon]] non contemplato</small>|{{{!}} style="margin:0 auto; text-align:left; background:white;" cellpadding="2"
+{{#if:{{{dominio|}}} |{{!}} valign="top" {{!}} [[Dominio (biologia)|Dominio]]:
+{{!}} valign="top" {{!}} {{{dominio}}}
+{{!-}}|{{!-}} }}{{#if:{{{regno|}}}| valign="top" 
+{{!}} [[Regno (biologia)|Regno]]:
+{{!}} {{{regno}}}
+{{!-}} }}{{#if:{{{sottoregno|}}}| valign="top" 
+{{!}} [[Sottoregno]]:
+{{!}} {{{sottoregno}}}
+{{!-}} }}{{#if:{{{ramo|}}}| valign="top" 
+{{!}} [[Simmetria_animale|Ramo]]:
+{{!}} {{{ramo}}}
+{{!-}} }}{{#if:{{{superphylum|}}}| valign="top" 
+{{!}} [[Superphylum]]:
+{{!}} {{{superphylum}}}
+{{!-}} }}{{#if:{{{superdivisione|}}}| valign="top" 
+{{!}} [[Superphylum|Superdivisione]]:
+{{!}} {{{superdivisione}}}
+{{!-}} }}{{#if:{{{phylum|}}}| valign="top" 
+{{!}} [[Phylum]]:
+{{!}} {{{phylum}}}
+{{!-}} }}{{#if:{{{divisione|}}}| valign="top" 
+{{!}} [[Phylum|Divisione]]:
+{{!}} {{{divisione}}}
+{{!-}} }}{{#if:{{{subphylum|}}}| valign="top" 
+{{!}} [[Subphylum]]:
+{{!}} {{{subphylum}}}
+{{!-}} }}{{#if:{{{sottodivisione|}}}| valign="top" 
+{{!}} [[Subphylum|Sottodivisione]]:
+{{!}} {{{sottodivisione}}}
+{{!-}} }}{{#if:{{{infraphylum|}}}| valign="top" 
+{{!}} [[Infraphylum]]:
+{{!}} {{{infraphylum}}}
+{{!-}} }}{{#if:{{{microphylum|}}}| valign="top" 
+{{!}} [[Microphylum]]:
+{{!}} {{{microphylum}}}
+{{!-}} }}{{#if:{{{nanophylum|}}}| valign="top" 
+{{!}} [[Nanophylum]]:
+{{!}} {{{nanophylum}}}
+{{!-}} }}{{#if:{{{superclasse|}}}| valign="top" 
+{{!}} [[Superclasse (tassonomia)|Superclasse]]:
+{{!}} {{{superclasse}}}
+{{!-}} }}{{#if:{{{classe|}}}| valign="top" 
+{{!}} [[Classe (tassonomia)|Classe]]:
+{{!}} {{{classe}}}
+{{!-}} }}{{#if:{{{sottoclasse|}}}| valign="top" 
+{{!}} [[Sottoclasse (biologia)|Sottoclasse]]:
+{{!}} {{{sottoclasse}}}
+{{!-}} }}{{#if:{{{infraclasse|}}}| valign="top" 
+{{!}} [[Infraclasse]]:
+{{!}} {{{infraclasse}}}
+{{!-}} }}{{#if:{{{superordine|}}}| valign="top" 
+{{!}} [[Superordine]]:
+{{!}} {{{superordine}}}
+{{!-}} }}{{#if:{{{ordine|}}}| valign="top" 
+{{!}} [[Ordine (tassonomia)|Ordine]]:
+{{!}} {{{ordine}}}
+{{!-}} }}{{#if:{{{sottordine|}}}| valign="top" 
+{{!}} [[Sottordine]]:
+{{!}} {{{sottordine}}}
+{{!-}} }}{{#if:{{{infraordine|}}}| valign="top" 
+{{!}} [[Infraordine]]:
+{{!}} {{{infraordine}}}
+{{!-}} }}{{#if:{{{superfamiglia|}}}| valign="top" 
+{{!}} [[Superfamiglia (tassonomia)|Superfamiglia]]:
+{{!}} {{{superfamiglia}}}
+{{!-}} }}{{#if:{{{famiglia|}}}| valign="top" 
+{{!}} [[Famiglia (tassonomia)|Famiglia]]:
+{{!}} {{{famiglia}}}
+{{!-}} }}{{#if:{{{sottofamiglia|}}}| valign="top" 
+{{!}} [[Sottofamiglia]]:
+{{!}} {{{sottofamiglia}}}
+{{!-}} }}{{#if:{{{tribù|}}}| valign="top" 
+{{!}} [[Tribù (tassonomia)|Tribù]]:
+{{!}} {{{tribù}}}
+{{!-}} }}{{#if:{{{sottotribù|}}}| valign="top" 
+{{!}} [[Sottotribù]]:
+{{!}} {{{sottotribù}}}
+{{!-}} }}{{#if:{{{infratribù|}}}| valign="top" 
+{{!}} [[Infratribù]]:
+{{!}} {{{infratribù}}}
+{{!-}} }}{{#if:{{{genere|}}}| valign="top" 
+{{!}} [[Genere (tassonomia)|Genere]]:
+{{!}} ''{{{genere}}}''{{#if:{{{genereautore|}}}|<br/>{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{genereautore}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}}}
+{{!-}} }}{{#if:{{{sottogenere|}}}| valign="top" 
+{{!}} [[Sottogenere]]:
+{{!}} ''{{{sottogenere}}}''{{#if:{{{sottogenereautore|}}}|<br/>{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{sottogenereautore}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}}}
+{{!-}} }}{{#if:{{{specie|}}}| valign="top" 
+{{!}} [[Specie]]:
+{{!}} ''{{{specie}}}''
+{{!-}} }}{{#if:{{{sottospecie|}}}| valign="top" 
+{{!}} [[Sottospecie]]:
+{{!}} ''{{{sottospecie}}}''
+{{!-}} }}
+{{!}}} }}
+|-
+<!-- FINE SOTTOTABELLA DELLA CLASSIFICAZIONE TASSONOMICA -->
+
+<!-- CLASSIFICAZIONE FIL -->
+{{#ifeq: {{{FIL?}}} |solo||{{#if:{{{FIL?|}}} | {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}}'''{{#switch:{{{regno}}}|Plantae|[[Plantae]]=[[Classificazione APG]]|[[Classificazione filogenetica]]}}'''
+{{!-}}
+{{!}}
+{{{!}} style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+{{#if:{{{regnoFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Regno (biologia)|Regno]]:
+{{!}} {{{regnoFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{ordineFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Ordine (tassonomia)|Ordine]]:
+{{!}} {{{ordineFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{sottordineFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Sottordine]]:
+{{!}} {{{sottordineFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{infraordineFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Infraordine]]:
+{{!}} {{{infraordineFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{superfamigliaFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Superfamiglia (tassonomia)|Superfamiglia]]:
+{{!}} {{{superfamigliaFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{famigliaFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Famiglia (tassonomia)|Famiglia]]:
+{{!}} {{{famigliaFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{sottofamigliaFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Sottofamiglia]]:
+{{!}} {{{sottofamigliaFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{tribùFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Tribù]]:
+{{!}} {{{tribùFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{sottotribùFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Sottotribù]]:
+{{!}} {{{sottotribùFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{infratribùFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Infratribù]]:
+{{!}} {{{infratribùFIL}}}
+{{!-}}|{{!-}} }}{{#if:{{{genereFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Genere (tassonomia)|Genere]]:
+{{!}} ''{{{genereFIL}}}''{{#if:{{{genereautoreFIL|}}}|<br/>{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{genereautoreFIL}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}}}
+{{!-}}|{{!-}} }}{{#if:{{{sottogenereFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Sottogenere]]:
+{{!}} {{{sottogenereFIL}}}{{#if:{{{sottogenereautoreFIL|}}}|<br/>{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{sottogenereautoreFIL}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}}}
+{{!-}}|{{!-}} }}{{#if:{{{specieFIL|}}}| {{!-}} valign="top" 
+{{!}} [[Specie]]:
+{{!}} ''{{{specieFIL}}}''
+{{!-}} }}
+{{!}}}
+{{!-}} }} }}
+
+<!-- FINE CLASSIFICAZIONE FIL -->
+{{#if:{{{binome|}}} | {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}} '''[[Nomenclatura binomiale]]'''
+{{!-}}
+{{!}} '''''{{{binome}}}'''''{{#if:{{{biautore|}}}
+     |<br />{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{biautore|&nbsp;}}}{{#if:{{{bidata|}}}|, {{{bidata|&nbsp;}}}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}
+     |{{#if:{{{bidata|}}}|<br /><small>{{{bidata|&nbsp;}}}</small>}} }}
+{{!-}} }}
+
+{{#if:{{{trinome|}}} | {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}} '''[[Nomenglature trinomiale]]'''
+{{!-}}
+{{!}} '''''{{{trinome}}}'''''{{#if:{{{triautore|}}}
+     |<br />{{#ifeq: {{{regno|}}}|[[Animalia]]|<span style="font-variant: small-caps">|<small>}}{{{triautore|&nbsp;}}}{{#if:{{{tridata|}}}|, {{{tridata|&nbsp;}}}}}{{#ifeq: {{{regno|}}}|[[Animalia]]|</span>|</small>}}
+     |{{#if:{{{tridata|}}}|<br /><small>{{{tridata|&nbsp;}}}</small>}} }}
+{{!-}} }}
+
+{{#if:{{{sinonimi|}}} | {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}}'''[[Sinonime, tassonomije|Sinonime]]'''
+{{!-}}
+{{!}} 
+{{{sinonimi|}}}
+{{!-}} }}
+
+{{#if:{{{nomicomuni|}}} | {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}}'''Nomi comuni'''
+{{!-}}
+{{!}} 
+{{{nomicomuni|}}}
+{{!-}} }}
+
+{{#if:{{{suddivisione|}}}| {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}}'''{{{suddivisione|}}}'''{{#if:{{{suddivisioneFIL|}}}| <br/>'''(classica)'''}}
+{{!-}}
+{{!}} align=left {{!}} 
+{{{suddivisione_testo|}}}
+{{!-}} }}
+
+{{#if:{{{suddivisioneFIL|}}}| {{!-}} style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"
+{{!}}'''{{{suddivisioneFIL|}}}<br/>(filogenetica)'''
+{{!-}}
+{{!}} align=left {{!}} 
+{{{suddivisione_testoFIL|}}}
+{{!-}} }}
+
+|- class="noprint" style="font-size:85%; text-align:center; padding: .8em 0em .8em 0em"
+|style="{{BackgroundColorTaxon|{{{regno|{{{nome|{{{phylum}}} }}} }}} }}"|<small>Partecipa al '''[[Progetto:Forme di vita]]'''</small>
+|- 
+|style="border: 0"|{{#if:{{{adtemplate|}}} | {{{adtemplate}}} }}
+|}</div></includeonly><noinclude>
+
+
+{{Protetta}}
+{{esoteric}}
+{{Man}}
+
+[[Category:Template tassobox| ]]
+
+[[ar:قالب:تصنيف علمي]]
+[[bg:Шаблон:Taxobox]]
+[[ca:Plantilla:Taxobox]]
+[[de:Vorlage:Taxobox]]
+[[en:Template:Taxobox]]
+[[es:Plantilla:Taxobox]]
+[[et:Mall:Taxobox]]
+[[eu:Txantiloi:Taxotaula infotaula]]
+[[fr:Modèle:Taxobox]]
+[[ga:Teimpléad:Bosca Sonraí Tacsanomaíochta]]
+[[he:תבנית:מיון]]
+[[ia:Patrono:Taxobox]]
+[[ka:თარგი:ტაქსოდაფა]]
+[[ko:틀:생물 분류]]
+[[mk:Шаблон:Таксономија]]
+[[nl:Sjabloon:Taxobox]]
+[[no:Mal:Taksoboks]]
+[[ro:Format:CutieTaxonomie]]
+[[ru:Шаблон:Taxobox]]
+[[scn:Template:Taxobox]]
+[[sl:Predloga:Taksonomka]]
+[[sv:Mall:Taxobox]]
+[[th:แม่แบบ:ตารางจำแนกพันธุ์]]
+[[tr:Şablon:Taksokutu]]
+[[uk:Шаблон:Картка:Таксономія]]
+[[vec:Template:Tassobox]]
+[[vi:Tiêu bản:Bảng phân loại]]
+[[zh:Template:Taxobox]]
+</noinclude>
