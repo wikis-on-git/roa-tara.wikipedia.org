@@ -1,0 +1,209 @@
+Il template '''{{tl|Cita libro}}''' serve per  [[Wikipedia:Cita le fonti|citare le fonti]] in Wikipedia, quando queste sono libri, utilizzando un formato standard e omogeneo, conforme a quanto previsto dalle [[Wikipedia:Bibliografia|convenzioni bibliografiche]] della Wikipedia.
+
+Per citare fonti giornalistiche usa {{tl|Cita news}}, per citare siti web usa  {{tl|Cita web}}, per citare articoli di riviste {{tl|Cita pubblicazione}}
+
+=== Sintassi semplificata senza dichiarazione dei parametri===
+<div style="text-align:center;">
+'''Versione semplificata ([[copia ed incolla]] il testo sotto, poi sostituisci ai parametri i valori corretti'''
+<div style="padding:0.1em 1em; border:2px dotted orange; background:#EFE;">
+'''<tt><nowiki>{{</nowiki>cita libro|'''<font color=gray>''Nome''</font> | <font color=gray>''Cognome''</font> | <font color=red>''Titolo''</font> | <font color=gray>''Anno''</font>  | <font color=gray>''Editore''</font> | <font color=gray>''Città''</font>'''<nowiki>}}</nowiki></tt>'''
+</div>
+</div>
+
+'''ATTENZIONE''': per il corretto funzionamento del template in questa modalità <font color=red> i dati devono essere riportati '''esattamente''' come nell'ordine mostrato</font>, in mancanza del parametro è possibile lasciare un campo vuoto "<nowiki>| |</nowiki>". 
+
+Per esempio se non si conosce l'''' anno''' si scriverà soltanto 
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>{{</nowiki>cita libro| '''<font color=gray>''Nome''</font> | <font color=gray>''Cognome''</font> | <font color=gray>''Titolo''</font> '''|  |''' <font color=gray>''Editore''</font> | <font color=gray>''Città''</font>'''<nowiki>}}</nowiki></tt> 
+</div>
+lasciando il relativo spazio vuoto.
+
+L'unico elemento che dovà '''sempre''' essere specificato è il titolo del libro.
+
+== Sintassi semplificata con dichiarazione dei parametri==
+In alternativa gli stessi parametri possono essere inseriti dopo averli dichiarati, in questo caso non è obbligatorio seguire un ordine prefissato perchè il riconoscimento del parametri non è più come prima legato alla sua posizione ma alla sua dichiarazione:
+<div style="text-align:center;">
+<div style="padding:0.1em 1em; border:2px dotted orange; background:#EFE;">
+'''<tt><nowiki>{{cita libro</nowiki> | cognome= | nome= | titolo= | editore= | città= | anno= <nowiki>}}</nowiki></tt>'''
+</div>
+</div>
+
+== Parametri aggiuntivi ==
+Oltre ai precedenti, considerati "fondamentali" per una corretta rintracciabilità del libro, esistono altri parametri che spesso possono venire utilizzati; per questi non è  prevista, al momento, il riconoscimento automatico per cui vanno obbligatoriamente dichiarati all'interno del template come segue :
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+'''| wkautore=''' <font color=gray><nowiki><!-- </nowiki> se presente in [[wikipedia|WP]] inserire la pagina dell'autore <nowiki> --></nowiki></font><br/>
+'''| coautori=''' <font color=gray><nowiki><!--</nowiki> Nome Cognome, separati da punti e virgole (;), oppure "''et al.''" <nowiki>--></nowiki></font><br/>
+'''| capitolo=''' <font color=gray><nowiki><!--</nowiki> Capitolo ('''NO''' "''corsivo''") <nowiki>--></nowiki></font><br/>
+'''| ed=''' <font color=gray><nowiki><!--</nowiki> Numero dell'edizione <nowiki>--></nowiki></font><br/>
+</div>
+Questi parametri essendo per forza dichiarati possono essere messi senza alcun riguardo per la loro posizione all'interno del template, se però vengono utilizzati in aggiunta ai parametri "fondamentali", quando non vengono dichiarati è consigliabile aggiungerli alla fine, per evitare eventuali conflitti all'interno del template.
+
+Per esempio, dovendo dichiare il titolo del capitolo di un libro è possibile farlo nel seguente modo:
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>{{</nowiki>cita libro|''' <font color=gray>''Nome''</font> | <font color=gray>''Cognome''</font> | <font color=gray>''Titolo''</font> | <font color=gray>''Anno''</font>  | <font color=gray>''Editore''</font> | <font color=gray>''Città''</font>| '''capitolo='''<font color=gray>''Titolo del capitolo''</font> <nowiki> }}</nowiki></tt>
+</div>
+
+== Sintassi completa ==
+Tutti i campi '''''devono''''' essere in lettere minuscole. Copia una versione vuota per iniziare. Ricorda che il carattere "|"  deve separare ogni campo, che devono essere in minuscole. Cancella i campi inutilizzati, per evitare di sovraffollare la finestra di modifica. Il codice [[ISBN]] va nel campo id, separato dal numero tramite uno spazio. Vedi anche la [[#Parametri|descrizione dei campi]].
+
+<div style="text-align:center;">
+'''versione completa ([[copia ed incolla]] il testo sotto, poi cancella i parametri che non ti servono)'''
+<div style="padding:0.1em 1em; border:2px dotted orange; background:#EFE">
+:'''<tt><nowiki>{{cita libro|cognome= |nome= |wkautore= |coautori= |curatore= |altri= |titolo= |dataoriginale= |annooriginale= |meseoriginale= |url= |formato= |datadiaccesso= |annodiaccesso= |mesediaccesso= |edizione= |data= |anno= |mese= |editore= |città= |lingua= |id= |doi = |pagine= |capitolo= |url_capitolo= |citazione = |cid= }}</nowiki></tt>'''
+</div>
+</div>
+
+== Parametri ==
+I parametri indicati in <span style="color:gree">verde e rientrati</span> rispetto a quelli principali sono parametri ''secondari'' che vengono ignorati se non è stato compilato il parametro principale corrispondente (ad esempio se non viene inserito il <tt>cognome</tt> dell'autore viene ignorato l'inserimento del <tt>nome</tt>).
+
+I parametri in  <span style="color:gree">rosso</span> sono alternativi rispetto ai parametri rossi dello stesso gruppo, verrà utilizzato solo uno di essi (il primo elencato).
+
+{| 
+|-
+!style="text-align:left;vertical-align: top;color:orangered;"|<tt>cognome</tt>
+| Cognome dell'autore. Non usare wikilink (usa <tt>wkautore</tt> per questo scopo).
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>nome</tt>
+| Nome dell'autore. Non usare wikilink (usa <tt>wkautore</tt> per questo scopo).
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;wkautore</tt></font>
+| Wikilink alla voce di wikipedia sull'autore. Non si deve creare collegamenti alla stessa pagina, ad esempio se cito un libro di Adam Smith nella sua voce, questo campo non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;coautori</tt></font>
+| Nome completo dei vari coautori, separati da ";", nella forma ''Nome Cognome'' (ad esempio: ''Joe Bloggs; John F. Kennedy; H. R. Dent''). Generalmente se sono presenti più di tre autori conviene indicare solo il primo autore (usando <tt>nome</tt> e <tt>cognome</tt>, oppure <tt>autore</tt>) e aggiungere in coautori "''et al.''" in corsivo.
+|-
+!style="text-align:left;vertical-align: top;color:orangered;"|<tt>autore</tt>
+|Nome completo dell'autore, da usare '''in alternativa''' a <tt>cognome</tt>
+|- 
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>curatore</tt>
+|style="border-top:2px solid orange;"| Nome del curatore. Non aggiungere altro testo, come per esempio "(ed.)".
+|-
+!style="text-align:left;vertical-align: top;"|<tt>altri</tt>
+| Per aggiungere informazioni del tipo "illustrazioni di Smith" o "tradotto da Smith".
+|-
+!style="text-align:left;vertical-align: top;"|<tt>titolo</tt>
+| Titolo del libro. '''''Questo è l'unico parametro obbligatorio.''''' Può avere wikilink, specialmente se esiste la voce su wikipedia. Non usare il corsivo.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>url</tt>
+|style="border-top:2px solid orange;"| [[URL]] di un libro on-line. Non può essere usato se il campo <tt>titolo</tt> contiene wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>formato</tt>
+| Formato del libro on-line, ad esempio PDF. Non specificare se HTML, è specificato in automatico.
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>datadiaccesso</tt>
+| Data dell'ultimo accesso al libro on-line, indicata nel formato [[ISO 8601]] YYYY-MM-DD, ad esempio ''2006-02-17''. '''Obbligatorio quando si usa ''url''.''' Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>annodiaccesso</tt>
+|Anno dell'ultimo accesso al libro on-line
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tt>mesediaccesso</tt>
+|mese dell'ultimo accesso al libro on-line. Se conosci anche il giorno usa <tt>datadiaccesso</tt>. Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;color:orangered;"|<tt>edizione</tt>
+|style="border-top:2px solid orange;"| Se il libro ha avuto più di una edizione. Ad esempio: "2a edizione".
+|-
+!style="text-align:left;vertical-align: top;color:orangered;"|<tt>ed</tt>
+|Per indicare solo il '''numero''' dell'edizione, verrà inserito automaticamente come numerale. Per esempio inserendo ed=2, comparirà nel testo 2<sup>a</sup> ed
+|-
+!style="text-align:left;vertical-align: top;color:orangered;border-top:2px solid orange;"|<tt>dataoriginale</tt>
+|style="border-top:2px solid orange;"|Data completa della pubblicazione dell'edizione originale, nel formato [[ISO 8601]] YYYY-MM-DD, ad esempio ''2004-06-27''. Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:orangered;"|<tt>annooriginale</tt>
+|Anno della pubblicazione dell'edizione originale
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>meseoriginale</tt>
+|mese della pubblicazione dell'edizione originale. Se conosci anche il giorno usa <tt>dataoriginale</tt>. Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:orangered;border-top:2px solid orange;"|<tt>data</tt>
+|style="border-top:2px solid orange;"|Data completa della pubblicazione, nel formato [[ISO 8601]] YYYY-MM-DD, ad esempio ''2006-02-17''. Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;color:orangered;"|<tt>anno</tt>
+|Anno della pubblicazione
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>mese</tt>
+|mese della pubblicazione. Se conosci anche il giorno usa <tt>data</tt>. Non deve avere wikilink.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>editore</tt>
+|style="border-top:2px solid orange;"| Casa editrice.
+|-
+!style="text-align:left;vertical-align: top;"|<tt>città</tt>
+| Città di pubblicazione.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>lingua</tt>
+|style="border-top:2px solid orange;"| Lingua in cui è scritto il libro, se diversa dall'italiano.
+|-
+!style="text-align:left;vertical-align: top;"|<tt>id</tt>
+| Codice [[ISBN]], inserire come ''<nowiki>ISBN 1-111-22222-9</nowiki>''.
+|-
+!style="text-align:left;vertical-align: top;"|<tt>doi</tt>
+| [[digital object identifier]].
+|-
+!style="text-align:left;vertical-align: top;"|<tt>pagine</tt>
+| prima ed opzionalmente ultima pagina rilevanti per la citazione, senza consultare l'intero libro.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>capitolo</tt>
+|style="border-top:2px solid orange;"| Titolo del capitolo del libro.
+|-
+!style="text-align:left;vertical-align: top;color:green;"|&nbsp;&nbsp;&nbsp;&nbsp;<tt>url_capitolo</tt>
+| URL del singolo capitolo in un libro on-line.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>citazione</tt>
+|style="border-top:2px solid orange;"| Citazioni importanti tratte dal libro.
+|-
+!style="text-align:left;vertical-align: top;border-top:2px solid orange;"|<tt>cid</tt>
+|style="border-top:2px solid orange;"| Codice da assegnare al libro. Permette l'uso del template in coppia con il {{tl|Cita}}.
+|}
+
+===Wikilinks===
+In molti campi possono essere inseriti [[Aiuto:Wikilink|wikilink]] (ad esempio <nowiki>[[voce sul libro|titolo del libro]]</nowiki>, ed è consigliato se la voce su wikipedia esiste già. Se nel campo è inserito un wikilink '''non devono''' essere presenti altre parentesi oltre a quelle tonde <code>()</code> &mdash; non usare <code><nowiki><>[]{}</nowiki></code>.
+
+== Esempi ==
+;Solo il titolo:
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | titolo=Mysterious book }}</nowiki></tt>
+</div>
+:* {{cita libro | titolo = Mysterious book }}
+
+;Titolo ed anno:
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | titolo=Mysterious book | anno=1901 }}</nowiki>
+</div>
+:* {{cita libro | titolo = Mysterious book | anno = 1901 }}
+
+;Uso base:
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | nome=Joe | cognome=Bloggs | wkautore=Joe Bloggs | anno=1974 | titolo=Book of Bloggs }}</nowiki>
+</div>
+:* {{cita libro | nome=Joe | cognome=Bloggs | wkautore=Joe Bloggs | anno=1974 | titolo=Book of Bloggs }}
+
+;Uso base con url:
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | cognome=Bloggs | nome=Joe | wkautore=Joe Bloggs | anno=1974 | titolo=Book of Bloggs | edizione=1<sup>a</sup> edizione | url=http://en.wikipedia.org/ | datadiaccesso=2006-02-17 }}</nowiki>
+</div>
+:* {{cita libro | cognome=Bloggs | nome=Joe | wkautore=Joe Bloggs | anno=1974 | titolo=Book of Bloggs | edizione=1<sup>a</sup> edizione | url=http://en.wikipedia.org/ | datadiaccesso=2006-02-17 }}
+
+;Titolo, tre autori con versione dell'edizione
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | cognome=Bloggs | nome=Joe | wkautore=Joe Bloggs | coautori=John Smith; Jim Smythe | titolo=[[A Thousand Acres|1000 Acres]] | ed=2}}</nowiki>
+</div>
+* {{cita libro | cognome=Bloggs | nome=Joe | wkautore=Joe Bloggs | coautori=John Smith; Jim Smythe | titolo=[[A Thousand Acres|1000 Acres]] | ed=2 }}
+
+;Data senza giorno, titolo con wikilink e casa editrice, id, pagine, paese
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | cognome=Cordell | nome=Bruce R. | coautori=Jeff Grubb, David Noonan | anno=2001 | mese=settembre | titolo=[[Manual of the Planes]] | editore=[[Wizards of the Coast]] | città=Timbuktu | id=ISBN 0-7869-1850-8 | pagine=pp. 134-137 }}</nowiki>
+</div>
+* {{cita libro | cognome=Cordell | nome=Bruce R. | coautori=Jeff Grubb, David Noonan | anno=2001 | mese=settembre | titolo=[[Manual of the Planes]] | editore=[[Wizards of the Coast]] | città=Timbuktu | id=ISBN 0-7869-1850-8 | pagine=pp. 134-137 }}
+
+;Data della prima edizione, altra lingua, con illustrazioni
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>* {{cita libro | cognome=Bloggs | nome=Joe | annooriginale=1463 | anno=1974 | titolo=Book of Bloggs | edizione=1<sup>a</sup> edizione | altri=illustrata da Smith | lingua=tedesco| url=http://en.wikipedia.org/ | datadiaccesso=2006-02-17 }}</nowiki>
+</div>
+:*  {{cita libro | cognome=Bloggs | nome=Joe | annooriginale=1463 | anno=1974 | titolo=Book of Bloggs | edizione=1<sup>a</sup> edizione | altri=illustrata da Smith | lingua=tedesco| url=http://en.wikipedia.org/ | datadiaccesso=2006-02-17 }}
+
+;Uso del [[digital object identifier]]
+<div style="padding:0.1em 1em; border:1px dotted gray; background:#EFE">
+<tt><nowiki>*{{cita libro | cognome=Mumford | nome=David | wkautore=David Mumford | anno=1999 | titolo=The Red Book of Varieties and Schemes: Includes the Michigan Lectures (1974) on Curves and Their Jacobians | edizione=2<sup>a</sup> edizione | editore=[[Springer-Verlag]] | doi=10.1007/b62130  | id=ISBN 354063293X }}</nowiki></tt>
+</div>
+:*{{cita libro | cognome=Mumford | nome=David | wkautore=David Mumford | anno=1999 | titolo=The Red Book of Varieties and Schemes: Includes the Michigan Lectures (1974) on Curves and Their Jacobians | edizione=2<sup>a</sup> edizione | editore=[[Springer-Verlag]] | doi=10.1007/b62130  | id=ISBN 354063293X}}
+
+<noinclude>[[Category:Manuali dei template|Cita libro]] [[Category:Template citazione fonti|Cita libro/man]]</noinclude>
