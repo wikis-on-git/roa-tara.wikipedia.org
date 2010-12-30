@@ -23,7 +23,7 @@
 |-
 |[[Fraziune (matemateche)|Fraziune]]:||{{{frazioni}}}
 |-
-|{{#if: {{{monete|}}} |bgcolor=#DDEEFF {{!}}[[Monete]]:{{!}}{{!}}bgcolor=#DDEEFF {{!}}{{{monete}}} }}
+|{{#if: {{{monete|}}} |bgcolor=#DDEEFF {{!}}[[Turnise]]:{{!}}{{!}}bgcolor=#DDEEFF {{!}}{{{monete}}} }}
 |-
 |{{#if: {{{banconote|}}} |[[Banconote]]:{{!}}{{!}}{{{banconote}}} }}
 |-
