@@ -1,0 +1,89 @@
+<includeonly>{| style="border: 1px solid #aaa; background-color: #f9f9f9; color: black; margin-bottom: 1em; margin-left: 1em; padding: 0.2em 0.2em 0.2em 0.2em; float: right; clear: right; width: 300px; text-align: center; font-size: 90%;" cellspacing="1px" cellpadding="0px"
+!width="50%"|
+!width="50%"|
+|-
+|colspan=2  bgcolor=#ABCDEF |<big>'''{{PAGENAME}}''' {{#ifeq: {{{tipo|}}} | 2 | <span style="color:#FF0000;">''' &nbsp;⊕ '''</span> | }} </big>
+|-
+|bgcolor=#DDEEFF colspan=2|{{#if:{{{nomelocale|}}}|''Nome d'u luèche: '''{{{nomelocale}}}'''''}}
+|-
+<!-- Immaggene -->
+|{{#if:{{{imm2|}}} | [[File:{{{imm1}}}|126px]] {{!}}{{!}} [[File:{{{imm2}}}|126px]] | {{#if: {{{imm1|}}} | colspan=2 {{!}} [[File:{{{imm1}}}|252px]] }}}}
+|-
+|{{#if:{{{imm2|}}} | <small>{{{desc1}}}</small> {{!}}{{!}} <small>{{{desc2}}}</small> | {{#if: {{{imm1|}}} | colspan=2 {{!}} <small>{{{desc1}}}</small> }}}}
+|-
+<!-- Codece ISO -->
+|bgcolor=#DDEEFF |[[ISO 4217|Codece ISO 4217]]:||bgcolor=#DDEEFF |{{{codiceISO}}}
+|-
+|{{#if: {{{altricodici|}}} |bgcolor=#CCDDEE {{!}}[[ISO 4217#Collegamènde de fore|Otre codece]]:{{!}}{{!}}bgcolor=#CCDDEE {{!}}{{{altricodici}}} }}
+|-
+<!-- Pajèsere -->
+|[[State d'u munne|State]]:||{{{paesi}}}
+|-
+|bgcolor=#DDEEFF |[[Simbole de valute|Simbole]]:||bgcolor=#DDEEFF |{{{simbolo}}}
+|-
+|[[Fraziune (matemateche)|Fraziune]]:||{{{frazioni}}}
+|-
+|{{#if: {{{monete|}}} |bgcolor=#DDEEFF {{!}}[[Monete]]:{{!}}{{!}}bgcolor=#DDEEFF {{!}}{{{monete}}} }}
+|-
+|{{#if: {{{banconote|}}} |[[Banconote]]:{{!}}{{!}}{{{banconote}}} }}
+|-
+<!--    Autorità emittende    -->
+|- class="mergedtoprow"
+{{#if:{{{emittente|}}} |
+{{!}}bgcolor=#DDEEFF {{!}}[[Banghe cendrale|Entità emittende]]:
+{{!}}bgcolor=#DDEEFF {{!}}{{{emittente}}} }}
+|- class="mergedbottomrow"
+{{#ifeq: {{#expr: {{#if:{{{emittente|}}}|1|0}} and {{#if:{{{emittente_website|}}}|1|0}} }}| 1 |
+{{!}}bgcolor=#DDEEFF {{!}} Sito web
+{{!}}bgcolor=#DDEEFF {{!}} [http://{{{emittente_website|www.wikipedia.org}}} {{{emittente_website|www.wikipedia.org}}}]}}
+<!-- N'gorse da... a...-->
+|-
+|{{#ifeq: {{{tipo|}}} | 2 | Periode de timbe jndre cui jè state n'gorse: {{!}}{{!}}  {{{iniz_circ}}} - {{{fine_circ}}} | N'gorse da 'u:{{!}}{{!}} {{{iniz_circ}}} }}
+|-
+|{{#ifeq: {{{tipo|}}} | 2 | <span style="color:#FF0000;">'''⊕&nbsp; '''</span> Sostituite da: {{!}}{{!}}  '''[[{{{sost_da}}}]]'''&nbsp; - {{{data_sost}}} | }}
+|-
+|bgcolor=#DDEEFF |[[Tasse de cange]]:<br><small>{{{datacambio}}}</small>||bgcolor=#DDEEFF |{{{cambio}}}
+|-
+|{{#if: {{{agganciata|}}} |'Nziccate a: {{!}}{{!}} {{{agganciata}}}{{#if:{{NAMESPACE}}||[[Categorije:Valute cu tasse fisse]]}} }}
+|-
+|{{#if: {{{nota|}}} | align="center" colspan=2 {{!}}''{{{nota}}}''}}
+|-
+|bgcolor=#ABCDEF colspan=2| [[ISO 4217|Elenghe valute ISO 4217]] - [[Pruggette:Numismateche|Pruggette Numismateche]]
+|}
+{{#if:{{NAMESPACE}}||
+{{#ifeq: {{{tipo|}}} | 2 | [[Categorije:Valute fòre corse]] | [[Categorije:Valute n'gorse]] }}
+}}</includeonly><noinclude>
+{{Man}}
+
+[[ar:قالب:جدول عملة]]
+[[bg:Шаблон:Парична единица]]
+[[br:Patrom:Infobox moneiz]]
+[[ca:Plantilla:Moneda]]
+[[de:Vorlage:Infobox Währungseinheit]]
+[[en:Template:Infobox currency]]
+[[eo:Ŝablono:Informkesto valuto]]
+[[es:Plantilla:Ficha de moneda]]
+[[fr:Modèle:Infobox Monnaie]]
+[[gl:Modelo:Cadro de moeda]]
+[[hr:Predložak:Infookvir valuta]]
+[[hsb:Předłoha:Infokašćik měnowa jednotka]]
+[[hy:Կաղապար:Տեղեկաքարտ Տարադրամ]]
+[[it:Template:Valuta]]
+[[ja:Template:Infobox Currency]]
+[[ka:თარგი:ინფოდაფა ვალუტა]]
+[[kk:Үлгі:Infobox Currency]]
+[[ko:틀:통화 정보]]
+[[nl:Sjabloon:Infobox munteenheid]]
+[[no:Mal:Infoboks valuta]]
+[[pl:Szablon:Waluta infobox]]
+[[ro:Format:Infobox Monedă]]
+[[ru:Шаблон:Валюта]]
+[[sl:Predloga:Infopolje Valuta]]
+[[sv:Mall:Valuta]]
+[[tg:Шаблон:Қуттии Асъор]]
+[[th:แม่แบบ:กล่องข้อมูล สกุลเงิน]]
+[[tt:Үрнәк:Валюта]]
+[[uk:Шаблон:Картка:Валюта]]
+[[vi:Bản mẫu:Bảng thông tin tiền tệ]]
+[[zh:Template:Infobox Currency]]
+</noinclude>
