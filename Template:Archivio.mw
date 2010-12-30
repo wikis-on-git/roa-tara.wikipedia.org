@@ -1,0 +1,33 @@
+<includeonly>{|class="toccolours" style="float: right; clear: both; {{#if:{{{background|}}}|background-color:{{{background}}}|}}; margin: 0 0 1em 1em; border-collapse: collapse; font-size: 95%;" border="1" cellpadding="3" cellspacing="0" width="{{ #if: {{{width|}}} | {{{width}}} | 270px}}" 
+|<div style="text-align:center">{{#if:{{{nome|}}}|<span style="font-size:120%;">'''{{{nome}}}'''</span>|<span style="font-size:90%;">'''Archivio'''</font>}}  
+<p>[[File:Replacement filing cabinet.svg|40px|Archivije]]</p></div> 
+----
+{{#if:{{{testo|}}} | {{{testo}}} }} {{#if:{{{cassetto|}}} | {{Cassetto3|colore=#F9F9F9|coloresfondo=#F9F9F9|&nbsp;|{{{cassetto}}}}} }}
+----
+<div style="text-align:center">
+<small>[[Aiuto:Pàgene de 'ngazzàminde#Ccu archvije le 'ngazzàminde|accume ccu archivije]]{{#if:{{{sottopagina|}}}|&nbsp;{{·}}&nbsp;<span class="plainlinks">[{{fullurl:{{{sottopagina}}}|action=edit}} modifica questa lista]</span></small>}}</div>
+|}</includeonly><noinclude>
+
+[[ar:قالب:صندوق أرشيف]]
+[[ba:Ҡалып:Архив]]
+[[bg:Шаблон:Архиви]]
+[[de:Vorlage:Archivübersicht]]
+[[nv:Template:Archive]]
+[[dsb:Pśedłoga:Archiw]]
+[[es:Plantilla:Caja archivos]]
+[[eo:Ŝablono:Arkivo]]
+[[hsb:Předłoha:Archiw]]
+[[it:Template:Archivio]]
+[[ja:Template:Archive box]]
+[[mk:Шаблон:Архиви]]
+[[nl:Sjabloon:Archief]]
+[[no:Mal:Arkiv]]
+[[nn:Mal:Arkiv]]
+[[pl:Szablon:Archiwum box]]
+[[ru:Шаблон:Архив]]
+[[ro:Format:Casetă arhive]]
+[[simple:Template:Archive box]]
+[[sl:Predloga:Arhiv-polje]]
+[[tr:Şablon:Arşiv kutusu]]
+[[zh:Template:Archive box]]
+</noinclude>
