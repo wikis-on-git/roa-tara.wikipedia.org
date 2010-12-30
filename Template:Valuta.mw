@@ -51,7 +51,7 @@
 |bgcolor=#ABCDEF colspan=2| [[ISO 4217|Elenghe valute ISO 4217]] - [[Pruggette:Numismateche|Pruggette Numismateche]]
 |}
 {{#if:{{NAMESPACE}}||
-{{#ifeq: {{{tipo|}}} | 2 | [[Categorije:Valute fòre corse]] | [[Categorije:Valute n'gorse]] }}
+{{#ifeq: {{{tipo|}}} | 2 | }}
 }}</includeonly><noinclude>
 {{Man}}
 
