@@ -1,0 +1,159 @@
+Il template {{tl|valuta}} serve per generare una tabella riassuntiva dei dati principali di una [[Valuta]] nel caso sia attualmente usata da uno [[stato]] (in corso) o nel caso sia stata usata nel passato (fuori corso).
+
+== Guida all'uso del template ==
+Per utilizzare il template '''valuta''' [[Copia e incolla|basta copiare]] il testo contenuto nei riquadri seguenti (che contengono la sintassi completa del template) e compilarli. Scegli quale riquadro copiare tra i due ''modelli di tabella'' disponibili:
+*[[Template:Valuta/man#Monete in corso (modello 1)|Monete in corso (modello 1)]]
+*[[Template:Valuta/man#Monete fuori corso (modello 2)|Monete fuori corso (modello 2)]]
+
+I parametri scritti in <span style="color:green;">'''verde'''</span>, sono specifici del modello, in corso o fuori corso.</br>
+I parametri scritti in <span style="color:violet;">'''viola'''</span>, sono obbligatori = compariranno in ogni caso nel template. È comunque possibile lasciarli in bianco (parametro seguito da = senza alcun valore) o inserire un valore di non disponibile.</br>
+I parametri scritti in <span style="color:black;">'''nero'''</span>, sono facoltativi = non compariranno nel template se non inseriti. È comunque consigliato lasciare i parametri in bianco (parametro seguito da = senza alcun valore), anche per eventuali aggiunte di altri utenti.</br>
+
+Si segnala agli interessati la presenza del [[Progetto:Numismatica]].
+
+=== Monete in corso (modello 1) ===
+{{Valuta
+|tipo= 1
+|nomelocale= (nome valuta in lingua locale)
+|imm1= Flag of None.svg
+|imm2= Flag of None.svg
+|desc1= (descrizione 1° immagine)
+|desc2= (descrizione 2° immagine)
+|codiceISO= (codice ISO 4217 di 3 caratteri)
+|paesi= (Paesi in cui è usata) <br><small>-tra parentesi quadre-</small>
+|frazioni= (frazioni della valuta)
+|simbolo= (simbolo o abbrev. della valuta)
+|monete= (tagli delle monete)
+|banconote= (tagli delle banconote)
+|emittente= (ente emittente)
+|emittente_website= (sito ente emittente)
+|iniz_circ = (data inizio circolazione)
+|datacambio= (data di riferimento cambio)
+|cambio= (cambio verso altra valuta)
+|agganciata= (valuta cui è agganciata + rapporto)
+|nota = (eventuali note)
+}}
+
+NB: Il nome della moneta viene preso direttamente dal nome della voce <nowiki>{{PAGENAME}}</nowiki>, che dovrebbe essere nella forma:</br> '''nome valuta''' + '''aggettivo paese''' (es. sterlina britannica).
+<div style="width:30em; padding:.5em 1em; border: 1px dotted gray; background: #EFF; font-size:90%"> 
+<tt><span style="color:violet;">'''<nowiki>{{Valuta</nowiki>'''</span><br>
+<span style="color:green;">'''|tipo=1'''</span><br>
+'''|nomelocale='''<br></tt>
+<nowiki><!--Immagini a scelta: nessuna, 1 o 2--></nowiki><br><tt>
+'''|imm1='''<br>
+'''|imm2='''<br>
+'''|desc1='''<br>
+'''|desc2='''<br></tt>
+<nowiki><!--inserire "nome.estensione" dell'immagine--></nowiki><br><tt>
+<span style="color:violet;">'''|codiceISO='''</span><br>
+<span style="color:violet;">'''|paesi='''</span><br>
+<span style="color:violet;">'''|simbolo='''</span><br>
+<span style="color:violet;">'''|frazioni='''</span><br></tt>
+'''|monete='''<br>
+'''|banconote='''<br>
+<span style="color:violet;">'''|emittente='''</span><br>
+<span style="color:black;">'''|emittente_website= '''</span><br>
+<span style="color:violet;">'''|iniz_circ='''</span><br>
+<span style="color:violet;">'''|datacambio='''</span><br>
+<span style="color:violet;">'''|cambio='''</span><br>
+'''|agganciata='''<br>
+'''|nota='''<br>
+<span style="color:violet;">'''<nowiki>}}</nowiki>'''</span></div>
+
+
+*'''<span style="color:green;">verde:</span>''' tag specifici del ''modello 1''
+*'''<span style="color:violet;">viola:</span>''' tag obbligatori.
+*'''<span style="color:black;">nero:</span>''' tag facoltativi.
+<br clear="both">
+
+=== Monete fuori corso (modello 2) ===
+{{Valuta
+|tipo= 2
+|nomelocale= (nome valuta in lingua locale)
+|imm1= Flag of None.svg
+|imm2= Flag of None.svg
+|desc1= (descrizione 1° immagine)
+|desc2= (descrizione 2° immagine)
+|codiceISO= (codice ISO 4217 di 3 caratteri)
+|paesi= (Paesi in cui è usata) <br><small>-tra parentesi quadre-</small>
+|frazioni= (frazioni della valuta)
+|simbolo= (simbolo o abbrev. della valuta)
+|monete= (tagli delle monete)
+|banconote= (tagli delle banconote)
+|emittente= (ente emittente)
+|emittente_website= (sito web ente emittente)
+|iniz_circ = (data inizio circolazione)
+|fine_circ = (data fine circolazione)
+|sost_da= (nomevaluta)
+|data_sost= (data sostituzione)
+|datacambio= (data di riferimento cambio)
+|cambio= (cambio verso altra valuta)
+|agganciata= (valuta cui è agganciata + rapporto)
+|nota = (eventuali note)
+}}
+
+NB: Il nome della moneta viene preso direttamente dal nome della voce <nowiki>{{PAGENAME}}</nowiki>, che dovrebbe essere nella forma:</br> '''nome valuta''' + '''aggettivo paese''' (es. sterlina inglese).
+<div style="width:30em; padding:.5em 1em; border: 1px dotted gray; background: #EFE; font-size:90%"> 
+<tt><span style="color:violet;">'''<nowiki>{{Valuta</nowiki>'''</span><br>
+<span style="color:green;">'''|tipo=2'''</span><br>
+'''|nomelocale='''<br></tt>
+<nowiki><!--Immagini a scelta: nessuna, 1 o 2--></nowiki><br><tt>
+'''|imm1='''<br>
+'''|imm2='''<br>
+'''|desc1='''<br>
+'''|desc2='''<br></tt>
+<nowiki><!--inserire "nome.estensione" dell'immagine--></nowiki><br><tt>
+<span style="color:violet;">'''|codiceISO='''</span><br>
+<span style="color:violet;">'''|paesi='''</span><br>
+<span style="color:violet;">'''|simbolo='''</span><br>
+<span style="color:violet;">'''|frazioni='''</span><br>
+'''|monete='''<br>
+'''|banconote='''<br></tt>
+<span style="color:violet;">'''|emittente='''</span><br>
+<span style="color:black;">'''|emittente_website= '''</span><br>
+<span style="color:violet;">'''|iniz_circ='''</span><br>
+<span style="color:green;">'''|fine_circ='''</span><br>
+<span style="color:green;">'''|sost_da='''</span><br>
+<span style="color:green;">'''|data_sost='''</span><br>
+<span style="color:violet;">'''|datacambio='''</span><br>
+<span style="color:violet;">'''|cambio='''</span><br>
+'''|agganciata='''<br>
+'''|nota='''<br>
+<span style="color:violet;">'''<nowiki>}}</nowiki>'''</span></div>
+
+
+*'''<span style="color:green;">verde:</span>''' tag specifici del ''modello 2''
+*'''<span style="color:violet;">viola:</span>''' tag obbligatori.
+*'''<span style="color:black;">nero:</span>''' tag facoltativi.
+<br clear="both">
+
+== Spiegazione parametri ==
+Ecco alcune informazioni utili per la compilazione delle tabelle (in ''corsivo'' i parametri facoltativi):
+*'''tipo:''' può assumere valore 1 (in corso) o 2 (fuori corso)
+*''nomelocale:'' nome valuta in lingua locale (es. pound sterling)
+*''imm1:'' 1° immagine (moneta o fronte) 
+*''imm2:'' 2° immagine (banconota o retro)
+:È possibile inserire 1, 2 o nessuna immagine inserendo "nome.estensione" dell'immagine ed eventuali descrizioni, ad es. inserire immagine moneta e banconota oppure fronte e retro di una moneta.
+*''desc1:'' descrizione 1° immagine
+*''desc2:'' descrizione 2° immagine
+*'''codiceISO:''' codice [[ISO 4217]] di 3 caratteri
+*'''paesi:''' Paese/i in cui la valuta è/era usata (tra parentesi quadre, es. '''<nowiki>[[Italia]]</nowiki>''' o meglio mettere tra parentesi graffe '''{''' la sigla [[ISO 3166-1 alpha-3]] del paese, ad es. '''<nowiki>{{ALB}}</nowiki>''', che restituisce {{ALB}}
+*'''frazioni:''' frazioni della valuta
+*'''simbolo:''' simbolo o abbreviazione della valuta
+*''monete:'' indicare i tagli delle monete
+*''banconote:'' indicare i tagli delle banconote
+*'''emittente:''' indicare l'ente emittente
+*'''iniz_circ:''' indicare la data d'inizio circolazione
+*'''''fine_circ:''''' indicare la data di fine circolazione (solo se fuori corso)
+*'''''sost_da=''''' indicare la valuta che ha sostituito la presente (solo se fuori corso)
+*'''''data_sost=''''' indicare la data della sostituzione (solo se fuori corso)
+*'''datacambio:''' indicare la data a cui si riferisce il cambio
+*'''cambio:''' indicare il cambio verso altra valuta
+*''agganciata='' indicare la valuta o circuito ([[SME II]]) cui la moneta è agganciata e il rapporto di cambio (tasso centrale per valute SME)
+*''nota='' eventuali altre note
+
+== Esempi ==
+Per esempi vedi le voci:
+* [[Euro]] (valuta in corso)
+* [[Lira italiana]] (valuta fuori corso)
+<noinclude>[[Categoria:Manuali dei template|Valuta]]</noinclude>
