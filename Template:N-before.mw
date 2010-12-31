@@ -1,0 +1,2 @@
+<includeonly>|- style="text-align: center;{{{style|}}}"
+|width="30%" align="center" rowspan="{{{rowspan|1}}}" colspan="{{{colspan|1}}}"|Preceduta da:<br/>'''{{{currency|Senza precedenti moderni}}}'''{{#if:{{{location|}}}|<br/><small>'''Paese:''' {{{location}}}</small>|}}{{#if:{{{reason|}}}|<br/><small>'''Motivo:''' {{{reason}}}</small>|}}{{#if:{{{ratio|}}}|<br/><small>'''Tasso:''' {{{ratio}}}</small>|}}{{#if:{{{note|}}}|<br/><small>'''Nota:''' {{{note}}}</small>|}}</includeonly><noinclude>
