@@ -1,0 +1,114 @@
+== Istruzioni ==
+L'uso di questo template è semplicissimo. Osserva questo esempio:
+
+<pre>
+{{Tasso di cambio|TWD}}
+</pre>
+
+che produce
+
+<div style="padding: 10px; border: 1px dashed #2f6fab;">
+{{Tasso di cambio|TWD}}
+</div>
+
+=== Ulteriori valute ===
+Si possono specificare tre ulteriori valute. 
+
+<pre>
+{{Tasso di cambio|SGD|MYR|CNY|IDR}}
+</pre>
+
+produce
+
+<div style="padding: 10px; border: 1px dashed #2f6fab;">
+{{Tasso di cambio|SGD|MYR|CNY|IDR}}
+</div>
+
+=== Livello della sezione:  header level 3 ===
+Si può specificare il livello con la variabile <tt>header = h3<tt>. In questo caso il livello sarà 3. Il livello di  ''default'' è 2. Il template attualmente non supporta livelli superiori al 3.
+
+<pre>
+{{Tasso di cambio|EUR|header = h3}}
+</pre>
+
+produce
+
+<div style="padding: 10px; border: 1px dashed #2f6fab;">
+{{Tasso di cambio|EUR|header = h3}}
+</div>
+
+== Nota ==
+
+Il template supporta una nota. La sintassi è:
+
+<pre>
+{{Exchange Rate|EUR|
+note=xxxxxxxx}}
+</pre>
+
+e produce 
+
+{{Tasso di cambio|EUR|
+note=xxxxxxxx}}
+
+Esempi:
+Rial de Qatar:
+{{Exchange Rate|QAR|
+note=I tassi ottenuti da questi siti web potrebbero contraddire i rapporti fissi della moneta}}
+
+Manat turkmeno:
+{{Exchange Rate|TMM|
+note= I tassi ottenuti da questi siti web potrebbero differire sostanzialmente da quelli del mercato nero 
+
+}}
+
+== Avvertimento ==
+* "Tassi attuali di cambio per XYZ" sembra una sezione ma non lo è. I bottone [<small>modifica</small>] è stato "rimosso" per evitare che qualcuno accidentalmente lo modifichi. 
+<!--However, the side effect of that is the font size won't change in IE (at least IE6) if I enlarge or shrink my font size.
+
+==Choice of currencies==
+Currently, the 8 default currencies listed here are [[Bloomberg L.P.|Bloomberg]]'s benchmark currencies [http://www.bloomberg.com/markets/currencies/fxc.html].
+
+===Old choice of currencies===
+'''(This section is a casual talk of the author. The author does not guarantee the accuracy of any data here.)'''
+
+It is hard to determine which currencies are '''major''' or of '''great importance'''. I finally settled down with the 11 listed above. According to the data on wikipedia itself when I wrote this, these 11 currencies covered 82% of the world GDP (nominal), 75~76% using PPP, and 57% of the world population. I only included the 22 '''principle''' countries (12 in eurozone + the other 10) for simplicity of calculation. These ratios are expected to be higher if you include other countries/region that use currencies or will be using (e.g. new E.U members).
+
+Here are a few more candidate currencies if we were to add more. The '''rank''' is the rank excluding the currencies already on the list.
+{|class="wikitable"
+!rowspan=2| Currency !!colspan=5| Rank !!rowspan=2|Regional Importance
+|-
+! GDP (nom) !! GDP (PPP, IMF) !! GDP (PPP, World Bank) !! GDP (PPP, CIA) !! Population
+|-
+|South Korean won || '''1''' || '''1''' || '''1''' || '''1''' || 14 ||
+|-
+|Indonesian rupiah || 9 || '''2''' || '''2''' || '''2''' || '''1''' ||Southeast Asia
+|-
+|New Taiwan dollar || 5 || '''3''' ||  || '''3''' || 34 ||
+|-
+|Swiss franc || '''2''' || 21 || 18 || 18 || 76 ||
+|-
+|Turkish new lira || '''3''' || '''5''' || '''3''' || '''5''' || 9 || Middle East
+|-
+|Swedish krona || '''4''' || 18 || 15 || 17 || 67 ||
+|-
+|South African rand || 11 || '''4''' || '''6''' || '''8''' || 15 || Southern Africa
+|-
+|Argentine peso || 13 || 8 || '''5''' || '''7'''|| 18 || South America
+|}
+
+-->
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Categoria:Template numismatica |{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[en:Template:Exchange Rate]]
+[[hr:Predložak:Valutni tečaj]]
+[[mk:Шаблон:Девизен курс]]
+[[zh:Template:Exchange Rate]]
+
+
+</includeonly>
+<noinclude>[[Categoria:Manuali dei template|Tasso di cambio]]</noinclude>
