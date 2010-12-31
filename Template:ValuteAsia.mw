@@ -1,0 +1,33 @@
+{{Navbox
+|name   = {{PAGENAME}}
+|state  = {{{state|autocollapse}}}
+|title  = [[Valute|Valute]] de ll'[[Asie]]
+|navbar = plain
+|titlestyle = background:#abcdef;
+|image  =
+|groupstyle = text-align:center; background:#abcdef; 
+|liststyle = font-size:95%
+|belowstyle = text-align:center; background:#abcdef;
+
+|group1 = [[Asie Cendrale]]
+|list1 = [[Afghani afgane]] • [[Tenge kazake]] • [[Som kirghize]] • [[Tugrik mongole]] • [[Rublo russe]] • [[Somoni tagiche]] • [[Manat turkmene]] • [[Som uzbeche]]
+
+|group2 = [[Asie Oriendale]]
+|list2 = [[Renminbi cenise]] • ''[[Dollare de Hong Kong]]'' • [[Yen giappunise]] • ''[[Pataca de Macao]]'' • [[Won nordcoreane]] • [[Dollare taiwanese|Nuève dollare taiwanese]] • [[Won sudcoreane]]
+
+|group3 = [[Sudest asiatiche]]
+|list3 = [[Dollare d'u Brunei]] • [[Riel cambogiane]] • [[Rupia indonesiane]] • [[Kip laotiane]] • [[Ringgit malese]] • [[Kyat birmane]] • [[Peso filippine]] • [[Dollare de Singapore]] • [[Baht thailandese]] • [[Dollare statunitense]] ''(<small>[[Timor Est]]</small>)'' • [[Đồng vietnamite]] 
+
+|group4 = [[Asie d'u Sud]]
+|list4 = [[Taka bengalese]] • [[Ngultrum d'u Bhutan]] • [[Rupia indiane]] • [[Rufiyaa de le Maldive]] • [[Rupia nepalese]] • [[Rupia pakistane]] • [[Rupia singalese]]
+
+|group5 = [[Asie Occidentale]]
+|list5 = [[Dram armene]] • [[Manat azere]] • [[Dinaro d'u Bahrain]] • [[Euro]] ''(<small>[[Cipre]]</small>)'' • [[Sterline egiziane]] • [[Lari georgiane]] • [[Riyal iraniane]] • [[Dinaro irachene]] • [[Nuève siclo israeliane]] • [[Dinaro giordane]] • [[Dinaro kuwaitiane]] • [[Lira libanese]] • [[Riyal de l'Oman]] • [[Riyal d'u Qatar]] • [[Riyal saudite]] • [[Lira siriane]] • [[Lira turche|Nuève lira turche]] • [[Dirham de le Emirate Arabe Aunìte]] • [[Riyal yemenite]]
+}}<includeonly>
+{{#if:{{NAMESPACE}}||[[Categorije: Valute asiatiche]]}}</includeonly><noinclude>
+
+[[de:Vorlage:Navigationsleiste Asienische Währungen]] 
+[[en:Template:Currencies of Asia]]
+[[fr:Modèle:MonnaiesAsie]]
+[[it:Template:ValuteAsia]]
+</noinclude>
