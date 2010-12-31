@@ -1,0 +1,4 @@
+<includeonly>{{#if:{{{title|}}}|<center>'''{{{title}}}'''</center>|}}
+{| class="wikitable" style="margin: 0.5em auto; clear: both; font-size:95%;"
+|- style="text-align: center;"
+</includeonly><noinclude>
