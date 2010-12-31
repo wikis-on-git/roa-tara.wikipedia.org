@@ -1,0 +1,33 @@
+{{#switch:{{{header|}}}|h3=<h3>|#default=<h2>}}Tasse de ôsce a die de cange pè {{{1|}}}{{#switch:{{{header|}}}|h3=</h3>|#default=</h2>}}
+{| border="0" cellpadding="0" style="background: none;"
+|  Cu [http://it.finance.yahoo.com/currency Yahoo! Finance]:
+| {{#ifeq:{{{1}}}|AUD||[http://it.finance.yahoo.com/currency/convert?amt=1&from=AUD&to={{{1|}}}&submit=Convert AUD]}} {{#ifeq:{{{1}}}|CAD||[http://it.finance.yahoo.com/currency/convert?amt=1&from=CAD&to={{{1|}}}&submit=Convert CAD]}} {{#ifeq:{{{1}}}|CHF||[http://it.finance.yahoo.com/currency/convert?amt=1&from=CHF&to={{{1|}}}&submit=Convert CHF]}} {{#ifeq:{{{1}}}|EUR||[http://it.finance.yahoo.com/currency/convert?amt=1&from=EUR&to={{{1|}}}&submit=Convert EUR]}} {{#ifeq:{{{1}}}|GBP||[http://it.finance.yahoo.com/currency/convert?amt=1&from=GBP&to={{{1|}}}&submit=Convert GBP]}} {{#ifeq:{{{1}}}|HKD||[http://it.finance.yahoo.com/currency/convert?amt=1&from=HKD&to={{{1|}}}&submit=Convert HKD]}} {{#ifeq:{{{1}}}|JPY||[http://it.finance.yahoo.com/currency/convert?amt=1&from=JPY&to={{{1|}}}&submit=Convert JPY]}} {{#ifeq:{{{1}}}|USD||[http://it.finance.yahoo.com/currency/convert?amt=1&from=USD&to={{{1|}}}&submit=Convert USD]}} {{#if:{{{2|}}}
+|[http://it.finance.yahoo.com/currency/convert?amt=1&from={{{2}}}&to={{{1|}}}&submit=Convert {{{2}}}]}} {{#if:{{{3|}}}
+|[http://it.finance.yahoo.com/currency/convert?amt=1&from={{{3}}}&to={{{1|}}}&submit=Convert {{{3}}}]}} {{#if:{{{4|}}}
+|[http://it.finance.yahoo.com/currency/convert?amt=1&from={{{4}}}&to={{{1|}}}&submit=Convert {{{4}}}]}} 
+|-
+| {{en}} Cu [http://www.xe.com/ XE.com]:
+|{{#ifeq:{{{1}}}|AUD||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=AUD&To={{{1|}}} AUD]}} {{#ifeq:{{{1}}}|CAD||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=CAD&To={{{1|}}} CAD]}} {{#ifeq:{{{1}}}|CHF||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=CHF&To={{{1|}}} CHF]}} {{#ifeq:{{{1}}}|EUR||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=EUR&To={{{1|}}} EUR]}} {{#ifeq:{{{1}}}|GBP||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=GBP&To={{{1|}}} GBP]}} {{#ifeq:{{{1}}}|HKD||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=HKD&To={{{1|}}} HKD]}} {{#ifeq:{{{1}}}|JPY||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=JPY&To={{{1|}}} JPY]}} {{#ifeq:{{{1}}}|USD||[http://www.xe.com/ucc/convert.cgi?Amount=1&From=USD&To={{{1|}}} USD]}} {{#if:{{{2|}}}
+|[http://www.xe.com/ucc/convert.cgi?Amount=1&From={{{2}}}&To={{{1|}}} {{{2}}}]}} {{#if:{{{3|}}}
+|[http://www.xe.com/ucc/convert.cgi?Amount=1&From={{{3}}}&To={{{1|}}} {{{3}}}]}} {{#if:{{{4|}}}
+|[http://www.xe.com/ucc/convert.cgi?Amount=1&From={{{4}}}&To={{{1|}}} {{{4}}}]}} 
+|-
+| {{en}} Cu [http://www.OANDA.com/ OANDA.com]:
+|{{#ifeq:{{{1}}}|AUD||[http://www.oanda.com/convert/classic?value=1&exch=AUD&expr={{{1|}}} AUD]}}  {{#ifeq:{{{1}}}|CAD||[http://www.oanda.com/convert/classic?value=1&exch=CAD&expr={{{1|}}} CAD]}} {{#ifeq:{{{1}}}|CHF||[http://www.oanda.com/convert/classic?value=1&exch=CHF&expr={{{1|}}} CHF]}} {{#ifeq:{{{1}}}|EUR||[http://www.oanda.com/convert/classic?value=1&exch=EUR&expr={{{1|}}} EUR]}} {{#ifeq:{{{1}}}|GBP||[http://www.oanda.com/convert/classic?value=1&exch=GBP&expr={{{1|}}} GBP]}} {{#ifeq:{{{1}}}|HKD||[http://www.oanda.com/convert/classic?value=1&exch=HKD&expr={{{1|}}} HKD]}} {{#ifeq:{{{1}}}|JPY||[http://www.oanda.com/convert/classic?value=1&exch=JPY&expr={{{1|}}} JPY]}} {{#ifeq:{{{1}}}|USD||[http://www.oanda.com/convert/classic?value=1&exch=USD&expr={{{1|}}} USD]}} {{#if:{{{2|}}}
+|[http://www.oanda.com/convert/classic?value=1&exch={{{2}}}&expr={{{1|}}} {{{2}}}]}} {{#if:{{{3|}}}
+|[http://www.oanda.com/convert/classic?value=1&exch={{{3}}}&expr={{{1|}}} {{{3}}}]}} {{#if:{{{4|}}}
+|[http://www.oanda.com/convert/classic?value=1&exch={{{4}}}&expr={{{1|}}} {{{4}}}]}}<!--
+|-
+| Cu [http://www.google.com/ Google]:
+|{{#ifeq:{{{1}}}|AUD||[http://www.google.com/search?q=1AUD+in+{{{1|}}} AUD]}}  {{#ifeq:{{{1}}}|CAD||[http://www.google.com/search?q=1CAD+in+{{{1|}}} CAD]}} {{#ifeq:{{{1}}}|CHF||[http://www.google.com/search?q=1CHF+in+{{{1|}}} CHF]}} {{#ifeq:{{{1}}}|EUR||[http://www.google.com/search?q=1EUR+in+{{{1|}}} EUR]}} {{#ifeq:{{{1}}}|GBP||[http://www.google.com/search?q=1GBP+in+{{{1|}}} GBP]}} {{#ifeq:{{{1}}}|HKD||[http://www.google.com/search?q=1HKD+in+{{{1|}}} HKD]}} {{#ifeq:{{{1}}}|JPY||[http://www.google.com/search?q=1JPY+in+{{{1|}}} JPY]}} {{#ifeq:{{{1}}}|USD||[http://www.google.com/search?q=1USD+in+{{{1|}}} USD]}} {{#if:{{{2|}}}
+|[http://www.google.com/search?q=1{{{2}}}+in+{{{1|}}} {{{2}}}]}} {{#if:{{{3|}}}
+|[http://www.google.com/search?q=1{{{3}}}+in+{{{1|}}} {{{3}}}]}} {{#if:{{{4|}}}
+|[http://www.google.com/search?q=1{{{4}}}+in+{{{1|}}} {{{4}}}]}}-->
+|}{{#if:{{{note|}}}|<small>Note: {{{note}}}</small>}}<noinclude>
+
+
+{{man}}
+<!-- Add cats and interwikis to the /doc subpage, not here! -->
+
+
+</noinclude>
