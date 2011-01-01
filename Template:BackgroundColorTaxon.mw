@@ -1,0 +1,12 @@
+<includeonly>background-color: {{#switch:{{lc:{{{1}}}}}
+|[[animalia]]|'''animalia''' = pink
+|[[plantae]]|'''plantae''' = lightgreen
+|[[fungi]]|'''fungi''' = lightblue
+|[[protista]]|'''protista''' = khaki
+|[[chromista]]|'''chromista''' = khaki
+|[[bacteria]]|'''bacteria''' = lightgrey
+|[[archaea]]|'''archaea''' = darkgray
+|[[virus]]|'''virus''' = violet
+|eucarioti = plum
+|procarioti = grey
+|violet}};</includeonly><noinclude>[[Category:Template tassobox]]</noinclude>
