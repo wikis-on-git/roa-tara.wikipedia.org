@@ -1,0 +1,1 @@
+<small>{{#if: {{{standard_scale|}}}|These images are to scale at 2.5 pixels per {{#if: {{{BrE|}}}|millimetre|millimeter}}.}} Pè le standard d'a tavele, vide 'a [[Wikipedia:WikiProject Numismatics/Style/Currency_article#Specification_table|specifeche tavele de le turnise]].</small>
