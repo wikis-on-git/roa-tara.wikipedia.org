@@ -1,0 +1,13 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=280 style="margin: 0 0 1em 1em; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- 
+! bgcolor=#e4a460 colspan=3 color=#ffffff | '''{{{nomearea}}}'''
+|- {{#if: {{{linkmappa|}}} | {{Box mappa|{{{linkmappa}}}|{{{pxMappa}}}}} | }}
+{{Box|[[Reggione d'Itaglie|Reggione]]|{{{regione}}}}} 
+{{Box|[[Provinge tagliàne|Provinge]]|{{{provincia}}}}} 
+{{Box|[[Capeluèche]]|{{{capoluogo}}}}} 
+|- {{#if: {{{comuni|}}} | {{Box|Comune|{{{comuni}}}}} | }} 
+|- {{#if: {{{superficie|}}} | {{Box|Grannèzze|{{{superficie}}} ha}} | }}
+|- {{#if:{{{presidente|}}} | {{Box|Presidente|{{{presidente}}}}} | }}
+|- {{#if:{{{contatti|}}} | {{Box|Cundatte|<center><small>''{{{contatti}}}}}''</small></center> | }}
+|- {{#if:{{{sito|}}} | {{Box site|1={{{sito}}}}} | }}
+{{Box fine}}
