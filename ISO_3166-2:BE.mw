@@ -1,76 +1,76 @@
 {{torna a|ISO 3166-1}}
-'''ISO 3166-2:BE''' ète 'n'[[Organizzazione 'Ndernaziunalë pë lë Standardizzazioni|ISO]] stàndàrd ca dìcë lë codecë geografechë: Jè 'nu sotto 'nzieme dë l' [[ISO 3166-2]] ca s'applëchesce a 'u [[Belgio]]. 
+'''ISO 3166-2:BE''' ète 'n'[[Organizzazione 'Ndernazionale pe le Standardizzaziune|ISO]] stàndàrd ca dìce le codece sciugrafece: Jè 'nu sotto 'nzieme de l' [[ISO 3166-2]] ca s'applechesce a 'u [[Belgio]]. 
 
-Lë codëcë së rëferiscenë a lë 5 pronvige dë lë [[Friande]] e a lë 5 provinge d'a [[Vallonia]] e 'a [[Regione dë Bruxelles Capitalë]]
+Le codece se referiscene a le 5 pronvige de le [[Friande]] e a le 5 provinge d'a [[Vallonia]] e 'a [[Regione de Bruxelles Capitale]]
 
-A prima partë d'u codëcë (BE) significë ca ète 'u Belgio, a seconda partë dicë l'appartenenzë 'a lë Fiandre o 'a Vallonia.
+A prima parte d'u codece (BE) signifece ca ète 'u Belgio, a seconda parte dice l'appartenenze 'a le Fiandre o 'a Vallonia.
 
-Stë 2 regione non gë ténënë 'u codëcë ISO 3166-2.
-*<code>VLA</code> [[Regione d'à Fiandra]]
-*<code>WAL</code> [[Vallonia]]
+Ste 2 regione non ge ténene 'u codece ISO 3166-2.
+*<code>VLA</code> [[Reggione de le Fiandre]]
+*<code>WAL</code> [[Reggione d'a Vallonia]]
 
-== Codëcë ==
+== Liste de le codece ==
 {| width="100%" cellspacing="0" style="white-space:nowrap;"
 |- style="vertical-align:top;"
 |style="margin-right:0px;padding-right:0px;width:58ex;"|
 {| align="left" cellspacing="2" style="margin-right:0px;padding-right:0px;width:58ex;"
-|colspan="3"|Urdënëtë pë codëcë
+|colspan="3"|Urdenete pe codece
 |-
 !<code>BE-BRU</code> 
-|colspan="2"|[[Regione dë Bruxelles Capitalë]]
+|colspan="2"|[[Regione de Bruxelles Capitale]]
 |-
 !<code>BE-VAN</code>
-|[[Antwerp (provinge)|Antwerpen]]
-|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
+|[[Anversa, provinge|Anversa]]
+|<span style="font-size:87%;">(Provinge de le Fiandre)</span>
 |-
 !<code>BE-VBR</code>
 |[[Vlaams-Brabant]]
-|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
+|<span style="font-size:87%;">(Provinge de le Fiandre)</span>
 |-
 !<code>BE-VLI</code>
 |[[Limburg (Belgio)|Limburg]]
-|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
+|<span style="font-size:87%;">(Provinge de le Fiandre)</span>
 |-
 !<code>BE-VOV</code>
 |[[Oost-Vlaanderen]]
-|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
+|<span style="font-size:87%;">(Provinge de le Fiandre)</span>
 |-
 !<code>BE-VWV</code>
 |[[West-Vlaanderen]]
-|<span style="font-size:87%;">(Provinge dë lë Fiandre)</span>
+|<span style="font-size:87%;">(Provinge de le Fiandre)</span>
 |-
 !<code>BE-WBR</code>
 |[[Walloon Brabant|Brabant Wallon]]
-|<span style="font-size:87%;">(a Walloon province)</span>
+|<span style="font-size:87%;">(Provinge d'a Vallonia)</span>
 |-
 !<code>BE-WHT</code>
 |[[Hainaut (province)|Hainaut]]
-|<span style="font-size:87%;">(a Walloon province)</span>
+|<span style="font-size:87%;">(Provinge d'a Vallonia)</span>
 |-
 !<code>BE-WLG</code>
 |[[Liège (provinge)|Liège]]
-|<span style="font-size:87%;">(a Walloon province)</span>
+|<span style="font-size:87%;">(Provinge d'a Vallonia)</span>
 |-
 !<code>BE-WLX</code>
 |[[Luxembourg (Belgio)|Luxembourg]]
-|<span style="font-size:87%;">(a Walloon province)</span>
+|<span style="font-size:87%;">(Provinge d'a Vallonia)</span>
 |-
 !<code>BE-WNA</code>
 |[[Namur (provinge)|Namur]]
-|<span style="font-size:87%;">(a Walloon province)</span>
+|<span style="font-size:87%;">(Provinge d'a Vallonia)</span>
 |}
 |style="width:100%;"|
 {| align="right" style="width:35ex;"
-|style="text-align:center"|Urdënëtë pë nome
+|style="text-align:center"|Urdenete pe nome
 |
 |-
-![[Antwerp (provinge)|Antwerpen]]
+![[Anversa, provinge|Anversa]]
 |<code>BE-VAN</code>
 |-
 ![[Brabant Wallon]]
 |<code>BE-WBR</code>
 |-
-![[Regione dë Bruxelles Capitalë]]
+![[Regione de Bruxelles Capitale]]
 |<code>BE-BRU</code> 
 |-
 ![[Hainaut (provinge)|Hainaut]]
@@ -99,11 +99,14 @@ Stë 2 regione non gë ténënë 'u codëcë ISO 3166-2.
 |}
 |}
 
-== Vidë pure ==
-*[[ISO 3166-2]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë reggione.
-*[[ISO 3166-1]], 'a taggellë dë riferimende pë tuttë lë codecë dë lë paisë, ca s'ausë cummë a 'u dominie de [[Indernette]].
+== Vide pure ==
+*[[ISO 3166-2]], 'a taggelle de riferimende pe tutte le codece de le reggione.
+*[[ISO 3166-1]], 'a taggelle de riferimende pe tutte le codece de le paise, ca s'ause cumme a 'u dominie de [[Indernette]].
 * [[Regioni d'u Belgio]]
 * [[Provinge d'u Belgio]]
+
+== Collegaminde fore a Uicchipèdie ==
+* [http://www.statoids.com/ube.html Provinge d'u Belgio], Statoids.com
 
 {{ISO 3166}}
 
