@@ -1,0 +1,73 @@
+:Il canale IRC di Wikipedia tarantina: [irc://irc.eu.freenode.net/wikipedia-roa-tara '''#wikipedia-roa-tara @ irc.eu.freenode.net''']
+==Comandi utili==
+*Per cambiare la password:
+::'''<tt> /msg nickserv set password <nuova_password> </tt>'''
+*Per chi ha un nick registrato, abilita le query con chi ha un nick non registrato:
+::'''<tt>/msg nickserv set unfiltered on</tt>'''
+*Se cade il collegamento e il server non consente l'uso del nickname perché è occupato dal proprio "fantasma" (''ghost''):
+** Dopo essere entrati con un altro nickname, inviare i seguenti comandi (dove <tt>nickname</tt> e <tt>password</tt> si riferiscono al nick registrato che si usa di solito): 
+::'''<tt> /msg nickserv ghost nickname <password> </tt>'''
+::'''<tt> /nick <nickname> </tt>'''
+::'''<tt> /msg nickserv identify <password> </tt>'''
+* Per inviare un messaggio in terza persona, scrivere durante una sessione di chat:
+::'''<tt> /me deve andare </tt>''' 
+dove "/me" sta per il tuo nickname. Ad esempio, se il tuo nickname è "Wikipedia", il messaggio uscirà come il seguente: <br />
+::'''''Wikipedia''' deve andare''
+
+
+::<tt>''/msg ChanServ op #wikipedia-roa-tara''</tt>
+
+[[Category:Aiuto]]
+
+[[af:Wikipedia:IRC]]
+[[als:Wikipedia:Chat]]
+[[ar:ويكيبيديا:قناة الدردشة]]
+[[be-x-old:Вікіпэдыя:IRC]]
+[[bg:Уикипедия:IRC]]
+[[bs:Wikipedia:IRC]]
+[[ca:Viquipèdia:Canals IRC]]
+[[cs:Wikipedie:IRC]]
+[[da:Hjælp:Chat]]
+[[de:Wikipedia:Chat]]
+[[el:Βικιπαίδεια:IRC]]
+[[en:Wikipedia:IRC]]
+[[es:Wikipedia:Canal de IRC]]
+[[eu:Wikipedia:Txata]]
+[[fa:ویکی‌پدیا:کانال‌های آی‌آرسی]]
+[[fi:Wikipedia:IRC-kanavat]]
+[[fr:Aide:IRC]]
+[[gl:Wikipedia:Canle de IRC]]
+[[he:ויקיפדיה:חדר IRC]]
+[[hi:विकिपीडिया:आइआरसी चैनल]]
+[[hr:Wikipedija:IRC]]
+[[hu:Wikipédia:IRC]]
+[[id:Wikipedia:IRC]]
+[[it:Aiuto:Canale IRC]]
+[[ja:Wikipedia:チャット]]
+[[ko:위키백과:IRC 대화방]]
+[[ksh:Wikipedia:Chat]]
+[[ms:Wikipedia:Saluran IRC]]
+[[nds:Wikipedia:Chat]]
+[[nds-nl:Wikipedie:Chat]]
+[[nl:Help:Wikipediachat]]
+[[nn:Wikipedia:IRC]]
+[[no:Wikipedia:Chat]]
+[[pl:Wikipedia:Kanał IRC]]
+[[pt:Wikipedia:Chat]]
+[[ro:Wikipedia:Canal IRC]]
+[[ru:Википедия:IRC]]
+[[simple:Wikipedia:IRC channels]]
+[[sk:Wikipédia:IRC]]
+[[sl:Wikipedija:IRC-kanal]]
+[[sq:Wikipedia:Bisedoni]]
+[[sr:Википедија:ИРЦ]]
+[[su:Wikipedia:IRC]]
+[[sv:Wikipedia:IRC]]
+[[th:วิกิพีเดีย:ไออาร์ซี]]
+[[tr:Vikipedi:IRC kanalı]]
+[[uk:Вікіпедія:IRC]]
+[[vec:Aiuto:Canałe IRC]]
+[[vi:Wikipedia:Kênh IRC]]
+[[yi:װיקיפּעדיע:איי אר סי טשענעלס]]
+[[zh:Wikipedia:IRC聊天频道]]
+[[zh-yue:Wikipedia:IRC頻道]]
