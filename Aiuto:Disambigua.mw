@@ -1,0 +1,307 @@
+{{nota disambigua|l'elenco completo delle pagine di disambiguazione|[[:Category:Disambigua]]}}
+[[Image:Disambigua_compass.svg|right|60px]]
+Nel mondo wikipediano, '''disambiguare''' — ovvero fare una [[disambiguazione]] — significa risolvere i problemi che potrebbero nascere nei titoli delle [[Help:Voce|voci]] che trattano di argomenti diversi ma [[Omonimia|omonimi]], cioè definiti con parole identiche, il che potrebbe creare confusione durante la [[Help:Ricerca|ricerca]].
+
+Per esempio, mettendo fra parentesi quadre "<nowiki>[[ ]]</nowiki>" ''mercurio'', si ottiene [[mercurio]]; ma il [[Help:Wikilink|wikilink]] a cosa si riferisce? Si possono infatti avere più significati, corrispondenti a più voci:
+* [[Mercurio (astronomia)]]
+* [[Mercurio (elemento)]]
+* [[Mercurio (divinità)]]
+* ...
+
+== Tipi di disambiguazione ==
+{{TOCright Aiuto}}
+Vi sono tre modi di risolvere un caso di ambiguità, attraverso titoli e pagine apposite:
+
+*A. '''Significati di pari diffusione e importanza → ''Pagina di disambiguazione''''': ogni voce ha una pagina a sé ed esiste un'apposita ''pagina di disambiguazione'' con l'avviso {{tl|disambigua}} contenente tutti i ''[[Help:Wikilink|link]]'' di rimando alle specifiche voci con una breve descrizione. Un caso speciale di questo genere sono le [[Progetto:Acronimi/Disambigua|combinazioni di 2 o più caratteri]].
+*B. '''Un significato nettamente predominante → ''Nota disambigua''''': se uno dei significati della voce risulta nettamente predominante, alla sua pagina si assegna il titolo originale (non disambiguato) della voce. In cima a tale pagina si pongono i riferimenti  alle altre pagine omonime, utilizzando a seconda dei casi uno dei due seguenti metodi:
+**B1 Se le altre pagine omonime sono poche: ponendo all'inizio della pagina col titolo originale (non disambiguato) una o più {{tl|nota disambigua}}, ciascuna con un riferimento diretto ad una delle altre pagine omonime  (vedi, ad esempio, la voce [[Saiyan]]) 
+**B2 Se le altre pagine omonime ''non'' sono poche: ponendo all'inizio della pagina col titolo originale (non disambiguato) un'unica nota disambigua, alla pagina di disambiguazione (che avrà un titolo tipo <tt>Voce (disambigua)</tt> vedi più avanti [[#Titoli delle voci|la sezione "Titoli delle voci"]]). (vedi, ad esempio, [[Europa]]). Se la pagina di disambiguazione non esiste, una volta salvata la pagina comparirà nel template nota disambigua un link rosso, clicca su di esso e crea la pagina di disambiguazione.
+*C. '''Riassunti brevi → Sezioni su una sola pagina''': una sola pagina contenente tutti i significati, ciascuno dotato di un breve paragrafo debitamente intitolato (vedi, ad esempio, ''<small><<necessario nuovo esempio>></small>''). Si tratta di un soluzione raramente utilizzata e ''temporanea'', destinata cioè a diventare in seguito una ''pagina di disambiguazione'', quando ogni paragrafo sarà sviluppato in una pagina autonoma, magari sotto forma di ''[[Help:abbozzo|abbozzo]]''.
+
+=== Titoli delle voci ===
+Secondo la tipologia di disambiguazione indicata, esistono diversi modi di assegnare i titoli alle pagine:
+
+'''Caso A'''
+
+Alla ''pagina di disambiguazione'' si assegna il titolo corrispondente alla ''Voce'' senza alcuna specificazione, mentre le ''pagine omonime'' vengono differenziate inserendo nel titolo accanto alla voce l'''argomento'' di appartenenza tra parentesi. 
+
+:::::::::{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #fff; border: 1px #aaa solid; border-collapse: collapse;" align="center"
+|-
+! Pagina
+! Titolo
+|-
+| Disambigua
+| Voce
+|-
+| Omonime
+| Voce (argomento)<ref name=parentesi>Le parole tra parentesi, se non nomi propri, vanno sempre scritte interamente in minuscolo.</ref>
+|}
+
+'''Caso B'''
+
+Alla ''pagina principale'', in cui viene trattato il significato nettamente predominante, si assegna il titolo corrispondente alla ''Voce'', senza alcuna specificazione, mentre le ''pagine omonime'' vengono differenziate inserendo nel titolo accanto alla voce l'''argomento'' di appartenenza tra parentesi. Alla eventuale ''pagina di disambiguazione'' si aggiunge la dicitura ''disambigua'' tra parentesi. 
+
+:::::::::{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #fff; border: 1px #aaa solid; border-collapse: collapse;" align="center"
+|-
+! Pagina
+! Titolo
+|-
+| Principale
+| Voce
+|-
+| Omonime
+| Voce (argomento)<ref name=parentesi/>
+|-
+| Disambigua
+| Voce (disambigua)<ref name=parentesi/>
+|}
+
+
+''' Caso C'''
+
+Nell'ultimo caso, ovviamente, si assegna il nome della voce in attesa che diventi una pagina di disambiguazione.
+
+==== Specificazione del titolo ====
+{{vedi anche|Help:Convenzioni di nomenclatura}}
+La specificazione del titolo deve avvenire mettendo una porzione di testo chiarificatore tra parentesi. Sono considerate ''fuori standard'' tutti gli altri tipi di titoli: con virgole, preposizioni, trattini e altri caratteri.
+
+Nel decidere cosa inserire fra parentesi nel titolo della pagina è necessario scegliere una parola che identifichi univocamente il significato della voce, se possibile, secondo il "soggetto" o per lo meno al "contesto" di pertinenza, come per [[Triangolo (costellazione)]] o in [[triangolo (musica)]]. Se però la voce è dotata di un nome proprio, come per [[Triangolo delle Bermude]], è quest'ultimo che deve essere assegnato alla pagina.
+
+Comunque, l'aggiunta tra parentesi deve essere sintetica, specifica e tale da dare un'idea immediata dell'argomento, ma soprattutto non ambigua; dovendo scegliere, per esempio, il titolo più adatto per indicare il mercurio come elemento chimico, sarebbe immediatamente da evitare la dicitura ''Mercurio (elemento chimico)'', in quanto non sintetica, ma pure ''Mercurio (chimica)'', perché eccessivamente generica e vaga; più semplicemente è preferibile scegliere ''Mercurio (elemento)''.
+
+In considerazione dei molti omonimi presenti nella stessa famiglia nobiliare che hanno svolto una vita similare, è utile disambiguare con le date di nascita e morte: [[Enrico d'Orléans (1822-1897)]] ed [[Enrico d'Orléans (1933)]].
+
+In tutti i casi è sempre bene seguire le [[Help:convenzioni di nomenclatura|convenzioni di nomenclatura]] già utilizzate in Wikipedia e definite dai wikipediani per omogeneizzare i titoli delle pagine.
+
+È sconsigliato usare parentesi nei titoli per voci che non abbiano ancora bisogno effettivo di essere disambiguate. Se necessario sarà fatto in un secondo momento.
+
+=== Procedura ===
+'''Caso A'''
+
+# Si definiscono titoli adeguati e diversi per ogni pagina, spostandole alla nuova denominazione tramite il comando '''[[Help:Sposta|Sposta]]''' (penultima etichetta in alto a destra), visibile soltanto agli utenti [[Help:Come registrarsi|registrati]];
+# si crea la pagina di disambiguazione coi collegamenti alle voci, ricordandosi di porre all'inizio il template {{tl|disambigua}};
+# si correggono (aiutandosi con lo strumento ''[[Help:Puntano qui|Puntano qui]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
+
+'''Caso B'''
+# Si definiscono titoli adeguati e diversi per le pagine dal significato non predominante, spostandole alla nuova denominazione tramite il comando '''[[Help:Sposta|Sposta]]''' (penultima etichetta in alto a destra), visibile soltanto agli utenti [[Help:Come registrarsi|registrati]];
+# si pone all'inizio della pagina con il significato nettamente predominante una o più {{tl|nota disambigua}}, alle voci alternative;
+# se necessario, si crea la pagina di disambiguazione coi collegamenti alle voci, ricordandosi di porre all'inizio il template {{tl|disambigua}}; correggere la nota disambigua nella pagina principale in modo che punti alla pagina di disambiguazione ed eliminare le note che non servono;
+# si correggono (aiutandosi con lo strumento ''[[Help:Puntano qui|Puntano qui]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
+
+== Pagina di disambiguazione ==
+C'è una certa flessibilità nel costruire e persino nel decidere la necessità di una pagina di disambiguazione. Esistono, tuttavia, strutture e norme-guida da osservare.
+
+In testa alla pagina ''deve'' essere presente il template {{tl|disambigua}}, in modo da far apparire il seguente avviso:
+
+<div class="toccolours itwiki_template_avviso" style="margin-bottom: 0.5em;">
+{| style="background-color: White; width:100%;"
+|----
+| style="vertical-align:center;" |[[Image:Disambigua compass.svg|35px|logo]]
+|Questa è una [[Help:Disambigua|pagina di disambiguazione]] per orientarsi tra [[Help:Voce|voci]] omonime o dal titolo ambiguo.<br />Se sei [[Speciale:PuntanoQui/{{PAGENAME}}|giunto qui]] da un'altra pagina, per favore torna indietro e correggi il [[Help:Wikilink|collegamento]], indirizzandolo alla voce più appropriata.
+|}
+</div>
+
+Si crea un incipit (''opzionale'') costituito da una breve frase (mezza riga), facoltativa ma consigliata, che riprenda al suo interno il nome della voce in '''grassetto'''. Ad esempio:
+
+'''Mercurio''' può riferirsi a:
+
+Un elenco puntato (*) che contiene tutti i [[Help:wikilink|link]] alle pagine disambiguate, ad esempio scrivendo il seguente testo:
+
+:''<font color=gray><nowiki>* [[Mercurio (astronomia)]]</nowiki></font>'' 
+:''<font color=gray><nowiki>* [[Mercurio (elemento)]]</nowiki></font>'' 
+:''<font color=gray><nowiki>* [[Mercurio (divinità)]]</nowiki></font>'' 
+
+si ottiene:
+
+:* [[Mercurio (astronomia)]]
+:* [[Mercurio (elemento)]]
+:* [[Mercurio (divinità)]]
+
+L’esito è un tantino sbrigativo e confuso, si consiglia caldamente, infatti, di tenere uno stile più sobrio e ordinato, magari con l’introduzione di una descrizione minimale che renda l’idea del link e, per facilitare al consultazione dell’elenco, specie se lungo, di evidenziare il link stesso magari col '''neretto''' – volendo anche l’argomento (ad esempio in ''corsivo'') – e di staccarlo dal corpo della definizione. Come nell'esempio<ref>Il formato è un esempio e non è obbligatorio</ref>:
+
+:* '''[[Mercurio (astronomia)|Mercurio]]''' - in ''[[astronomia]]'', primo [[pianeta]] del [[sistema solare]].
+:* '''[[Mercurio (elemento)|Mercurio]]''' - in ''[[chimica]]'', [[elemento chimico|elemento]] della [[tavola periodica]].
+:* '''[[Mercurio (divinità)|Mercurio]]''' - in ''[[mitologia]]'', divinità romana, messaggero degli [[Mitologia romana|Dei]].
+
+Una pagina di disambiguazione così costruita potrebbe facilmente assomigliare a una voce di dizionario. È bene quindi ricordarsi che [[Wikipedia:Wikipedia non è un dizionario|Wikipedia non è un dizionario]]: ''le definizioni devono tendere all'essenzialità'' (se vuoi inserire o trovi definizioni della parola per accezioni per le quali non esiste ancora una pagina o non è possibile una trattazione enciclopedica, inseriscile sul ''[[wikt:|wikizionario]]'', il progetto fratello apposito), perché servono solo per far comprendere al lettore il contenuto della pagina linkata ed eventualmente ad indicarne l'argomento di appartenenza o altre pagine utili alla comprensione; ma comunque ricorda che definizioni troppo lunghe diminuiscono la fruibilità della pagina per lo scopo cui è stata creata.
+
+È bene poi evitare anche l'aggiunta di troppi ''[[link rossi]]'', cioè a pagine non ancora create, specialmente se non esiste ancora un '''[[Wikipedia:progetto|progetto]]''' che abbia definito le norme per i loro titoli; in quanto è facile che, inserendo arbitrariamente i titoli, non corrispondano poi al vero titolo della pagina qualora venga creata. È, in fondo, compito dell'autore premunirsi di [[Help:Glossario#Pagine_orfane|disorfanare]] le pagine, inserendo i link in tutte le pagine interessate, ivi comprese le disambigue.
+
+==== Alternative ====
+Se il titolo ha un significato nettamente predominante e gli altri significati sono appartenenti allo stesso contesto, è preferibile riepilogare tutto nella voce principale, inserendo i riferimenti delle altre pagine in elenchi in specifiche sottosezioni oppure, se conveniente, all'interno della sezione <tt><nowiki>==</nowiki> '''[[wikipedia:Voci correlate|Voci correlate]]''' <nowiki>==</nowiki></tt>.<br/> Per esempio, considerare la voce [[triangolo]] nel contesto matematico; potrebbero esistere altre voci affini, come [[triangolo equilatero]] oppure [[triangolo scaleno|scaleno]]. Sarebbe però inutile creare una voce disambigua con il titolo "Triangolo" per questo genere di ambiguità, che può essere risolto aggiungendo l'elenco delle poche voci alternative direttamente nella voce principale. Nell'esempio considerato:
+
+<nowiki>== Voci correlate ==</nowiki>
+* [[Triangolo equilatero]]
+* [[Triangolo isoscele]]
+* [[Triangolo scaleno]]
+
+==== Acronimi e sigle ====
+
+Per gli [[acronimo|acronimi]] e le [[sigla|sigle]], data la frequente ricorrenza di combinazioni di 2 o 3 caratteri che possono spesso generare confusione, è stato istituito ad hoc il '''[[Progetto:Acronimi|Progetto acronimi]]''', che prevede la presenza di ''Pagine di disambiguazione'' con una impostazione sostanzialmente diversa da quella sinora vista e l'inserimento di template alternativi come {{tl|Sigla2}} e {{tl|Sigla3}}, per ulteriori chiarimenti leggere l'apposita [[Progetto:Acronimi/Disambigua|pagina di aiuto]].
+
+=== Nota disambigua ===
+Esistono tre forme di note disambigua. Le prime due sono varianti dell'unico template {{tl|Nota disambigua}}, mentre la terza è prodotta dal template {{tl|Nota disambigua2}}. In tutti e tre i casi, '''la nota disambigua va posta sempre in cima alla pagina'''.
+
+'''1)''' La forma base ha la seguente sintassi:
+
+:<nowiki>{{</nowiki>Nota disambigua|''MOTIVO DELLA DISAMBIGUAZIONE''|<nowiki>[[</nowiki>''link alla voce alternativa'']]}}
+
+che produce il seguente avviso:
+
+{{nota disambigua|MOTIVO DELLA DISAMBIGUAZIONE|[[Help:Disambigua|link alla voce alternativa]]}}
+
+Quindi, il parametro MOTIVO DELLA DISAMBIGUAZIONE può essere generalmente sostituito da:
+*"altri significati" o "altri significati di (''titolo della voce che reca la nota disambigua'')" (se la nota rinvia ad una pagina di disambiguazione); esempi di applicazione: [[Europa]], [[Serena]].
+*una breve descrizione della voce cui punta la nota disambigua;  esempi di applicazione: "il fondatore dell'Opus Dei" in [[Balaguer]], per rinviare a [[Josemaría Escrivá de Balaguer]]; "il regista italiano" in [[Visconti]], per rinviare a [[Luchino Visconti]].
+
+'''2)''' A volte può essere utile apporre una nota disambigua su una pagina non perché abbia un titolo passibile di confusione, ma perché ''un'altra pagina, che rimanda'' (tramite [[Help:redirect|redirect]]) alla pagina in questione, può avere più significati. In questo caso il template si usa con tre parametri:
+{{nota disambigua|MOTIVO DELLA DISAMBIGUAZIONE|[[Help:Disambigua|link alla voce alternativa]]|titolo del redirect}}
+
+che appare inserendo la sintassi:
+
+:<nowiki>{{</nowiki>Nota disambigua|''MOTIVO DELLA DISAMBIGUAZIONE''|<nowiki>[[</nowiki>''link alla voce alternativa'']]|titolo del redirect}}
+
+Esempi di applicazione: [[Benito Mussolini]], [[Sternidae]].
+
+'''3)''' Se nella nota disambigua si vuole, invece, essere liberi di inserire il messaggio che più si ritiene opportuno, come una breve descrizione, si può utilizzare il template {{tl|Nota disambigua2}}.
+
+{{Nota disambigua2|SPIEGAZIONE}}
+
+che appare inserendo la sintassi:
+
+:<nowiki>{{</nowiki>Nota disambigua2|''SPIEGAZIONE''}}
+
+Esempi di applicazione: [[Comunismo]], [[Repubblica di Weimar]].
+
+== Wikilink e pagine di disambiguazione ==
+{{Vedi anche|Help:Wikilink#Redirect e disambigue}}
+Nella maggior parte dei casi, i [[Help:Wikilink|wikilink]] dovrebbero puntare direttamente alle voci specifiche che riguardano l'argomento trattato e ''non'' alla pagina di disambiguazione (tranne rari casi). Creare pagine di disambiguazione senza preoccuparsi dei link alle medesime rende Wikipedia meno funzionale. Per questa ragione il template {{tl|Disambigua}} invita, ogni qualvolta se ne ha l'occasione, a tornare indietro e a correggere il collegamento, indirizzandolo alla voce più appropriata; in questo caso può aiutare l'installazione di [[Wikipedia:Popup di navigazione|popup]].
+
+Prima di creare la pagina di disambiguazione dal titolo ''Mercurio'', cliccare su "puntano qui" (nel menù strumenti) per individuare tutte le pagine che contengono un collegamento al termine non disambiguato e correggete i collegamenti inserendo il titolo specifico. Ad esempio:
+
+:<nowiki>[[mercurio]] >> [[mercurio (astronomia)|mercurio]]</nowiki>
+
+In questo modo il collegamento punterà al corretto significato, e non alla pagina di disambiguazione. In casi molto numerosi è possibile richiedere l'intervento di un [[Wikipedia:Bot|bot]].
+
+<small>'''Nota:''' Si può anche inserire l'abbreviazione <nowiki>[[mercurio (astronomia)|]]</nowiki>; il software di Wikipedia provvederà a nascondere il testo tra parentesi (vd. [[Help:Wikilink#Parentesi e piped link|piped link]]).</small>
+
+== Cosa mettere e cosa non mettere nella disambigua ==
+
+Oltre alle voci ''esattamente omonime'', si considerano ambigue anche le voci che potrebbero essere ricercate con un altro nome omonimo, come un [[Help:Redirect|redirect]]. Ad esempio la [[candela di accensione]] è comunemente chiamata solo "candela", quindi è ambigua con altri significati di [[candela]]. Le ambiguità includono:
+*Nomi con [[Segno diacritico|segni diacritici]] che potrebbero essere omessi ([[Cita]] e [[Čita]] sono ambigue)
+*Persone con lo stesso cognome (vedi [[Rossi]])
+*Nomi con articoli che potrebbero essere omessi, come titoli di opere ([[cappotto]] può riferirsi anche a [[Il Cappotto]])
+*Nomi che includono marchi o sigle che potrebbero essere omessi ([[panda]] può riferirsi anche a [[Fiat Panda]], [[Iowa]] a [[USS Iowa]]...)
+A parte queste eccezioni, in generale ''non'' sono da considerare ambigue tutte le voci con titoli che si assomigliano o che contengono una parola o un concetto in comune. Nell'esempio della [[candela]], non vanno disambiguate voci come [[Candela Peña]] o [[Petizione dei produttori di candele]]. Normalmente un utente che cerca queste voci non passa per la pagina "candela".
+
+È possibile disambiguare anche ''voci non ancora esistenti'', ma con moderazione. Non è necessario aggiungere tutti i possibili collegamenti ad una pagina di disambiguazione; i collegamenti possono essere aggiunti man mano che le voci vengono create, oppure vanno aggiunti con attenzione. Non è necessario cercare tutti i casi possibili del titolo e del collegamento della pagina a voci improbabili che mai saranno scritte o che, se esistenti, saranno probabilmente rimosse.
+
+Le considerazioni su [[Wikipedia:Cosa non mettere su Wikipedia|cosa non è Wikipedia]] continuano ad essere valide anche per le pagine di disambiguazione. Non ha senso aggiungere definizioni da dizionario ''on-line'' ad una simile pagina; fa eccezione il [[linguaggio tecnico]]. Le pagine di chiarimento delle ambiguità possono elencare i concetti definiti in voci più generali.
+
+È accettabile fornire brevi descrizioni all'interno della pagina di disambiguazione per argomenti che attualmente non hanno voci proprie, ma non si dovrebbe fare mai per qualcosa la cui voce finirebbe con buona probabilità fra le [[Wikipedia:Pagine da cancellare|pagine da cancellare]].
+
+Le pagine delle comuni abbreviazioni di ''due e tre lettere'' raggruppano la serie di possibili significati estesi ([[acronimo|acronimi]], [[simbolo chimico|simboli chimici]], codici [[ISO]] ecc.), e sono un caso particolare di pagine di disambiguazione. Vanno compilate seguendo le istruzioni del [[Progetto:Acronimi/Disambigua]].
+
+== Categorizzazione ==
+
+Le pagine di disambiguazione (di tipo A e di tipo B) non sono da considerarsi normali [[Help:Voce|voci]] dell'enciclopedia, ma pagine di "servizio" per indirizzare il lettore alla voce cercata, pertanto ''non devono essere [[Help:Categorie|categorizzate]]'' in altre categorie che non siano già quelle automaticamente messe dai template, non devono contenere altri template di navigazione, o i paragrafi standard e né tantomeno collegamenti esterni.
+
+== Interwiki ==
+
+Le pagine con esclusiva funzione di disambiguazione dovrebbero contenere [[Help:Interlink|interlink]] soltanto se questi rimandano a pagine analoghe di disambiguazione dell'altra/e lingua/e; non devono cioè rimandare a pagine a contenuto specifico elencate nella pagina che si sta relazionando alle altre lingue, ma ad analoga pagina di disambiguazione.
+
+== Note ==
+{{references}}
+
+== Voci correlate ==
+*[[Help:Redirect]]
+*[[Help:Sposta]]
+*[[Help:Puntano qui]]
+*[[Help:Convenzioni di nomenclatura]]
+*[[Help:FAQ]]
+*[[Help:Disambigua/Disorfanamento]] <!-- ATTENZIONE: link non funzionante -->
+*[[Progetto:Acronimi/Disambigua]]
+
+[[Category:Aiuto|Disambigua]]
+
+[[af:Wikipedia:Dubbelsinnigheid]]
+[[an:Wikipedia:Pachina de desambigación]]
+[[ar:ويكيبيديا:توضيح]]
+[[ast:Uiquipedia:Páxina de dixebra]]
+[[az:Vikipediya:Dəqiqləşdirmə]]
+[[bar:Wikipedia:Begriffsklärung]]
+[[bg:Уикипедия:Пояснителна страница]]
+[[br:Wikipedia:Disheñvelout]]
+[[ca:Ajuda:Pàgina de desambiguació]]
+[[ceb:Wikipedia:Mga pulong nga may labaw pa sa usa ka kahulogan]]
+[[cs:Wikipedie:Rozcestníky]]
+[[cy:Wicipedia:Gwahaniaethu]]
+[[da:Wikipedia:Stilmanual#Flertydige artikler]]
+[[de:Wikipedia:Begriffsklärung]]
+[[el:Βικιπαίδεια:Αποσαφήνιση]]
+[[en:Wikipedia:Disambiguation]]
+[[eo:Helpo:Apartigiloj]]
+[[es:Wikipedia:Ambigüedad en títulos]]
+[[et:Vikipeedia:Täpsustuslehekülg]]
+[[eu:Wikipedia:Argipen orri]]
+[[fa:ویکی‌پدیا:ابهام‌زدایی]]
+[[fi:Wikipedia:Täsmennyssivu]]
+[[fr:Aide:Homonymie]]
+[[gl:Wikipedia:Homónimos]]
+[[gu:વિકિપીડિયા:સંદિગ્ધ શીર્ષક]]
+[[he:ויקיפדיה:פירושונים]]
+[[hi:बहुविकल्पी शब्द]]
+[[hr:Wikipedija:Razdvojba]]
+[[hu:Wikipédia:Egyértelműsítő lapok]]
+[[ia:Wikipedia:Disambiguation]]
+[[id:Wikipedia:Disambiguasi]]
+[[io:Wikipedio:Homonimo]]
+[[is:Wikipedia:Aðgreiningarsíður]]
+[[it:Aiuto:Disambigua]]
+[[ja:Wikipedia:曖昧さ回避]]
+[[jv:Wikipedia:Disambiguasi]]
+[[kn:ವಿಕಿಪೀಡಿಯ:ದ್ವಂದ್ವ ನಿವಾರಣೆ]]
+[[ko:위키백과:동음이의어 문서]]
+[[la:Vicipaedia:Discretiva]]
+[[lb:Wikipedia:Homonymie]]
+[[li:Wikipedia:Verdudelikingspazjena]]
+[[lt:Vikipedija:Nuorodiniai]]
+[[lv:Vikipēdija:Nozīmju atdalīšana]]
+[[map-bms:Wikipedia:Disambiguasi]]
+[[mdf:Википедие:Лама смусть]]
+[[ml:വിക്കിപീഡിയ:വിവക്ഷകൾ]]
+[[ms:Wikipedia:Nyahkekaburan]]
+[[mzn:Wikipedia:گجگجي بيتن]]
+[[nds:Wikipedia:Mehrdüdig Begreep]]
+[[nl:Wikipedia:Doorverwijspagina]]
+[[nn:Wikipedia:Fleirtyding]]
+[[no:Wikipedia:Flertydige titler]]
+[[nrm:Help:Frouque]]
+[[oc:Ajuda:Omonimia]]
+[[pl:Wikipedia:Strona ujednoznaczniająca]]
+[[pt:Wikipedia:Desambiguação]]
+[[rmy:Vikipidya:Dudalipen]]
+[[ro:Wikipedia:Dezambiguizare]]
+[[ru:Википедия:Неоднозначность]]
+[[scn:Aiutu:Disambiguazzioni]]
+[[sh:Wikipedia:Višeznačna odrednica]]
+[[simple:Wikipedia:Disambiguation]]
+[[sk:Wikipédia:Rozlišovacia stránka]]
+[[sl:Wikipedija:Razločitev]]
+[[sq:Wikipedia:Kthjellime]]
+[[sr:Википедија:Вишезначна одредница]]
+[[stq:Wikipedia:Begriepskläärenge]]
+[[su:Wikipedia:Disambiguasi]]
+[[sv:Wikipedia:Särskiljning]]
+[[te:వికీపీడియా:అయోమయ నివృత్తి]]
+[[th:วิกิพีเดีย:การแก้ความกำกวม]]
+[[tl:Wikipedia:Paglilinaw]]
+[[tr:Vikipedi:Anlam ayrımı]]
+[[uk:Вікіпедія:Неоднозначність]]
+[[vi:Wikipedia:Định hướng]]
+[[vo:Vükiped:Telplänov]]
+[[wa:Wikipedia:Omonimeye]]
+[[yi:װיקיפּעדיע:באדייטן]]
+[[zea:Wikipedia:Deurverwiespagina]]
+[[zh:Wikipedia:消歧义]]
+[[zh-yue:Wikipedia:搞清楚]]
