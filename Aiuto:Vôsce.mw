@@ -1,0 +1,72 @@
+{{TOCright Aiuto}}
+Una '''voce''' o '''lemma''' di [[Wikipedia]] è una pagina dedicata ad un argomento specifico che contiene su di esso le informazioni tipiche di una [[enciclopedia]] oppure di un [[wikt:Almanacco|almanacco]] (ad esempio elenchi, cronologie, tabelle o grafici).
+
+== Come riconoscere una voce ==
+
+Le voci di Wikipedia si riconoscono principalmente dal titolo, che non contiene prefissi di alcun tipo. Viceversa, le pagine il cui titolo inizia con un prefisso sono delle pagine di servizio del progetto (si dice che appartengono a un [[Help:Namespace|namespace]] diverso da quello principale), ad esempio:
+
+*'''Help:Vôsce''' (questa pagina) è una pagina del namespace '''Help:'''
+*'''[[Wikipedia:Bar]]''' è una pagina di servizio del namespace '''Wikipedia:'''
+
+Poiché i due punti "''':'''" sono il carattere usato per specificare la fine dei namespace, si raccomanda di non usarli quando si sceglie il nome da dare alla voce. Inoltre, le pagine delle voci hanno il fondo bianco, mentre le pagine dei namespace diversi dal principale hanno di norma lo sfondo colorato; questa però non è una regola ferrea: [[Help:Categoria|Categorie]] e [[Help:Template|Template]], ad esempio, hanno anch'essi lo sfondo bianco.
+
+== Cosa è una voce? ==
+
+All'interno del namespace principale sono presenti alcune pagine che a rigore non possono essere considerate delle voci dell'enciclopedia: la [[pagina principale]], alcune migliaia di [[Help:redirect|redirect]] e ''[[Help:abbozzo|abbozzi]]'', oltre a qualche centinaio di pagine di [[Help:disambigua|disambigua]].
+
+Nella pagina delle [[Special:Statistics|statistiche]] il numero di 'voci' indicato comprende tutte le pagine del namespace principale che non siano dei redirect e che contengano almeno un [[Help:wikilink|wikilink]]. Vi rientrano quindi le pagine di disambigua, gli stub e gli elenchi. Secondo questo criterio, in questo momento la Wikipedia in lingua italiana conta {{NUMBEROFARTICLES}} voci.
+
+Per maggiori informazioni sulla scelta dei titoli da dare alle voci, si vedano le [[Help:convenzioni di nomenclatura|convenzioni di nomenclatura]].
+
+== Modifica delle voci ==
+
+Tutte le voci di Wikipedia sono liberamente modificabili per migliorarle, senza alcuna formalità (basta fare clic sul pulsante 'modifica' in alto). Tuttavia, alcune voci particolarmente soggette a vandalismi vengono di quando in quando [[Wikipedia:Pagina protetta|protette]] in scrittura; in quel caso si possono segnalare le modifiche nella relativa [[Help:pagina di discussione|pagina di discussione]] perché uno degli [[Wikipedia:amministratori|amministratori]] di Wikipedia provveda ad effettuarla.
+
+Per maggiori informazioni sulla modifica delle voci, si veda [[Help:Modifica]].
+
+== Voci correlate ==
+* [[Special:Allpages|Elenco di tutte le pagine di Wikipedia]]
+* [[Special:Newpages|Elenco delle voci inserite più di recente]] 
+* [http://www.wikipedia.org/wikistats/IT/TablesArticlesTotal.htm Statistiche sul numero di voci]
+* [[Help:Dimensione della voce|Dimensione delle voci]]
+* [[Wikipedia:Vetrina|Voci in vetrina]]
+
+[[Category:Ajute|Vôsce]]
+
+[[af:Wikipedia:Wat is 'n artikel]]
+[[als:Wikipedia:Artikel]]
+[[bg:Уикипедия:Статия]]
+[[cs:Wikipedie:Článek]]
+[[cy:Wicipedia:Beth ydy erthygl]]
+[[da:Hjælp:Hvad er en artikel]]
+[[de:Wikipedia:Artikel]]
+[[el:Βικιπαίδεια:Τι είναι ένα άρθρο]]
+[[en:Wikipedia:What is an article?]]
+[[eo:Helpo:Artikolo]]
+[[es:Ayuda:Artículo]]
+[[et:Vikipeedia:Artikkel]]
+[[eu:Wikipedia:Zer da artikulu bat?]]
+[[fa:ویکی‌پدیا:مقاله چیست؟]]
+[[fo:Wikipedia:Hvat er ein grein]]
+[[hr:Wikipedija:Članak]]
+[[hu:Wikipédia:Szócikk]]
+[[id:Wikipedia:Apa yang dinamakan artikel]]
+[[it:Aiuto:Voce]]
+[[ja:Help:記事とは何か]]
+[[jv:Wikipedia:Apa sing diarani artikel]]
+[[ml:വിക്കിപീഡിയ:ലേഖനം]]
+[[nl:Wikipedia:Lemma]]
+[[pt:Wikipedia:Artigo]]
+[[rmy:Vikipidiya:So si ek lekh]]
+[[ru:Википедия:Статья]]
+[[simple:Wikipedia:What is an article?]]
+[[sk:Wikipédia:Článok]]
+[[sl:Wikipedija:Kaj je članek]]
+[[su:Wikipedia:Artikel téh naon?]]
+[[sv:Wikipedia:Artikel]]
+[[th:วิกิพีเดีย:บทความหมายถึงอะไร]]
+[[tl:Wikipedia:Ano ang isang artikulo]]
+[[tr:Vikipedi:Madde]]
+[[uz:Vikipediya:Maqola]]
+[[vi:Wikipedia:Bài bách khoa là gì?]]
+[[zh:Wikipedia:什么是条目]]
