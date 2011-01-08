@@ -1,0 +1,1312 @@
+<includeonly>{{#ifeq:{{NAMESPACE}}||{{#switch:{{lc:{{{genere|}}}}}
+|2tone
+|2 tone
+|ska revival
+|second wave of ska
+|second wave ska
+|two tone ska
+|2 tone ska=[[2 tone ska]][[Category:{{{tipo}}} 2 tone ska]]
+|canto a cappella
+|acappella
+|accappella
+|a cappella=[[A cappella]][[Category:{{{tipo}}} a cappella]]
+|acidjazz
+|acid-jazz
+|acid jazz=[[Acid jazz]][[Category:{{{tipo}}} acid jazz]]
+|acid house=[[Acid house]][[Category:{{{tipo}}} acid house]]
+|acidrock
+|acid rock=[[Acid rock]][[Category:{{{tipo}}} acid rock]]
+|adult contemporary
+|adult contemporary music=[[Adult contemporary music]][[Category:{{{tipo}}} adult contemporary]]
+|endzeit elektro
+|hellektro
+|terror ebm
+|aggressive techno
+|aggrotech=[[Aggrotech]][[Category:{{{tipo}}} aggrotech]]
+|alt-country
+|alt country
+|alternative country=[[Alternative country]][[Category:{{{tipo}}} alternative country]]
+|alt-dance
+|alt dance
+|alternative dance=[[Alternative dance]][[Category:{{{tipo}}} alternative dance]]
+|alt-hip hop
+|alt hip hop
+|alt rap
+|alternative rap
+|alternative hip hop=[[Alternative rap]][[Category:{{{tipo}}} alternative rap]]
+|alternative metal=[[Alternative metal]][[Category:{{{tipo}}} alternative metal]]
+|rock alternativo
+|alternativa
+|musica alternativa
+|alt rock
+|alt-rock
+|alternative pop
+|alternative pop/rock
+|alternative pop rock
+|alternative pop-rock
+|adult alternative rock
+|alternative rock
+|alternative-rock=[[Alternative rock]][[Category:{{{tipo}}} alternative rock]]
+|ambiente
+|ambient music
+|musica ambient
+|musica d'ambiente
+|ambient=[[Ambient]][[Category:{{{tipo}}} ambient]]
+|ambient house=[[Ambient house]][[Category:{{{tipo}}} ambient]] <!-- categorizza con ambient -->
+|ambient industrial=[[Ambient industrial]][[Category:{{{tipo}}} ambient]] <!-- categorizza con  ambient -->
+|ambient techno=[[Ambient techno]][[Category:{{{tipo}}} ambient]] <!-- categorizza con ambient -->
+|album oriented rock
+|album rock
+|album-rock
+|adult oriented rock
+|album-oriented rock
+|adult-oriented rock
+|aor=[[Adult oriented rock|AOR]][[Category:{{{tipo}}} AOR]] <!--rinominare categoria? Album.. o Adult..?-->
+|punk americano
+|american punk=[[American punk]][[Category:{{{tipo}}} american punk]]
+|punk anarchico
+|anarchopunk
+|anarcho-punk
+|anarcopunk
+|anarco-punk
+|peace-punk
+|peace punk
+|anarcho punk=[[Anarcho punk]][[Category:{{{tipo}}} anarcho punk]]
+|anti folk
+|antifolk
+|anti-folk=[[Anti-folk]][[Category:{{{tipo}}} anti-folk]]
+|arena-rock
+|arena rock=[[Arena rock]][[Category:{{{tipo}}} arena rock]]
+|progressive punk
+|art-punk
+|art punk=[[Art punk]][[Category:{{{tipo}}} art punk]]
+|art-rock
+|art rock=[[Art rock]][[Category:{{{tipo}}} art rock]]
+|art metal
+|avant garde metal
+|avant-garde metal
+|avantgarde metal=[[Avant-garde metal]][[Category:{{{tipo}}} avant-garde metal]]
+|avant-prog
+|avant prog
+|avant-prog rock
+|avant prog rock
+|rock in opposition
+|rio
+|avant progressive
+|avant progressive rock
+|avant-progressive rock=[[Avant-progressive rock]][[Category:{{{tipo}}} avant-progressive rock]]
+|bachata=[[Bachata]][[Category:{{{tipo}}} bachata]]
+|ballad
+|ballads
+|ballate
+|ballata=[[Ballata]][[Category:{{{tipo}}} ballata]]
+|pop classica
+|pop-classica
+|baroque rock
+|english baroque
+|chamber pop/rock
+|chamber pop
+|baroque pop=[[Baroque pop]][[Category:{{{tipo}}} baroque pop]]
+|musica beat
+|beat music
+|beat=[[Musica beat|Beat]][[Category:{{{tipo}}} beat]]
+|be-bop
+|be bop
+|bebop=[[Bebop]][[Category:{{{tipo}}} bebop]]
+|chemicalbreaks
+|bigbeat
+|big-beat
+|chemical breaks
+|big beat=[[Big beat]][[Category:{{{tipo}}} big beat]]
+|blackmetal
+|black metal=[[Black metal]][[Category:{{{tipo}}} black metal]]
+|black death metal
+|blackened death
+|blackened deathmetal
+|blackened death metal=[[Blackened death metal]][[Category:{{{tipo}}} blackened death metal]]
+|bluegrass music
+|bluegrass=[[Bluegrass]][[Category:{{{tipo}}} bluegrass]]
+|musica blues
+|blues=[[Blues]][[Category:{{{tipo}}} blues]]
+|bubblegum music
+|youth music
+|bubblegum 
+|bubblegum pop=[[Bubblegum pop]][[Category:{{{tipo}}} bubblegum pop]]
+|white soul
+|blue eyed soul
+|blue-eyed soul
+|soul bianco=[[Soul bianco]][[Category:{{{tipo}}} soul]]
+|hard blues
+|rock-blues
+|rock blues
+|blues-rock
+|blues rock=[[Blues rock]][[Category:{{{tipo}}} blues rock]]
+|boogie
+|boogiewoogie
+|boogie woogie
+|boogie-woogie=[[Boogie-woogie]][[Category:{{{tipo}}} boogie-woogie]]
+|boogie rock=[[Boogie rock]][[Category:{{{tipo}}} boogie rock]]
+|bossanova
+|bossa nova=[[Bossa nova]][[Category:{{{tipo}}} bossa nova]]
+|british blues=[[British blues]][[Category:{{{tipo}}} british blues]]
+|punk britannico
+|britpunk
+|british punk=[[British punk]][[Category:{{{tipo}}} british punk]]
+|british invasion=[[British invasion]] <!-- non categorizza visto che è un movimento, sarebbe da togliere dai template-->
+|pop britannico
+|pop brit
+|british pop
+|brit-pop
+|brit pop
+|britpop=[[Britpop]][[Category:{{{tipo}}} britpop]]
+|brutal death metal=[[Brutal death metal]][[Category:{{{tipo}}} brutal death metal]]
+|calypso
+|calypso=[[Calypso (genere musicale)|Calypso]][[Category:{{{tipo}}} calypso]]
+|musica d'autore
+|canzone d'autore
+|cantautore italiano
+|cantautori italiani
+|cantautoriale
+|cantautori
+|cantautore=[[Cantautore|Musica d'autore]]{{#switch:{{{tipo}}}
+            |Cantanti
+            |Cantautori=<!-- "Cantautore di musica d'autore" è da evitare -->
+            |EP
+            |Singoli
+            |Album=[[Category:{{{tipo}}} di musica d'autore]]
+            |[[Category:{{{tipo}}} di musica d'autore]]
+            }}
+|tenores
+|tenorenis
+|musica a tenore
+|canti a tenore
+|canto a tenore=[[Canto a tenore]][[Category:{{{tipo}}} canto a tenore]]
+|canti natalizi
+|canti del periodo natalizio
+|canzoni natalizie
+|musiche natalizie
+|canzone natalizia
+|musica natalizia
+|canto di natale
+|canto natalizio=[[Canto natalizio]]{{#switch:{{{tipo}}}
+            |EP=[[Category:{{{tipo}}} natalizi]]
+            |Album=[[Category:{{{tipo}}} natalizi]]
+            |[[Category:Canzoni natalizie]]
+            }} <!-- categorizza fuori dal solito albero -->
+|canti politici
+|canzoni politiche
+|canto popolitico
+|canzone politica=[[Canzone politica]][[Category:Canzoni politiche]] <!-- categorizza fuori dal solito albero, valutare se categorizzare diversamente -->
+|canti popolari
+|canzoni popolari
+|canto popolare
+|canzone popolare=[[Canzone popolare]] <!-- non categorizza come richiesto da ^musaz -->
+|musica popolare=[[Musica popolare]] <!-- non categorizza come richiesto da ^musaz -->
+|paddybeat
+|celtcore
+|celtic punk=[[Celtic punk]][[Category:{{{tipo}}} celtic punk]]
+|celtic rock=[[Celtic rock]][[Category:{{{tipo}}} celtic rock]]
+|celtic metal=[[Celtic metal]][[Category:{{{tipo}}} folk metal]]  <!-- categorizza come folk metal (il genere non è ancora ben definito)-->
+|chachacha
+|cha-cha-cha
+|cha cha cha=[[Cha cha cha]][[Category:{{{tipo}}} cha cha cha]]
+|chanson=[[Chanson]][[Category:{{{tipo}}} chanson]]
+|chicago blues=[[Chicago blues]][[Category:{{{tipo}}} Chicago blues]]
+|chopped and screwed=[[Chopped and screwed]][[Category:{{{tipo}}} chopped and screwed]]
+|white
+|white metal
+|metal cristiano
+|christian metal=[[Christian metal]][[Category:{{{tipo}}} christian metal]]
+|metalcore cristiano
+|christian metalcore=[[Christian metalcore]][[Category:{{{tipo}}} christian metalcore]] 
+|punk cristiano
+|christian punk=[[Christian punk]][[Category:{{{tipo}}} christian punk]]
+|rock cristiano
+|christian rock=[[Christian rock]][[Category:{{{tipo}}} christian rock]]
+|college rock=[[College rock]][[Category:{{{tipo}}} college rock]]
+|ost
+|soundtrack
+|sound track
+|sound-track
+|colonne sonore
+|colonna sonora=[[Colonna sonora]]{{#switch:{{{tipo|}}}|Gruppi musicali|Cantanti|Cantautori|Orchestre|Musicisti=[[Category:Autori di colonne sonore]]|[[Category:Colonne sonore]]}}
+|sigle cartoni animati
+|sigla cartoni animati
+|sigle cartoons
+|sigla televisiva
+|sigle televisive
+|sigle tv
+|sigla tv=[[sigla musicale|Sigla TV]]{{#switch:{{{tipo|}}}|Gruppi musicali|Cantanti|Cantautori|Orchestre|Musicisti=[[Category:Autori di colonne sonore]]|[[Category:Colonne sonore]]}}
+|combat folk=[[Combat folk (genere musicale)|Combat folk]][[Category:{{{tipo}}} combat folk]]
+|conscious hip hop
+|conscious hip-hop
+|conscious rap=[[Conscious rap]][[Category:{{{tipo}}} conscious rap]]
+|country music
+|country and western
+|country & western
+|country and western music
+|musica country
+|country-western
+|country=[[Country]][[Category:{{{tipo}}} country]]
+|country-blues
+|blues country
+|country blues=[[Country blues]][[Category:{{{tipo}}} country blues]]
+|country folk=[[Country folk]][[Category:{{{tipo}}} country folk]]
+|pop country
+|country pop=[[Country pop]][[Category:{{{tipo}}} country pop]]
+|country-rock
+|country rock=[[Country rock]][[Category:{{{tipo}}} country rock]]
+|country punk
+|country-punk
+|cow punk
+|cowpunk=[[Cowpunk]][[Category:{{{tipo}}} cowpunk]]
+|crossover rock=[[Crossover rock]][[Category:{{{tipo}}} crossover rock]]
+|crunk=[[Crunk]][[Category:{{{tipo}}} crunk]]
+|crustcore
+|crust core
+|crust punk=[[Crust punk]][[Category:{{{tipo}}} crust punk]]
+|musica dance
+|dance music
+|dance=[[Musica dance|Dance]][[Category:{{{tipo}}} dance]]
+|pop dance
+|dance-pop
+|dance pop=[[Dance pop]][[Category:{{{tipo}}} dance pop]]
+|punk dance
+|disco-punk
+|disco punk
+|punk funk
+|punk-funk
+|dance punk=[[Dance punk]][[Category:{{{tipo}}} dance punk]]
+|rock dance
+|dance rock=[[Dance rock]][[Category:{{{tipo}}} dance rock]]
+|early dancehall=[[Early dancehall]][[Category:{{{tipo}}} early dancehall]]
+|rub a dub
+|rub-a-dub=[[Rub-a-dub]][[Category:{{{tipo}}} rub-a-dub]]
+|bashment
+|dancehall reggae
+|dance hall
+|dancehall=[[Dancehall]][[Category:{{{tipo}}} dancehall]]
+|dark ambient=[[Dark ambient]][[Category:{{{tipo}}} dark ambient]]
+|dark-cabaret
+|dark cabaret=[[Dark cabaret]][[Category:{{{tipo}}} dark cabaret]]
+|dark electro=[[Dark electro]][[Category:{{{tipo}}} dark electro]]
+|dark wave
+|darkwave neoclassica=[[Darkwave neoclassica]][[Category:{{{tipo}}} darkwave neoclassica]]
+|darkwave=[[Darkwave]][[Category:{{{tipo}}} darkwave]]
+|doom death
+|death doom
+|deathdoom metal
+|doomdeath metal
+|doom death metal
+|death doom metal=[[Death doom metal]][[Category:{{{tipo}}} death doom metal]]
+|deathmetal
+|death metal=[[Death metal]][[Category:{{{tipo}}} death metal]]
+|horror rock
+|death rock
+|death punk=[[Death rock]][[Category:{{{tipo}}} death rock]]
+|deathcore=[[Deathcore]][[Category:{{{tipo}}} deathcore]]
+|deathgrind=[[Deathgrind]][[Category:{{{tipo}}} deathgrind]]
+|blues del delta
+|delta blues=[[Delta blues]][[Category:{{{tipo}}} delta blues]]
+|black doom metal
+|depressive metal
+|depressive black metal=[[Depressive black metal]][[Category:{{{tipo}}} depressive black metal]]
+|synthcore
+|synth hardcore
+|synth-hardcore
+|ravecore
+|extreme rave
+|digital-hardcore
+|digital hardcore=[[Digital hardcore]][[Category:{{{tipo}}} digital hardcore]]
+|booty rap
+|porn rap
+|sex rap
+|dirty rap=[[Dirty rap]][[Category:{{{tipo}}} dirty rap]]
+|disco music
+|disco-music
+|discomusic
+|musica disco
+|disco=[[Disco music|Disco]][[Category:{{{tipo}}} disco]]
+|dixieland=[[Dixieland]][[Category:{{{tipo}}} dixieland]]
+|dj style=[[DJ Style]][[Category:{{{tipo}}} DJ style]]
+|do-whop
+|do whop
+|doo-whop
+|doo whop
+|doo-wop gold 
+|doo wop gold 
+|doowop
+|do wop
+|do-wop
+|doo wop
+|doo-wop=[[Doo-wop]][[Category:{{{tipo}}} doo-wop]]
+|doom metal=[[Doom metal]][[Category:{{{tipo}}} doom metal]]
+|downbeat
+|downtempo=[[Downtempo]][[Category:{{{tipo}}} downtempo]]
+|cd-drama
+|cd drama
+|drama-cd
+|drama cd=[[Drama-CD]][[Category:Drama-CD]] <!-- categorizza fuori dal solito albero -->
+|dream trance
+|dream house=[[Dream house]][[Category:{{{tipo}}} dream house]]
+|dreampop
+|dream-pop
+|dream pop=[[Dream pop]][[Category:{{{tipo}}} dream pop]]
+|drill and bass
+|drum'n'bass
+|drum 'n' bass
+|drum 'n bass
+|drum&bass
+|drum & bass
+|d'n'b
+|d 'n' b
+|d'n b
+|drum and bass=[[Drum and bass]][[Category:{{{tipo}}} drum and bass]]
+|dub=[[Dub]][[Category:{{{tipo}}} dub]]
+|indie electronic
+|edm
+|electronic dance music=[[Electronic Dance Music|EDM]][[Category:{{{tipo}}} EDM]]
+|skinhead reggae
+|early reggae=[[Early reggae]][[Category:{{{tipo}}} early reggae]]
+|nu-soul
+|neo-soul
+|nusoul
+|neosoul
+|nu soul
+|neo soul=[[Neo soul]][[Category:{{{tipo}}} neo soul]]
+|new york hip hop
+|new york hip-hop
+|new york hiphop
+|ny hip hop
+|ny hip-hop
+|ny hiphop
+|n.y. hip hop
+|n.y. hip-hop
+|n.y. hiphop
+|east coast
+|east coast rap
+|east coast hip-hop
+|east coast hiphop
+|east coast hip hop=[[East Coast rap]][[Category:{{{tipo}}} East Coast rap]]
+|electronic body music
+|e.b.m.
+|ebm=[[Electronic Body Music|EBM]][[Category:{{{tipo}}} EBM]]
+|electric blues=[[Electric blues]][[Category:{{{tipo}}} blues]] <!-- categorizza come blues,  per completezza sarebbe da creare blues acustico ma nei template non si fa differenza tra i 2 generi-->
+|synthtron
+|elettroclash
+|elektroklash
+|electro clash
+|electro-clash
+|elettro clash
+|elettro-clash
+|electroclash=[[Electroclash]][[Category:{{{tipo}}} electroclash]]
+|electronic hip-hop
+|electronic hip hop
+|elettro hip hop
+|elettro-hip hop
+|electro hip hop
+|electro hip-hop
+|electronic rap
+|robot hip hop
+|robot hip-hop
+|elettro rap
+|elettro-rap
+|electro rap
+|electro hop
+|electro-hop=[[Electro-hop]][[Category:{{{tipo}}} electro-hop]]
+|electro house
+|electro-house
+|elettro house
+|electro house
+|house elettronica=[[Electro house]][[Category:{{{tipo}}} electro house]]
+|elettro-funk
+|elettro funk
+|electro-funk
+|electro funk
+|electro=[[Electro]][[Category:{{{tipo}}} electro]]
+|elettro-industrial
+|elettro industrial
+|electro industrial
+|electro-industrial=[[Electro-industrial]][[Category:{{{tipo}}} electro-industrial]]
+|techno pop
+|technopop
+|electropop
+|elettro-pop
+|elettro pop
+|electro-pop
+|electro pop
+|elettropop=[[Elettropop]][[Category:{{{tipo}}} elettropop]]
+|electro punk
+|elettro punk
+|electro-punk
+|elettro-punk
+|elettropunk
+|electropunk=[[Electropunk]][[Category:{{{tipo}}} electropunk]]
+|emocore
+|emotional hardcore
+|emo-core
+|emo=[[Emo]][[Category:{{{tipo}}} emo]]
+|pop-emo
+|pop emo
+|emo pop
+|emo-pop=[[Emo-pop]][[Category:{{{tipo}}} emo-pop]]
+|emotional metalcore=[[Emotional metalcore]][[Category:{{{tipo}}} emotional metalcore]]
+|epic-metal
+|epic metal=[[Epic metal]][[Category:{{{tipo}}} epic metal]]
+|etno elettronica
+|etno-elettronica=[[Etno-elettronica]][[Category:{{{tipo}}} di musica etno-elettronica]]
+|spaghetti house
+|euro-dance
+|euro dance
+|eurodance=[[Eurodance]][[Category:{{{tipo}}} eurodance]]
+|euro-pop
+|euro pop
+|europop=[[Europop]][[Category:{{{tipo}}} europop]]
+|avant-garde rock
+|avantgarde rock
+|avant garde rock
+|avant gard rock
+|avanguardia
+|avant garde
+|avant gard
+|rock sperimentale
+|experimental rock=[[Experimental rock]][[Category:{{{tipo}}} experimental rock]]
+|experimental metal=[[Experimental metal]] <!-- non categorizza in attesa di definizione genere più precisa -->
+|extreme power metal=[[Extreme power metal]][[Category:{{{tipo}}} extreme power metal]]
+|fado=[[Fado]][[Category:{{{tipo}}} fado]]
+|flamenco=[[Flamenco]][[Category:{{{tipo}}} flamenco]]
+|folk=[[Folk]][[Category:{{{tipo}}} folk]]
+|folk-metal
+|folk metal=[[Folk metal]][[Category:{{{tipo}}} folk metal]]
+|folk-punk
+|folk punk=[[Folk punk]][[Category:{{{tipo}}} folk punk]]
+|rock folk
+|rock-folk
+|folk-rock
+|folk rock=[[Folk rock]][[Category:{{{tipo}}} folk rock]]
+|frat rock=[[Frat rock]][[Category:{{{tipo}}} frat rock]]
+|free jazz=[[Free jazz]][[Category:{{{tipo}}} free jazz]]
+|funeral doom 
+|funeral doom metal=[[Funeral doom metal]][[Category:{{{tipo}}} funeral doom metal]]
+|funky
+|funk=[[Funk]][[Category:{{{tipo}}} funk]]
+|funk metal=[[Funk metal]][[Category:{{{tipo}}} funk metal]]
+|funk rock=[[Funk rock]][[Category:{{{tipo}}} funk rock]]
+|jazz rock fusion
+|jazz-rock
+|jazz-fusion
+|jazz rock
+|jazz fusion
+|jazzfusion
+|fusion=[[Fusion]][[Category:{{{tipo}}} fusion]]
+|future pop
+|future-pop
+|futurepop=[[Futurepop]][[Category:{{{tipo}}} futurepop]]
+|gangsta-funk
+|ghetto-funk
+|g-funk=[[G-funk]][[Category:{{{tipo}}} g-funk]]
+|g-rap
+|g rap
+|gangsta
+|gangstarap
+|gangsta-rap
+|gangsta rap=[[Gangsta rap]][[Category:{{{tipo}}} gangsta rap]]
+|garage punk=[[Garage punk]][[Category:{{{tipo}}} garage punk]]
+|garage rock revival
+|garage rock=[[Garage rock]][[Category:{{{tipo}}} garage rock]]
+|nerd rock
+|geek rock=[[Geek rock]][[Category:{{{tipo}}} geek rock]]
+|glitter punk
+|glam punk=[[Glam punk]][[Category:{{{tipo}}} glam punk]]
+|glam rock=[[Glam rock]][[Category:{{{tipo}}} glam rock]]
+|goa
+|goa trance=[[Goa trance]][[Category:{{{tipo}}} goa trance]]
+|gore grind
+|goregrind=[[Goregrind]][[Category:{{{tipo}}} goregrind]]
+|musica gospel
+|gospel=[[Gospel]][[Category:{{{tipo}}} gospel]]
+|goth metal
+|gothic metal=[[Gothic metal]][[Category:{{{tipo}}} gothic metal]]
+|goth rock
+|gothic rock=[[Gothic rock]][[Category:{{{tipo}}} gothic rock]]
+|grind core
+|grind
+|grindcore=[[Grindcore]][[Category:{{{tipo}}} grindcore]]
+|neo-thrash
+|neo thrash
+|half-thrash
+|half thrash
+|power-groove
+|power groove
+|post-thrash
+|post thrash
+|groove thrash
+|groove-thrash
+|groove metal=[[Groove metal]][[Category:{{{tipo}}} groove metal]]
+|seattle sound
+|grunge=[[Grunge]][[Category:{{{tipo}}} grunge]]
+|immigrant punk
+|gypsy punk=[[Gypsy punk]][[Category:{{{tipo}}} gypsy punk]]
+|glam-metal
+|glam metal
+|hair-metal
+|hair metal=[[Hair metal]][[Category:{{{tipo}}} hair metal]]
+|hands up=[[Hands up]][[Category:{{{tipo}}} hands up]]
+|hard-bop
+|hardbop
+|hard bop=[[Hard bop]][[Category:{{{tipo}}} hard bop]]
+|nu-nrg
+|hard nrg
+|jumpstyle
+|hard dance=[[Hard dance]][[Category:{{{tipo}}} hard dance]]
+|hardstyle =[[Hardstyle]][[Category:{{{tipo}}} hard dance]]
+|hard-rock
+|hard rock=[[Hard rock]][[Category:{{{tipo}}} hard rock]]
+|hardcore techno 
+|techno-hardcore
+|hardcore
+|techno hardcore=[[Techno hardcore]][[Category:{{{tipo}}} techno hardcore]]
+|hardcore rap
+|hardcore-rap
+|hardcore hip hop=[[Hardcore rap]][[Category:{{{tipo}}} hardcore rap]]
+|punk hardcore
+|hardcore punk=[[Hardcore punk]][[Category:{{{tipo}}} hardcore punk]]
+|heartland rock=[[Heartland rock]][[Category:{{{tipo}}} heartland rock]]
+|classic metal
+|heavy metal tradizionale
+|traditional metal
+|heavy metal classico=[[Heavy metal classico]][[Category:{{{tipo}}} heavy metal]] <!--categorizza come heavy metal-->
+|heavymetal
+|heavy-metal
+|heavy metal=[[Heavy metal]][[Category:{{{tipo}}} heavy metal]]
+|high energy
+|hi-energy
+|hi energy
+|hinrg
+|hi nrg
+|hi-nrg=[[Hi-NRG]][[Category:{{{tipo}}} hi-NRG]]
+|horror core
+|horrorcore=[[Horrorcore]][[Category:{{{tipo}}} horrorcore]]
+|horror punk=[[Horror punk]][[Category:{{{tipo}}} horror punk]]
+|humppa=[[Humppa]][[Category:{{{tipo}}} humppa]]
+|hard house
+|musica house
+|house music
+|house=[[Musica house]][[Category:{{{tipo}}} house]]
+|house-pop
+|pop-house
+|pop house
+|house pop=[[House pop]][[Category:{{{tipo}}} house]] <!-- categorizza come house -->
+|twee pop
+|twee-pop = [[Twee pop]][[Category:{{{tipo}}} indie pop]] <!-- categorizza come indie pop -->
+|indiepop
+|indie-pop
+|indie pop = [[Indie pop]][[Category:{{{tipo}}} indie pop]]
+|idm
+|intelligent-dance
+|intelligent dance
+|intelligent dance music=[[Intelligent dance music]][[Category:{{{tipo}}} intelligent dance music]]
+|indie
+|rock indie
+|indierock
+|indie-rock
+|indie rock=[[Indie rock]][[Category:{{{tipo}}} indie rock]]
+|electrometal industrial
+|metal industrial
+|industrial metal=[[Industrial metal]][[Category:{{{tipo}}} industrial metal]]
+|industrial music
+|industrial=[[Industrial]][[Category:{{{tipo}}} industrial]]
+|industrial-rock
+|industrialrock
+|rock industrial
+|industrial rock=[[Industrial rock]][[Category:{{{tipo}}} industrial rock]]
+|nu-italodance
+|nu italodance
+|nu-italo
+|nu italo
+|italo
+|italo-dance
+|italo dance
+|italodance=[[Italodance]][[Category:{{{tipo}}} italodance]]
+|italodisco
+|nu-italodisco
+|nu italodisco
+|italo-disco
+|italo disco=[[Italo disco]][[Category:{{{tipo}}} italo disco]]
+|j pop
+|jpop
+|j-pop=[[J-Pop]][[Category:{{{tipo}}} j-pop]]
+|jrock
+|j rock
+|j-rock=[[J-Rock]][[Category:{{{tipo}}} j-rock]]
+|jazz=[[Jazz]][[Category:{{{tipo}}} jazz]]
+|jazz manouche=[[Jazz manouche]][[Category:{{{tipo}}} jazz manouche]]
+|jazz-rap
+|jazz-hop
+|jazz hip hop
+|jazz hip-hop
+|jazz hop
+|jazz rap=[[Jazz rap]][[Category:{{{tipo}}} jazz rap]]
+|jazz samba=[[Jazz samba]][[Category:{{{tipo}}} jazz samba]]
+|jenkka=[[Jenkka]][[Category:{{{tipo}}} jenkka]]
+|jungle (genere musicale)
+|jungle = [[Jungle (genere musicale)|Jungle]][[Category:{{{tipo}}} jungle]]
+|k pop
+|kpop
+|k-pop=[[K-pop]][[Category:{{{tipo}}} k-pop]]
+|kayokyoku
+|kayōkyoku=[[Kayōkyoku]][[Category:{{{tipo}}} kayōkyoku]]
+|kletzmer
+|klezmer = [[Klezmer]][[Category:{{{tipo}}} klezmer]]
+|musica cosmica
+|cosmic music
+|kosmische musik
+|corrieri cosmici
+|kraut rock
+|krautrock=[[Krautrock]][[Category:{{{tipo}}} krautrock]]
+|los angeles punk
+|l.a. punk=[[L.A. punk]][[Category:{{{tipo}}} L.A. punk]]
+|live=[[Album live|Live]][[Category:{{{tipo}}} live]] <!-- anche se non è un vero e proprio genere così almeno categorizza sicuramente bene e toglie dalla categoria genere non riconosciuto -->
+|metal latino
+|latin metal=[[Latin metal]][[Category:{{{tipo}}} latin metal]] <!-- dalla discussione [[Discussioni_progetto:Musica/Heavy_metal#Categorie Latin Metal]] metto latin metal-->
+|pop latino
+|latinpop
+|latin pop=[[Pop latino]][[Category:{{{tipo}}} pop latino]]
+|rap latino
+|latin rap=[[Latin Rap]][[Category:{{{tipo}}} rap latino]]
+|rock latino
+|latinrock
+|latin rock=[[Latin rock|Rock latino]][[Category:{{{tipo}}} rock latino]]
+|latino
+|latina
+|latin
+|musica latina
+|musica latinoamericano
+|musica latinoamericana
+|musica latino-americano
+|musica latino-americana
+|latinoamericano
+|latinoamericana
+|latino-americano
+|latino-americana=[[Musica latina]][[Category:{{{tipo}}} di musica latina]] <!--categoria da rinominare? (di...)-->
+|opera lirica
+|opere liriche
+|lirico
+|lirica=[[Opera lirica]]{{#ifeq:{{{tipo}}}|Cantanti||{{#ifeq:{{{tipo}}}|Solisti||[[Category:{{{tipo}}} lirici]]}}}} <!-- categorizza album lirici, singoli lirici, ecc. ma non cantanti lirici (quello lo fa già {{Bio}}) -->
+|lounge=[[Lounge]][[Category:{{{tipo}}} lounge]]
+|lovers rock=[[Lovers rock]][[Category:{{{tipo}}} lovers rock]]
+|mandopop=[[Mandopop]][[Category:{{{tipo}}} mandopop]]
+|math core
+|mathcore=[[Mathcore]][[Category:{{{tipo}}} mathcore]]
+|mathrock
+|math rock=[[Math rock]][[Category:{{{tipo}}} math rock]]
+|melodic-black metal
+|melodic black metal=[[Melodic black metal]][[Category:{{{tipo}}} melodic black metal]]
+|melodeath
+|swedish metal
+|gothenburg metal
+|gothenburg sound
+|death melodico
+|death metal melodico
+|melodic deathmetal
+|melodic death metal=[[Melodic death metal]][[Category:{{{tipo}}} melodic death metal]]
+|hardcore melodico
+|melodic hardcore
+|melodic hardcore punk=[[Melodic hardcore punk]][[Category:{{{tipo}}} melodic hardcore punk]]
+|merengue=[[Merengue]][[Category:{{{tipo}}} merengue]]
+|mersey sound
+|merseysound
+|mersey beat
+|merseybeat=[[Merseybeat]][[Category:{{{tipo}}} merseybeat]]
+|metal=[[Heavy metal]][[Category:{{{tipo}}} metal]]
+|metal core
+|metalcore=[[Metalcore]][[Category:{{{tipo}}} metalcore]]
+|booty music
+|miami bass=[[Miami bass]][[Category:{{{tipo}}} Miami bass]]
+|midwest
+|midwest rap=[[Midwest rap]][[Category:{{{tipo}}} Midwest rap]]
+|milonga=[[Milonga]][[Category:{{{tipo}}} milonga]]
+|minimalismo=[[Minimalismo]][[Category:Minimalismo]]<!-- categorizza fuori dal solito albero -->
+|mod=[[Mod]]
+|mod revival=[[Mod revival]][[Category:{{{tipo}}} mod revival]]
+|africana
+|african music
+|afro music
+|afro
+|afro pop
+|afropop
+|musica africana=[[Musica africana]][[Category:{{{tipo}}} di musica africana]] <!--categoria da rinominare? (di...)-->
+|antica
+|musica antica=[[Musica antica]][[Category:{{{tipo}}} di musica antica]] <!--categoria da rinominare? (di...)-->
+|celtic
+|celtic music
+|celtica
+|celtico
+|musica celtica=[[Musica celtica]][[Category:{{{tipo}}} di musica celtica]] <!--categoria da rinominare? (di...)-->
+|classico
+|classica
+|musica classica=[[Musica classica]]<!--[[Category:{{{tipo}}} di musica classica]] tolta categorizzazione automatica come da discussione--> [[Category:Album o artisti indicati come genere musica classica]]<!--cat di servizio-->
+|contemporary
+|contemporary music
+|contemporary classical music
+|contemporary classical
+|contemporary classic
+|contemporanea
+|musica contemporanea
+|contemporary serious music
+|contemporary serious
+|21st century classical music
+|21st century classical
+|musica classica contemporanea=[[Musica classica contemporanea]][[Category:{{{tipo}}} di musica classica contemporanea]]
+|concreta
+|musica concreta=[[Musica concreta]][[Category:{{{tipo}}} di musica concreta]] <!--categoria da rinominare? (di...)-->
+|musica sacra cristiana
+|musica cristiana=[[Musica cristiana]][[Category:Musica cristiana]] <!-- categorizza fuori dal solito albero -->
+|musica da camera=[[Musica da camera]][[Category:{{{tipo}}} di musica da camera]]
+|trash
+|demenziale
+|musica demenziale=[[Musica demenziale]][[Category:{{{tipo}}} di musica demenziale]] <!--categoria da rinominare? (di...)-->
+|elettronica
+|musica elettronica=[[Musica elettronica]][[Category:{{{tipo}}} di musica elettronica]] <!--categoria da rinominare? (di...)-->
+|musica indiana
+|indiana
+|musica classica indiana=[[Musica classica indiana]][[Category:{{{tipo}}} di musica classica indiana]]
+|indostana
+|musica classica indostana
+|musica indostana indiana
+|musica indostana=[[Musica indostana]][[Category:{{{tipo}}} di musica classica indiana]] <!-- NB.categorizza insieme a musica classica indiana -->
+|carnatica
+|musica classica carnatica
+|musica carnatica indiana
+|musica carnatica=[[Musica carnatica]][[Category:{{{tipo}}} di musica classica indiana]] <!-- NB.categorizza insieme a musica classica indiana -->
+|musical theatre
+|musicals
+|music recital
+|musical=[[Musical]][[Category:{{{tipo}}} da musical]]
+|traditional music
+|ethnic
+|ethnic music
+|etnica
+|etnico
+|musica etnica=[[Musica etnica]][[Category:{{{tipo}}} di musica etnica]]
+|musica popolare brasiliana
+|musica pop brasiliana
+|pop brasiliana
+|musica brasiliana
+|musica popular brasileira
+|música popular brasileira
+|m.p.b.
+|mpb=[[Música Popular Brasileira]][[Category:{{{tipo}}} di MPB]] <!--categoria da rinominare? (di...)-->
+|musica leggera=[[Musica leggera]][[Category:{{{tipo}}} di musica leggera]]
+|canzone napoletana
+|musica napoletana=[[Musica napoletana]][[Category:{{{tipo}}} di musica napoletana]]
+|musica liturgica
+|musica religiosa
+|musica spirituale
+|musica sacra=[[Musica sacra]][[Category:Musica sacra]] <!-- categorizza fuori dal solito albero -->
+|sperimentale
+|musica sperimentale=[[Musica sperimentale]][[Category:{{{tipo}}} di musica sperimentale]]
+|musica orientale
+|orientale= [[Musica orientale]][[Category:{{{tipo}}} di musica orientale]]
+|neo classical metal
+|neo-classical metal
+|neoclassic metal
+|metal neoclassico
+|metal neo-classico
+|neoclassical metal=[[Neoclassical metal]][[Category:{{{tipo}}} neoclassical metal]]
+|neofolk= [[Neofolk]][[Category:{{{tipo}}} neofolk]]
+|neo-prog
+|neo prog
+|neoprog
+|new-prog
+|new prog
+|newprog
+|new progressive
+|neoprogressive=[[Neoprogressive]][[Category:{{{tipo}}} neoprogressive]]
+|neo psichedelia
+|neo-psychedelic
+|neo-psichedelia
+|new psychedelia
+|neo psychedelia
+|neo-psychedelia=[[Neo-psychedelia]][[Category:{{{tipo}}} neo-psychedelia]]
+|neue deutsche welle
+|ndw=[[Neue Deutsche Welle|NDW]][[Category:{{{tipo}}} NDW]]
+|ndh
+|neue deutsche harte
+|neue deutsche haerte
+|neue deutsche härte=[[Neue Deutsche Härte]][[Category:{{{tipo}}} neue deutsche härte]]
+|newage
+|new-age
+|new age=[[Musica New Age|New Age]][[Category:{{{tipo}}} new age]]
+|jackswing
+|swingbeat
+|new jack swing=[[New jack swing]][[Category:{{{tipo}}} new jack swing]]
+|new orleans
+|new orleans jazz=[[New Orleans jazz]][[Category:{{{tipo}}} New Orleans jazz]]
+|new rave
+|nu rave=[[New Rave]][[Category:{{{tipo}}} new rave]]
+|new romantic=[[New Romantic]][[Category:{{{tipo}}} new romantic]]
+|newwave
+|new wave (musica)
+|musica new wave
+|new wave=[[New Wave (musica)|New Wave]][[Category:{{{tipo}}} new wave]]
+|new wave of american heavy metal
+|n.w.o.a.h.m.
+|nwoahm=[[New Wave of American Heavy Metal|NWOAHM]][[Category:{{{tipo}}} NWOAHM]]
+|new wave of british heavy metal
+|nwobhn
+|n.w.o.b.h.m.
+|nwobhm=[[New Wave of British Heavy Metal|NWOBHM]][[Category:{{{tipo}}} NWOBHM]]
+|new york hardcore
+|new york hardcore punk
+|ny hardcore
+|ny hardcore punk
+|n.y. hardcore
+|n.y. hardcore punk=[[New York hardcore]][[Category:{{{tipo}}} New York hardcore]]
+|new york punk
+|new york-punk
+|n.y. punk
+|ny-punk
+|ny punk=[[New York punk]][[Category:{{{tipo}}} New York punk]]
+|noise-pop
+|noise pop=[[Noise pop]][[Category:{{{tipo}}} noise pop]]
+|noise
+|noise music=[[Noise music]][[Category:{{{tipo}}} noise]]
+|noise-rock
+|noiserock
+|noise rock=[[Noise rock]][[Category:{{{tipo}}} noise rock]]
+|house jazz
+|nu-jazz
+|new jazz
+|nu jazz=[[Nu jazz]][[Category:{{{tipo}}} nu jazz]]
+|numetal
+|nu-metal
+|new metal
+|nu metal=[[Nu metal]][[Category:{{{tipo}}} nu metal]]
+|vecchia scuola hip hop
+|old school rap
+|old school
+|old skool
+|old school hiphop
+|old school hip-hop
+|old school hip hop=[[Old school rap]][[Category:{{{tipo}}} old school rap]]
+|rock opera
+|opera rock=[[Opera rock]][[Category:{{{tipo}}} opera rock]]
+|pop opera
+|pop operistico
+|operatic pop=[[Operatic pop]][[Category:{{{tipo}}} operatic pop]]
+|middle-eastern metal
+|middle eastern metal
+|oriental metal=[[Oriental metal]][[Category:{{{tipo}}} oriental metal]]
+|canzone per bambini
+|canzoni per bambini
+|musica per bambini
+|bambini
+|per l'infanzia
+|per bambini=[[Musica per bambini]][[Category:{{{tipo}}} per bambini]]
+|paisley underground=[[Paisley Underground]][[Category:{{{tipo}}} paisley underground]]
+|patchanka=[[Patchanka (genere musicale)|Patchanka]][[Category:{{{tipo}}} patchanka]]
+|piano pop
+|piano rock=[[Piano rock]][[Category:{{{tipo}}} piano rock]]
+|political hip hop
+|political hip-hop
+|political rap=[[Political rap]][[Category:{{{tipo}}} political rap]]
+|political reggae=[[Political reggae]][[Category:{{{tipo}}} political reggae]]
+|pomp rock=[[Pomp rock]][[Category:{{{tipo}}} pomp rock]]
+|popular
+|popular music
+|musica pop
+|pop (musica)
+|pop=[[Pop (musica)|Pop]][[Category:{{{tipo}}} pop]]
+|pop-folk
+|folk pop
+|folk-pop
+|pop folk=[[Folk]][[Category:{{{tipo}}} folk]] <!-- il genere non esiste -->
+|pop-metal
+|pop metal=[[Pop metal]][[Category:{{{tipo}}} pop metal]]
+|psychedelic pop
+|pop psichedelico=[[Pop psichedelico]][[Category:{{{tipo}}} pop psichedelico]]
+|pop-punk
+|punk-pop
+|punk pop
+|pop punk=[[Pop punk]][[Category:{{{tipo}}} pop punk]]
+|hip-pop
+|hip pop
+|pop-rap
+|pop rap=[[Pop rap]][[Category:{{{tipo}}} pop rap]]
+|rock pop
+|pop-rock
+|pop/rock
+|rock-pop
+|pop rock=[[Pop rock]][[Category:{{{tipo}}} pop rock]]
+|posthardcore
+|post hardcore
+|post-hardcore punk
+|post-core
+|post core
+|post-hardcore=[[Post-hardcore]][[Category:{{{tipo}}} post-hardcore]]
+|postpunk
+|post punk
+|post-punk=[[Post-punk]][[Category:{{{tipo}}} post-punk]]
+|postpunk revival
+|post punk revival
+|post-punk revival=[[Post-punk revival]][[Category:{{{tipo}}} post-punk]] <!-- categorizza insieme a post-punk -->
+|postrock
+|post rock
+|post-rock=[[Post-rock]][[Category:{{{tipo}}} post-rock]]
+|post-grunge
+|postgrunge
+|post grunge=[[Post-grunge]][[Category:{{{tipo}}} post-grunge]]
+|post-metal
+|postmetal
+|post metal=[[Post metal]][[Category:{{{tipo}}} post metal]]
+|powermetal
+|power-metal
+|power metal=[[Power metal]][[Category:{{{tipo}}} power metal]]
+|hard pop
+|hardpop
+|powerpop
+|power-pop
+|power pop=[[Power pop]][[Category:{{{tipo}}} power pop]]
+|extreme progressive metal
+|progressive deathmetal
+|progressive death metal=[[Progressive death metal]][[Category:{{{tipo}}} progressive death metal]]
+|progressive folk=[[Progressive folk]][[Category:{{{tipo}}} progressive folk]]
+|prog metal
+|prog-metal
+|progressive power metal
+|progressive metal=[[Progressive metal]][[Category:{{{tipo}}} progressive metal]]
+|proto punk
+|proto-punk=[[Proto-punk]][[Category:{{{tipo}}} proto-punk]]
+|proto metal
+|proto-metal=[[Proto-metal]][[Category:{{{tipo}}} proto-metal]]
+|psychedelic trance
+|psychedelic-trance
+|psycho trance
+|psy trance
+|psy-trance=[[Psy-trance]][[Category:{{{tipo}}} psy-trance]]
+|punk-a-billy
+|punk a billy
+|psycho billy
+|psychobilly=[[Psychobilly]][[Category:{{{tipo}}} psychobilly]]
+|pub rock=[[Pub rock]][[Category:{{{tipo}}} pub rock]]
+|punk blues
+|punk-blues
+|blues punk
+|blues-punk=[[Punk blues]][[Category:{{{tipo}}} punk blues]]
+|jazzcore
+|jazz core
+|jazz-core
+|jazz punk
+|punk jazz=[[Punk jazz]][[Category:{{{tipo}}} punk jazz]]
+|crossover thrash
+|crossover
+|punk-metal
+|punkmetal
+|punk metal=[[Punk metal]][[Category:{{{tipo}}} punk metal]]
+|revival-punk
+|revival punk
+|punk revival=[[Punk revival]][[Category:{{{tipo}}} punk revival]]
+|punk-rock
+|punkrock
+|punk
+|punk rock=[[Punk rock]]<!--[[Category:{{{tipo}}} punk rock]]--><!-- non deve categorizzare--> 
+|queer core
+|queercore=[[Queercore]][[Category:{{{tipo}}} queercore]]
+|rasta rap
+|ragah 
+|raggah
+|ragamuffin
+|ragga muffin
+|raggamaffin
+|ragga maffin
+|raggamuffin music
+|musica raggamuffin
+|ragga
+|raggamuffin=[[Raggamuffin]][[Category:{{{tipo}}} raggamuffin]]
+|reggaeton=[[Reggaeton]][[Category:{{{tipo}}} reggaeton]]
+|ragtime=[[Ragtime]][[Category:{{{tipo}}} ragtime]]
+|pop-raï
+|pop raï=[[Pop raï]][[Category:{{{tipo}}} pop raï]]
+|raï=[[Raï]][[Category:{{{tipo}}} raï]]
+|hip-hop
+|hiphop
+|hip hop
+|musica rap
+|rap=[[Musica rap|Rap]][[Category:{{{tipo}}} rap]]
+|hip hop italiano
+|rap italiano=[[Rap italiano]][[Category:{{{tipo}}} rap]] <!-- categorizza come rap -->
+|rap core
+|rap-core
+|rapcore=[[Rapcore]][[Category:{{{tipo}}} rapcore]]
+|rapmetal
+|rap-metal
+|rap metal=[[Rap metal]][[Category:{{{tipo}}} rap metal]]
+|raprock
+|rap-rock
+|rap rock=[[Rap rock]][[Category:{{{tipo}}} rap rock]]
+|musica raggae
+|musica reggae
+|reggae music
+|raggae
+|reggae=[[Reggae]][[Category:{{{tipo}}} reggae]]
+|reggae pop=[[Reggae pop]][[Category:{{{tipo}}} reggae pop]]
+|urban pop
+|contemporary r&b
+|new r&b
+|modern r&b
+|rhythm'n'blues
+|rhythm 'n' blues
+|rhythm & blues
+|rhythm&blues
+|rhythm and blues
+|r'n'b
+|r 'n' b
+|r & b
+|r and b
+|rnb
+|r&b=[[Rhythm and blues]][[Category:{{{tipo}}} R&B]] <!--rinominare categoria o scrivere R&B? NB.non si è fatta differenza per il momento tra R&B e Contemporary R&B-->
+|riot grrl
+|riot grrrl=[[Riot grrrl]][[Category:{{{tipo}}} riot grrrl]]
+|musica rock
+|rock music
+|rock=[[Rock]][[Category:{{{tipo}}} rock]]
+|acoustic rock
+|rock acustico=[[Rock]] [[Musica acustica|acustico]][[Category:{{{tipo}}} rock]][[Category:{{{tipo}}} unplugged]] <!-- categorizzazione doppia -->
+|rock 'n' roll
+|rock n' roll
+|rock'n roll
+|rock 'n roll
+|rock n roll
+|rock'n'roll
+|rock & roll
+|rock&roll
+|r&r
+|r & r
+|rock and roll=[[Rock and roll]][[Category:{{{tipo}}} rock and roll]]
+|rock demenziale=[[Rock demenziale]][[Category:{{{tipo}}} di musica demenziale]] <!--categoria da rinominare? (di...)-->
+|prog
+|prog rock
+|progressive
+|musica progressive
+|progressive-rock
+|progressive rock
+|rock progressive
+|rock progressivo=[[Rock progressivo]][[Category:{{{tipo}}} rock progressivo]]
+|power ballad=[[Power ballad]][[Category:{{{tipo}}} power ballad]]
+|psichedelica
+|musica psichedelica
+|psychedelic rock
+|rock psichedelico=[[Rock psichedelico]][[Category:{{{tipo}}} rock psichedelico]]
+|rock-a-billy
+|rock a billy
+|rockabilly=[[Rockabilly]][[Category:{{{tipo}}} rockabilly]]
+|rock steady
+|rocksteady=[[Rocksteady]][[Category:{{{tipo}}} rocksteady]]
+|rootsreggae
+|roots reggae=[[Roots reggae]][[Category:{{{tipo}}} roots reggae]]
+|roots rock=[[Roots rock]][[Category:{{{tipo}}} roots rock]]
+|rumba=[[Rumba]][[Category:{{{tipo}}} rumba]]
+|rumba congolese
+|soukous
+|lingala
+|congo
+|rumba africana=[[Rumba africana]][[Category:{{{tipo}}} di rumba africana]]
+|salsa portoricana
+|salsa cubana
+|salsa=[[Salsa (musica)|Salsa]][[Category:{{{tipo}}} salsa]]
+|samba=[[Samba (musica)|Samba]][[Category:{{{tipo}}} samba]]
+|skram
+|emo violence
+|screamo=[[Screamo]][[Category:{{{tipo}}} screamo]]
+|scum punk=[[Scum punk]][[Category:{{{tipo}}} scum punk]]
+|serenade
+|serenate
+|serenata=[[Serenata (musica)|Serenata]][[Category:{{{tipo}}} serenata]]
+|shock rock=[[Shock rock]][[Category:{{{tipo}}} shock rock]]<!-- da utilizzare solo per i gruppi, non hanno senso pubblicazioni shock rock, in caso rimuovere dalle voci -->
+|shoegaze=[[Shoegaze]][[Category:{{{tipo}}} shoegaze]]
+|ska=[[Ska]][[Category:{{{tipo}}} ska]]
+|ska core
+|skacore
+|ska punk=[[Ska punk]][[Category:{{{tipo}}} ska punk]]
+|skatepunk
+|skate punk=[[Skate punk]][[Category:{{{tipo}}} skate punk]]
+|sleaze metal
+|sleaze glam
+|street metal
+|street rock
+|sleaze rock=[[Sleaze metal]][[Category:{{{tipo}}} sleaze metal]]
+|slow core
+|slow-core
+|sad core
+|slo-core
+|sadcore
+|slowcore=[[Slowcore]][[Category:{{{tipo}}} slowcore]]
+|sludge
+|sludge doom metal
+|sludge metal=[[Sludge metal]][[Category:{{{tipo}}} sludge metal]]
+|smooth jazz=[[Smooth jazz]][[Category:{{{tipo}}} smooth jazz]]
+|snap
+|snap music=[[Snap music]][[Category:{{{tipo}}} snap music]]
+|soft rock=[[Soft rock]][[Category:{{{tipo}}} soft rock]]
+|musica soul
+|soul music
+|soul=[[Soul]][[Category:{{{tipo}}} soul]]
+|southern metal=[[Southern metal]][[Category:{{{tipo}}} southern rock]] <!-- categorizza insieme a southern rock visto che sia su it.wiki che en.wiki southern metal reindirizza a southern rock -->
+|dirty south
+|dirty south hip hop
+|dirty southern rap
+|south hip hop
+|southern hip hop
+|southern rap=[[Southern rap]][[Category:{{{tipo}}} southern rap]]
+|southern rock=[[Southern rock]][[Category:{{{tipo}}} southern rock]]
+|spacerock
+|space rock=[[Space rock]][[Category:{{{tipo}}} space rock]]
+|speed-metal
+|speedmetal
+|speed metal=[[Speed metal]][[Category:{{{tipo}}} speed metal]]
+|speed-metal neoclassico
+|speed metal neoclassico
+|speed-power metal
+|speed power metal=[[Speed power metal]][[Category:{{{tipo}}} speed power metal]]
+|speed thrash metal=[[Speed thrash metal]][[Category:{{{tipo}}} thrash metal]] <!-- quasi sinonimo di thrash metal, quindi stessa categoria-->
+|stoner metal
+|stoner
+|desert rock
+|stoner rock=[[Stoner rock]][[Category:{{{tipo}}} stoner rock]]
+|sxe
+|straight edge=[[Straight edge]][[Category:{{{tipo}}} straight edge]]
+|oi! punk
+|oi punk
+|oi
+|oi!
+|pogo punk
+|streetpunk
+|street punk=[[Street punk]][[Category:{{{tipo}}} street punk]]
+|surf
+|surf music
+|surf pop=[[Surf pop]][[Category:{{{tipo}}} surf pop]]
+|surf rock=[[Surf rock]][[Category:{{{tipo}}} surf rock]]
+|swedecore=[[Swedecore]][[Category:{{{tipo}}} swedecore]]
+|musica swing
+|swing=[[Swing]][[Category:{{{tipo}}} swing]]
+|symphonic black metal=[[Symphonic black metal]][[Category:{{{tipo}}} symphonic black metal]]
+|symphonic death metal=[[Symphonic death metal]][[Category:{{{tipo}}} symphonic death metal]]
+|metal sinfonico
+|symphonic power metal
+|power metal sinfonico
+|symphonic metal=[[Symphonic metal]][[Category:{{{tipo}}} symphonic metal]]
+|symphonic rock
+|symphonic-rock
+|symphonic-progressive rock
+|symphonic-prog rock
+|symphonic rock progressivo
+|rock progressivo sinfonico
+|symphonic progressive rock=[[Symphonic progressive rock]][[Category:{{{tipo}}} symphonic progressive rock]]
+|eletro rock
+|electro rock
+|electronic rock
+|eletro-rock
+|electro-rock
+|electronic-rock
+|eletrorock
+|electrorock
+|electronicrock
+|synthrock
+|synth-rock
+|synth rock=[[Synth rock]][[Category:{{{tipo}}} synth rock]]
+|synthpop
+|synth-pop
+|synth pop=[[Synth pop]][[Category:{{{tipo}}} synth pop]]
+|tango argentino
+|tango=[[tango argentino|Tango]][[Category:{{{tipo}}} tango]]
+|teatro canzone=[[Teatro canzone]][[Category:{{{tipo}}} teatro canzone]]
+|technical death metal=[[Technical death metal]][[Category:{{{tipo}}} technical death metal]]
+|technical thrash metal=[[Technical thrash metal]][[Category:{{{tipo}}} technical thrash metal]]
+|techno=[[Techno]][[Category:{{{tipo}}} techno]]
+|teen
+|teenpop
+|teen pop=[[Teen pop]][[Category:{{{tipo}}} teen pop]]
+|texas blues=[[Texas blues]][[Category:{{{tipo}}} texas blues]]
+|third wave of ska=[[Third Wave of Ska]][[Category:{{{tipo}}} third wave of ska]]
+|trance music
+|musica trance
+|hard trance
+|techno trance
+|trance =[[Trance (musica)|Trance]][[Category:{{{tipo}}} trance]]
+|thrash core
+|thrash-core
+|thrashcore=[[Thrashcore]][[Category:{{{tipo}}} thrashcore]]
+|trash metal
+|thrash death metal
+|thrash metal=[[Thrash metal]][[Category:{{{tipo}}} thrash metal]]
+|bristol sound
+|trip hop=[[Trip hop]][[Category:{{{tipo}}} trip hop]]
+|twist = [[Twist]][[Category:{{{tipo}}} twist]]
+|christian black metal
+|unblack metal=[[Unblack metal]][[Category:{{{tipo}}} unblack metal]]
+|musica underground
+|underground=[[Musica underground|Underground]]
+|underground statunitense
+|underground americano=[[Musica underground|Underground americano]]
+|underground rap
+|underground hip hop=[[Underground rap]][[Category:{{{tipo}}} underground rap]]
+|viking metal=[[Viking metal]][[Category:{{{tipo}}} viking metal]]
+|visual kei=[[Visual kei]][[Category:{{{tipo}}} visual kei]]
+|west coast
+|west coast hip-hop
+|west coast hiphop
+|west coast hip hop
+|west coast rap=[[West Coast rap]][[Category:{{{tipo}}} West Coast rap]]
+|wizard rock=[[Wizard rock]][[Category:{{{tipo}}} wizard rock]]
+|world beat
+|worldbeat
+|world
+|world music=[[World music]][[Category:{{{tipo}}} world music]]
+|zeuhl=[[Zeuhl]][[Category:{{{tipo}}} zeuhl]]
+|vari
+|vari generi={{{genere|}}}
+|=<!--nessun genere-->
+|[[{{{genere|}}}]]{{
+  #switch:{{lc:{{{tipo|}}}}}
+   |album
+   |brani musicali
+   |singoli
+   |ep
+   |video e dvd=[[Category:Album e brani musicali con genere non riconosciuto]]
+   |sound system
+   |dj
+   |disc jockey
+   |cantanti
+   |cantautori
+   |musicisti
+   |orchestre
+   |gruppi musicali=[[Category:Gruppi e musicisti con genere non riconosciuto]]
+   |[[Category:Album e brani musicali con genere non riconosciuto]]
+  }}
+}}|[[{{{genere|}}}]]<!--non categorizza fuori dal ns0-->}}{{
+#if:{{{artista|}}}|
+{{#ifexist:Category:{{{tipo}}} de {{{artista}}}|[[Category:{{{tipo}}} di {{{artista}}}]]|
+{{#ifexist:Category:{{{tipo}}} de le {{{artista}}}|[[Category:{{{tipo}}} de le {{{artista}}}]]|
+{{#ifexist:Category:{{{tipo}}} de l'{{{artista}}}|[[Category:{{{tipo}}} de l'{{{artista}}}]]|
+{{#ifexist:Category:{{{tipo}}} d'u {{{artista}}}|[[Category:{{{tipo}}} d'u {{{artista}}}]]|
+{{#ifexist:Category:{{{tipo}}} de {{{artista}}}|[[Category:{{{tipo}}} de {{{artista}}}]]|
+{{#ifeq:{{NAMESPACE}}||{{#switch:{{lc:{{{artista|}}}}}
+  |aavv
+  |aa vv
+  |aa.vv.
+  |aa. vv.
+  |artiste varie
+  |varie artiste
+  |varie
+  |varie autore
+  |autore varie=<!--già categorizzato da template:album o template:canzone-->
+  |[[Category:Album e brani musicali con artista non riconosciuto]]}}|}}}}}}}}}}}}}}}}}}|
+}}{{#if:{{{anno|}}}|{{#ifexist:Categoria:{{{tipo|}}} del {{{anno|}}}|[[Category:{{{tipo|}}} del {{{anno|}}}]]|{{#ifeq:{{NAMESPACE}}||[[Category:Album e brani musicali con problemi]]|}}}}|}}</includeonly><noinclude>
+{{protetta}}
+{{esoteric}}
+{{man}}
+[[Category:Sottotemplate]]
+
+[[eo:Ŝablono:Laŭĝenro]]
+</noinclude>
