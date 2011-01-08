@@ -1,0 +1,30 @@
+==Manuale==
+<div class="toccolours" style="clear:left; margin-bottom: 0.5em; font-size: 90%;">
+
+===Scopo===
+Questo template serve per la categorizzazione automatica per genere, artista e anno da parte dei template {{tl|Album}} e {{tl|Canzone}} e per genere da parte del template {{tl|Artista musicale}}. Il suo scopo è ridurre la complessità dei template principali e permettere una categorizzazione più elastica, intelligente e omogenea. Per vedere l'elenco dei generi musicali riconosciuti è sufficiente visualizzare il sorgente di questo template.
+
+===Aggiornamento elenco generi===
+Prima di aggiungere nuovi generi musicali all'interno di questo template si consiglia di inserire la proposta in [[Discussioni progetto:Musica]]. Se hai dei dubbi: chiedi prima di agire.
+
+Aggiungere i generi sempre '''completamente lowcase''' nella forma:
+
+ ''grafia alternativa1''
+ ''grafia alternativa2''
+ ''grafia più comune del genere''=<nowiki>[[</nowiki>''voce corrispondente''<nowiki>]]</nowiki><nowiki>[[</nowiki>Categoria:<nowiki>{{{tipo}}}</nowiki> ''genere''<nowiki>]]</nowiki>
+
+La categoria normalmente deve esistere (o deve venir creata) dentro uno più degli alberi sottoriportati.
+Nota: queste categorie danno un'idea dei generi musicali riconosciuti, tuttavia esistono anche molti sinonimi riconosciuti e alcuni generi speciali (ad esempio [[:Categoria:Canzoni natalizie|Canzoni natalizie]] che vengono categorizzati al di fuori di queste categorie. Per l'elenco completo di tutti i generi e relativi sinonimi riconosciuti dai una sbirciatina al contenuto di [http://it.wikipedia.org/w/index.php?title=Template:Autocat_musica&action=edit Template:Autocat musica].
+
+*[[Template:Autocat musica/man/elenco categorie#Categorie popolate dai template .7B.7BAlbum.7D.7D e .7B.7BCanzone.7D.7D|Elenco delle categorie]] popolate dai template {{tl|Album}} e {{tl|Canzone}}
+*[[Template:Autocat musica/man/elenco categorie#Categorie popolate dal template .7B.7BArtista musicale.7D.7D|Elenco delle categorie]] popolate dal template {{tl|Artista musicale}}
+
+===Sintassi===
+ <nowiki>{{Autocat musica|genere=</nowiki>''genere musicale''<nowiki>|tipo=</nowiki>''tipo di album''<nowiki>|artista=</nowiki>''nome artista''<nowiki>|anno=</nowiki>''anno pubblicazione''<nowiki>}}</nowiki>
+
+Dove ''tipo di album'' per il template Canzone è sempre ''Brani musicali'', mentre per il template Album è uno di questi:
+*''Album''
+*''Singoli''
+*''EP''
+*''Video e DVD''
+<noinclude>[[Category:Manuali dei template|Autocat musica]]</noinclude>
