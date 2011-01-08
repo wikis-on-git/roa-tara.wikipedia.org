@@ -1,0 +1,58 @@
+<noinclude>{{esoteric}}</noinclude><div class="toccolours itwiki_template_avviso noprint" style="margin-bottom: 0.5em;">
+{| style="background-color: White; font-size:95%;"
+|----
+| style="vertical-align:center;" |[[File:Disambigua compass.svg|40px|logo]]
+|Questa è una pagina di [[Help:Disambigua|chiarimento delle ambiguità]]: contiene un elenco di voci che possono riferirsi alla stessa combinazione di 2 caratteri. Se sei [[Special:Whatlinkshere/{{PAGENAME}}|giunto qui]] passando da un [[Help:wikilink|wikilink]], puoi tornare indietro e correggerlo in modo che punti direttamente alla voce appropriata. <small>Vedi anche il [[Progetto:Acronimi|Progetto acronimi]]. {{#if:{{{XX|}}}
+ |[[Acronym:{{{XX}}}|Cerca un acronimo per {{{XX}}}]]
+ |[[Acronym:{{BASEPAGENAME}}|Cerca un acronimo per {{BASEPAGENAME}}]]
+}} {{#if:{{{WK|}}}
+ |oppure [[:wikt:{{{WK}}}|consulta "'''{{{WK}}}'''" sul Wikizionario]]
+ |
+}}</small>
+|}</div>
+<includeonly>[[Categoria:Combinazioni di 2 caratteri]]</includeonly><noinclude>
+== Uso del template ==
+Il template è una variazione di {{tl|disambigua}} da utilizzare nelle pagine di disambiguazione delle '''combinazioni di 2 caratteri'''  (lettere e/o numeri). 
+
+L'aspetto grafico è volutamente identico a {{tl|disambigua}}. 
+
+Il testo è stato adattato al caso specifico: anziché "elenco di voci che ''altrimenti potrebbero avere lo stesso nome''", il messaggio recita "elenco di voci ''che possono riferirsi alla stessa combinazione di 2 caratteri''".
+
+Il template inserisce automaticamente la voce su cui è apposto nella [[:Category:Combinazioni di 2 caratteri]], sottocategoria sia di [[:Category:Acronimi]] sia di [[:Category:Disambigua]].
+
+Per la compilazione della pagina di disambigua fare riferimento a [[Progetto:Acronimi/Disambigua]].
+
+== Collegamento ad [http://www.acronymfinder.com Acronymfinder.com] ==
+Se il template <nowiki>{{Sigla2}}</nowiki> viene inserito in una pagina di disambiguazione con un titolo diverso dalla mera combinazione dei due caratteri (per esempio ''XX (disambigua)''), il collegamento automatico "Cerca un acronimo per XX (disambigua)" dà errore.
+
+Per ovviare a questo inconveniente, in tali casi occorre specificare il parametro opzionale '''XX''' da passare alla ricerca dell'acronimo.
+
+Per esempio, su [[K2 (disambigua)]] viene inserito <nowiki>{{Sigla2|XX=K2}}</nowiki> che produce:
+
+
+<div class="toccolours itwiki_template_avviso" style="margin-bottom: 0.5em;">
+{| style="background-color: White; font-size:95%;"
+|----
+| style="vertical-align:center;" |[[File:Disambigua compass.svg|40px]]
+|Questa è una pagina di [[Help:Disambigua|chiarimento delle ambiguità]]: contiene un elenco di voci che possono riferirsi alla stessa combinazione di 2 caratteri. Se sei [[Special:Whatlinkshere/IL|giunto qui]] passando da un [[Help:wikilink|wikilink]], puoi tornare indietro e correggerlo in modo che punti direttamente alla voce appropriata. <small>Vedi anche il [[Progetto:Acronimi|Progetto acronimi]].<br>[[Acronym:K2|Cerca un acronimo per K2]]</small>
+|}</div>
+
+
+== Collegamento al [[Wikizionario]] ==
+Se la combinazione di 2 lettere è un lemma del Wikizionario, è possibile far comparire "oppure consulta ''"xx"'' sul Wikizionario" al testo del riquadro di disambiguazione. Basta aggiungere come parametro opzionale '''WK''' il titolo esatto di tale lemma (attenzione: sul Wikizionario vale la distinzione tra maiuscolo/minuscolo anche per la lettera iniziale). 
+
+Per esempio, su [[IL]] viene inserito <nowiki>{{Sigla2|WK=il}}</nowiki> che produce:
+
+<div class="toccolours itwiki_template_avviso" style="margin-bottom: 0.5em;">
+{| style="background-color: White; font-size:95%;"
+|----
+| style="vertical-align:center;" |[[File:Disambigua compass.svg|40px]]
+|Questa è una pagina di [[Help:Disambigua|chiarimento delle ambiguità]]: contiene un elenco di voci che possono riferirsi alla stessa combinazione di 2 caratteri. Se sei [[Special:Whatlinkshere/IL|giunto qui]] passando da un [[Help:wikilink|wikilink]], puoi tornare indietro e correggerlo in modo che punti direttamente alla voce appropriata. <small>Vedi anche il [[Progetto:Acronimi|Progetto acronimi]].<br>[[Acronym:IL|Cerca un acronimo per IL]] oppure [[:wikt:il|consulta "il" sul Wikizionario]]</small>
+|}</div>
+
+[[Category:Template de disambiguazione|Sigla2]]
+
+[[cs:Šablona:Rozcestník - 2 znaky]]
+[[it:Template:Sigla2]]
+[[ro:Format:2CC]]
+</noinclude>
