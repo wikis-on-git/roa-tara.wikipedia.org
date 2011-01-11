@@ -1,19 +1,19 @@
-<includeonly>{{Box titolo|90ee90|{{#ifeq:{{{stato}}}|Italia|<small>[[Area naturale protetta|Aree naturali protette]] in [[Italia]]</small><br />|}}{{{nomearea}}}|aree protette}}
+<includeonly>{{Box titolo|90ee90|{{#ifeq:{{{stato}}}|Itaglie|<small>[[Aree naturale prutette|Aree naturale prutette]] jndr'à [[Itaglie]]</small><br />|}}{{{nomearea}}}|aree protette}}
 {{#if: {{{nomeoriginale|}}} | {{Box sezione|bcf5bc|{{{nomeoriginale}}}|}} }}
 |- {{#if: {{{immagine|}}} | {{Box panorama|{{{immagine}}}}} | }}
 |- {{#if: {{{linkmappa|}}} | {{Box mappa|{{{linkmappa}}}|{{{pxMappa}}}}} | }}
-|- {{#if: {{{tipoarea|}}} | {{Box|{{#ifeq:{{{stato}}}|Italia|[[Aree naturali protette|Tipo di area]]|Tipo di area}}|{{#ifeq:{{{stato}}}|Italia|[[{{{tipoarea}}}]]|{{{tipoarea}}} }} }} |}}
-|- {{#if: {{{euap|}}} | {{Box|[[Elenco ufficiale delle aree protette|Codifica EUAP]]|{{{euap}}}}} | }}
-|- {{#if: {{{stato|}}} | {{#ifeq:{{{stato}}}|Italia||{{Box|[[Stato|Stati]]|{{{stato}}} }} }} | }}
-|- {{#if: {{{statofederato|}}} | {{Box|[[{{#if: {{{vocestatifederati|}}}|{{{vocestatifederati}}}|Stato federale}}|Stati federati]]|{{{statofederato}}}}} | }}
-|- {{#if: {{{regione|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Regioni d'Italia|Regione}}|Regioni]]|{{{regione}}}}} | }}
-|- {{#if: {{{provincia|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Provincia italiana|Provincia}}|Province]]|{{{provincia}}}}} | }}
-|- {{#if: {{{comuni|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Comune italiano|Comune}}|Comuni]]|{{{comuni}}}}} | }}
-|- {{#if: {{{classif-internaz|}}} | {{Box|[[Classificazione internazionale|Class.internaz.]]|{{{classif-internaz}}}}} | }}
-|- {{#if: {{{provvedimenti istitutivi|}}} | {{Box|Provvedimenti istitutivi|{{{provvedimenti istitutivi}}}}} | }}
-|- {{#if: {{{superficieterrakm|}}} | {{Box|Superficie a terra|{{{superficieterrakm}}} [[Chilometro quadro|km²]]}} | }}
-|- {{#if: {{{superficieterra|}}} | {{Box|Superficie a terra|{{{superficieterra}}} [[ettaro|ha]]}} | }}
-|- {{#if: {{{superficiemare|}}} | {{Box|Superficie a mare|{{{superficiemare}}} [[ettaro|ha]]}} | }}
+|- {{#if: {{{tipoarea|}}} | {{Box|{{#ifeq:{{{stato}}}|Itaglie|[[Aree naturale prutette|Tipe de aree]]|Tipe de aree}}|{{#ifeq:{{{stato}}}|Italia|[[{{{tipoarea}}}]]|{{{tipoarea}}} }} }} |}}
+|- {{#if: {{{euap|}}} | {{Box|[[Elenghe ufficiale de le aree prutette|Codifeche EUAP]]|{{{euap}}}}} | }}
+|- {{#if: {{{stato|}}} | {{#ifeq:{{{stato}}}|Itaglie||{{Box|[[State|State]]|{{{stato}}} }} }} | }}
+|- {{#if: {{{statofederato|}}} | {{Box|[[{{#if: {{{vocestatifederati|}}}|{{{vocestatifederati}}}|State federale}}|State federate]]|{{{statofederato}}}}} | }}
+|- {{#if: {{{regione|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Itaglie|Reggione d'Itaglie|Reggione}}|Reggione]]|{{{regione}}}}} | }}
+|- {{#if: {{{provincia|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Itaglie|Provinge tagliàne|Provinge}}|Province]]|{{{provincia}}}}} | }}
+|- {{#if: {{{comuni|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Itaglie|Comune tagliàne|Comune}}|Comune]]|{{{comuni}}}}} | }}
+|- {{#if: {{{classif-internaz|}}} | {{Box|[[Classifecaziune 'ndernazionale|Class.'ndernaz.]]|{{{classif-internaz}}}}} | }}
+|- {{#if: {{{provvedimenti istitutivi|}}} | {{Box|Provvedimènde istitutive|{{{provvedimenti istitutivi}}}}} | }}
+|- {{#if: {{{superficieterrakm|}}} | {{Box|Grannèzze a terre|{{{superficieterrakm}}} [[Chilometre quadrate|km²]]}} | }}
+|- {{#if: {{{superficieterra|}}} | {{Box|Grannèzze a terre|{{{superficieterra}}} [[ettare|ha]]}} | }}
+|- {{#if: {{{superficiemare|}}} | {{Box|Grannèzze a mare|{{{superficiemare}}} [[ettare|ha]]}} | }}
 |- {{#if: {{{gestore|}}} | {{Box|Gestore|{{{gestore}}}}} | }}
 |- {{#if: {{{presidente|}}} | {{Box|Presidente|{{{presidente}}}}} | }}
 |- {{#if: {{{linkmappa2|}}} | {{Box mappa|{{{linkmappa2}}}|{{{pxMappa2}}}}} | }}
@@ -58,48 +58,47 @@
 {{#if:{{{tipo|}}}{{{superficie|}}}{{{altitudine|}}}{{{lunghezza|}}}{{{larghezza|}}}{{{profondità|}}}{{{profondità_media|}}}{{{volume|}}}{{{sviluppo_coste|}}}{{{bacino|}}}{{{immissari|}}}{{{emissari|}}}{{{ritenzione|}}}{{{isole|}}}|
 ! colspan="2"  style="background:#CEDEFF;" class="sinottico_testata"{{!}} '''{{{nomeLAGO|{{PAGENAME}}}}}'''
 {{!}}-
-{{#if:{{{tipo|}}}|! Tipologia
+{{#if:{{{tipo|}}}|! Tipologgie
 {{!}}{{{tipo}}} }}
 {{!}}- class="sinottico_divisione"
-! colspan="2" style="background: #CEDEFF; height:8px;"{{!}} Dimensioni
-{{!}}-
+! colspan="2" style="background: #CEDEFF; height:8px;"{{!}} Dimensiune{{!}}-
 {{#if:{{{superficie|}}}|! [[Area|Superficie]]
-{{!}}{{formatnum:{{{superficie}}}}} [[chilometro quadro|km²]] }}
+{{!}}{{formatnum:{{{superficie}}}}} [[Chilometre quadrate|km²]] }}
 {{!}}-
 {{#if:{{{altitudine|}}}|! [[Altitudine]]
-{{!}}{{formatnum:{{{altitudine}}}}} [[metri sul livello del mare|m s.l.m.]] }}
+{{!}}{{formatnum:{{{altitudine}}}}} [[Metre sus a 'u levèlle d'u mare|m s.l.m.]] }}
 {{!}}-
-{{#if:{{{lunghezza|}}}|! Lunghezza
-{{!}}{{{lunghezza}}} [[chilometro|km]] }}
+{{#if:{{{lunghezza|}}}|! Lunghezze
+{{!}}{{{lunghezza}}} [[chilometre|km]] }}
 {{!}}-
-{{#if:{{{larghezza|}}}|! Larghezza
-{{!}}{{{larghezza}}} [[chilometro|km]] }}
+{{#if:{{{larghezza|}}}|! Larghezze
+{{!}}{{{larghezza}}} [[chilometre|km]] }}
 {{!}}-
-{{#if:{{{profondità|}}}|! Profondità massima
-{{!}}{{formatnum:{{{profondità}}}}} [[metro|m]] }}
+{{#if:{{{profondità|}}}|! Profunnetà massime
+{{!}}{{formatnum:{{{profondità}}}}} [[metre|m]] }}
 {{!}}-
-{{#if:{{{profondità_media|}}}|! Profondità media
-{{!}}{{formatnum:{{{profondità_media}}}}} [[metro|m]] }}
+{{#if:{{{profondità_media|}}}|! Profunnetà medie
+{{!}}{{formatnum:{{{profondità_media}}}}} [[metre|m]] }}
 {{!}}-
 {{#if:{{{volume|}}}|! [[Volume]]
 {{!}}{{{volume}}} km³ }}
 {{!}}-
-{{#if:{{{sviluppo_coste|}}}|! Sviluppo costiero
-{{!}}{{formatnum:{{{sviluppo_coste}}}}} [[chilometro|km]] }}
+{{#if:{{{sviluppo_coste|}}}|! Sveluppe costiere
+{{!}}{{formatnum:{{{sviluppo_coste}}}}} [[chilometre|km]] }}
 {{!}}-
-{{#if:{{{bacino|}}}|! [[Bacino imbrifero]]
-{{!}}{{formatnum:{{{bacino}}}}} [[chilometro quadro|km²]] }}
+{{#if:{{{bacino|}}}|! [[Bacine imbrifere]]
+{{!}}{{formatnum:{{{bacino}}}}} [[Chilometre quadrate|km²]] }}
 {{!}}-
-{{#if:{{{immissari|}}}|! Immissari principali
+{{#if:{{{immissari|}}}|! Immissarie prengepàle
 {{!}}{{{immissari}}} }}
 {{!}}-
-{{#if:{{{emissari|}}}|! Emissari principali
+{{#if:{{{emissari|}}}|! Emissarie prengepàle
 {{!}}{{{emissari}}} }}
 {{!}}-
-{{#if:{{{ritenzione|}}}|! Tempo di ritenzione lacustre
-{{!}}{{{ritenzione}}} [[anno|anni]] }}
+{{#if:{{{ritenzione|}}}|! Timbe de ritenzione lacustre
+{{!}}{{{ritenzione}}} [[anne|anne]] }}
 {{!}}-
-{{#if:{{{isole|}}}|! [[Isola|Isole]]
+{{#if:{{{isole|}}}|! [[Isole|Isole]]
 {{!}}{{{isole}}} }}
 }}
 |}
