@@ -1,0 +1,172 @@
+<includeonly>{{Box titolo|90ee90|{{#ifeq:{{{stato}}}|Italia|<small>[[Area naturale protetta|Aree naturali protette]] in [[Italia]]</small><br />|}}{{{nomearea}}}|aree protette}}
+{{#if: {{{nomeoriginale|}}} | {{Box sezione|bcf5bc|{{{nomeoriginale}}}|}} }}
+|- {{#if: {{{immagine|}}} | {{Box panorama|{{{immagine}}}}} | }}
+|- {{#if: {{{linkmappa|}}} | {{Box mappa|{{{linkmappa}}}|{{{pxMappa}}}}} | }}
+|- {{#if: {{{tipoarea|}}} | {{Box|{{#ifeq:{{{stato}}}|Italia|[[Aree naturali protette|Tipo di area]]|Tipo di area}}|{{#ifeq:{{{stato}}}|Italia|[[{{{tipoarea}}}]]|{{{tipoarea}}} }} }} |}}
+|- {{#if: {{{euap|}}} | {{Box|[[Elenco ufficiale delle aree protette|Codifica EUAP]]|{{{euap}}}}} | }}
+|- {{#if: {{{stato|}}} | {{#ifeq:{{{stato}}}|Italia||{{Box|[[Stato|Stati]]|{{{stato}}} }} }} | }}
+|- {{#if: {{{statofederato|}}} | {{Box|[[{{#if: {{{vocestatifederati|}}}|{{{vocestatifederati}}}|Stato federale}}|Stati federati]]|{{{statofederato}}}}} | }}
+|- {{#if: {{{regione|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Regioni d'Italia|Regione}}|Regioni]]|{{{regione}}}}} | }}
+|- {{#if: {{{provincia|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Provincia italiana|Provincia}}|Province]]|{{{provincia}}}}} | }}
+|- {{#if: {{{comuni|}}} | {{Box|[[{{#ifeq:{{{stato}}}|Italia|Comune italiano|Comune}}|Comuni]]|{{{comuni}}}}} | }}
+|- {{#if: {{{classif-internaz|}}} | {{Box|[[Classificazione internazionale|Class.internaz.]]|{{{classif-internaz}}}}} | }}
+|- {{#if: {{{provvedimenti istitutivi|}}} | {{Box|Provvedimenti istitutivi|{{{provvedimenti istitutivi}}}}} | }}
+|- {{#if: {{{superficieterrakm|}}} | {{Box|Superficie a terra|{{{superficieterrakm}}} [[Chilometro quadro|km²]]}} | }}
+|- {{#if: {{{superficieterra|}}} | {{Box|Superficie a terra|{{{superficieterra}}} [[ettaro|ha]]}} | }}
+|- {{#if: {{{superficiemare|}}} | {{Box|Superficie a mare|{{{superficiemare}}} [[ettaro|ha]]}} | }}
+|- {{#if: {{{gestore|}}} | {{Box|Gestore|{{{gestore}}}}} | }}
+|- {{#if: {{{presidente|}}} | {{Box|Presidente|{{{presidente}}}}} | }}
+|- {{#if: {{{linkmappa2|}}} | {{Box mappa|{{{linkmappa2}}}|{{{pxMappa2}}}}} | }}
+|- {{#if: {{{sito|}}} | {{Box sito|1={{{sito}}}}} | }}<!--
+
+ SOVRAIMMAGINE 
+
+-->
+{{!}}-
+{{ #if: {{{x|}}} |
+{{!}} colspan = 2 bgcolor="#BBBBBB" border:1px solid #808080{{!}}{{Sovraimmagine
+  | allineamento = right
+  | sotto = {{{sotto}}}
+  | sotto_larghezza = 300px
+  | sotto_didascalia = {{{sotto_didascalia|}}}
+  | sopra = Red Dot.svg
+  | sopra_larghezza = 9px
+  | sopra_didascalia = {{{sopra_didascalia|}}}
+  | x = {{{x}}}
+  | y = {{{y}}}
+}}}}
+|}
+
+{| style="border:1px solid #aaaaaa; background-color:#f9f9f9; padding:3px; font-size: 95%; clear:right; width:300px; float:right; vertical-align: top;"
+|- colspan = 2
+{{#if:{{{latitudine|}}}{{{longitudine|}}}|
+! [[Coordinate geografiche|Coordinate]]
+{{!}}{{Coord|{{{latitudine}}}|{{{longitudine}}}|type:waterbody|format=dms|display=inline,title}}
+{{!}}-
+{{!}}colspan="2" align=center{{!}}
+{{Mappa di localizzazione con test
+|{{{nazione}}}
+|lat={{{latitudine|}}}
+|long={{{longitudine|}}}
+|width=240
+}} }}
+<!--
+  LAGO
+
+-->  
+{{!}}- 
+{{#if:{{{tipo|}}}{{{superficie|}}}{{{altitudine|}}}{{{lunghezza|}}}{{{larghezza|}}}{{{profondità|}}}{{{profondità_media|}}}{{{volume|}}}{{{sviluppo_coste|}}}{{{bacino|}}}{{{immissari|}}}{{{emissari|}}}{{{ritenzione|}}}{{{isole|}}}|
+! colspan="2"  style="background:#CEDEFF;" class="sinottico_testata"{{!}} '''{{{nomeLAGO|{{PAGENAME}}}}}'''
+{{!}}-
+{{#if:{{{tipo|}}}|! Tipologia
+{{!}}{{{tipo}}} }}
+{{!}}- class="sinottico_divisione"
+! colspan="2" style="background: #CEDEFF; height:8px;"{{!}} Dimensioni
+{{!}}-
+{{#if:{{{superficie|}}}|! [[Area|Superficie]]
+{{!}}{{formatnum:{{{superficie}}}}} [[chilometro quadro|km²]] }}
+{{!}}-
+{{#if:{{{altitudine|}}}|! [[Altitudine]]
+{{!}}{{formatnum:{{{altitudine}}}}} [[metri sul livello del mare|m s.l.m.]] }}
+{{!}}-
+{{#if:{{{lunghezza|}}}|! Lunghezza
+{{!}}{{{lunghezza}}} [[chilometro|km]] }}
+{{!}}-
+{{#if:{{{larghezza|}}}|! Larghezza
+{{!}}{{{larghezza}}} [[chilometro|km]] }}
+{{!}}-
+{{#if:{{{profondità|}}}|! Profondità massima
+{{!}}{{formatnum:{{{profondità}}}}} [[metro|m]] }}
+{{!}}-
+{{#if:{{{profondità_media|}}}|! Profondità media
+{{!}}{{formatnum:{{{profondità_media}}}}} [[metro|m]] }}
+{{!}}-
+{{#if:{{{volume|}}}|! [[Volume]]
+{{!}}{{{volume}}} km³ }}
+{{!}}-
+{{#if:{{{sviluppo_coste|}}}|! Sviluppo costiero
+{{!}}{{formatnum:{{{sviluppo_coste}}}}} [[chilometro|km]] }}
+{{!}}-
+{{#if:{{{bacino|}}}|! [[Bacino imbrifero]]
+{{!}}{{formatnum:{{{bacino}}}}} [[chilometro quadro|km²]] }}
+{{!}}-
+{{#if:{{{immissari|}}}|! Immissari principali
+{{!}}{{{immissari}}} }}
+{{!}}-
+{{#if:{{{emissari|}}}|! Emissari principali
+{{!}}{{{emissari}}} }}
+{{!}}-
+{{#if:{{{ritenzione|}}}|! Tempo di ritenzione lacustre
+{{!}}{{{ritenzione}}} [[anno|anni]] }}
+{{!}}-
+{{#if:{{{isole|}}}|! [[Isola|Isole]]
+{{!}}{{{isole}}} }}
+}}
+|}
+<!--
+
+ UNESCO
+
+-->
+{| align="right" cellpadding="2" cellspacing="0" style="clear:right; float:right;" width="300px"
+{{!}}-
+{{#if:{{{tipoBene|}}}{{{nome2|}}}{{{nome|}}}{{{nomeInglese|}}}{{{nomeInglese2|}}}{{{tipologia|}}}{{{criterio|}}}{{{pericolo|}}}{{{anno2|}}}{{{anno|}}}{{{link|}}}{{{link2|}}}{{{linkMappa|}}}{{{linkCategoria|}}}{{{statoUNESCO|}}}{{{stato2|}}}{{{linkCategoria2|}}}|
+{{!}} style="background:#BBBBBB; border:1px solid #808080; padding: 2px;" align="center" colspan="2" {{!}}[[Immagine:Flag_of_UNESCO.svg{{!}}25px]] '''Bene protetto dall'[[Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura{{!}}UNESCO]]'''
+
+{{!}}- <!-- CATEGORIA DEL BENE :  PATRIMONIO/RISERVA -->
+{{!}} {{ #ifeq: {{{tipoBene}}} | entrambi | <!-- ENTRAMBI
+-->align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; "{{!}}[[Immagine:Patrimonio UNESCO.png{{!}}left{{!}}25px]] [[Patrimonio dell'umanità]]
+{{!}} align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}}[[Immagine:Gnome-globe.svg{{!}}left{{!}}25px]] [[Riserva della biosfera]]|<!--
+-->{{ #ifeq: {{{tipoBene}}} | riserva | <!-- RISERVA
+-->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; "{{!}}[[Immagine:Gnome-globe.svg{{!}}25px]] [[Riserva della biosfera]]|<!-- 
+-->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; "{{!}}[[Immagine:Patrimonio UNESCO.png{{!}}25px]] [[Patrimonio dell'umanità]]
+}} }}
+
+{{!}}- <!-- NOME ITALIANO ED INGLESE DEL BENE PROTETTO -->
+{{!}} {{ #if: {{{nome2|}}} | <!-- E' SPECIFICATO ANCHE IL SECONDO NOME
+-->align=center bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''{{{nome}}}'''<br/>''{{{nomeInglese}}}''
+{{!}}align=center bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''{{{nome2}}}'''<br/>''{{{nomeInglese2}}}''|<!--
+-->colspan=2 align=center bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''''<span style="padding:0.2em; text-align:center; font-size:135%;">{{{nome}}}</span>'''''<br/>''{{{nomeInglese}}}'' }}
+
+{{!}}- <!-- TIPO DEL BENE :  CULTURALI/NATURALI -->
+{{ #ifeq: {{{tipoBene|}}} | riserva | |
+{{!}} bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''Tipologia'''
+{{!}} bgcolor="#FFFFFF" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{{tipologia}}} }}
+
+{{!}}- <!-- CRITERIO -->
+{{ #ifeq: {{{tipoBene|}}} | riserva | |
+{{!}} bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''[[Patrimonio dell'umanità#Criteri{{!}}Criterio]]'''
+{{!}} bgcolor="#FFFFFF" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{{criterio}}} }}
+
+{{!}}- <!-- PERICOLO -->
+{{ #ifeq: {{{tipoBene|}}} | riserva | |
+{{!}} bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''Pericolo'''
+{{!}} bgcolor="#FFFFFF" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{pericolo|}}} | {{{pericolo}}} | Bene non in pericolo }} }}
+
+{{!}}- <!-- ANNO -->
+{{!}} bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''Anno'''
+{{!}} bgcolor="#FFFFFF" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{ #if: {{{anno2|}}} | <!-- E' SPECIFICATO ANCHE IL SECONDO ANNO
+--> {{!}}[[{{{anno}}}]] (come patrimonio)<br/>[[{{{anno2}}}]] (come riserva)|<!--
+-->{{!}} [[{{{anno}}}]] }}
+
+{{!}}- <!-- LINK (INGLESE/FRANCESE)-->
+{{!}} bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} '''Scheda UNESCO'''
+{{!}} bgcolor="#FFFFFF" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #ifeq: {{{tipoBene}}} | entrambi | <!-- ENTRAMBI
+-->{{ #if: {{{link}}} |[http://whc.unesco.org/en/list/{{{link}}} Patrimonio (in inglese)]<br/>[http://whc.unesco.org/fr/list/{{{link}}} Patrimonio (in francese)] {{ #if: {{{link2|}}} |<br/>[http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?mode=all&code={{{link2}}} Riserva (in inglese)] }} }}|<!--
+-->{{ #ifeq: {{{tipoBene}}} | riserva | <!-- RISERVA
+-->{{ #if: {{{link|}}} | [http://www.unesco.org/mabdb/br/brdir/directory/biores.asp?mode=all&code={{{link}}} inglese] }}|<!-- 
+-->{{ #if: {{{link|}}} |[http://whc.unesco.org/en/list/{{{link}}} inglese]<br/>[http://whc.unesco.org/fr/list/{{{link}}} francese] }} }} }}
+
+{{!}}- <!-- MAPPA (SOLO UNA) -->
+{{#if:{{{linkMappa|}}}|
+{{!}} colspan=2 bgcolor="#DDDDDD" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} [[Immagine:{{{linkMappa}}}{{!}}295px]] }}
+
+{{!}}- <!-- LINK ALLA CATEGORIA -->
+{{!}} {{ #ifeq: {{{tipoBene}}} | entrambi | <!-- ENTRAMBI
+-->align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria|}}} | [[:Categoria:{{{linkCategoria}}}{{!}}{{{linkCategoria}}}]]|[[:Categoria:Patrimoni dell'umanità in {{{statoUNESCO}}}{{!}}Patrimoni dell'umanità in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Patrimoni dell'umanità in {{{stato2}}}{{!}}Patrimoni dell'umanità in {{{stato2}}}]] }}
+{{!}} align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria2|}}} | [[:Categoria:{{{linkCategoria2}}}{{!}}{{{linkCategoria2}}}]]| [[:Categoria:Riserve della biosfera in {{{statoUNESCO}}}{{!}}Riserve della biosfera in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Riserve della biosfera in {{{stato2}}}{{!}}Riserve della biosfera in {{{stato2}}}]] }}|<!--
+-->{{ #ifeq: {{{tipoBene}}} | riserva | <!-- RISERVA
+-->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria|}}} | [[:Categoria:{{{linkCategoria}}}{{!}}{{{linkCategoria}}}]]|[[:Categoria:Riserve della biosfera in {{{statoUNESCO}}}{{!}}Riserve della biosfera in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Riserve della biosfera in {{{stato2}}}{{!}}Riserve della biosfera in {{{stato2}}}]] }}|<!-- 
+-->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria|}}} | [[:Categoria:{{{linkCategoria}}}{{!}}{{{linkCategoria}}}]]|[[:Categoria:Patrimoni dell'umanità in {{{statoUNESCO}}}{{!}}Patrimoni dell'umanità in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Patrimoni dell'umanità in {{{stato2}}}{{!}}Patrimoni dell'umanità in {{{stato2}}}]] }} }} }}
+}}
+|}</includeonly><noinclude>
