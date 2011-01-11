@@ -169,4 +169,4 @@
 -->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria|}}} | [[:Categoria:{{{linkCategoria}}}{{!}}{{{linkCategoria}}}]]|[[:Categoria:Riserve della biosfera in {{{statoUNESCO}}}{{!}}Riserve della biosfera in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Riserve della biosfera in {{{stato2}}}{{!}}Riserve della biosfera in {{{stato2}}}]] }}|<!-- 
 -->colspan=2 align=center bgcolor="#CCCCCC" style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080; " {{!}} {{ #if: {{{linkCategoria|}}} | [[:Categoria:{{{linkCategoria}}}{{!}}{{{linkCategoria}}}]]|[[:Categoria:Patrimoni dell'umanità in {{{statoUNESCO}}}{{!}}Patrimoni dell'umanità in {{{statoUNESCO}}}]] }}<br/>{{ #if: {{{stato2|}}} | [[:Categoria:Patrimoni dell'umanità in {{{stato2}}}{{!}}Patrimoni dell'umanità in {{{stato2}}}]] }} }} }}
 }}
-|}</includeonly><noinclude>
+|}</includeonly>
