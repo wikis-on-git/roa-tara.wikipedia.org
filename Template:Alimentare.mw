@@ -1,0 +1,129 @@
+<includeonly>
+<div style="width: 20em; border:0px solid; float:right; margin-left:1em; margin-bottom:1em;">
+{| class="toccolours" style="width:21em; font-size: 95%;border-bottom:1px float;"
+|-
+!style="font-size: 100%; text-align:center; background: navy" colspan="3"|<font color="white"><i>{{{Nome}}}</i>
+|-
+| colspan="3" style="text-align: center;" | {{#if: {{{Immagine|}}}
+| [[Image:{{{Immagine}}}|{{{Dimensione immagine}}}px]]
+}}
+|-
+!style="background: ;" colspan="3"|
+|-
+|valign="top" |'''Nome'''
+| colspan="2" valign="top"| {{{Nome}}}
+|-
+|valign="top" style="width:8.5em;" |'''Categorije'''
+| colspan="2" valign="top" | [[{{{Categoria}}}]]
+|-
+|-{{#if: {{{Tipologia|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Tipologgije'''
+|colspan="2" valign="top"| {{{Tipologia}}}
+|-
+|valign="top" |'''Marche'''
+| colspan="2" valign="top"| [[{{{Marca}}}]]
+|- 
+|-{{#if: {{{Anno di creazione|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Anne de ccrejazione'''
+|colspan="2" valign="top"| [[{{{Anno di creazione}}}]]
+|-
+|-{{#if: {{{Nazione|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Naziune'''
+|colspan="2" valign="top"| {{{Nazione}}}
+|-
+|-{{#if:{{{Vendite|}}}||class="hiddenStructure noprint"}}
+|valign="top" |'''Vennete'''
+|colspan="2" valign="top"|{{{Vendite}}}{{#if:{{{anno_vendite}}}| &#32;<small>([[{{{anno_vendite}}}]])</small>}} 
+|-
+|-{{#if: {{{Slogan|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Slogan'''
+|colspan="2" valign="top"| ''{{{Slogan}}}''
+|-{{#if: {{{Ingredienti|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |''''Ngrediende'''
+|colspan="2" valign="top"|
+''
+{{{Ingredienti}}}''
+ |-{{#if: {{{Valore energetico|}}} ||class="hiddenStructure noprint"}}
+ !style="font-size: 100%; text-align:center; background: Grey" colspan="3"|<font color="Black"><i>''Valore Nutrizionale medie jndre 100 g''</i>
+ |-{{#if: {{{Valore energetico|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''Valore energeteche'''
+ |colspan="2" valign="top"|''{{{Valore energetico}}}''
+ |-{{#if: {{{Proteine|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''Proteine'''
+ | colspan="2" valign="top"| {{{Proteine}}}
+ |-{{#if: {{{Carboidrati|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''Carboidrate'''
+ | colspan="2" valign="top"| {{{Carboidrati}}}
+ |-{{#if: {{{Di cui zuccheri|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''De cui zucchere'''
+ | colspan="2" valign="top"| {{{Di cui zuccheri}}}
+ |-{{#if: {{{Grassi|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''Grasse'''
+ | colspan="2" valign="top"| {{{Grassi}}}
+ |-{{#if: {{{Di cui saturi|}}} ||class="hiddenStructure noprint"}}
+ |valign="top" |'''De cui sature'''
+ | colspan="2" valign="top"| {{{Di cui saturi}}}
+|-{{#if: {{{Residuo Fisso|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Residue Fisse'''
+|colspan="2" valign="top"| {{{Residuo Fisso}}}
+|-{{#if: {{{Sodio|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Sodie'''
+|colspan="2" valign="top"| {{{Sodio}}}
+|-{{#if: {{{Durezza in gradi Francesi|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Durezze jndre grade Frangise'''
+|colspan="2" valign="top"| {{{Durezza in gradi Francesi}}}
+|-{{#if: {{{Sorgente|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Sorgende'''
+|colspan="2" valign="top"| {{{Sorgente}}}
+|-
+|-{{#if: {{{Classificazione commerciale|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Classificazione commerciale'''
+|colspan="2" valign="top"| {{{Classificazione commerciale}}}
+|-
+|-{{#if: {{{Classificazione di colore|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Classificazione de culure'''
+|colspan="2" valign="top"| {{{Classificazione di colore}}}
+|-
+|-{{#if: {{{Colore|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Culure'''
+|colspan="2" valign="top"| {{{Colore}}}
+|-
+|-{{#if: {{{Aspetto|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Aspette'''
+|colspan="2" valign="top"| {{{Aspetto}}}
+|-
+|-{{#if: {{{Gradazione alcolica|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Gradazione alcoleche'''
+|colspan="2" valign="top"| {{{Gradazione alcolica}}}
+|-
+|-{{#if: {{{Tipo di fermentazione|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Tipe de fermendaziune'''
+|colspan="2" valign="top"| {{{Tipo di fermentazione}}}
+|-
+|-{{#if: {{{Gusto|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Guste'''
+|colspan="2" valign="top"| {{{Gusto}}}
+|-
+|-{{#if: {{{Frizzantezza|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Frizzandèzze'''
+|colspan="2" valign="top"| {{{Frizzantezza}}}
+|-
+|-{{#if: {{{Schiuma|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Schiume'''
+|colspan="2" valign="top"| {{{Schiuma}}}
+|-
+|-{{#if: {{{Temperatura di servizio|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Temperatura di servizio'''
+|colspan="2" valign="top"| {{{Temperatura di servizio}}}
+|-
+|-{{#if: {{{Bicchiere|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Bicchière'''
+|colspan="2" valign="top"| {{{Bicchiere}}}
+|-
+|-{{#if: {{{Sito|}}} ||class="hiddenStructure noprint"}}
+|valign="top" |'''Site'''
+|colspan="2" valign="top"| {{{Sito}}}
+|-
+|}
+</div>
+</includeonly>
