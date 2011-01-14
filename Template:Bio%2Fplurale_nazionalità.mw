@@ -1,0 +1,464 @@
+<includeonly>{{ #switch: {{{1}}}
+| afghana
+| afghano		= afghani
+| albanese		= albanesi
+| algerina
+| algerino		= algerini
+| andorrana
+| andorrano		= andorrani
+| angolana
+| angolano		= angolani
+| argentina
+| argentino		= argentini
+| armena
+| armeno		= armeni
+| australiana
+| australiano		= australiani
+| austriaca
+| austriaco		= austriaci
+| azera
+| azero			= azeri
+| bahrayni		= bahrayni
+| barbadiana
+| barbadiano
+| delle Barbados	= barbadiani
+| belga			= belgi
+| bengalese		= bengalesi
+| beninese		= beninesi
+| bhutanese		= bhutanesi
+| bielorussa
+| bielorusso		= bielorussi
+| birmana
+| birmano		= birmani
+| boliviana
+| boliviano		= boliviani
+| bosniaca
+| bosniaco		= bosniaci
+| botswaniana
+| botswaniano		= botswani
+| brasiliana
+| brasiliano		= brasiliani
+| britanneche
+| gallese
+| inglese
+| 'nglese
+| nordirlandese
+| scozzese		= britannece
+| bulgara
+| bulgaro		= bulgari
+| burkinabé
+| burkinabè
+| burkiniana
+| burkiniano		= burkinabè
+| burundese		= burundesi
+| cambogiana
+| cambogiano		= cambogiani
+| camerunese		= camerunesi
+| canadese		= canadesi
+| capoverdiana
+| capoverdiano		= capoverdiani
+| ceca
+| ceco			= cechi
+| cecoslovacca
+| cecoslovacco		= cecoslovacchi
+| centrafricana
+| centrafricano		= centrafricani
+| ciadiana
+| ciadiano		= ciadiani
+| cilena
+| cileno		= cileni
+| cinese		= cinesi
+| cingalese
+| singalese
+| dello Sri Lanka	= singalesi
+| cipriota		= ciprioti
+| colombiana
+| colombiano		= colombiani
+| comoriana
+| comoriano		= comoriani
+| congolese (Repubblica del Congo)
+| della Repubblica del Congo			= congolesi (Repubblica del Congo)
+| congolese (Repubblica Democratica del Congo)
+| della Repubblica Democratica del Congo	= congolesi (Rep. Dem. del Congo)
+| costaricana
+| costaricano		= costaricani
+| croata
+| croato		= croati
+| cubana
+| cubano		= cubani
+| danese		= danesi
+| dominicana
+| dominicano		= dominicani
+| dominicense		= dominicensi
+| ecuadoriana
+| ecuadoriano		= ecuadoriani
+| egiziana
+| egiziano		= egiziani
+| emiratina
+| emiratino		= emiratini
+| equatoguineana
+| equatoguineano
+| della Guinea Equatoriale			= equatoguineani
+| eritrea
+| eritreo		= eritrei
+| est-timorese
+| est timorese
+| di Timor Est		= est-timoresi
+| estone		= estoni
+| etiope		= etiopi
+| faroese		= faroesi
+| figiana
+| figiano		= figiani
+| filippina
+| filippino		= filippini
+| finlandese		= finlandesi
+| frangese		= frangesi
+| gabonese		= gabonesi
+| gambiana
+| gambiano		= gambiani
+| georgiana
+| georgiano		= georgiani
+| ghanese		= ghanesi
+| giamaicana
+| giamaicano		= giamaicani
+| giapponese		= giapponesi
+| gibutiana
+| gibutiano		= gibutiani
+| gilbertese
+| kiribatese 
+| di Kiribati		= gilbertesi
+| giordana
+| giordano		= giordani
+| greca
+| greco
+| greche		= grece
+| greche andiche	= grece andiche
+| grenadina
+| grenadino		= grenadini
+| groenlandese		= groenlandesi
+| guatemalteca
+| guatemalteco		= guatemaltechi
+| guineana
+| guineano		= guineani
+| haitiana
+| haitiano		= haitiani
+| honduregna
+| honduregno		= honduregni
+| indiane		= indiane
+| indonesiane		= indonesiane
+| irachene		= irachene
+| iraniane		= iraniane
+| irlandese		= irlandesi
+| islandese		= islandesi
+| israeliana
+| israeliano		= israeliani
+| italiana
+| tagliàne
+| tagliàna
+| italiano		= tagliàne
+| ivoriana
+| ivoriano		= ivoriani
+| jugoslava
+| jugoslavo		= jugoslavi
+| kazaka
+| kazako		= kazaki
+| keniana
+| keniano
+| keniota		= kenioti
+| kirghisa
+| kirghiso
+| kirghiza
+| kirghizo		= kirghisi
+| kosovara
+| kosovaro		= kosovari
+| kuwaitiana
+| kuwaitiano		= kuwaitiani
+| lesothiana
+| lesothiano		= lesothiani
+| lettone		= lettoni
+| libanese		= libanesi
+| liberiana
+| liberiano		= liberiani
+| libica
+| libico		= libici
+| liechtensteinese
+| del Liechtenstein	= liechtensteinesi
+| lituana
+| lituano		= lituani
+| lussemburghese	= lussemburghesi
+| macedone		= macedoni
+| malawiana
+| malawiano		= malawiani
+| malaysiana
+| malaysiano
+| malese		= malaysiani
+| maldiviana
+| maldiviano		= maldiviani
+| malgascia
+| malgascio		= malgasci
+| maliana
+| maliano		= maliani
+| maltese		= maltesi
+| marocchina
+| marocchino		= marocchini
+| mauriziana
+| mauriziano		= mauriziani
+| messicana
+| messicano		= messicani
+| moldava
+| moldavo		= moldavi
+| monegasca
+| monegasco		= monegaschi
+| mongola
+| mongolo		= mongoli
+| montenegrina
+| montenegrino		= montenegrini
+| montserratiana
+| montserratiano	= montserratiani
+| mozambicana
+| mozambicano		= mozambicani
+| namibiana
+| namibiano		= namibiani
+| nauruana
+| nauruano		= nauruani
+| neozelandese		= neozelandesi
+| nepalese		= nepalesi
+| nevisiana
+| nevisiano
+| di Saint Kitts e Nevis			= nevisiani
+| nicaraguense		= nicaraguensi
+| nigeriana
+| nigeriano		= nigeriani
+| nigerina
+| nigerino		= nigerini
+| nordcoreana
+| nordcoreano		= nordcoreani
+| norvegese		= norvegesi
+| olandese		= olandesi
+| omanita		= omaniti
+| pakistana
+| pakistano		= pakistani
+| palauana
+| palauano		= palauani
+| palestinese		= palestinesi
+| panamense		= panamensi
+| paraguaiana
+| paraguaiano		= paraguaiani
+| peruviana
+| peruviano		= peruviani
+| polacca
+| polacco		= polacchi
+| portoghese		= portoghesi
+| portoricana
+| portoricano		= portoricani
+| qatariota		= qatarioti
+| romena
+| romeno
+| rumena
+| rumeno		= rumeni
+| ruandese		= ruandesi
+| russa
+| russo			= russi
+| salomonese		= salomonesi
+| salvadoregna
+| salvadoregno		= salvadoregni
+| sammarinese		= sammarinesi
+| samoana
+| samoano		= samoani
+| samoana americana
+| samoano americano	= samoani americani
+| santaluciana
+| santaluciano		= santaluciani
+| saudita		= sauditi
+| senegalese		= senegalesi
+| serba
+| serbo			= serbi
+| sierraleonese		= sierraleonesi
+| singaporiana
+| singaporiano		= singaporiani
+| siriana
+| siriano		= siriani
+| slovacca
+| slovacco		= slovacchi
+| slovena
+| sloveno		= sloveni
+| somala
+| somalo		= somali
+| sovietica
+| sovietico		= sovietici
+| spagnola
+| spagnolo		= spagnoli
+| statunitense		= statunitensi
+| sudafricana
+| sudafricano		= sudafricani
+| sudanese		= sudanesi
+| sudcoreana
+| sudcoreano		= sudcoreani
+| surinamese		= surinamesi
+| svedese		= svedesi
+| svizzera
+| svizzero		= svizzeri
+| tagica
+| tagico
+| tagika
+| tagiko		= tagiki
+| tailandese
+| taiwanese		= taiwanesi
+| tamil			= tamil
+| tanzaniana
+| tanzaniano		= tanzaniani
+| tedesche-occidentale
+| tedesche-occidentale
+| tedesche occidentale
+| tedesche occidentale
+| tedesche-oriendale
+| tedesche-oriendale
+| tedesche oriendale
+| tedesche oriendale
+| tedesche
+| tedesche		= tedesche
+| thailandese		= thailandesi
+| tibetana
+| tibetano		= tibetani
+| togolese		= togolesi
+| tongana
+| tongano		= tongani
+| trinidadiana
+| trinidadiano
+| di Trinidad e Tobago	= trinidadiani
+| tunisina
+| tunisino		= tunisini
+| turche
+| turche		= turche
+| turkmena
+| turkmeno		= turkmeni
+| tuvaluana
+| tuvaluano		= tuvaluani
+| ucraina
+| ucraino		= ucraini
+| ugandese		= ugandesi
+| ungherese		= ungheresi
+| uruguaiana
+| uruguaiano		= uruguaiani
+| uzbeka
+| uzbeko		= uzbeki
+| vanuatuana
+| vanuatuano		= vanuatuani
+| vaticana
+| vaticano		= vaticani
+| venezuelana
+| venezuelano		= venezuelani
+| vietnamita		= vietnamiti
+| yemenita		= yemeniti
+| zambiana
+| zambiano		= zambiani
+| zimbabwese		= zimbabwesi
+| alana
+| alano
+| iaziga
+| iazigo
+| sarmata		= sarmati
+| antica macedone
+| antico macedone	= antichi macedoni
+| arabe
+| arabe			= arabe
+| assira
+| assiro		= assiri
+| ateniese		= ateniesi
+| austro-ungarica
+| austro-ungarico	= austro-ungarici
+| azteca
+| azteco		= aztechi
+| berbera
+| berbero		= berberi
+| bizantina
+| bizantino		= bizantini
+| boema
+| boemo			= boemi
+| britanna
+| britanno		= britanni
+| burgunda
+| burgundo		= burgundi
+| cartaginese		= cartaginesi
+| celta
+| celto			= celti
+| coreano		= coreani
+| corsa
+| corso			= corsi
+| curda
+| curdo			= curdi
+| dacica
+| dacico		= daci
+| egizia
+| egizio		= egizi
+| erula
+| erulo			= eruli
+| fiamminga
+| fiammingo		= fiamminghi
+| franca
+| franco		= franchi
+| gallico
+| gallica
+| gallo			= galli
+| genovese		= genovesi
+| germana
+| germanica
+| germanico
+| germano		= germani
+| gotica
+| gotico		= goti
+| inca			= inca
+| ittiti		= ittiti
+| khmer 		= khmer
+| kushan		= kushan
+| latina
+| latino		= latini
+| longobarda
+| longobardo		= longobardi
+| maya			= maya
+| nativa americana
+| nativo americano	= nativi americani
+| normanna
+| normanno		= normanni
+| numida		= numidi
+| ostrogota
+| ostrogoto		= ostrogoti
+| ottomana
+| ottomano		= ottomani
+| partica
+| partico		= parti
+| persiana
+| persiano		= persiani
+| prussiana
+| prussiano		= prussiani
+| romana
+| romano		= romani
+| sabauda
+| sabaudo		= sabaudi
+| sarda
+| sardo			= sardi
+| sasanide		= sasanidi
+| sassone		= sassoni
+| scita			= sciti
+| siamese		= siamesi
+| sueba
+| suebo
+| sueva
+| suevo
+| sveva
+| svevo			= suebi
+| sumera
+| sumero		= sumeri
+| tuareg		= tuareg
+| unna
+| unno			= unni
+| vandala
+| vandalo		= vandali
+| veneziana
+| veneziano		= veneziani
+| visigota
+| visigoto		= visigoti
+| apolide		= apolidi
+}}</includeonly><noinclude>{{esoteric}}
+Questo template viene utilizzato nel template Bio per convertire le nazionalità da singolare maschile e femminile (usati nell'incipit) al plurale maschile (usato nella categorizzazione). All'interno di questo template le nazionalità sono in ordine alfabetico al fine di rendere più agevole la manutenzione delle stesse.
+[[Category:Template Bio]]</noinclude>
