@@ -1,0 +1,472 @@
+<includeonly>{{ #switch: {{{1}}}
+| afghana
+| afghano		= Afghanistan
+| albanese		= Albania
+| algerina
+| algerino		= Algeria
+| andorrana
+| andorrano		= Andorra
+| angolana
+| angolano		= Angola
+| argendine
+| argentina
+| argentino		= Argentina
+| armena
+| armeno		= Armenia
+| australiana
+| australiano		= Australia
+| austriaca
+| austriaco		= Austria
+| azera
+| azero			= Azerbaijan
+| bahrayni		= Bahrain
+| barbadiana
+| barbadiano
+| delle Barbados	= Barbados
+| belga			= Belgio
+| bengalese		= Bangladesh
+| beninese		= Benin
+| bhutanese		= Bhutan
+| bielorussa
+| bielorusso		= Bielorussia
+| birmana
+| birmano		= Birmania
+| boliviana
+| boliviano		= Bolivia
+| bosniaca
+| bosniaco		= Bosnia-Erzegovina
+| botswaniana
+| botswaniano		= Botswana
+| brasiliana
+| brasiliano		= Brasile
+| britanneche
+| gallese
+| inglese
+| 'nglese
+| nordirlandese
+| scozzese		= Regne Aunìte
+| bulgara
+| bulgaro		= Bulgaria
+| burkinabé
+| burkinabè
+| burkiniana
+| burkiniano		= Burkina Faso
+| burundese		= Burundi
+| cambogiana
+| cambogiano		= Cambogia
+| camerunese		= Camerun
+| canadese		= Canada
+| capoverdiana
+| capoverdiano		= Capo Verde
+| ceca
+| ceco			= Repubblica Ceca
+| cecoslovacca
+| cecoslovacco		= Cecoslovacchia
+| centrafricana
+| centrafricano		= Repubblica Centrafricana
+| ciadiana
+| ciadiano		= Ciad
+| cilena
+| cileno		= Cile
+| cinese		= Cina
+| cingalese
+| singalese
+| tamil
+| dello Sri Lanka	= Sri Lanka
+| cipriota		= Cipro
+| colombiana
+| colombiano		= Colombia
+| comoriana
+| comoriano		= Comore
+| congolese (Repubbleche d'u Congo)
+| d'a Repubbleche d'u Congo			= Repubbleche d'u Congo
+| congolese (Repubbleche Democrateche d'u Congo)
+| d'a Repubbleche Democrateche d'u Congo	= Repubbleche Democrateche d'u Congo
+| costaricana
+| costaricano		= Costa Rica
+| croata
+| croato		= Croazia
+| cubana
+| cubano		= Cuba
+| danese		= Danimarca
+| dominicana
+| dominicano		= Repubblica Dominicana
+| dominicense		= Dominica
+| ecuadoriana
+| ecuadoriano		= Ecuador
+| egiziana
+| egiziano		= Egitto
+| emiratina
+| emiratino		= Emirati Arabi Uniti
+| equatoguineana
+| equatoguineano
+| della Guinea Equatoriale			= Guinea Equatoriale
+| eritrea
+| eritreo		= Eritrea
+| est-timorese
+| est timorese
+| di Timor Est		= Timor Est
+| estone		= Estonia
+| etiope		= Etiopia
+| faroese		= Isole Fær Øer
+| figiana
+| figiano		= Figi
+| filippina
+| filippino		= Filippine
+| finlandese		= Finlandia
+| frangese		= Frange
+| gabonese		= Gabon
+| gambiana
+| gambiano		= Gambia
+| georgiana
+| georgiano		= Georgia
+| ghanese		= Ghana
+| giamaicana
+| giamaicano		= Giamaica
+| giapponese		= Giappone
+| gibutiana
+| gibutiano		= Gibuti
+| gilbertese
+| kiribatese 
+| di Kiribati		= Kiribati
+| giordana
+| giordano		= Giordania
+| greca
+| greco
+| greco antico
+| greche andiche
+| greche		= Grecia
+| grenadina
+| grenadino		= Grenada
+| groenlandese		= Groenlandia
+| guatemalteca
+| guatemalteco		= Guatemala
+| guineana
+| guineano		= Guinea
+| haitiana
+| haitiano		= Haiti
+| honduregna
+| honduregno		= Honduras
+| indonesiane		= Indonesia
+| indiane		= India
+| irachena
+| iracheno		= Iraq
+| iraniana
+| iraniano		= Iran
+| irlandese		= Irlanda
+| islandese		= Islanda
+| israeliana
+| israeliano		= Israele
+| italiana
+| tagliàne
+| tagliàna
+| italiano		= Italia
+| ivoriana
+| ivoriano		= Costa d'Avorio
+| jugoslava
+| jugoslavo		= Jugoslavia
+| kazaka
+| kazako		= Kazakistan
+| keniana
+| keniano
+| keniota		= Kenia
+| kirghisa
+| kirghiso
+| kirghiza
+| kirghizo		= Kirghizistan
+| kosovara
+| kosovaro		= Kosovo
+| kuwaitiana
+| kuwaitiano		= Kuwait
+| lesothiana
+| lesothiano		= Lesotho
+| lettone		= Lettonia
+| libanese		= Libano
+| liberiana
+| liberiano		= Liberia
+| libica
+| libico		= Libia
+| liechtensteinese
+| del Liechtenstein	= Liechtenstein
+| lituana
+| lituano		= Lituania
+| lussemburghese	= Lussemburgo
+| macedone		= Repubblica di Macedonia
+| malawiana
+| malawiano		= Malawi
+| malaysiana
+| malaysiano
+| malese		= Malaysia
+| maldiviana
+| maldiviano		= Maldive
+| malgascia
+| malgascio		= Madagascar
+| maliana
+| maliano		= Mali
+| maltese		= Malta
+| marocchina
+| marocchino		= Marocco
+| mauriziana
+| mauriziano		= Mauritius
+| messicana
+| messicano		= Messico
+| moldava
+| moldavo		= Moldavia
+| monegasca
+| monegasco		= Principato di Monaco
+| mongola
+| mongolo		= Mongolia
+| montenegrina
+| montenegrino		= Montenegro
+| montserratiana
+| montserratiano	= Montserrat
+| mozambicana
+| mozambicano		= Mozambico
+| namibiana
+| namibiano		= Namibia
+| nauruana
+| nauruano		= Nauru
+| neozelandese		= Nuova Zelanda
+| nepalese		= Nepal
+| nevisiana
+| nevisiano
+| di Saint Kitts e Nevis			= Saint Kitts e Nevis
+| nicaraguense		= Nicaragua
+| nigeriana
+| nigeriano		= Nigeria
+| nigerina
+| nigerino		= Niger
+| nordcoreana
+| nordcoreano		= Corea del Nord
+| norvegese		= Norvegia
+| olandese		= Paesi Bassi
+| omanita		= Oman
+| pakistana
+| pakistano		= Pakistan
+| palauana
+| palauano		= Palau (stato)
+| palestinese		= Palestina
+| panamense		= Panamá
+| paraguaiana
+| paraguaiano		= Paraguay
+| peruviana
+| peruviano		= Perù
+| polacca
+| polacco		= Polonia
+| portoghese		= Portogallo
+| portoricana
+| portoricano		= Porto Rico
+| qatariota		= Qatar
+| romena
+| romeno
+| rumena
+| rumeno		= Romania
+| ruandese		= Ruanda
+| russa
+| russo			= Russia
+| salomonese		= Isole Salomone
+| salvadoregna
+| salvadoregno		= El Salvador
+| sammarinese		= San Marino
+| samoana
+| samoano		= Samoa
+| samoana americana
+| samoano americano	= Samoa Americane
+| santaluciana
+| santaluciano		= Santa Lucia (stato)
+| saudita		= Arabia Saudita
+| senegalese		= Senegal
+| serba
+| serbo			= Serbia
+| sierraleonese		= Sierra Leone
+| singaporiana
+| singaporiano		= Singapore
+| siriana
+| siriano		= Siria
+| slovacca
+| slovacco		= Slovacchia
+| slovena
+| sloveno		= Slovenia
+| somala
+| somalo		= Somalia
+| sovietica
+| sovietico		= Unione Sovietica
+| spagnola
+| spagnolo		= Spagna
+| statunitense		= Stati Uniti d'America
+| sudafricana
+| sudafricano		= Sud Africa
+| sudanese		= Sudan
+| sudcoreana
+| sudcoreano		= Corea del Sud
+| surinamese		= Suriname
+| svedese		= Svezia
+| svizzera
+| svizzero		= Svizzera
+| tagica
+| tagico
+| tagika
+| tagiko		= Tagikistan
+| tailandese
+| thailandese		= Thailandia
+| taiwanese		= Taiwan (isola)
+| tanzaniana
+| tanzaniano		= Tanzania
+| tedesche-occidentale
+| tedesche-occidentale
+| tedesche occidentale
+| tedesche occidentale
+| tedesche
+| tedesche		= Germanie
+| tedesche-oriendale
+| tedesche-oriendale
+| tedesche oriendale
+| tedesche oriendale	= Repubbleche Democrateche Tedesche
+| tibetana
+| tibetano		= Tibet
+| togolese		= Togo
+| tongana
+| tongano		= Tonga
+| trinidadiana
+| trinidadiano
+| di Trinidad e Tobago	= Trinidad e Tobago
+| tunisina
+| tunisino		= Tunisia
+| turche
+| turche		= Turchia
+| turkmena
+| turkmeno		= Turkmenistan
+| tuvaluana
+| tuvaluano		= Tuvalu
+| ucraina
+| ucraino		= Ucraina
+| ugandese		= Uganda
+| ungherese		= Ungheria
+| uruguaiana
+| uruguaiano		= Uruguay
+| uzbeka
+| uzbeko		= Uzbekistan
+| vanuatuana
+| vanuatuano		= Vanuatu
+| vaticana
+| vaticano		= Città del Vaticano
+| venezuelana
+| venezuelano		= Venezuela
+| vietnamita		= Vietnam
+| yemenita		= Yemen
+| zambiana
+| zambiano		= Zambia
+| zimbabwese		= Zimbabwe
+| alana
+| alano
+| iaziga
+| iazigo
+| sarmata		= Sarmati
+| antica macedone
+| antico macedone	= Regno di Macedonia
+| arabe
+| arabe			= Arabe
+| assira
+| assiro		= Assiria
+| ateniese		= Storia di Atene
+| austro-ungarica
+| austro-ungarico	= Impero Austro-Ungarico
+| azteca
+| azteco		= Aztechi
+| berbera
+| berbero		= Berberi
+| bizantina
+| bizantino		= Impero bizantino
+| boema
+| boemo			= Regno di Boemia
+| britanna
+| britanno		= Britanni
+| burgunda
+| burgundo		= Burgundi
+| cartaginese		= Cartagine
+| celta
+| celto			= Celti
+| coreano		= Corea
+| corsa
+| corso			= Corsica
+| curda
+| curdo			= Curdi
+| dacica
+| dacico		= Dacia
+| egizia
+| egizio		= Storia dell'Egitto
+| erula
+| erulo			= Eruli
+| fiamminga
+| fiammingo		= Fiandre
+| franca
+| franco		= Regno dei Franchi
+| gallico
+| gallica
+| gallo			= Gallia
+| genovese		= Repubblica di Genova
+| germana
+| germanica
+| germanico
+| germano		= Germani
+| gotica
+| gotico		= Goti
+| inca			= Inca
+| ittiti		= Ittiti
+| khmer			= Impero Khmer
+| kushan		= Impero Kushan
+| latina
+| latino
+| romana
+| romano		= Storia romana
+| longobarda
+| longobardo		= Longobardi
+| maya			= Maya
+| nativa americana
+| nativo americano	= Nativi americani
+| normanna
+| normanno		= Normanni
+| numida		= Numidia
+| ostrogota
+| ostrogoto		= Ostrogoti
+| ottomana
+| ottomano		= Impero ottomano
+| partica
+| partico		= Parti
+| persiana
+| persiano		= Persia
+| prussiana
+| prussiano		= Prussia
+| sabauda
+| sabaudo		= Regno di Sardegna
+| sarda
+| sardo			= Sardegna
+| sasanide		= Sasanidi
+| sassone		= Sassoni
+| scita			= Scizia
+| siamese		= Siam
+| sueba
+| suebo
+| sueva
+| suevo
+| sveva
+| svevo			= Suebi
+| sumera
+| sumero		= Sumeri
+| tuareg		= Tuareg
+| unna
+| unno			= Unni
+| vandala
+| vandalo		= Vandali
+| veneziana
+| veneziano		= Repubblica di Venezia
+| visigota
+| visigoto		= Visigoti
+| apolide		= Apolide
+| #default		= {{{1}}}
+}}</includeonly><noinclude>
+{{finestra|col1=#CC0099|col2=#FFBFEF|col3=white|sfondo=|titolo=Inserimento nazionalità|link=|contenuto=
+Ogni nuova nazionalità genera categorie e liste incrociate; a volte esistono liste di una o due voci solamente; ognuno ritiene corretta la nazionalità che sta inserendo; per favore controllate presso il '''[[Discussioni progetto:Biografie/Nazionalità|progetto]]''' che ci sia il necessario consenso.}}
+{{esoteric}}
+Questo template viene utilizzato nel template Bio per convertire le nazionalità da singolare maschile e femminile (usati nell'incipit) al nome dello stato (usato nel link). All'interno di questo template le nazionalità sono in ordine alfabetico al fine di rendere più agevole la manutenzione delle stesse.
+[[Category:Template Bio]]</noinclude>
