@@ -5,7 +5,7 @@
 {{#if:{{{testo|}}} | {{{testo}}} }} {{#if:{{{cassetto|}}} | {{Cassetto3|colore=#F9F9F9|coloresfondo=#F9F9F9|&nbsp;|{{{cassetto}}}}} }}
 ----
 <div style="text-align:center">
-<small>[[Aiuto:Pàgene de 'ngazzàminde#Ccu archvije le 'ngazzàminde|accume ccu archivije]]{{#if:{{{sottopagina|}}}|&nbsp;{{·}}&nbsp;<span class="plainlinks">[{{fullurl:{{{sottopagina}}}|action=edit}} modifica questa lista]</span></small>}}</div>
+<small>[[Aiuto:Pàgene de 'ngazzàminde#Archivijà le 'ngazzàminde|accume archivijà]]{{#if:{{{sottopagina|}}}|&nbsp;{{·}}&nbsp;<span class="plainlinks">[{{fullurl:{{{sottopagina}}}|action=edit}} cange quèste liste]</span></small>}}</div>
 |}</includeonly><noinclude>
 
 [[ar:قالب:صندوق أرشيف]]
