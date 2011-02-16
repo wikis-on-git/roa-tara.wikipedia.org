@@ -1,0 +1,8 @@
+{{Navbox generic
+|name       = Opec
+|state      = collapsed
+|title      = [[File:Flag of OPEC.svg|20px|Bandiere de ll'OPEC]] [[OPEC]] 
+|titlestyle = background:#ABCDEF;
+|liststyle  = font-size:95%;
+|list1  = {{DZA}} · {{AGO}} · {{SAU}} · {{ECU}} · {{ARE}} · {{IDN}} · {{IRN}} · {{IRQ}} · {{KWT}} · {{LBY}} · {{NGA}} · {{QAT}} · {{VEN}}
+}}
