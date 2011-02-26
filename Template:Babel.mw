@@ -1,0 +1,310 @@
+<!--'''Template:Babel'''-->
+<noinclude>
+<span dir="ltr" />
+usage:<br />
+'''LTR:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49}}</nowiki><br />
+'''RTL:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49|float=left}}</nowiki><br />
+<span>
+</noinclude>
+{| name="userboxes" id="userboxes" style="float: {{{float|right}}}; margin-left: 1em; margin-bottom: 1ex; width: 242px; border: 1px solid #99B3FF; clear: right"
+|- 
+! [[<!-- {{ns:project}}: -->Babel]]
+|-
+|{{#if: {{{1|}}}
+|{{User {{{1}}}|&#x20;}}|<center style="background-color:#eee">''Please add you language skipps here:''<br /> <code><nowiki>{{Babel|nap|eng-2|ita-3|</nowiki></code>&nbsp;&hellip;&nbsp;<code> <nowiki>}}</nowiki></code></center>}}{{#if: {{{2|}}}
+|{{User {{{2}}}&#x20;|}}|}}{{#if: {{{3|}}}
+|{{User {{{3}}}&#x20;|}}|}}{{#if: {{{4|}}}
+|{{User {{{4}}}&#x20;|}}|}}{{#if: {{{5|}}}
+|{{User {{{5}}}&#x20;|}}|}}{{#if: {{{6|}}}
+|{{User {{{6}}}&#x20;|}}|}}{{#if: {{{7|}}}
+|{{User {{{7}}}&#x20;|}}|}}{{#if: {{{8|}}}
+|{{User {{{8}}}&#x20;|}}|}}{{#if: {{{9|}}}
+|{{User {{{9}}}&#x20;|}}|}}{{#if: {{{10|}}}
+|{{User {{{10}}}&#x20;|}}|}}{{#if: {{{11|}}}
+|{{User {{{11}}}&#x20;|}}|}}{{#if: {{{12|}}}
+|{{User {{{12}}}&#x20;|}}|}}{{#if: {{{13|}}}
+|{{User {{{13}}}&#x20;|}}|}}{{#if: {{{14|}}}
+|{{User {{{14}}}&#x20;|}}|}}{{#if: {{{15|}}}
+|{{User {{{15}}}&#x20;|}}|}}{{#if: {{{16|}}}
+|{{User {{{16}}}&#x20;|}}|}}{{#if: {{{17|}}}
+|{{User {{{17}}}&#x20;|}}|}}{{#if: {{{18|}}}
+|{{User {{{18}}}&#x20;|}}|}}{{#if: {{{19|}}}
+|{{User {{{19}}}&#x20;|}}|}}{{#if: {{{20|}}}
+|{{User {{{20}}}&#x20;|}}|}}{{#if: {{{21|}}}
+|{{User {{{21}}}&#x20;|}}|}}{{#if: {{{22|}}}
+|{{User {{{22}}}&#x20;|}}|}}{{#if: {{{23|}}}
+|{{User {{{23}}}&#x20;|}}|}}{{#if: {{{24|}}}
+|{{User {{{24}}}&#x20;|}}|}}{{#if: {{{25|}}}
+|{{User {{{25}}}&#x20;|}}|}}{{#if: {{{26|}}}
+|{{User {{{26}}}&#x20;|}}|}}{{#if: {{{27|}}}
+|{{User {{{27}}}&#x20;|}}|}}{{#if: {{{28|}}}
+|{{User {{{28}}}&#x20;|}}|}}{{#if: {{{29|}}}
+|{{User {{{29}}}&#x20;|}}|}}{{#if: {{{30|}}}
+|{{User {{{30}}}&#x20;|}}|}}{{#if: {{{31|}}}
+|{{User {{{31}}}&#x20;|}}|}}{{#if: {{{32|}}}
+|{{User {{{32}}}&#x20;|}}|}}{{#if: {{{33|}}}
+|{{User {{{33}}}&#x20;|}}|}}{{#if: {{{34|}}}
+|{{User {{{34}}}&#x20;|}}|}}{{#if: {{{35|}}}
+|{{User {{{35}}}&#x20;|}}|}}{{#if: {{{36|}}}
+|{{User {{{36}}}&#x20;|}}|}}{{#if: {{{37|}}}
+|{{User {{{37}}}&#x20;|}}|}}{{#if: {{{38|}}}
+|{{User {{{38}}}&#x20;|}}|}}{{#if: {{{39|}}}
+|{{User {{{39}}}&#x20;|}}|}}{{#if: {{{40|}}}
+|{{User {{{40}}}&#x20;|}}|}}{{#if: {{{41|}}}
+|{{User {{{41}}}&#x20;|}}|}}{{#if: {{{42|}}}
+|{{User {{{42}}}&#x20;|}}|}}{{#if: {{{43|}}}
+|{{User {{{43}}}&#x20;|}}|}}{{#if: {{{44|}}}
+|{{User {{{44}}}&#x20;|}}|}}{{#if: {{{45|}}}
+|{{User {{{45}}}&#x20;|}}|}}{{#if: {{{46|}}}
+|{{User {{{46}}}&#x20;|}}|}}{{#if: {{{47|}}}
+|{{User {{{47}}}&#x20;|}}|}}{{#if: {{{48|}}}
+|{{User {{{48}}}&#x20;|}}|}}{{#if: {{{49|}}}
+|{{User {{{49}}}&#x20;|}}|}}
+|-
+| style="text-align: center" | [[:Category:Utinde pe lènghe|Utinde pe lènghe]]
+|}<noinclude>
+
+[[ab:Ашаблон:Babel]]
+[[ace:Pola:Babel]]
+[[af:Sjabloon:Babel]]
+[[ak:Template:Babel]]
+[[als:Vorlage:Babel]]
+[[am:መለጠፊያ:Babel]]
+[[an:Plantilla:Babel]]
+[[ang:Bysen:Babel]]
+[[ar:قالب:بابل]]
+[[arz:قالب:Babel]]
+[[as:সাঁচ:Babel]]
+[[ast:Plantía:Babel]]
+[[ay:Plantilla:Babel]]
+[[az:Şablon:Babel]]
+[[ba:Ҡалып:Babel]]
+[[bar:Vorlage:Babel]]
+[[bat-smg:Šabluons:Babel]]
+[[be:Шаблон:Babel]]
+[[be-x-old:Шаблён:Бабілёнская вежа]]
+[[bg:Шаблон:Вавилон]]
+[[bh:टेम्पलेट:Babel]]
+[[bm:Modèle:Babel]]
+[[bn:টেমপ্লেট:Babel]]
+[[bo:Template:བྷི་པེལ།]]
+[[bpy:মডেল:Babel]]
+[[br:Patrom:Babel]]
+[[bs:Šablon:Babel]]
+[[bug:Templat:Babel]]
+[[bxr:Template:Babel]]
+[[ca:Plantilla:Babel]]
+[[cdo:Template:Babel]]
+[[ce:Куцкеп:Къадингир]]
+[[ceb:Plantilya:Babel]]
+[[chr:Template:Babel]]
+[[chy:Template:Babel]]
+[[ckb:داڕێژە:بابل]]
+[[co:Template:Babel]]
+[[cr:Template:Babel]]
+[[crh:Şablon:Babel]]
+[[cs:Šablona:Babel]]
+[[csb:Szablóna:Babel]]
+[[cu:Обраꙁь́ць:Babel]]
+[[cv:Шаблон:Babel]]
+[[cy:Nodyn:Babel]]
+[[da:Skabelon:Babel]]
+[[de:Vorlage:Babel]]
+[[diq:Template:Babel]]
+[[dsb:Pśedłoga:Babel]]
+[[dv:ފަންވަތް:Babel]]
+[[dz:Template:Babel]]
+[[ee:Template:Babel]]
+[[el:Πρότυπο:Βαβέλ]]
+[[eml:Template:Babel]]
+[[en:Template:Babel]]
+[[eo:Ŝablono:Babel]]
+[[es:Plantilla:Babel-X]]
+[[et:Mall:Babel]]
+[[eu:Txantiloi:Babel]]
+[[ext:Prantilla:Babel]]
+[[fa:الگو:Babel-X]]
+[[ff:Modèle:Babel]]
+[[fi:Malline:Babel]]
+[[fiu-vro:Näüdüs:Babel]]
+[[fj:Template:Babel]]
+[[fo:Fyrimynd:Babel]]
+[[fr:Modèle:Boîte Babel]]
+[[frp:Modèlo:Bouèta Babél]]
+[[fur:Model:Babel]]
+[[fy:Berjocht:Babel]]
+[[ga:Teimpléad:Babel]]
+[[gan:Template:Babel]]
+[[gd:Template:Babel]]
+[[gl:Modelo:Babel]]
+[[glk:الگو:Babel]]
+[[gn:Tembiecharã:Babel]]
+[[got:Template:Babilu-*]]
+[[gu:ઢાંચો:Babel]]
+[[gv:Clowan:Babel]]
+[[hak:Template:Pâ-phe̍t]]
+[[haw:Anakuhi:Papela]]
+[[he:תבנית:Babel]]
+[[hi:साँचा:Babel-X]]
+[[hif:Template:Babel]]
+[[hr:Predložak:Babel]]
+[[hsb:Předłoha:Babel]]
+[[ht:Modèl:Babel-N]]
+[[hu:Sablon:Babel]]
+[[hy:Կաղապար:Բաբելոն]]
+[[ia:Patrono:Babel]]
+[[id:Templat:Babel]]
+[[ie:Template:Babel]]
+[[ig:Àtụ:Babel]]
+[[ik:Template:Babel]]
+[[ilo:Template:Babel]]
+[[io:Shablono:Babel]]
+[[is:Snið:Málkassi-X]]
+[[it:Template:Babel]]
+[[iu:Template:Babel]]
+[[ja:Template:Babel]]
+[[jbo:Template:babel]]
+[[jv:Cithakan:Babel]]
+[[ka:თარგი:Babel]]
+[[kaa:Shablon:Babel]]
+[[kg:Template:Babel]]
+[[kk:Үлгі:Babel]]
+[[kl:Ilisserut:Babel]]
+[[km:ទំព័រគំរូ:Babel]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Babel]]
+[[ko:틀:바벨]]
+[[ks:Template:Babel]]
+[[ksh:Schablon:Babel]]
+[[ku:Şablon:Babel]]
+[[kv:Шаблон:Babel]]
+[[kw:Scantlyn:Babel]]
+[[ky:Template:Babel]]
+[[la:Formula:Babel]]
+[[lad:Xabblón:Babel]]
+[[lb:Schabloun:Babel]]
+[[lbe:Шаблон:Babel]]
+[[lg:Template:Babel]]
+[[li:Sjabloon:Babel]]
+[[lij:Template:Babel]]
+[[lmo:Mudel:Babel]]
+[[ln:Modèle:Babel]]
+[[lo:ແມ່ແບບ:ບາເບລ]]
+[[lt:Šablonas:Babel]]
+[[lv:Veidne:Babel-N]]
+[[map-bms:Cithakan:Babel]]
+[[mdf:Шаблон:Babel]]
+[[mg:Endrika:Babel]]
+[[mhr:Ямдылык:Babel]]
+[[mi:Template:Reo kaimahi]]
+[[mk:Шаблон:Вавилон-N]]
+[[ml:ഫലകം:Babel]]
+[[mn:Загвар:Babel]]
+[[mr:साचा:Babel]]
+[[ms:Templat:Babel]]
+[[mt:Mudell:Babel]]
+[[mwl:Modelo:Babel]]
+[[my:Template:Babel]]
+[[myv:ЛопаПарцун:Babel]]
+[[mzn:شابلون:Babel]]
+[[na:Template:Babel]]
+[[nah:Nemachiyōtīlli:Babel]]
+[[nap:Modello:Babel]]
+[[nds:Vörlaag:Babel]]
+[[nds-nl:Mal:Babel]]
+[[ne:ढाँचा:Babel]]
+[[new:Template:Babel]]
+[[nl:Sjabloon:Babel]]
+[[nn:Mal:Babel]]
+[[no:Mal:Babel]]
+[[nov:Template:Babel]]
+[[nrm:Template:Babel]]
+[[nv:Bee álnééhí:Babel]]
+[[oc:Modèl:Boita Babel]]
+[[om:Template:Babel]]
+[[or:Template:Babel]]
+[[os:Шаблон:Babel]]
+[[pa:ਨਮੂਨਾ:Babel]]
+[[pag:Template:Babel]]
+[[pap:Template:Babel]]
+[[pdc:Vorlage:Babel]]
+[[pi:Template:Babel]]
+[[pih:Template:Babel]]
+[[pl:Szablon:Babel]]
+[[pms:Stamp:Babel]]
+[[pnt:Πρότυπον:Βαβέλ]]
+[[pt:Predefinição:Babel]]
+[[qu:Plantilla:Babel]]
+[[rm:Model:Babel]]
+[[rmy:Sikavno:Babel]]
+[[rn:Template:Babel]]
+[[ro:Format:Babel]]
+[[roa-rup:Template:Babel]]
+[[ru:Шаблон:Babel]]
+[[rw:Template:Babel]]
+[[sa:फलकम्:Babel]]
+[[sah:Халыып:Babel]]
+[[sc:Template:Babel]]
+[[scn:Template:Babel]]
+[[sco:Template:Babel]]
+[[sd:سانچو:Babel]]
+[[se:Template:Babel]]
+[[sg:Modèle:Babel]]
+[[sh:Šablon:Babel]]
+[[si:සැකිල්ල:Babel]]
+[[simple:Template:Babel]]
+[[sk:Šablóna:Babel]]
+[[sl:Predloga:Babilon]]
+[[sm:Template:Babel]]
+[[sn:Template:Babel]]
+[[so:Template:Babel]]
+[[sq:Stampa:Babel]]
+[[sr:Шаблон:Babel]]
+[[ss:Template:Babel]]
+[[st:Template:Babel]]
+[[stq:Foarloage:Babel]]
+[[su:Citakan:Babel]]
+[[sv:Mall:Babel]]
+[[sw:Kigezo:Babel]]
+[[szl:Szablon:Babel]]
+[[ta:வார்ப்புரு:Babel]]
+[[te:మూస:Babel]]
+[[tet:Template:Babel]]
+[[tg:Шаблон:Babel]]
+[[th:แม่แบบ:บาเบล]]
+[[tk:Şablon:Babel]]
+[[tl:Suleras:Babel]]
+[[tn:Template:Babel]]
+[[to:Template:Pēpeli]]
+[[tpi:Template:Babel]]
+[[tr:Şablon:Babil]]
+[[ts:Template:Babel]]
+[[tt:Үрнәк:Babel]]
+[[tum:Template:Babel]]
+[[tw:Template:Babel]]
+[[ty:Modèle:Babel]]
+[[udm:Шаблон:Babel]]
+[[ug:قېلىپ:Babel]]
+[[uk:Шаблон:Babel]]
+[[ur:سانچہ:Babel]]
+[[uz:Andoza:Babel]]
+[[ve:Template:Babel]]
+[[vec:Modèl:Babel]]
+[[vi:Bản mẫu:Babel]]
+[[vls:Patrôon:Babel]]
+[[vo:Samafomot:Babel]]
+[[wa:Modele:Babel]]
+[[war:Template:Babel]]
+[[wo:Royuwaay:Babel]]
+[[wuu:模板:Babel]]
+[[xal:Кевләр:Babel]]
+[[xh:Template:Babel]]
+[[yi:מוסטער:באבעל]]
+[[yo:Àdàkọ:Babel]]
+[[za:模板:Babel]]
+[[zea:Sjabloon:Babel]]
+[[zh:Template:Babel]]
+[[zh-classical:Template:Babel]]
+[[zh-min-nan:Template:Babel]]
+[[zh-yue:Template:Babel]]
+[[zu:Template:Babel]]
+</noinclude>
