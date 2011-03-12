@@ -161,8 +161,8 @@ Seconne le statistèche d'a [[Instituto Brasileiro de Geografia e Estatística|I
 * [[Native americane]] - 0,2%
 * [[Popolazziune]]: 713.593
 
-<center>
-;Evoluzione demografeche
+<div style="text-align:center;margin:0 auto;">
+'''Evoluzione demografeche'''<br />
 <timeline>
 
 Colors=
@@ -174,11 +174,11 @@ Colors=
 ImageSize  = width:640 height:300
 PlotArea   = left:50 bottom:50 top:30 right:30
 DateFormat = x.y
-Period     = from:0 till:1000000
+Period     = from:0 till:800000
 TimeAxis   = orientation:vertical
 AlignBars  = justify
-ScaleMajor = gridcolor:darkgrey increment:3000000 start:0
-ScaleMinor = gridcolor:lightgrey increment:400000 start:0
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:25000 start:0
 BackgroundColors = canvas:sfondo
 
 BarData=
@@ -213,12 +213,8 @@ TextData=
   fontsize:S pos:(20,20)
   text: 
 </timeline>
-</center>
-<center>
-''Fonde: [[IBAM]]''
-</center>
-
-<center>
+</div>
+Fonde:[[IBAM]]
 
 === Clime ===
 '''Osasco''' tène 'nu clime assaje umide, [[subtropicale]].
