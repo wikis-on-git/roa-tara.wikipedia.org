@@ -6,25 +6,72 @@
 * [[ISO 3166-2:2000-06-21]]
 
 == Liste de le codece ==
-{|
+
+{| class="wikitable sortable"
 |-
-! <code>BY-BR</code>
-| [[Provinge de Brest|Brest]]
+! Codece
+! Nome d'a suddivisione ([[Dialette tarandine|tar]]<br />
+! Nome d'a suddivisione ([[Lènga bielorusse|be]])<br /> (BGN/PCGN) 
+! Nome d'a suddivisione ([[Lènga bielorusse|be]])<br /> (GOST)
+! Nome d'a suddivisione ([[Lènga russe|ru]])<br /> (BGN/PCGN)
+! Nome d'a suddivisione ([[Lènga russe|ru]])<br /> (GOST)
+! Categorije d'a suddivisione
 |-
-! <code>BY-HO</code>
-| [[Provinge de Homyel|Homyel]]
+| <tt>BY-BR</tt>
+| [[Oblast de Brestskaya]]
+| Brèsckaja voblasc'
+| Brèsckaja voblasc'
+| Brestskaya oblast'
+| Brestskaja oblast'
+| oblast
 |-
-! <code>BY-HR</code>
-| [[Voblast de Hrodna|Hrodna]]
+| <tt>BY-HO</tt>
+| [[Oblast de Homyel|Homyel]]
+| Homyel'skaya voblasts'
+| Homel'skaja voblasc'
+| Gomel'skaya oblast'
+| Gomel'skaja oblast'
+| oblast
 |-
-! <code>BY-MA</code>
-| [[Voblast de Mahiloŭ|Mahilyow]]
+| <tt>BY-HR</tt>
+| [[Oblast de Hrodna|Hrodna]]
+| Hrodzenskaya voblasts'
+| Hrodzenskaja voblasc'
+| Grodnenskaya oblast'
+| Grodnenskaja oblast'
+| oblast
 |-
-! <code>BY-MI</code>
-| [[Voblast de Minsk|Minsk]]
+| <tt>BY-MA</tt>
+| [[Oblast de Mahiloŭ|Mahilyow]]
+| Mahilyowskaya voblasts'
+| Mahilëuskaja voblasc'
+| Mogilevskaya oblast'
+| Mogilevskaja oblast'
+| oblast
 |-
-! <code>BY-VI</code>
-| [[Voblast de Viciebsk|Vitsebsk]]
+| <tt>BY-MI</tt>
+| [[Oblast de Minsk|Minsk]]
+| Minskaya voblasts'
+| Minskaja voblasc'
+| Minskaya oblast'
+| Minskaja oblast'
+| oblast
+|-
+| <tt>BY-VI</tt>
+| [[Oblast de Viciebsk|Vitsebsk]]
+| Vitsyebskaya voblasts'
+| Vicebskaja voblasc'
+| Vitebskaya oblast'
+| Vitebskaja oblast'
+| oblast
+|-
+| <tt>BY-HM</tt>
+| [[Cetate de Minsk]]
+| [[Horad Minsk]]
+| Horad Minsk
+| Gorod Minsk
+| Gorod Minsk
+| cetate
 |}
 
 == Vide pure ==
