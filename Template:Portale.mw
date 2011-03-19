@@ -1,0 +1,149 @@
+<includeonly><div class="noprint" style="margin-left:{{#if:{{{3|}}}|4px|{{#if:{{{2|}}}|3px|0}}}}; margin-right:{{#if:{{{3|}}}|4px|{{#if:{{{2|}}}|3px|2px}}}}"><!--
+-->{{#if:{{{1|}}}{{{2|}}}{{{3|}}}|<!--
+--><ul style="display:block; clear:both; list-style-image:none; list-style-type:none; width:100%; vertical-align:middle; margin:0; padding:0; min-height:27px"><!--
+
+COLLEGAMENTI PORTALI
+
+6 PORTALI
+-->{{#if:{{{6|}}}|
+<li style="float:left; height:27px; line-height:25px; width:33%; margin:0; margin-top:.5em; margin-left:-4px; margin-right:1%; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;<!--
+  -->'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:32%; margin:0; margin-top:.5em; margin-right:1%; margin-left:0; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{2|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Portal.svg}}}}|25x25px|{{{2|}}}]]&#32;<!--
+  -->'''[[Portale:{{{2|}}}|Portale {{ucfirst:{{{2|}}}}}]]'''
+</li>
+<li style="float: right; height: 27px; line-height:25px; width:33%; margin:0; margin-top:.5em; margin-right:-4px; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{3|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Portal.svg}}}}|25x25px|{{{3|}}}]]&#32;<!--
+  -->'''[[Portale:{{{3|}}}|Portale {{ucfirst:{{{3|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:33%; margin-top:.5em; margin-left:-4px; margin-right:1%; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{4|}}}"><!--
+  -->[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Portal.svg}}}}|25x25px|{{{4|}}}]]&#32;<!--
+  -->'''[[Portale:{{{4|}}}|Portale {{ucfirst:{{{4|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:32%; margin-top:.5em; margin-right:1%; margin-left:0; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{5|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{5|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{5|}}}|}}.png|Portal.svg}}}}|25x25px|{{{5|}}}]]&#32;<!--
+  -->'''[[Portale:{{{5|}}}|Portale {{ucfirst:{{{5|}}}}}]]'''
+</li>
+<li style="float:right; height:27px; line-height:25px; width:33%; margin-top:.5em; margin-right:-4px; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{6|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{6|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{6|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{6|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{6|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{6|}}}|}}.png|Portal.svg}}}}|25x25px|{{{6|}}}]]&#32;<!--
+  -->'''[[Portale:{{{6|}}}|Portale {{ucfirst:{{{6|}}}}}]]'''
+</li>
+|<!--
+
+5 PORTALI
+-->{{#if:{{{5|}}}|
+<li style="float:left; height:27px; line-height:25px; width:33%; margin:0; margin-top:.5em; margin-left:-4px; margin-right:1%; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;<!--
+  -->'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:32%; margin:0; margin-top:.5em; margin-right:1%; margin-left:0; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{2|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Portal.svg}}}}|25x25px|{{{2|}}}]]&#32;<!--
+  -->'''[[Portale:{{{2|}}}|Portale {{ucfirst:{{{2|}}}}}]]'''
+</li>
+<li style="float: right; height: 27px; line-height:25px; width:33%; margin:0; margin-top:.5em; margin-right:-4px; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{3|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Portal.svg}}}}|25x25px|{{{3|}}}]]&#32;<!--
+  -->'''[[Portale:{{{3|}}}|Portale {{ucfirst:{{{3|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:1%; margin-left:-3px; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{4|}}}"><!--
+  -->[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Portal.svg}}}}|25x25px|{{{4|}}}]]&#32;<!--
+  -->'''[[Portale:{{{4|}}}|Portale {{ucfirst:{{{4|}}}}}]]'''
+</li>
+<li style="float:right; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:-3px; margin-left:1%; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{5|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{5|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{5|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{5|}}}|}}.png|Portal.svg}}}}|25x25px|{{{5|}}}]]&#32;<!--
+  -->'''[[Portale:{{{5|}}}|Portale {{ucfirst:{{{5|}}}}}]]'''
+</li>
+|<!--
+
+4 PORTALI
+-->{{#if:{{{4|}}}|
+<li style="float:left; height:27px; line-height:25px; width:49%; margin:0; margin-top:.5em; margin-right:1%; margin-left:-3px; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}"><!--
+  -->[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''
+</li>
+<li style="float:right; height:27px; line-height:25px; width:49%; margin:0; margin-top:.5em; margin-right:-3px; margin-left:1%; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{2|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Portal.svg}}}}|25x25px|{{{2|}}}]]&#32;'''[[Portale:{{{2|}}}|Portale {{ucfirst:{{{2|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:1%; margin-left:-3px; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{3|}}}"><!--
+  -->[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Portal.svg}}}}|25x25px|{{{3|}}}]]&#32;'''[[Portale:{{{3|}}}|Portale {{ucfirst:{{{3|}}}}}]]'''
+</li>
+<li style="float:right; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:-3px; margin-left:1%; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{4|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{4|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{4|}}}|}}.png|Portal.svg}}}}|25x25px|{{{4|}}}]]&#32;'''[[Portale:{{{4|}}}|Portale {{ucfirst:{{{4|}}}}}]]'''
+</li>
+|<!--
+
+3 PORTALI
+-->{{#if:{{{3|}}}|
+<li style="float:left; height:27px; line-height:25px; width:33%; margin-top:.5em; margin-left:-4px; margin-right:1%; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;<!--
+  -->'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''
+</li>
+<li style="float:left; height:27px; line-height:25px; width:32%; margin-top:.5em; margin-right:1%; margin-left:0; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{2|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Portal.svg}}}}|25x25px|{{{2|}}}]]&#32;<!--
+  -->'''[[Portale:{{{2|}}}|Portale {{ucfirst:{{{2|}}}}}]]'''
+</li>
+<li style="float: right; height: 27px; line-height:25px; width:33%; margin-top:.5em; margin-right:-4px; padding:0; margin-bottom:0.5em; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{3|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{3|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{3|}}}|}}.png|Portal.svg}}}}|25x25px|{{{3|}}}]]&#32;<!--
+  -->'''[[Portale:{{{3|}}}|Portale {{ucfirst:{{{3|}}}}}]]'''
+</li>
+|<!--
+
+2 PORTALI
+-->{{#if:{{{2|}}}|
+<li style="float:left; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:1%; margin-left:-3px; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}"><!--
+  -->[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''
+</li>
+<li style="float:right; height:27px; line-height:25px; width:49%; margin-top:.5em; margin-right:-3px; margin-left:1%; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{2|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{2|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{2|}}}|}}.png|Portal.svg}}}}|25x25px|{{{2|}}}]]&#32;'''[[Portale:{{{2|}}}|Portale {{ucfirst:{{{2|}}}}}]]'''
+</li>
+|<!--
+
+1 PORTALE
+-->{{#if:{{{1|}}}|
+<li style="float:left; height:27px; line-height:25px; width:100%; margin-top:.5em; margin-left:0; margin-right:0; margin-bottom:0.5em; padding:0; border:1px solid #CCF; background-color:#F0EEFF" title="Accedi alle voci di Wikipedia che trattano di {{{1|}}}">[[Image:{{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|{{ {{#ifexist:Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona|Portale:{{#if:eliminaspazi|{{{1|}}}|}}/icona}} }}|{{#ifexist:Image:Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Stub_{{#if:eliminaspazi|{{{1|}}}|}}.png|Portal.svg}}}}|25x25px|{{{1|}}}]]&#32;'''[[Portale:{{{1|}}}|Portale {{ucfirst:{{{1|}}}}}]]'''&#58;&#32;{{Portale/frase|{{{1}}}}}
+</li>
+|}} }} }} }} }} }}
+</ul><!--
+
+ELSE controllo iniziale
+ -->|<div class="toccolours itwiki_template_avviso rad noprint">Il template <nowiki>{{</nowiki>portale<nowiki>}}</nowiki> necessita di almeno un argomento. [[Template:Portale/nessun_argomento|Consulta il manuale del template]] per ulteriori dettagli.</div><!--
+
+END controllo iniziale
+-->}}</div></includeonly><noinclude>
+{{protetta}}
+{{esoteric}}
+{{man}}
+
+[[Category:Template portale| ]]
+[[Category:Template de navigazzione|Portale]]
+
+[[ar:قالب:بوابة]]
+[[be-x-old:Шаблён:Партал]]
+[[bs:Šablon:Portal]]
+[[ca:Plantilla:Portal]]
+[[cs:Šablona:Portál]]
+[[da:Skabelon:Portal]]
+[[de:Vorlage:Portal]]
+[[el:Πρότυπο:Portal]]
+[[en:Template:Portal]]
+[[es:Plantilla:Portal2]]
+[[eo:Ŝablono:Portalo]]
+[[eu:Txantiloi:Atari]]
+[[fr:Modèle:Portail]]
+[[zh-classical:Template:門]]
+[[hi:साँचा:Portal/doc]]
+[[hr:Predložak:Portal]]
+[[hsb:Předłoha:Portal]]
+[[id:Templat:Wikiportal]]
+[[ia:Patrono:Portal]]
+[[he:תבנית:פורטל]]
+[[lb:Template:Portal]]
+[[lt:Šablonas:Portal]]
+[[hu:Sablon:Portál]]
+[[mk:Шаблон:Портал]]
+[[mr:साचा:दालन]]
+[[ms:Templat:Portal]]
+[[nl:Sjabloon:Link portaal]]
+[[ja:Template:ウィキポータルリンク]]
+[[no:Mal:Portal]]
+[[pl:Szablon:Portal]]
+[[pt:Predefinição:Portal]]
+[[ro:Format:Portal]]
+[[ru:Шаблон:Портал]]
+[[sq:Stampa:Portal]]
+[[sk:Šablóna:Portál]]
+[[sl:Predloga:Portal]]
+[[sr:Шаблон:Портал]]
+[[sh:Template:Portal]]
+[[fi:Malline:Teemasivu]]
+[[tl:Template:Portal]]
+[[vi:Tiêu bản:Portal]]
+[[tr:Şablon:Portal]]
+[[uk:Шаблон:Портал]]
+[[zh:Template:Portal]]
+</noinclude>
