@@ -1,0 +1,49 @@
+<noinclude>{{esoteric}}</noinclude>
+{{GeoBox NomeComune|comuni|Progetto:Amministrazioni/Comuni italiani|{{{nomeComune}}}}}
+|- {{#if:{{{panorama|}}}||class="hiddenStructure noprint"}}  | {{GeoBox Panorama|{{{panorama}}}}}
+|-{{#if: {{{didascalia|}}}||class="hiddenStructure noprint"}} | {{GeoBox Didascalia|{{{didascalia}}}}}
+|- {{#if:{{{linkStemma|}}}||class="hiddenStructure noprint"}}  | {{Box bandiera bianco|{{{linkBandiera|}}}|{{{paginaBandiera|}}}|{{{linkStemma|}}}|{{{paginaStemma|}}}}} 
+|- {{#if:{{{nomeUfficiale|}}}||class="hiddenStructure noprint"}} | 
+|valign="middle" bgcolor="#EFEFEF" style="border-bottom:1px solid #808080; border-left:1px solid #808080;" | Nome&nbsp;ufficiale:
+|style="border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: solid 1px #808080;" | {{{nomeUfficiale}}}
+{{Box link|[[State]]|ITA}}
+{{Box link|[[Reggione]]|IT-{{{siglaRegione}}}}}
+|- {{#if:{{{siglaProvincia|}}}||class="hiddenStructure noprint"}}  | {{Box link|[[Provinge]]|IT-{{{siglaProvincia}}}}}
+|- {{#if:{{{latitudineGradi|}}}||class="hiddenStructure noprint"}}  | {{Box coordinate|{{{latitudineGradi}}}|{{{latitudineMinuti}}}|{{{latitudineSecondi}}}|N|{{{longitudineGradi}}}|{{{longitudineMinuti}}}|{{{longitudineSecondi}}}|E|type:city_region:IT}}
+|- {{#if:{{{altitudine|}}}||class="hiddenStructure noprint"}}  | {{Box|[[Altitudine]]|{{{altitudine}}}&nbsp;{{m s.l.m.}}}}
+{{GeoBox Superficie|{{{superficie}}}}}
+{{GeoBox Abitanti|{{{abitanti}}}|{{{anno}}}}}
+{{GeoBox Densita|{{{densita}}}}}
+|- {{#if:{{{frazioni|}}}||class="hiddenStructure noprint"}}  |{{GeoBox Frazioni|{{{frazioni}}}}}
+{{GeoBox Comuni Limitrofi|{{{comuniLimitrofi}}}}}
+{{GeoBox CAP|{{{cap}}}}}
+{{GeoBox Prefisso|{{{prefisso}}}}}
+{{GeoBox ISTAT|{{{istat}}}}}
+{{GeoBox Catasto|{{{fiscale}}}}}
+|- {{#if:{{{zonaSismica|}}}|{{GeoBox ClassificazioneSismica|{{{zonaSismica}}}}}}}
+|- {{#if:{{{gradiGiorno|}}}|{{GeoBox ClassificazioneClimatica|{{{gradiGiorno}}}}}}} 
+|- {{#if:{{{nomeAbitanti|}}}||class="hiddenStructure noprint"}}  | {{GeoBox NomeAbitanti|{{{nomeAbitanti}}}}} 
+|- {{#if:{{{patrono|}}}||class="hiddenStructure noprint"}}  | {{GeoBox Patrono|{{{patrono}}}}} 
+|- {{#if:{{{festivo|}}}||class="hiddenStructure noprint"}}  | {{GeoBox Festivo|{{{festivo}}}}} 
+|- {{#if:{{{latitudineGradi|}}}|{{GeoBox Posizione|{{{siglaRegione}}}|{{#expr: (({{{longitudineGradi}}} * 60 + {{{longitudineMinuti}}}) * 0.400283) - 148.91 round 0}}|{{#expr: ((2822 - ({{{latitudineGradi}}} * 60 + {{{latitudineMinuti}}})) * 0.537964) +19.2 round 0}}}} }}
+{{#if:{{{sito|}}}|{{GeoBox Sito |{{{sito}}}}}}}
+|- 
+! style="padding-left:20px; font-size:80%; background:#EFEFEF; border:1px solid #808080" align="center" colspan="2" | <span style="float:right">[[Image:Portal.svg|20px|Portale:Purtale]]</span> Vè vide 'u [[Portale:Itaglie|Portale Itaglie]]
+{{GeoBox Fine}}<noinclude>
+
+{{man}}<!--{{Project:Geografia/Antropica/Comuni/Tabella}}-->
+
+==Voci correlate==
+* [[Project:Geografia/Antropica/Comuni]]
+* [[Discussioni progetto:Geografia/Antropica/Comuni]]
+
+[[Category:Template sinottici - Geografia|Comune]]
+[[Category:Template condizionali]]
+
+[[de:Vorlage:Infobox Ort in Italien]]
+[[en:Template:Infobox CityIT]]
+[[fr:Modèle:Commune italienne]]
+[[ja:Template:コムーネ]]
+[[lmo:Template:Comün]]
+[[ro:Format:Infobox orase Italia]]
+[[tr:Şablon:Infobox CityIT]]</noinclude>
