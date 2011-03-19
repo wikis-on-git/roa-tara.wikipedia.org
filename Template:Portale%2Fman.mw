@@ -1,0 +1,73 @@
+{{vedi anche|Wikipedia:Template di navigazione|Progetto:Coordinamento/Template/Portali}}
+Visualizza uno o più ''occhielli'' al [[Wikipedia:Portali|portale tematico]], identificato dal nome senza namespace (es. ''musica'' e non ''portale:musica'').
+
+==Sintassi==
+{{tl|portale|argomento1|argomento2|argomento3|argomento4|argomento5|argomento6}}
+
+*Gli argomenti successivi al primo sono opzionali.
+*Sono accettati massimo 6 argomenti (vedi [[progetto:Coordinamento/Template]]), che vanno in rigoroso <span style="text-decoration: underline">ordine alfabetico</span>
+*Gli argomenti devono essere ''sempre'' in minuscolo, eccezion fatta per i nomi propri. Esempi corretti sono: ''musica'', ''Genova'', ''anime e manga'', ''Tolkien'', ''mare''.
+*Se viene specificato un solo argomento, compare una breve frase standard. Se vuoi personalizzarla, modifica il [[Template:Portale/frase]] aggiungendovi il titolo esatto del portale e la frase da far comparire (massimo una riga).
+
+==Posizionamento==
+Il template va posizionato in fondo alla pagina, dopo i ''collegamenti esterni'' e sotto gli altri template di navigazione (ma prima delle categorie e degli [[Aiuto:Interwiki|interwiki]]). <small>NOTA: Nelle voci biografiche non vanno messi portali geografici.</small>
+
+==FAQ==
+;Dove sono prese le immagini?
+:Le immagini sono scelte secondo uno schema di precedenze. La prima è la scelta migliore, l'ultima è scelta solo se le prime non esistono (seguono i nomi senza namespace). 
+:#<nowiki>{{</nowiki>Portale:''argomento''/icona}} ([[portale:Fumetti/icona|esempio]])
+:#Stub_''argomento''.png
+:#Portal.svg
+:È possibile discutere l'aggiunta di ulteriori immagini preferite, consultare il [[discussioni progetto:Coordinamento/Template|progetto coordinamento template]].
+
+;Sì, ma come faccio a inserire una nuova icona?
+:Solitamente viene usata l'icona stub del progetto di riferimento. Se quella icona non ti piace, oppure usi un formato diverso da PNG (ad es. [[Scalable Vector Graphics|SVG]] o [[JPEG]]) puoi invece fare così:
+:Esempio: aggiungere un'icona per il [[portale:Mare]]
+:#Vai alla pagina [[portale:Mare/icona]] e aggiungi il nome dell'icona ''senza'' il prefisso <code>Immagine:</code> o <code>File:</code>.
+:#salva la pagina
+:#osserva il risultato scrivendo in una Sandbox <code><nowiki>{{</nowiki>portale|mare}}</code>
+{{portale|mare}}
+:Riassumendo, nella pagina <code>Portale:NomePortale'''/icona'''</code> dovrai aggiungere il semplice nome del file. Ci penserà il template portale a visualizzarla.
+
+;Una voce potrebbe contenere rimandi a numerosi portali. Quali devo scegliere?
+#È sempre da preferire il portale più specializzato possibile, nell'ambito del tema trattato dalla voce: non si deve attribuire una pagina contemporaneamente a due o più portali gerarchicamente dipendenti, ma è appropriato solo quello di livello più basso.
+#:''Esempio''. Nella voce [[Trastevere]] si potrebbe rimandare ai portali [[Portale:Geografia|Geografia]], [[Portale:Europa|Europa]], [[Portale:Italia|Italia]], [[Portale:Lazio|Lazio]], [[Portale:Roma|Roma]]. Quello da scegliere è quest'ultimo, il più specifico e dal quale è poi possibile risalire facilmente ai portali "gerarchicamente superiori".
+#La possibilità di indicare più di un portale va sfruttata scegliendo quelli che rappresentano linee di ricerca divergenti, evitando le sovrapposizioni gerarchiche.
+#:''Esempio''. Nella voce [[Teodolinda]], regina dei Longobardi, accanto al [[portale:Longobardi]] si possono indicare il [[portale:Biografie]] e il [[portale:Donne nella storia]].
+
+== Funzionalità e manutenzione ==
+Cosa succede se...
+;Il portale non esiste
+:Appare un link rosso con relativa icona stub per l'argomento, se presente.
+;Nessun argomento
+:Appare un avviso. La lista [[Speciale:PuntanoQui/Template:Portale/nessun_argomento]] (redirect al manuale usata solo in questo avviso) deve sempre essere vuota.
+
+== Esembie ==
+;1 argomento
+{{portale|letteratura}}
+
+;2 argomenti
+{{portale|Africa|musica}}
+
+;3 argomenti
+{{portale|Francia|guerra|storia}}
+
+;4 argomenti
+{{portale|diritto|informatica|medicina|software libero}}
+
+;5 argomenti
+{{portale|economia|Europa|politica|Tolkien|videogiochi}}
+
+;6 argomenti
+{{portale|Abruzzo|Lazio|Marche|Molise|Toscana|Umbria}}
+
+;Argomento sconosciuto
+{{portale|inesistente}}<!--lasciare come esempio di portale inesistente-->
+
+;Senza argomento
+{{portale}}<!--lasciare come esempio senza argomenti (visualizza avviso)-->
+
+==Template correlati==
+*[[Template:Progetto]]
+
+<noinclude>[[Category:Manuali dei template|Portale]]</noinclude>
