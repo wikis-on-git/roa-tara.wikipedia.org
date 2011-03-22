@@ -1,0 +1,158 @@
+Il template {{tl|Membro delle istituzioni italiane}} serve per generare una tabella riassuntiva dei dati relativi a un membro di un'istituzione italiana (senatore, deputato, presidente della Repubblica, etc.).
+Per le cariche pubbliche di qualsiasi stato (specie se monocratiche) esiste anche il {{tl|Carica pubblica}}, che va posto prima di {{tl|Membro delle istituzioni italiane}}.
+
+==Uso==
+
+Per inserire correttamente il template, <u>basta copiare</u> la tabella corrispondente alla carica e completarla con i dati relativi alla voce. Se una persona ha ricoperto più di un tipo di carica (es. deputato e senatore) basta ripetere la tabella più di una volta, inserendo i dati biografici (nome, data di nascita, professione, ecc...) solo nella prima tabella.
+
+Inserire dove richiesti i [[Aiuto:Wikilink|wikilink]].
+
+I parametri scritti in <span style="color:green">'''verde'''</span>, sono facoltativi. Questo vuol dire che se non vengono inseriti, non compaiono all'interno del template. Nel caso di campi facoltativi che non vengono usati, le relative righe possono venir lasciate col solo nome campo seguito da = e senza nessun valore. Se si è sicuri che un parametro facoltativo non verrà mai usato (per esempio perché non pertinente alla voce in oggetto) lo si può eliminare dalla tabella inserita nella voce.
+
+Si segnala agli interessati la presenza del [[Progetto:Politica]].
+
+==Tabelle==
+
+=== Senatore ===
+<tt>
+'''{{Membro delle istituzioni italiane'''<br/>
+{{parametro|nome}}
+'''|istituzione = Senato'''<br>
+{{parametro|immagine|opzionale}}
+{{parametro|dimensione|opzionale}}
+{{parametro|didascalia|opzionale}}
+{{parametro|luogo_nascita|opzionale}}
+{{parametro|data_nascita|opzionale}}
+{{parametro|luogo_morte|opzionale}}
+{{parametro|data_morte|opzionale}}
+{{parametro|titolo|opzionale}}
+{{parametro|professione|opzionale}}
+{{parametro|partito|opzionale}}
+{{parametro|legislatura|opzionale}}
+{{parametro|gruppo_parlamentare|opzionale}}
+{{parametro|coalizione|opzionale}}
+{{parametro|circoscrizione|opzionale}}
+{{parametro|regione|opzionale}}
+{{parametro|nomina_senatore_a_vita|opzionale}}
+{{parametro|data_nomina_senatore_a_vita|opzionale}}
+{{parametro|incarichi|opzionale}}
+{{parametro|sito|opzionale}}
+'''}}'''</tt>
+
+=== Senatore del Regno d'Italia===
+<tt>
+'''{{Membro delle istituzioni italiane'''<br/>
+{{parametro|nome}}
+'''|istituzione = Senato del Regno'''<br>
+{{parametro|immagine|opzionale}}
+{{parametro|dimensione|opzionale}}
+{{parametro|didascalia|opzionale}}
+{{parametro|luogo_nascita|opzionale}}
+{{parametro|data_nascita|opzionale}}
+{{parametro|luogo_morte|opzionale}}
+{{parametro|data_morte|opzionale}}
+{{parametro|titolo|opzionale}}
+{{parametro|professione|opzionale}}
+{{parametro|partito|opzionale}}
+{{parametro|legislatura|opzionale}}
+{{parametro|gruppo_parlamentare|opzionale}}
+{{parametro|coalizione|opzionale}}
+{{parametro|circoscrizione|opzionale}}
+{{parametro|nomina_senatore_a_vita|opzionale}}
+{{parametro|data_nomina_senatore_a_vita|opzionale}}
+{{parametro|incarichi|opzionale}}
+'''}}'''</tt>
+
+=== Deputato ===
+<tt>
+'''{{Membro delle istituzioni italiane'''<br/>
+{{parametro|nome}}
+'''|istituzione = Camera'''<br>
+{{parametro|immagine|opzionale}}
+{{parametro|dimensione|opzionale}}
+{{parametro|didascalia|opzionale}}
+{{parametro|luogo_nascita|opzionale}}
+{{parametro|data_nascita|opzionale}}
+{{parametro|luogo_morte|opzionale}}
+{{parametro|data_morte|opzionale}}
+{{parametro|titolo|opzionale}}
+{{parametro|professione|opzionale}}
+{{parametro|partito|opzionale}}
+{{parametro|legislatura|opzionale}}
+{{parametro|gruppo_parlamentare|opzionale}}
+{{parametro|coalizione|opzionale}}
+{{parametro|circoscrizione|opzionale}}
+{{parametro|collegio|opzionale}}
+{{parametro|incarichi|opzionale}}
+{{parametro|sito|opzionale}}
+'''}}'''</tt>
+
+=== Deputato del Regno d'Italia===
+<tt>
+'''{{Membro delle istituzioni italiane'''<br/>
+{{parametro|nome}}
+'''|istituzione = Camera del Regno'''<br>
+{{parametro|immagine|opzionale}}
+{{parametro|dimensione|opzionale}}
+{{parametro|didascalia|opzionale}}
+{{parametro|luogo_nascita|opzionale}}
+{{parametro|data_nascita|opzionale}}
+{{parametro|luogo_morte|opzionale}}
+{{parametro|data_morte|opzionale}}
+{{parametro|titolo|opzionale}}
+{{parametro|professione|opzionale}}
+{{parametro|partito|opzionale}}
+{{parametro|legislatura|opzionale}}
+{{parametro|gruppo_parlamentare|opzionale}}
+{{parametro|coalizione|opzionale}}
+{{parametro|circoscrizione|opzionale}}
+{{parametro|collegio|opzionale}}
+{{parametro|incarichi|opzionale}}
+{{parametro|sito|opzionale}}
+'''}}'''</tt>
+
+=== Membro dell'Assemblea costituente===
+<tt>
+'''{{Membro delle istituzioni italiane'''<br/>
+{{parametro|nome}}
+'''|istituzione = Assemblea costituente'''<br>
+{{parametro|immagine|opzionale}}
+{{parametro|dimensione|opzionale}}
+{{parametro|didascalia|opzionale}}
+{{parametro|luogo_nascita|opzionale}}
+{{parametro|data_nascita|opzionale}}
+{{parametro|luogo_morte|opzionale}}
+{{parametro|data_morte|opzionale}}
+{{parametro|titolo|opzionale}}
+{{parametro|professione|opzionale}}
+{{parametro|partito|opzionale}}
+{{parametro|gruppo_parlamentare|opzionale}}
+{{parametro|collegio|opzionale}}
+{{parametro|incarichi|opzionale}}
+{{parametro|sito|opzionale}}
+'''}}'''</tt>
+
+==Parametri==
+* nome = nome e cognome del parlamentare
+* immagine = il solo nome dell'immagine
+* dimensione= dimensione dell'immagine (di default, se non indicata, 200px)
+* didascalia = didascalia dell'immagine
+* luogo_nascita = la località di nascita (inserire i wikilink)
+* data_nascita = la data di nascita (inserire i wikilink)
+* luogo_morte = la località di morte (inserire i wikilink)
+* data_morte = la data di nascita (inserire i wikilink)
+* titolo = inserire il titolo di studio: licenza elementare, licenza media inferiore, licenza media superiore, laurea in...
+* professione = il lavoro che svolge oltre quello di parlamentare
+* partito =inserire il template del partito (<nowiki>{{Partito}}</nowiki>) - se inesistente, inserire il nome del partito fra doppie parentesi quadre (<nowiki>[[partito]]</nowiki>)
+* legislatura = inserire le legislature in cui è stato/a deputato/a (con wikilink)
+* gruppo = il gruppo parlamentare a cui è iscritto/a oppure è stato/a iscritto/a
+* coalizione = se esistente, la coalizione di cui il suo partito fa parte
+* circoscrizione = la circoscrizione/collegio elettorale di elezione del deputato/a o senatore/senatrice (non inserire per i senatori a vita)
+* nomina_senatore_a_vita = per i soli senatori a vita inserire (a seconda che siano nominati dal presidente della Repubblica o diventino senatori di diritto in quanto ex presidenti):
+**Nomina presidenziale
+**Senatore di diritto
+* data_nomina_senatore_a_vita = data della nomina a senatore a vita
+* incarichi = incarichi parlamentari svolti (in caso di incarichi multipli usare una lista puntata)
+* sito = collegamento alla pagina del deputato/senatore sui rispettivi siti istituzionali ([http://www.camera.it camera.it] e [http://www.senato.it senato.it]) della loro ultima legislatura
+
+<noinclude>[[Category:Manuali dei template|Membro delle istituzioni italiane]]</noinclude>
