@@ -1,0 +1,167 @@
+<noinclude>
+:''Stu template jè ausate da 'u template {{tl|Carica pubblica}}.''
+</noinclude><includeonly>
+<includeonly>
+<!----------Nascita/Morte---------->
+{{!}}-
+{{!}}colspan="2"{{!}}<hr/>
+{{!}}-
+{{#if:{{{nazionalità|}}}|
+! Nazionalità
+{{!}} {{{nazionalità}}}
+{{!}}-
+}}
+<!----------partito---------->
+{{#if:{{{partito|}}}|
+! Partito&nbsp;politico
+{{!}}{{{partito}}}
+{{!}}-
+}}
+<!----------Other Political partito Affiliations---------->
+{{#if:{{{altropartito|}}}|
+! Other&nbsp;political<br>affiliations
+{{!}}{{{altropartito}}}
+{{!}}-
+}}
+<!----------Altri dati---------->
+{{#if:{{{alma_mater|}}}|
+! [[Alma mater|Alma&nbsp;mater]]
+{{!}} {{{alma_mater}}}
+{{!}}-
+}}
+{{#if:{{{professione|}}}|
+! Professione
+{{!}} {{{professione}}}
+{{!}}-
+}}
+{{#if:{{{cabinet|}}}|
+! Cabinet
+{{!}} {{{cabinet}}}
+{{!}}-
+}}
+{{#if:{{{committees|}}}|
+! Committees
+{{!}} {{{committees}}}
+{{!}}-
+}}
+{{#if:{{{portfolio|}}}|
+! Portfolio
+{{!}} {{{portfolio}}}
+{{!}}-
+}}
+{{#if:{{{data1|}}}|
+! {{{blank1}}}
+{{!}} {{{data1}}}
+{{!}}-
+}}
+{{#if:{{{data2|}}}|
+! {{{blank2}}}
+{{!}} {{{data2}}}
+{{!}}-
+}}
+{{#if:{{{data3|}}}|
+! {{{blank3}}}
+{{!}} {{{data3}}}
+{{!}}-
+}}
+{{#if:{{{data4|}}}|
+! {{{blank4}}}
+{{!}} {{{data4}}}
+{{!}}-
+}}
+{{#if:{{{data5|}}}|
+! {{{blank5}}}
+{{!}} {{{data5}}}
+{{!}}-
+}}
+{{#if:{{{firma|}}}|
+! Firma
+{{!}} [[File:{{{firma}}}|128px|Firma di {{PAGENAME}}]]
+{{!}}-
+}}
+{{#if:{{{website|}}}|
+! Website
+{{!}} {{{website}}}
+{{!}}-
+}}
+<!----------Military service---------->
+{{#if:{{{allegiance|}}}{{{branch|}}}{{{serviceyears|}}}{{{rank|}}}{{{unit|}}}{{{commands|}}}{{{battles|}}}{{{awards|}}}{{{military_blank1|}}}|
+{{!}} colspan="2" {{WPMILHIST Infobox style|header_bar}} {{!}} '''Military service'''
+{{!}}-
+}}
+{{#if:{{{nickname|}}}|
+! Nickname(s)
+{{!}} {{{nickname|}}}
+{{!}}-
+}}
+{{#if:{{{allegiance|}}}|
+! Allegiance
+{{!}} {{{allegiance|}}}
+{{!}}-
+}}
+{{#if:{{{branch|}}}|
+! Service/branch
+{{!}} {{{branch|}}}
+{{!}}-
+}}
+{{#if:{{{serviceyears|}}}|
+! Years&nbsp;of service
+{{!}} {{{serviceyears|}}}
+{{!}}-
+}}
+{{#if:{{{rank|}}}|
+! Rank
+{{!}} {{{rank|}}}
+{{!}}-
+}}
+{{#if:{{{unit|}}}|
+! Unit
+{{!}} {{{unit|}}}
+{{!}}-
+}}
+{{#if:{{{commands|}}}|
+! Commands
+{{!}} {{{commands|}}}
+{{!}}-
+}}
+{{#if:{{{battles|}}}|
+! Battles/wars
+{{!}} {{{battles|}}}
+{{!}}-
+}}
+{{#if:{{{awards|}}}|
+! Awards
+{{!}} {{{awards|}}}
+{{!}}-
+}}
+{{#if:{{{military_data1|}}}|
+! {{{military_blank1}}}
+{{!}} {{{military_data1}}}
+{{!}}-
+}}
+{{#if:{{{military_data2|}}}|
+! {{{military_blank2}}}
+{{!}} {{{military_data2}}}
+{{!}}-
+}}
+{{#if:{{{military_data3|}}}|
+! {{{military_blank3}}}
+{{!}} {{{military_data3}}}
+{{!}}-
+}}
+{{#if:{{{military_data4|}}}|
+! {{{military_blank4}}}
+{{!}} {{{military_data4}}}
+{{!}}-
+}}
+{{#if:{{{military_data5|}}}|
+! {{{military_blank5}}}
+{{!}} {{{military_data5}}}
+{{!}}-
+}}
+{{#if:{{{footnotes|}}}|
+{{!}}colspan="2" style="border-top:1px solid; font-size:90%;"{{!}} {{{footnotes}}}
+{{!}}-
+}}
+{{#if:{{{date|}}}|
+{{!}}colspan="2" style="border-top:1px solid right; font-size:90%;"{{!}}As of [[{{{date}}}]]{{#if:{{{year|}}} |, [[{{{year}}}]]}}}}{{#if:{{{source|}}}|<br />Source: [{{{source}}}]}}</includeonly>
