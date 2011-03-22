@@ -1,0 +1,758 @@
+<includeonly>{{ #switch: {{{1}}}
+| abate = Abati
+| accademiche
+| accademiche = Accademice
+| agende segrete = Agende segrete
+| agronome
+| agronome = Agronome
+| alchimiste = Alchimiste
+| allenatore de atletica
+| allenatore de atletica leggere
+| allenatrice de atletica
+| allenatrice de atletica leggere = Allenature de atletica leggere
+| allenatore de baseball
+| allenatrice de baseball = Allenature de baseball
+| allenatore de calcio
+| allenatrice de calcio = Allenature de calcio
+| allenatore de calcio a 5
+| allenatrice de calcio a 5 = Allenature de calcio a 5
+| allenatore de football americane = Allenature de football americane
+| allenatore de ginnastica
+| allenatore de ginnastica artistiche
+| allenatrice de ginnastica
+| allenatrice de ginnastica artistiche = Allenature de ginnastica
+| allenatore de hockey sus a 'u ghiacce
+| allenatrice de hockey sus a 'u ghiacce = Allenature de hockey sus a 'u ghiacce
+| allenatore de judo
+| allenatrice de judo = Allenature de judo
+| allenatore de pallacanestro
+| allenatrice de pallacanestro = Allenature de pallacanestro
+| allenatore de pallamano
+| allenatrice de pallamano = Allenature de pallamano
+| allenatore de pallavolo
+| allenatrice de pallavolo = Allenature de pallavolo
+| allenatore de pugilato
+| allenatrice de pugilato = Allenature de pugilato
+| allenatore de rugby
+| allenatrice de rugby = Allenature de rugby
+| allevatore
+| allevatrice = Allevatori
+| alpinista = Alpinisti
+| ambientalista = Ambientalisti
+| ammiraglio = Ammiragli
+| anarchica
+| anarchico = Anarchici
+| anatomista = Anatomisti
+| animatore
+| animatrice = Animatori
+| annunciatore televisivo
+| annunciatrice televisiva = Annunciatori televisivi
+| antifascista = Antifascisti
+| antiquaria
+| antiquario = Antiquari
+| antropologa
+| antropologo = Antropologi
+| apneista = Apneisti
+| aracnologa
+| aracnologo = Aracnologi
+| arbitro di calcio = Arbitri di calcio
+| arbitro di pallacanestro = Arbitri di pallacanestro 
+| archeologa
+| archeologo = Archeologi
+| architette = Architette
+| arciere = Arcieri
+| arcivescovo = Arcivescovi
+| arcivescovo cattolico = Arcivescovi cattolici
+| arcivescovo vetero-cattolico = Arcivescovi vetero-cattolici
+| armatore = Armatori
+| arpista = Arpisti
+| arrangiatore
+| arrangiatrice = Arrangiatori
+| artigiana
+| artigiano
+| barbiere = Artigiani
+| artista = Artisti
+| artista marziale = Artisti marziali
+| assassina seriale
+| assassino seriale = Assassini seriali
+| assistente di Polizia = Assistenti di Polizia
+| astrofisica
+| astrofisico = Astrofisici
+| astrologa
+| astrologo = Astrologi
+| astronauta
+| ex astronauta = Astronauti
+| astronoma
+| astronomo = Astronomi
+| atleta
+| ex atleta = Atleti
+| attivista
+| pacifista = Attivisti
+| attore
+| attore cinematografico
+| attore televisivo
+| attrice
+| attrice cinematografeche
+| attrice televisive = Atture
+| attore pornografeche
+| attrice pornografeche
+| pornostar = Atture pornografece
+| attore tiatrale
+| attrice tiatrale = Atture tiatrale
+| autore di fantascienza
+| autrice di fantascienza = Autori di fantascienza
+| autore di fumetti
+| autrice di fumetti
+| fumettista = Autori di fumetti
+| autore di giochi
+| autrice di giochi = Autori di giochi
+| autore televisivo
+| autrice televisiva = Autori televisivi
+| aviatore
+| aviatrice = Aviatori
+| avventuriera
+| avventuriero = Avventurieri
+| avvocato = Avvocati
+| badessa = Badesse
+| banchiere = Banchieri
+| baritono = Baritoni
+| basso = Bassi
+| basso-baritono = Bassi-baritoni
+| bassista = Bassisti
+| batteriologa
+| batteriologo = Batteriologi
+| batterista = Batteristi
+| beatmaker = Beatmaker
+| biathleta
+| biatleta = Biatleti
+| bibliografa
+| bibliografo = Bibliografi
+| bibliotecaria
+| bibliotecario = bibliotecari
+| biker = mountain biker
+| biochimica
+| biochimico = Biochimici
+| biografa
+| biografo = Biografi
+| biologa
+| biologo = Biologi
+| bobbista = Bobbisti
+| botanica
+| botanico = Botanici
+| brigante = Briganti
+| cabarettista = Cabarettisti
+| calciatore
+| calciatrice
+| ex calciatore
+| ex calciatrice = Calciatori
+| canoista = Canoisti
+| canottiera
+| canottiere = Canottieri
+| candande
+| candande pop = Candande
+| candande lirica
+| candande lirico = Candande lirice
+| candautore
+| candautrice = Candauturi
+| cardinale = Cardinali
+| cardiochirurgo = Cardiochirurghi
+| cartografa
+| cartografo = Cartografi
+| cavaliere 
+| cavallerizza = Cavalieri
+| centurione = Centurioni
+| ceramista = Ceramisti
+| cestista
+| ex cestista = Cestisti
+| chimica
+| chimico = Chimici
+| chirurgo = Chirurghi
+| chitarrista = Chitarristi
+| ciclista
+| ex ciclista = Ciclisti
+| circense = Circensi
+| clarinettista = Clarinettisti
+| clavicembalista = Clavicembalisti
+| clinico = Clinici
+| collaboratore di giustizia
+| collaboratrice di giustizia = Collaboratori di giustizia
+| collezionista d'arte = Collezionisti d'arte
+| comiche
+| comiche = Comice
+| combosetore
+| combositore
+| combositrice = Combositure
+| condottiero = Condottieri
+| conduttore radiofoneche
+| conduttrice radiofoneche = Condutture radiofonece
+| conduttore televisive
+| conduttrice televisive = Condutture televisive
+| conte = Conti
+| contrabbassista = Contrabbassisti
+| contralto = Contralti
+| contraltista = Contraltisti
+| controtenore = Controtenori
+| coreografa
+| coreografo = Coreografi
+| cornista = Cornisti
+| corsaro = Corsari
+| cosmografa
+| cosmografo = Cosmografi
+| cosmologa
+| cosmologo = Cosmologi
+| cosmonauta = Cosmonauti
+| costituzionalista = Costituzionalisti
+| costumista = Costumisti
+| criminale = Criminali
+| criminologa
+| criminologo = Criminologi
+| critica cinematografica
+| critico cinematografico = Critici cinematografici
+| critica d'arte
+| critico d'arte = Critici d'arte
+| critica letteraria
+| critico letterario = Critici letterari
+| critica musicale
+| critico musicale = Critici musicali
+| critica teatrale
+| critico teatrale = Critici teatrali
+| critico televisivo = Critici televisivi
+| crittanalista
+| crittografa
+| crittografo
+| crittologa
+| crittologo = Crittografi
+| culturista = Culturisti
+| cuoca
+| cuoco = Cuochi
+| ballerina
+| ballerino
+| danzatore
+| danzatrice = Danzatori
+| decoratore
+| decoratrice = Decoratori
+| delfino = Delfini
+| deputata
+| deputato = Deputati
+| designer = Designer
+| dialoghista = Dialoghisti
+| ambasciatore
+| ambasciatrice
+| diplomatica
+| diplomatico = Diplomatici
+| direttore d'orchestra
+| direttrice d'orchestra = Direttori d'orchestra
+| casting director
+| direttore del casting
+| direttrice del casting = Direttori del casting
+| direttore del doppiaggio
+| direttrice del doppiaggio = Direttori del doppiaggio
+| direttore della fotografia = Direttori della fotografia
+| direttore di banda 
+| direttrice di banda = Direttori di banda
+| direttore di coro
+| direttrice di coro = Direttori di coro
+| direttore teatrale
+| direttrice teatrale = Direttori teatrali
+| dirigente d'azienda
+| ex dirigente d'azienda
+| manager = Dirigenti d'azienda
+| dirigente infermieristico = Dirigenti infermieristici
+| dirigente pubblico = Dirigenti pubblici
+| dirigente sportiva 
+| dirigente sportivo = Dirigenti sportivi
+| dirigibilista = Dirigibilisti
+| disc jockey
+| disc-jockey = Disc jockey
+| disegnatore
+| disegnatrice = Disegnatori
+| divulgatore scientifico
+| divulgatrice scientifica = Divulgatori scientifici
+| doge = Dogi
+| doppiatore
+| doppiatrice = Doppiatori
+| commediografa
+| commediografo
+| drammaturga
+| drammaturgo = Drammaturghi
+| duca
+| duchessa = Duchi
+| ebanista = Ebanisti
+| ecologa
+| ecologo = Ecologi
+| economista = Economisti
+| editore
+| editrice = Editori
+| educatore scout
+| educatrice scout = Educatori scout
+| egittologa
+| egittologo = Egittologi
+| enciclopedista = Enciclopedisti
+| enigmista = Enigmisti
+| enologa
+| enologo = Enologi
+| entomologa
+| entomologo = Entomologi
+| epigrafista = Epigrafisti
+| esarca = Esarchi
+| esoterista = Esoteristi 
+| esperantista = Esperantisti
+| esploratore
+| esploratrice = Esploratori
+| etnologa
+| etnologo = Etnologi
+| etnomusicologa
+| etnomusicologo = Etnomusicologi
+| etologa
+| etologo = Etologi
+| fantino = Fantini
+| farmacista = Farmacisti
+| farmacologa
+| farmacologo = Farmacologi
+| filantropa
+| filantropo = Filantropi
+| filatelista = Filatelisti
+| filologa
+| filologa classica
+| filologo
+| filologo classico = Filologi
+| felosofa
+| felosofe = Felosofe
+| first lady = First lady
+| fisarmonicista = Fisarmonicisti
+| fiseche
+| fiseche
+| geofisica
+| geofisico = Fisici
+| fisiologa
+| fisiologo = Fisiologi
+| fisioterapista = Fisioterapisti
+| flautista = Flautisti
+| fotografa
+| fotografo = Fotografi
+| fotoreporter = Fotoreporter
+| francescano = Francescani
+| funzionaria
+| funzionario
+| prefetto
+| questore = Funzionari
+| fuorilegge = Criminali
+| gallerista = Galleristi
+| generale = Generali
+| genetista = Genetisti
+| geografa
+| geografo = Geografi
+| geologa
+| geologo = Geologi
+| gesuita = Gesuiti
+| ginnasta = Ginnasti
+| ex giocatore di badminton
+| ex giocatrice di badminton
+| giocatore di badminton
+| giocatrice di badminton = Giocatori di badminton
+| ex giocatore di baseball
+| giocatore di baseball
+| giocatrice di baseball = Giocatori di baseball
+| giocatore di biliardo = Giocatori di biliardo
+| giocatore di bridge
+| giocatrice di bridge = Giocatori di bridge
+| ex giocatore di calcio a 5
+| giocatore di calcio a 5 = Giocatori di calcio a 5
+| giocatore di curling
+| giocatrice di curling
+| ex giocatore di curling
+| ex giocatrice di curling = Giocatori di curling
+| ex giocatore di football americano
+| giocatore di football americano = Giocatori di football americano
+| giocatore di poker
+| giocatrice di poker = Giocatori di poker
+| giocatore di snooker = Giocatori di snooker
+| giocatore di squash = Giocatori di squash
+| giocoliera
+| giocoliere = Giocolieri
+| gioielliere = Gioiellieri
+| commentatore televisivo
+| commentatrice televisiva
+| sciurnaliste
+| pubbliciste = Sciurnaliste
+| giurista = Giuristi
+| glottologa
+| glottologo = Glottologi
+| glossopoete = Glottopoete
+| glottoteta = Glottoteti
+| golfista = Golfisti
+| grammatica
+| grammatico = Grammatici
+| granduca = Granduchi
+| grecista = Grecisti
+| guerrigliera
+| guerrigliero = Guerriglieri
+| hacker = Hacker
+| hockeista in-line = Hockeisti in-line
+| hockeista su ghiaccio = Hockeisti su ghiaccio
+| hockeista su pista = Hockeisti su pista
+| hockeista su prato = Hockeisti su prato
+| illusionista = Illusionisti
+| illustratore
+| illustratrice = Illustratori
+| imitatore
+| imitatrice = Imitatori
+| imperatore
+| imperatrice = Imperatori
+| imprenditore
+| imprenditrice = Imprenditori
+| impresario teatrale = Impresari teatrali
+| incisore = Incisori
+| infermiera
+| infermiere = Infermieri
+| informatica
+| informatico
+| programmatore
+| programmatrice = Informatici
+| ingegnere
+| ingegnere aeronautico
+| ingegnere ambientale
+| ingegnere elettrotecnico
+| ingegnere meccanico
+| ingegnere navale = Ingegneri
+| docente
+| insegnante = Insegnanti
+| intagliatore
+| intagliatrice = Intagliatori
+| intarsiatore
+| intarsiatrice = Intarsiatori
+| inventore = Inventori
+| investigatore
+| investigatrice 
+| investigatore privato 
+| detective = Investigatori
+| ittiologa
+| ittiologo = Ittiologi
+| judoka = Judoka
+| karateka = Karateka
+| latinista = Latinisti
+| letterata
+| letterato = Letterati
+| librettista = Librettisti
+| linguista = Linguisti
+| liutaia
+| liutaio = Liutai
+| liutista = Liutisti
+| logico = Logici
+| logografo = Logografi
+| lottatore
+| lottatrice = Lottatori
+| lottatore di sumo = Lottatori di sumo
+| maestro zen = Maestri zen
+| ex magistrata
+| ex magistrato
+| magistrata
+| magistrato = Magistrati
+| marchesa
+| marchese = Marchesi
+| matemateche
+| matemateche = Matematece
+| medaglista = Medaglisti
+| mediche = Midece
+| mercante = Mercanti
+| mercante d'arte = Mercanti d'arte
+| mercenario = Mercenari
+| meteorologa
+| meteorologo = Meteorologi
+| mezzosoprano = Mezzosoprani
+| micologa
+| micologo = Micologi
+| microbiologa
+| microbiologo = Microbiologi
+| militare
+| ufficiale = Militari
+| mimo = Mimi
+| minatore = Minatori
+| mineralogista = Mineralogisti
+| miniatore
+| miniatrice
+| miniaturista = Miniatori
+| missionaria
+| missionario = Missionari
+| mistica
+| mistico = Mistici
+| mitografa
+| mitografo = Mitografi
+| modella
+| modello
+| supermodella
+| supermodello = Modelli
+| monaca
+| monaco = Monaci
+| montatore
+| montatrice = Montatori
+| ex motociclista
+| motociclista = Motociclisti
+| museciste = Museciste
+| musicologa
+| musicologo = Musicologi
+| naturalista = Naturalisti
+| marinaio
+| navigatore = Navigatori
+| neurologa
+| neurologo = Neurologi
+| neurofisiologa
+| neurofisiologo
+| neuroscienziata
+| neuroscienziato = Neuroscienziati
+| nobildonna
+| nobile
+| nobiluomo = Nobili
+| numismatico = Numismatici
+| nuotatore
+| nuotatrice
+| sincronetta = Nuotatori
+| oboista = Oboisti
+| oceanografa
+| oceanografo = Oceanografi
+| oculista = Oculisti
+| oncologa
+| oncologo = Oncologi
+| operaia
+| operaio  = Operai
+| orafa
+| orafo = Orafi
+| oratore = Oratori
+| organara
+| organaro = Organari
+| organista = Organisti
+| orientalista = Orientalisti
+| orientista = Orientisti
+| ornitologa
+| ornitologo = Ornitologi
+| orologiaia
+| orologiaio = Orologiai
+| ottica
+| ottico = Ottici
+| opinionista = Opinionisti
+| paleontologa
+| paleontologo = Paleontologi
+| ex pallamanista
+| pallamanista = Pallamanisti
+| pallanuotista = Pallanuotisti
+| ex pallavolista
+| pallavolista = Pallavolisti
+| pallonista = Pallonisti
+| parapsicologa
+| parapsicologo = Parapsicologi
+| paroliere = Parolieri
+| partigiana
+| partigiano = Partigiani
+| pastore metodista = Pastori metodisti
+| pastore protestante = Pastori protestanti
+| patriota = Patrioti
+| patologa
+| patologo = Patologi
+| pattinatore
+| pattinatrice = Pattinatori
+| pedagogista
+| pedagogo = Pedagogisti
+| pentatleta = Pentatleti
+| percussionista = Percussionisti
+| performance artist = Performance artist
+| personaggio televisivo = Personaggi televisivi
+| pianista = Pianisti
+| pilota automobilistica
+| pilota automobilistico
+| pilota di Formula 1 = Piloti automobilistici
+| copilota di rally
+| pilota di rally = Piloti di rally
+| pioniere dell'aviazione = Pionieri dell'aviazione
+| pirata = Pirati
+| pettore
+| pettrice = Petture
+| poete
+| poetessa = Poete
+| polistrumentista = Polistrumentisti
+| legislatore
+| politeche
+| politeche
+| statiste = Politece
+| politologa
+| politologo = Politologi
+| agente di Polizia
+| agente scelto di Polizia
+| carabiniere
+| poliziotta
+| poliziotto = Poliziotti
+| predicatore = Predicatori
+| preparatore atletico = Preparatori atletici
+| presbitero
+| prete
+| sacerdote = Presbiteri
+| principe
+| principessa = Principi
+| produttore cinematografeche
+| produttrice cinematografeche = Produtture cinematografece
+| produttore discografico
+| produttrice discografica = Produttori discografici
+| produttore teatrale
+| produttrice teatrale = Produttori teatrali
+| produttore televisivo
+| produttrice televisiva = Produttori televisivi
+| profeta = Profeti
+| progettista = Progettisti
+| psichiatra = Psichiatri
+| psicanalista
+| psicoanalista = Psicoanalisti
+| psicologa
+| psicologo = Psicologi
+| pubblicitaria
+| pubblicitario = Pubblicitari
+| pugile = Pugili
+| rabbino = Rabbini
+| rapper = Rapper
+| reggiste
+| reggiste cinematografeche
+| reggiste cinematografeche = Reggiste
+| reggiste teatrale = Reggiste tiatrale
+| religiosa
+| religioso = Religiosi
+| retore = Retori
+| rettore = Rettori
+| rivoluzionaria
+| rivoluzionario = Rivoluzionari
+| giocatore di rugby
+| ex rugbysta
+| rugbysta = Rugbysti
+| saggista = Saggisti
+| santa
+| santo = Santi
+| sassofonista = Sassofonisti
+| scacchista = Scacchisti
+| sceneggiatore
+| sceneggiatrice = Sceneggiatori
+| scenografa
+| scenografo = Scenografi
+| schermidore
+| schermitrice = Schermidori
+| ex sciatore
+| ex sciatrice
+| sciatore
+| sciatrice = Sciatori
+| ex sciatore alpino
+| ex sciatrice alpina
+| sciatore alpino
+| sciatrice alpina = Sciatori alpini
+| ex sciatore nautico
+| ex sciatrice nautica
+| sciatore nautico
+| sciatrice nautica = Sciatori nautici
+| ex fondista
+| ex sciatore nordico
+| ex sciatrice nordica
+| ex saltatore con gli sci
+| ex saltatrice con gli sci
+| fondista
+| sciatore nordico
+| sciatrice nordica 
+| saltatrice con gli sci
+| saltatore con gli sci = Sciatori nordici
+| scienziata
+| scienziato = Scienziati
+| romanziera
+| romanziere
+| scrittore
+| scrittrice = Scrittori
+| scultore
+| scultrice = Sculture
+| semiologo = Semiologi
+| senatore
+| senatrice = Senatori
+| sensitiva
+| sensitivo = Sensitivi
+| serial killer = Assassini seriali
+| showgirl
+| showman = Showgirl e showman
+| sindacalista = Sindacalisti
+| skateboarder = Skateboarder
+| ex skeletonista
+| skeletonista = Skeletonisti
+| signore = Signori
+| slamballer = Slamballer
+| slittinista = Slittinisti
+| snowboarder = Snowboarder
+| sociologa
+| sociologo = Sociologi
+| sollevatrice
+| sollevatore = Sollevatori
+| soprano = Soprani
+| sopranista = Sopranisti
+| sportiva 
+| sportivo = Sportivi
+| imperatore
+| imperatrice
+| re
+| regina
+| sovrana
+| sovrano 
+| zar
+| zarina = Sovrani
+| statistica
+| statistico = Statistici
+| stilista = Stilisti
+| storiografo
+| storiografa
+| storica
+| storico = Storici
+| storico dell'architettura = Storici dell'architettura
+| storica dell'arte
+| storico dell'arte = Storici dell'arte
+| storica della scienza
+| storico della scienza = Storici della scienza
+| storiografa
+| storiografo = Storiografi
+| studente
+| studentessa = Studenti
+| sultano = Sultani
+| suonatore di banjo
+| suonatrice di banjo = Suonatori di banjo
+| surfista = Surfisti
+| tastierista = Tastieristi
+| tennistavolista = Tennistavolisti
+| ex tennista
+| tennista = Tennisti
+| tenore = Tenori
+| teologa
+| teologo = Teologi
+| ex terrorista
+| terrorista = Terroristi
+| tipografo = Tipografi
+| tiratore
+| tiratrice = Tiratori
+| traduttore
+| traduttrice = Traduttori
+| triatleta = Triatleti
+| trombettista = Trombettisti
+| trombonista = Trombonisti
+| truccatore
+| truccatrice = Truccatori
+| tuffatore
+| tuffatrice = Tuffatori
+| umanista = Umanisti
+| umorista = Umoristi
+| urbanista = Urbanisti
+| velista = Velisti
+| vescovo = Vescovi
+| vescovo cattolico = Vescovi cattolici
+| vescovo vetero-cattolico = Vescovi vetero-cattolici
+| veterinaria
+| veterinario = Veterinari
+| vibrafonista = Vibrafonisti
+| violiniste = Violiniste
+| violista = Violisti
+| violoncelliste = Violoncelliste
+| visconte = Visconti
+| ex wrestler
+| wrestler = Wrestler
+| zar
+| zarina = Zar
+| zoologa
+| zoologo = Zoologi
+}}</includeonly><noinclude>{{Template:Bio/plurale attività/avviso}}{{esoteric}}{{man}}
+[[Category:Template Bio]]</noinclude>
