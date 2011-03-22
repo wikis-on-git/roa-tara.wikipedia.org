@@ -1,0 +1,95 @@
+<includeonly>{| style="border: 1px solid #aaa; background-color: #f9f9f9; color: black; margin-bottom: 1em; margin-left: 1em; padding: 0.2em 0.2em 0.2em 0.2em; float: right; clear: right; width: 300px; text-align: left; font-size: 90%;" cellspacing="1px" cellpadding="0px"
+|-
+!style="width:1%;text-align:center;"| {{#switch: {{{istituzione}}}
+|Senato=[[File:Logo del Senato della Repubblica Italiana.svg|95px|Monogramma del Senato della Repubblica Italiana]]
+|Camera=[[File:Logo della Camera dei deputati.svg|90px|Monogramma della Camera dei deputati]]
+|Camera dei Fasci e delle Corporazioni=[[File:Coat of arms of Italy (1929-1944).svg|90px|Stemma del Regno d'Italia]]
+|Senato del Regno=[[File:Lesser coat of arms of the Kingdom of Italy (1890).svg|50px|Stemma del Regno d'Italia]]
+|Presidente della Repubblica=[[File:{{{stendardo}}}|right|35px|Stemma Presidente della Repubblica]]
+|[[File:{{{stendardo}}}|right|35px|Stemma Presidente della Repubblica]]
+|[[File:Flag of Italy.svg|right|35px|Bandiera italiana]]}}
+| style="text-align:center;"  | '''[[Parlamento della Repubblica Italiana|Parlamento italiano]]''' <br/> '''{{#switch: {{{istituzione}}}
+|Senato=[[Senato della Repubblica]]
+|Camera=[[Camera dei deputati]]
+|Senato del Regno=[[Senato del Regno d'Italia]]
+|Camera dei Fasci e delle Corporazioni=[[Camera dei Fasci e delle Corporazioni]]
+|Presidente della Repubblica=[[Presidenti della Repubblica Italiana|{{{numero}}} presidente della</br>Repubblica Italiana]]
+|Assemblea costituente=[[Assemblea Costituente della Repubblica Italiana|Assemblea costituente]]}}'''
+|-{{#if:{{{nome|}}}||class="hiddenStructure noprint"}}
+!colspan="2" style="text-align:center;" | {{#switch: {{{istituzione}}} 
+|Senato=sen.
+|Senato del Regno=sen.
+|Camera
+|Camera dei Fasci e delle Corporazioni
+|Assemblea costituente=on.}} {{{nome}}}
+{{!}}-{{#if:{{{immagine|}}}||class="hiddenStructure noprint"}}
+{{!}} colspan="2" style="padding-bottom:1em;text-align:center;" {{!}}[[File:{{{immagine}}}|{{#if:{{{dimensione|}}}|{{{dimensione}}}|200px}}|{{{didascalia|{{{nome}}}}}}]]
+<span align="center" style="font-style:italic; font-size:90%;">{{{didascalia|}}}</span>
+----
+|-{{#if:{{{luogo_nascita|}}}||class="hiddenStructure noprint"}}
+| valign="top" style="width:25%;text-align:left;font-size:90%" |'''Luogo nascita'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{luogo_nascita}}} 
+|-{{#if:{{{data_nascita|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Data nascita'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{data_nascita}}} 
+|-{{#if:{{{luogo_morte|}}}||class="hiddenStructure noprint"}}
+| valign="top" style="width:25%;text-align:left;font-size:90%" |'''Luogo morte'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{luogo_morte}}} 
+|-{{#if:{{{data_morte|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Data morte'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{data_morte}}} 
+|-{{#if:{{{titolo|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Titolo di studio'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{titolo}}} 
+|-{{#if:{{{professione|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Professione'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{professione}}} 
+|-{{#if:{{{partito|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''[[Partito politico|Partito]]'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{partito}}} 
+|-{{#if:{{{legislatura|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Legislatura'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{legislatura}}}
+|-{{#if:{{{gruppo_parlamentare|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Gruppo'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{gruppo_parlamentare}}} 
+|-{{#if:{{{coalizione|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Coalizione'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{coalizione}}}
+|-{{#if:{{{circoscrizione|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''[[Circoscrizione elettorale|Circoscrizione]]'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{circoscrizione}}}
+|-{{#if:{{{regione|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''[[Regioni dell'Italia|Regione]]'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{regione}}}
+|-{{#if:{{{collegio|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''[[Collegio uninominale|Collegio]]'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{collegio}}}
+|-{{#if:{{{Mandato|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |{{#switch: {{{istituzione}}}
+|Presidente della Repubblica=Mandato presidenziale}}
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{mandato}}}
+|-{{#if:{{{elezione|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Elezione'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" |{{{elezione}}}
+|-{{#if:{{{nomina_senatore_a_vita|}}}||class="hiddenStructure noprint"}}
+| colspan="2" style="padding-bottom:1em;text-align:center;background:#C83737;" | '''senatore a vita'''
+|-{{#if:{{{nomina_senatore_a_vita|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Investitura'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{nomina_senatore_a_vita}}}
+|-{{#if:{{{data_nomina_senatore_a_vita|}}}||class="hiddenStructure noprint"}}
+| valign="top"  style="width:25%;text-align:left;font-size:90%" |'''Data'''
+| valign="top"  style="width:75%;text-align:left;font-size:90%" | {{{data_nomina_senatore_a_vita}}}
+|-{{#if:{{{incarichi|}}}||class="hiddenStructure noprint"}}
+| colspan= "2"  style="text-align:center;font-size:90%" |'''Incarichi parlamentari'''
+|-{{#if:{{{incarichi|}}}||class="hiddenStructure noprint"}}
+| colspan= "2"  style="text-align:left;font-size:90%" |
+{{{incarichi}}} 
+|-{{#if:{{{sito|}}}||class="hiddenStructure noprint"}}
+| colspan="2" style="text-align:center;font-size:90%" |'''[{{{sito}}} Pagina istituzionale]'''
+|}</includeonly><noinclude>
+{{Esoteric}}
+{{man}}
+
+[[Category:Template sinottici - Cariche pubbliche|Italia]]
+</noinclude>
