@@ -1,0 +1,65 @@
+{{U|Template:Infobox carica pubblica|template|maggio 2010}}
+<tt>Il &#123;{'''Template:Carica pubblica'''}}</tt> è utilizzabile per creare tabelle sinottiche utilizzabili nelle voci dedicate agli uomini politici. È in grado di incorporare le informazioni riguardanti diverse cariche (fino a 11) ricoperte dalla stessa persona nel corso della sua carriera.
+Va posto prima del {{tl|Bio}} o comunque dell'incipit e, se presente, del {{tl|Membro delle istituzioni italiane}}.
+
+Di seguito alcuni esempi di utilizzo
+
+== Esempi ==
+
+=== Primo ministro britannico ===
+{{Primo Ministro
+| prefisso onorifico = [[The Right Honourable]]
+| nome               = Robert Walpole
+| suffisso onorifico = [[Conte di Orford]], <small>[[Ordine della Giarrettiera|KG]], [[Ordine del Bagno|KB]], [[Privy Council|PC]]
+| immagine           = robertwalpole.jpg
+| didascalia         = ritratto di [[Nathaniel Dance-Holland|Nathaniel Dance]]
+| carica             = [[Primo Ministro del Regno Unito|Primo Ministro di Gran Bretagna]]
+| mandatoinizio      = [[4 aprile]] [[1721]]
+| mandatofine        = [[11 febbraio]] [[1742]]
+| monarca            = [[Giorgio I di Gran Bretagna|Giorgio I]]
+| predecessore       = carica inesistente
+| successore         = [[Spencer Compton, Primo conte di Wilmington|Conte di Wilmington]]
+| carica2            = [[Cancelliere dello Scacchiere]]
+| mandatoinizio2     = [[3 aprile]], [[1721]]
+| mandatofine2       = [[12 febbraio]], [[1742]]
+| monarca2           = [[Giorgio I di Gran Bretagna|Giorgio I]]
+| predecessore2      = [[John Pratt]]
+| successore2        = [[Samuel Sandys, 1st Baron Sandys|Samuel Sandys]]
+| mandatoinizio3     = [[12 ottobre]], [[1715]]
+| mandatofine3       = [[15 aprile]], [[1717]]
+| monarca3           = [[Giorgio I di Gran Bretagna|Giorgio I]]
+| predecessore3      = [[Richard Onslow, 1st Baron Onslow|Richard Onslow]]
+| successore3        = [[James Stanhope, 1st Earl Stanhope|James Stanhope]]
+| partito            = [[Whig (Regno Unito)|Whig]]
+| alma_mater         = [[King's College (Cambridge)|King's College]], [[Cambridge]]
+|}}
+<tt><nowiki>
+{{Primo Ministro</nowiki><br /><nowiki>
+| prefisso onorifico = [[The Right Honourable]]</nowiki><br /><nowiki>
+| nome               = Robert Walpole</nowiki><br /><nowiki>
+| suffisso onorifico = [[Conte di Orford]], <small>[[Ordine della Giarrettiera|KG]], [[Ordine </nowiki> </tt><br /><tt><nowiki>del Bagno|KB]], [[Privy Council|PC]]</small></nowiki><br /><nowiki>
+| immagine           = robertwalpole.jpg</nowiki><br /><nowiki>
+| didascalia         = ritratto di [[Nathaniel Dance-Holland|Nathaniel Dance]]</nowiki><br /><nowiki>
+| carica             = [[Primo Ministro del Regno Unito|Primo Ministro di Gran Bretagna]]</nowiki><br /><nowiki>
+| mandatoinizio      = [[4 aprile]] [[1721]]</nowiki><br /><nowiki>
+| mandatofine        = [[11 febbraio]] [[1742]]</nowiki><br /><nowiki>
+| monarca            = [[Giorgio I di Gran Bretagna|Giorgio I]]</nowiki><br /><nowiki>
+| predecessore       = carica inesistente</nowiki><br /><nowiki>
+| successore         = [[Spencer Compton, Primo conte di Wilmington|Conte di Wilmington]]</nowiki><br /><nowiki>
+| carica2            = [[Cancelliere dello Scacchiere]]</nowiki><br /><nowiki>
+| mandatoinizio2     = [[3 aprile]], [[1721]]</nowiki><br /><nowiki>
+| mandatofine2       = [[12 febbraio]], [[1742]]</nowiki><br /><nowiki>
+| monarca2           = [[Giorgio I di Gran Bretagna|Giorgio I]]</nowiki><br /><nowiki>
+| predecessore2      = [[John Pratt]]</nowiki><br /><nowiki>
+| successore2        = [[Samuel Sandys, 1st Baron Sandys|Samuel Sandys]]</nowiki><br /><nowiki>
+| mandatoinizio3     = [[12 ottobre]], [[1715]]</nowiki><br /><nowiki>
+| mandatofine3       = [[15 aprile]], [[1717]]</nowiki><br /><nowiki>
+| monarca3           = [[Giorgio I di Gran Bretagna|Giorgio I]]</nowiki><br /><nowiki>
+| predecessore3      = [[Richard Onslow, 1st Baron Onslow|Richard Onslow]]</nowiki><br /><nowiki>
+| successore3        = [[James Stanhope, 1st Earl Stanhope|James Stanhope]]</nowiki><br /><nowiki>
+| partito e coalizione  = [[Whig (Regno Unito)|Whig]]</nowiki><br /><nowiki>
+| alma_mater         = [[King's College (Cambridge)|King's College]], [[Cambridge]]</nowiki><br /><nowiki>
+|}}
+</nowiki></tt>
+
+<noinclude>[[Category:Manuali dei template|{{PAGENAME}}]]</noinclude>
