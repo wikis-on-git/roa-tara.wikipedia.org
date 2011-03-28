@@ -1,0 +1,222 @@
+{{TOCright Aiuto}}
+Per scrivere o modificare una voce di [[Wikipedia]], tutti ci sentiamo di dovere seguire alcune regole generali, in modo che il nostro lavoro non divenga semplice e confusa accozzaglia di vocaboli, bensì un'ordinata collezione di concetti. Per questo sono state create delle [[Wikipedia:Pagine di servizio|pagine di servizio]] e di aiuto (vedi [[Help:Aiuto]] e [[Help:Guida essenziale]]) che intendono aiutare a far crescere i nostri contenuti in modo organico, coerente, leggibile.
+
+== Regole per un lavoro comune ==
+L'osservanza di un minimo di regole che ci diamo è uno dei doveri primari del buon [[Wikipedia:wikipediani|wikipediano]]. Non si potrebbe, del resto, pretendere che il lettore possa ri-analizzare ad ogni voce lo stile e l'organizzazione dei contenuti, ma raggiungeremo il nostro scopo se la nostra [[enciclopedia]] avrà una sua leggibilità, una sua omogeneità e dunque una sua personalità autonoma (rispetto ad altre trattazioni, anche cartacee) che ne consenta l'immediata riconoscibilità.
+
+Sono paroloni, questi, che si riassumono molto facilmente in poche tracce. Ragione di più per conoscerle e praticarle.
+
+Quanto allo stile che una voce debba seguire, c'è un '''[[Help:manuale di stile|manuale di stile]]''' che vi invitiamo a conoscere (ed a far conoscere ai nuovi wikipediani).
+
+== Principi generali ==
+
+* Prima di tutto, fai una '''[[Help:Ricerca|ricerca]]''' per verificare se la voce è già presente su questa Wikipedia. Se è già presente una voce che tratta l'argomento migliora e amplia quella, non creare pagine che sono "doppioni" e che dovranno poi essere [[Wikipedia:Pagine da unire|unite]]. (allo stesso modo se devi scrivere una voce breve su un argomento molto specifico, è di solito preferibile scriverla come [[Help:Sezione|sezione]] di una voce che tratta più in generale quell'argomento)
+* È decisamente consigliabile iniziare una pagina da un '''[[Help:Wikilink|link]] esistente''' (uno dei "link rossi" che puntano a voci ancora non presenti nell'enciclopedia; vedere oltre per maggiori approfondimenti).
+* Ricorda di '''stabilire un contesto''', scrivendo, ad esempio, una breve introduzione all'inizio della nuova voce. Non scrivere "Questo era il suo terzo romanzo...", perché ''tu'' potresti aver seguito il link dalla voce dedicata al famoso scrittore X, ma gli altri lettori potrebbero essere giunti nella pagina partendo da un punto qualunque.
+* Consulta le '''[[Help:Convenzioni di nomenclatura|convenzioni di nomenclatura]]''' prima di dare un titolo alla nuova voce. Un nome corretto assicura che la voce verrà linkata dalle altre voci ed eviterà di doverla rinominare.
+*:Nel caso il titolo fosse già utilizzato da un argomento omonimo (ad esempio se esistesse già una pagina dedicata a Mercurio (il pianeta) e tu volessi scrivere una voce riguardante il mercurio (l'elemento chimico) o Mercurio (la divinità) ), vedi [[Help:Disambigua|questa pagina d'aiuto]]
+* Inizia con una frase completa, non con una definizione da dizionario, '''evidenziando''' la frase o la parola del titolo così come avviene nelle altre pagine.
+* Ricerca nel testo che hai scritto altre voci di particolare rilevanza ed evidenziale racchiudendole tra doppie parentesi quadre (lo puoi fare con calma anche dopo aver creato la voce, cliccando su "[[Help:Modifica|modifica]]").
+* Non dimenticarti che un'enciclopedia dev'essere scritta in terza persona: ''Io'' non sarebbe [[NPOV]]; ''Tu'' non renderebbe enciclopedico lo scritto, che sarebbe come un libro scolastico.
+* Possibilmente fornisci spunti per chi possa successivamente migliorare e ampliare la voce (se non puoi farlo subito tu stesso). Ad esempio puoi cercare se una voce più ampia e con maggiori informazioni sia presente o su una Wikipedia in altra lingua (vedi [[#Operazioni_di_alta_scuola|paragrafo dettagliato]]).
+=== Uso dei modelli di voce ===
+Uno dei principali canoni di Wikipedia è l'organizzazione dei contenuti per modelli, da applicarsi quando vi siano voci riconducibili a caratteristiche comuni (e quindi degne di essere trattate in modo analogo). Così accade per le voci riguardanti gli [[Progetto:Cronologia/Anno|anni]], i [[Wikipedia:Modello di voce - Decennio|decenni]], i giorni dell'anno, le [[Wikipedia:Modello di voce - Biografia|biografie]], per gli elenchi, per gli [[Wikipedia:Schede/Elementi Chimici|elementi chimici]] e per tante altre categorie di concetti. 
+Seguire un modello comune per voci inerenti concetti appartenenti ad una medesima categoria, contribuisce ad aumentare la coerenza e la leggibilità di tali voci.
+
+I modelli di voce sono delle convenzioni, ciò significa che non sono sempiterni ed immutabili, ma possono essere modificati a seguito di discussione. Fatta questa debita premessa, fino a che in [[Help:It.wiki|It.wiki]] non si raggiunga un [[Wikipedia:Consenso|consenso]] su come debbano mutare, è opportuno rispettarli, appunto come convenzione.
+
+Ci sono già dei modelli disponibili nella pagina [[Help:Schede]].
+
+Altri sono in preparazione. Ovviamente, nella prima stesura di questi modelli si è avuto riguardo a quanto già precedentemente concepito nella Wiki inglese, anche per una ragione di analogia: il progetto, anche se multilingue, è unico.
+
+== Modi per cominciare una nuova pagina ==
+
+# Iniziare una pagina da un link esistente
+# Iniziare una pagina modificando l'[[URL]] (cioè scrivendo l'indirizzo <nowiki>http://it.wikipedia.org/wiki/titolo della mia voce</nowiki>)
+# Iniziare una pagina dalla [[Wikipedia:Pagina delle prove|pagina delle prove]] (cioè inserendo nella stessa un [[Help:Wikilink|wikilink]] alla voce che voglio scrivere)
+
+=== Iniziare una pagina da un link esistente ===
+
+È possibile iniziare dal link al titolo della nuova pagina. Mentre stai leggendo una voce di Wikipedia, avrai notato alcuni link cliccabili a voci non ancora scritte (come questo: <font color="red"><u>Esempio di titolo di voce</u></font> ''n.b.: questo non è un link funzionante!''). I collegamenti alle pagine non ancora scritte sono in rosso (se sei [[Help:Login|loggato]] puoi cambiarlo in un "?" nelle [[Help:Preferenze|preferenze]]). Cliccando sul link, arrivi ad una pagina che dice:
+<div style="border margin-bottom: 5px; background:#ffffff; border: 1px solid #aaaaaa; padding:0.5em;">
+'''Wikipedia non ha ancora una voce con questo nome.'''
+* Per scrivere la voce, utilizza il campo di testo qui sotto ('''<span style="color:red">se non sei esperto, [[Help:Benvenuto|clicca qui]]</span>''' oppure '''[[Wikipedia:Richieste di nuove voci|richiedi la creazione della voce]]'''). Quando hai scritto il testo, premi il bottone "Salva la pagina". Il tuo contributo sarà visibile immediatamente. Se vuoi solo fare un esperimento, usa la '''[[Wikipedia:Pagina delle prove|pagina per le prove]]'''.
+</div>
+
+Adesso puoi semplicemente iniziare a scrivere la tua voce nella casella di testo. Quando hai finito, cliccando su ''Visualizza anteprima'', puoi controllare il risultato del tuo lavoro, e vedere, tramite la schermata di [[Help:Anteprima|anteprima]], se hai fatto degli errori. Poi clicca su ''Salva la pagina'' per salvare ciò che hai scritto (è buona cosa scrivere anche l'[[Help:Oggetto|oggetto della modifica]], in questo caso puoi scrivere semplicemente: "ho creato una voce nuova").
+
+=== Iniziare una pagina modificando l'URL===
+
+Uno dei modi più semplici per creare una nuova pagina è copiare un indirizzo simile a quello sotto, nella barra degli indirizzi del tuo browser:
+
+:<code><nowiki>http://it.wikipedia.org/wiki/Titolo_di_esempio</nowiki></code>
+
+'''rimpiazzando "Titolo_di_esempio" con il nome che vuoi dare alla tua voce''', gli underscore (<tt> _ </tt>) corrispondono agli ''spazi''. 
+
+Ad esempio, per creare una voce su Mario Rossi, digita:
+
+:<code><nowiki>http://it.wikipedia.org/wiki/Mario Rossi</nowiki></code>
+
+
+Questo aprirà una pagina che dice:<br />
+<div id="BoxTrasferimento" style="background: #F9F9F9; margin-top: 1em; padding: 1em; border: 1px solid #ccc; border-right: 2px solid #ccc; border-bottom: 2px solid #ccc">
+<div align=center>
+'''Wikipedia non ha ancora una voce con questo nome'''
+</div>
+{| align=right style="float:right; background:transparent; border:none; font-size:90%"
+|Cerca ''Mario Rossi'':<br/>
+:nella Wikipedia in inglese<br/>
+:nella Wikipedia in tedesco<br/>
+:nella Wikipedia in francese<br/>
+:nella Wikipedia in svedese<br/>
+:nella Wikipedia in polacco<br/>
+:nella Wikipedia in olandese<br/>
+:nella Wikipedia in portoghese<br/>
+:nella Wikipedia in spagnolo<br/>
+|}
+*  [[Image:Nuvola apps ksig.png|20px|Penna]] Per creare la voce, '''modifica questa pagina'''. <span style="color:red;">'''Se non sei esperto, leggi [[Help:Benvenuto|qui]]'''</span>.
+* [[Image:Gnome-searchtool.svg|20px|Lente]] [[Speciale:Search/{{PAGENAME}}|Cerca]] ''Mario Rossi'' tra le altre voci di Wikipedia.
+* [[Image:Nuvola apps fonts.png|20px|Lettere]] Consulta la lista delle voci che cominciano con Mario Rossi.
+* [[Image:Commons-logo.png|20px]] [[:commons:Special:Search/{{PAGENAME}}|Cerca]] ''Mario Rossi'' tra i file di [[:commons:|Commons]].
+* [[Image:Nuvola apps download manager.png|20px]] Controlla quali pagine puntano a ''Mario Rossi''.
+* [[Image:Nuvola apps iconthemes.png|20px]] [[Wikipedia:Richieste di nuove voci|Richiedi]] la creazione della voce.
+* [[Image:Wiktprintable_without_text.svg|20px]] Se vuoi inserire ''Mario Rossi'' come voce da dizionario, inseriscila nel [[wikt:|Wikizionario]].
+* [[Image:Wikinews-logo.png|20px]] Se vuoi inserire ''Mario Rossi'' come articolo di giornale, inseriscila su [[n:|Wikinotizie]].
+* [[Image:Wikiquote-logo.svg|20px]] Se vuoi inserire citazioni di o su ''Mario Rossi'', inseriscile su [[q:|Wikiquote]].
+* [[Image:Wikiversity-logo.svg|20px]] Se vuoi inserire ''Mario Rossi'' come lezione universitaria, inseriscila su [[v:|Wikiversità]].
+</div>
+
+A questo punto clicca sul link ''modifica questa pagina'' e sei già pronto a scrivere la tua voce.
+L'attenzione all'accuratezza e alla [[Help:Punto di vista neutrale|neutralità]] dei dati che inserisci sarà molto apprezzata.
+
+'''Tuttavia''', usando questo metodo si rischia di creare una voce ''orfana'' -- cioè senza collegamenti entranti da nessuna altra voce (vedi [[Help:Appondene aqquà]]). Gli orfani non sono una buona cosa -- tutti le voci dovrebbero avere dei collegamenti. Questo significa che sarebbe stato meglio se tu avessi iniziato mettendo un [[Help:wikilink|wikilink]] nel posto giusto ;-)
+
+=== Iniziare una pagina dalla pagina delle prove ===
+
+Un altro metodo è usare la [[Wikipedia:Pagina delle prove|pagina delle prove]]!
+
+* Modifica la pagina per le prove, poi crea un nuovo link utilizzando una parola o una stringa del tuo nuovo testo.
+* Visualizza l'anteprima per controllare se il tuo link indirizza a una pagina già esistente (link azzurro) oppure nuova (link rosso) e salva.
+* Adesso puoi creare/modificare la tua nuova pagina cliccando sul link che hai appena creato.
+
+''Nota'': il contenuto della pagina delle prove non è stabile (viene periodicamente cancellata), quindi ricordati di salvare un bookmark alla pagina che hai creato, per continuare a modificarla in futuro. Se sei un utente registrato, apparirà tra i ''"Miei contributi"'' nella Quickbar. <br />
+Inoltre, anche le voci create partendo dalla pagina delle prove non sono immuni dal '''tuttavia''' spiegato nel paragrafo precedente. Puoi rimediare ''a posteriori'' trovando alla tua nuova voce dei parenti adottivi: modifica una voce già esistente, di argomento affine, inserendovi un collegamento alla tua.
+
+=== Inserire materiali in deposito ===
+Se hai a disposizione materiale '''libero da copyright''', che potrebbe tornar utile per la compilazione di voci dell'enciclopedia e lo vuoi mettere a disposizione sotto [[GNU Free Documentation License|licenza GNU FDL]], lo puoi accantonare provvisoriamente in una sottopagina del [[Wikipedia:Deposito]]. Questo materiale potrà essere impiegato in un secondo tempo, da te o da altri utenti, per la redazione di voci o per l'integrazione di quelle già esistenti.
+
+== Perché la mia pagina è stata cancellata? ==
+
+Spesso ci si avvicina a Wikipedia con le migliori intenzioni, si scrive una nuova voce, e dopo qualche ora la si vede cancellata oppure stravolta. Le ragioni di questa "cattiveria" possono essere tante. Ecco le principali:
+
+# la voce è promozionale (stai facendo pubblicità a te stesso o un'altra persona/ente/struttura/azienda...)
+# la voce è stata copiata da un altro sito o da una enciclopedia (va benissimo usarli come fonti, ma non si può far finta che il diritto d'autore non esista; e la conoscenza si può diffondere anche senza copiare pedissequamente)
+# la voce non è considerata di argomento enciclopedico (ad esempio, perché parla di un personaggio sconosciuto, oppure perché è una tua ricerca originale - che non è ammessa nelle [[Wikipedia:Niente ricerche originali|regole di Wikipedia]])
+# la voce è davvero troppo corta (diciamo una riga giusto se inizi a mettere tanti spazi tra una parola e l'altra)
+
+Questo non significa che una nuova voce debba essere lunga chissà quanto: una voce di poche righe, ma che dà le informazioni fondamentali in maniera chiara, è indubbiamente utile. In gergo la si chiama ''[[Help:Abbozzo|abbozzo]]'' o ''stub'' e viene indicata mettendo all'inizio una riga con scritto <span style="background:#ddffdd"><nowiki>{{S}}</nowiki></span>, che verrà automaticamente trasformata in un invito rivolto agli esperti per ampliarla.
+
+== Un esempio che non va ==
+
+Passiamo a un po' di pratica: ecco un esempio di voce (in questo caso, '''gabella''') che così com'è non è accettabile in Wikipedia.
+
+<div style="border:3px solid #ffdd44; background:#ffeedd; padding:0.5em; margin-bottom:1em;">
+Nel passato, spec. in periodo medievale, imposta, tassa in genere; con sign. particolare, 
+tributo che si doveva pagare a un comune con cinta daziaria, o a uno Stato, per merci e 
+generi di consumo che vi si introducevano; l'ufficio che era preposto alla riscossione di questo 
+tributo e il luogo dove questo si trovava.
+
+Gianni Rossi
+</div>
+
+Cos'ha che non va questa voce? Tante cose.
+
+# Innanzitutto, con buona probabilità '''è copiata''' di sana pianta da un testo; le abbreviazioni ne sono un segnale inequivocabile. Quindi, essendo coperta dal diritto d'autore, non può stare qua. Una nota sulle abbreviazioni: è vero che nelle enciclopedie cartacee vengono usate, ma noi non dobbiamo risparmiare carta, quindi possiamo permetterci il lusso di scrivere le parole per intero.
+# In secondo luogo, questa è '''la definizione della parola'''. Wikipedia è un'enciclopedia, non un dizionario: per le definizioni delle parole, c'è il progetto parallelo [[:wikt:Pagina principale|Wikizionario]].
+# Le voci poi '''non devono essere [[Help:Uso della firma|firmate]]'''. Per ogni voce viene automaticamente mantenuto un elenco a parte con chi ha fatto cosa (la ''[[Help:Cronologia|cronologia]]''); nelle discussioni è buona norma firmarsi sempre (lo si fa in maniera facile scrivendo quattro tildi, <span style= "background:#ddffdd" ><nowiki>~~~~</nowiki></span>; quando modifichi una pagina hai una finestrella con tutti i caratteri speciali, tra cui queste tildi).
+# Infine non vengono osservate alcune '''[[Help:Manuale di stile|convenzioni di stile]]'''. Ogni enciclopedia e ogni sito ha il suo stile; anche noi non facciamo eccezione, anche se abbiamo il problema che non c'è nessuno che controlla lo stile e quindi dobbiamo fare da soli.
+
+== Modifiche facili ==
+
+Le prime modifiche che si possono fare riguardano appunto lo stile di presentazione della voce, e sono le più facili, visto che non richiedono praticamente ulteriori ricerche. 
+
+Le voci in Wikipedia dovrebbero iniziare con una breve definizione di due o tre righe (che magari rimarrà per un po' di tempo l'unico testo, se abbiamo uno stub); bisogna indicare il termine della definizione '''in neretto''' (lo si fa racchiudendolo fra tre apici: <span style="background:#ddffdd"> <nowiki>'''gabella'''</nowiki></span>); e infine bisogna cercare di collegare la voce ad altre di argomento più generale già presenti nell'enciclopedia. Per vedere se una parola c'è già, puoi usare la casella di ricerca che trovi a sinistra. In questo caso le parole chiave sono "imposta" e "medievale", che corrisponde a "medioevo"; nel primo caso il collegamento si fa scrivendo la parola tra due parentesi quadre, <span style="background:#ddffdd"> <nowiki>[[imposta]]</nowiki></span>, mentre nel secondo caso si scrivono il nome della voce che si trova nell'enciclopedia e quello della parola che vogliamo far vedere, separati da una barra verticale, <span style="background:#ddffdd"> <nowiki>[[medioevo|medievale]]</nowiki></span>). 
+
+Le informazioni ulteriori, dopo la definizione, si possono aggiungere lasciando una riga vuota; in questo modo il sistema sa di dovere iniziare un nuovo paragrafo. Infine, per evitare l'accusa di violazione del copyright, occorre [[Help:Riformulare un testo|riformulare con parole nostre il testo]]. Il risultato diventa così 
+
+<div style="border:3px solid #eeffee; background:#f8fff8; padding:0.5em; margin-bottom:1em; font-family:monospace;">
+<nowiki>{{S}}</nowiki>
+
+<nowiki>La '''gabella''' è un'[[imposta]], o in genere una tassa, utilizzata specialmente nel periodo [[medioevo|medievale]]; in particolare era un tributo che si doveva pagare a un comune con [[cinta daziaria]], o a uno Stato, quando si introducevano merci e generi di consumo.</nowiki>
+
+<nowiki>Il termine è anche passato a indicare l'ufficio che era preposto alla riscossione del tributo e il luogo dove questo si trovava, oltre che indicare in generale una tassa considerata iniqua.</nowiki>
+</div>
+
+che verrà visualizzato come 
+<div style="border:3px solid #ffdd44; background:#ffeedd; padding:0.5em; margin-bottom:1em;">
+<div class="toccolours itwiki_template_avviso rad" style="margin-bottom: 0.5em">
+[[Image:Stubby.jpg|left|Stubby|40px]]
+Questa voce è solo un [[Help:Abbozzo|abbozzo]]. [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} Modificala] secondo le [[Help:Manuale di stile|convenzioni di Wikipedia]].
+</div>
+La '''gabella''' è un'[[imposta]], o in genere una tassa, utilizzata specialmente nel periodo [[medioevo|medievale]]; in particolare era un tributo che si doveva pagare a un comune con [[cinta daziaria]], o a uno Stato, quando si introducevano merci e generi di consumo.
+
+Il termine è anche passato a indicare l'ufficio che era preposto alla riscossione del tributo e il luogo dove questo si trovava, oltre che indicare in generale una tassa considerata iniqua.
+</div>
+
+== Operazioni di alta scuola ==
+
+L'esempio mostrato qui sopra è già più che sufficiente; ma se sei stato preso da sacro furore, puoi ancora aggiungere nuove informazioni.
+
+Tutte le voci dovrebbero infatti avere almeno una '''categoria''' di appartenenza; andando a vedere [[:Category:Enciclopedia]] e scendendo in [[:Category:Scienze sociali]], trovi [[:Category:Diritto]] che potrebbe andare bene (per la precisione, esiste anche la Category: ''Imposta'', ma non è così facile trovarla!) Puoi allora aggiungere in fondo alla voce una riga <span style="background:#ddffdd"> <nowiki>[[Category:Diritto]]</nowiki></span>, che sarà mostrata al fondo della pagina.
+
+Se sai le lingue, puoi anche verificare se la voce è già trattata in una Wikipedia di un'altra lingua: nel nostro caso, abbiamo il francese ''Gabelle du sel'', e l'inglese e il tedesco ''Gabelle''. Si possono allora sfruttare le informazioni di quelle versioni per ampliare la voce; ma comunque è sempre possibile aggiungere i puntatori alle versioni in altre lingue, mettendoli in fondo alla pagina (dopo le categorie), uno per riga con questo formato: <span style="background:#ddffdd"> <nowiki>[[fr:Gabelle du sel]]</nowiki></span>, dove il codice della lingua (nel nostro caso ''fr:'') è quello del nome della wikipedia corrispondente (fr.wikipedia.org).
+
+Sfruttando le informazioni delle altre wikipedie, puoi ad esempio scoprire l'etimologia del termine, e notare come il suo uso principale sia stato in Francia; aggiungendo le informazioni storiche al riguardo, puoi così arrivare a una voce completa come questa:
+
+<div style="border:3px solid #ffdd44; background:#ffeedd; padding:0.5em; margin-bottom:1em;">
+Il termine '''gabella''' (dall'[[lingua araba|arabo]] dialettale ''gabēla'', variante di ''qabāla'', passando per il [[Lingua latina|latino]] medievale ''gabulum'') era utilizzato originariamente in [[Francia]] per indicare le tasse su merci di qualunque tipo. Con il passare del tempo il significato si restrinse gradualmente fino a indicare l'imposta sul [[sale]]. La '''gabella emigrationis''' era la tassa corrisposta da un emigrante per il capitale che portava con sé. La '''gabella hereditatis''' era la tassa dovuta per mandare all'estero un dono o un'eredità.
+
+Con il passare del tempo l'imposta sul sale divenne una delle più odiate, oltre che meno equamente distribuite, tasse del Paese. Nonostante la disapprovazione di numerosi riformatori, fu solo nel [[1790]] che l'imposta venne abolita.
+
+La gabella venne riscossa per la prima volta durante il regno di [[Filippo IV di Francia|Filippo IV]] come sostegno finanziario, per poi diventare un'istituzione permanente sotto [[Carlo V di Francia|Carlo V]]. Ogni persona al di sopra degli otto anni era tenuta ad acquistare ogni settimana una minima quantità di sale ad un prezzo imposto; la tassa consisteva quindi nel provento di un [[monopolio]] di stato. Quando la gabella venne introdotta per la prima volta, fu imposta a tutte le province della Francia allo stesso modo, ma per un lungo periodo storico variò in modo considerevole fra le varie province, a seconda delle esenzioni che erano state accordate nel tempo.
+
+</div>
+
+== Ulteriori informazioni ==
+
+Durante la creazione di nuove pagine, potrebbe essere una buona idea passare il testo a un correttore ortografico automatico, prima di salvarlo su Wikipedia. Potresti trovare più comodo scrivere la voce usando un editor di testo e poi copiarla su Wikipedia. Inserire argomenti nuovi di zecca è un ottimo modo per aiutare Wikipedia ad accrescere le sue dimensioni (e la sua profondità).
+
+'''Nota:''' Wikipedia è un'enciclopedia a [[contenuto aperto]]. Tu stai contribuendo a un database di informazioni gratuito e di pubblico utilizzo. Sii consapevole che automaticamente rilasci ogni tuo contributo con licenza [[GNU Free Documentation License]]; puoi fare questo solo con i materiali per cui detieni il copyright (nello specifico, se li hai creati tu), o se il materiale è di pubblico dominio.  Vedi [[Help:Copyright]] per i dettagli. '''Non usare MAI materiale coperto da diritto d'autore (copyright) in mancanza di espressa autorizzazione.'''
+
+== Voci correlate ==
+{{Percorso_vetrina}}
+* [[Help:Aiuto]]
+* Editing in generale in [[Help:Modifica]]
+* [[Help:FAQ]]
+* [[Help:Convenzioni di nomenclatura]]
+* [[Help:Wikificare]]
+* Il Manuale di stile: [[Wikipedia:Manuale di stile]]
+* Suggerimenti per [[Help:Cosa mettere su Wikipedia|contribuire a Wikipedia]], avere ispirazioni indicazioni e consigli. 
+
+[[Category:Aiuto|Come scrivere una voce]]
+[[Category:Progetto:Coordinamento/Vetrina| ]]
+
+[[als:Hilfe:Neue Seite anlegen]]
+[[ar:مساعدة:إنشاء صفحة جديدة]]
+[[br:Skoazell:Sevel ur bajenn nevez]]
+[[ca:Ajuda:Com iniciar una pàgina]]
+[[de:Hilfe:Neue Seite anlegen]]
+[[en:Help:Starting a new page]]
+[[eo:Helpo:Kiel krei paĝon]]
+[[es:Ayuda:Cómo empezar una página]]
+[[fr:Aide:Comment créer un article]]
+[[ga:Cabhair:Tús a chur le leathanach nua]]
+[[ia:Adjuta:Como crear paginas]]
+[[ja:Help:新規ページの作成]]
+[[ka:დახმარება:ახალი გვერდის შექმნა]]
+[[nl:Help:Nieuwe pagina aanmaken]]
+[[no:Hjelp:Hvordan starte en side]]
+[[pt:Ajuda:Guia de edição/Como começar uma página]]
+[[uk:Довідка:Створення нової сторінки]]
+[[zh:Help:创建新页面]]
+[[zh-min-nan:Help:Khui sin ia̍h]]
