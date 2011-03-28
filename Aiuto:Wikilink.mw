@@ -1,0 +1,140 @@
+{{TOCright Aiuto}}
+I '''wikilink''' sono link, ossia [[Collegamento ipertestuale|collegamenti ipertestuali]], che per agevolare la consultazione di [[Wikipedia]] collegano le une con le altre le diverse pagine dell'enciclopedia (sotto il dominio ''it.wikipedia.org''). Mentre i collegamenti a pagine dello stesso progetto sono detti wikilink (spesso abbreviato in '''wlink'''), i collegamenti diretti alle corrispondenti pagine delle Wikipedie in altre lingue sono detti [[Help:interwiki|interwiki]] e vanno nel ''[[portlet]]'' "Altre lingue" (sta in basso a sinistra, sotto gli strumenti).
+Una pagina che non contiene wikilink è detta [[Help:Glossario#Pagina_senza_uscita|senza uscita]]; una a cui non puntano wikilink [[Help:Pagina orfana|orfana]].
+
+Anche se in linea teorica l'intero progetto di Wikipedia è assimilabile ad un [[ipertesto]], l'attuale ''policy'' in materia, non scritta, ma desumibile da altre pagine, non permette di creare wikilink in maniera indiscriminata; ma indica assieme al [[Wikipedia:buon senso|buon senso]] le seguenti norme/suggerimenti:
+* dovrebbero essere trasformati in wikilink '''solo i termini più significativi per l'argomento''' trattato nella pagina o, più in generale, i termini che presentano interesse o difficoltà (parole straniere, tecnicismi, locuzioni latine...). Evitare l'''overlinking''.
+* un termine può presentarsi diverse volte in una voce, ma il wikilink non va inserito ad ogni ricorrenza, bensì solo una volta, alla prima occasione o quando diventa il tema centrale del discorso; sono ammesse ovviamente eccezioni nelle pagine più lunghe o qualora diventasse scomodo per l'utente risalire al wikilink scorrendo la pagina.
+
+{{vedi anche|Help:Manuale di stile{{!}}manuale di stile}}
+
+== Istruzioni ==
+Per ottenere un wikilink, è sufficiente inserire la parola fra <u>doppie</u> ''parentesi quadre'' '''<nowiki>[[ ]]</nowiki>'''<ref>ATTENZIONE le singole parentesi quadre ('''[ ]''') sono utilizzate per i [[Wikipedia:collegamenti esterni|collegamenti esterni]]</ref> <small>(ALT + GR + è; ALT + GR + +)</small>in questo modo:
+ <span style="color:red">'''<nowiki>[[</nowiki>'''</span>Dante Alighieri<span style="color:red">'''<nowiki>]]</nowiki>'''</span> è l'autore della <span style="color:red">'''<nowiki>[[</nowiki>'''</span>Divina Commedia<span style="color:red">'''<nowiki>]]</nowiki>'''</span>.
+se la parola corrisponderà al titolo esatto della pagina si ottiene:
+:[[Dante Alighieri]] è l'autore della [[Divina Commedia]].
+altrimenti verrà visualizzato un [[Wikipedia:link rosso|link rosso]]
+:[[Dante Arighieri]] è l'autore della [[Divina COMMEDIA]]
+come se la pagina non esistesse ancora. Poiché il click su un link rosso produce l'invito a creare la nuova pagina con quel titolo, talvolta si inseriscono volutamente link rossi come stimolo al completamento dell'enciclopedia.
+
+Se invece il titolo della pagina a cui si vuol fare riferimento è diverso dalla parola che si vuol far comparire nel testo, bisogna procedere nel seguente modo:
+ <tt>[[''<span style="color:green">Titolo della pagina''<span style="color:red">'''{{!}}'''<font grey><span style="color:">testo</span></span></span></font>]]</tt>
+Cioè: fra le parentesi si scrive prima il ''titolo esatto'' della pagina e poi il ''testo'' che si vuole visualizzare come link, separati da una barra verticale (''pipe''): "|" <small>(SHIFT + \)</small>. Ad esempio
+:[[''<span style="color:green">Thomas Mann''<span style="color:red">'''{{!}}'''<span style="color:grey">Thomas</span></span></span>]] e [[''<span style="color:green">Heinrich Mann''<span style="color:red">'''{{!}}'''<span style="color:grey">Mann</span></span></span>]]
+diventano rispettivamente: 
+:[[Thomas Mann|Thomas]] e [[Heinrich Mann|Mann]]
+
+==Wikilink diretti a sezioni e sottosezioni==
+I wikilink possono anche puntare direttamente a [[Help:sezioni|sezioni]] o sottosezioni, identificate dai titoli messi fra <tt><nowiki>== ==</nowiki></tt><ref>Il link è valido per qualsiasi sezione e sottosezione, cioè anche per i titoli individuati da tre o più uguali (=): è sufficiente che il nome della sezione o della sottosezione indicato corrisponda al titolo di una sezione o sottosezione effettivamente presente nella pagina oggetto del link.</ref>; la sintassi è la seguente:
+
+ <tt><nowiki>[[</nowiki>''<span style="color:green">Titolo pagina</span>''<span style="color:red">#</span>''<span style="color:blue">Titolo (sotto)sezione</span>''|<span style="color:grey">Testo</span>]]</tt>
+
+Il '<span style="color:red">#</span>' indica che il testo <u>dopo</u> è proprio il titolo della sezione voluta. Se questo dovesse risultare modificato, o comunque non corrispondente, il wikilink punterà non più direttamente alla sezione, alla pagina come fosse un wikilink qualsiasi.
+
+Dunque
+:<tt><nowiki>[[</nowiki>''<span style="color:green">Dante Alighieri</span>''<span style="color:red">#</span>''<span style="color:blue">Biografia</span>''|<span style="color:grey">Biografia di Dante Alighieri</span>]]</tt>
+
+crea il seguente link [[Dante Alighieri#Biografia|Biografia di Dante Alighieri]] alla sezione "Biografia" della pagina [[Dante Alighieri]].
+
+I wikilink a sezione funzionano anche in caso di [[Help:redirect|redirect]], non dà quindi problemi, al buon funzionamento del link, il fatto che la pagina, a cui si sta linkando, venga eventualmente [[Help:sposta|sposta]]ta ad altro titolo, l'importante è che il titolo di sezione sia presente e che non venga modificato della pagina reindirizzata.
+
+;Avvertenze
+* È bene tenere presente che anche i titoli di sezione sono ''[[case sensitive]]'', la parte di link dopo il cancelletto # deve essere scritta quindi esattamente come il titolo della sezione<ref>Fanno eccezione i marcatori di wikitesto: apici (') e parentesi quadre, che devono invece essere omessi; non fanno eccezione i tag di formattazione come <code><nowiki><sup></sup>; <sub></sub>;</nowiki></code> ecc. che, invece, vanno riportati, anche se sarebbe generalmente preferibile evitarli nei titoli di sezione.</ref>, maiuscola iniziale compresa, pena la non rintracciabilità della sezione.
+
+
+=== Sezioni omonime ===
+
+Se in una pagina sono presenti più sezioni con lo stesso titolo, gli ancoraggi omonimi vengono, dal secondo in poi, automaticamente identificati dal software con numero progressivo, che non sarà effettivamente visibile nel titolo di sezione, ma nell'url andando a cliccare sull'[[Help:indice|indice]] (TOC).
+
+Per puntare, quindi, alla seconda di due (sotto)sezioni con lo stesso titolo basta scrivere:
+
+ <tt><nowiki>[[</nowiki>''<span style="color:green">Titolo pagina</span>''#''<span style="color:blue">Titolo (sotto)sezione''</span> '''<span style="color:red">2</span>'''|<span style="color:grey">Testo</span>]]</tt>
+
+per la terza basta scrivere '''3''', per la quarta '''4''', ecc.
+
+=== Wikilink interno alla pagina stessa ===
+Per puntare direttamente a una sezione che sta nella medesima pagina, basta scrivere così:
+ <tt><nowiki>[[</nowiki><span style="color:red">#</span>''<span style="color:blue">Titolo sezione</span>''<span style="color:red">|</span><span style="color:grey">Testo</span>]]</tt>
+
+Ad esempio
+[[#Istruzioni|Inizio della sezione 'Istruzioni']] e [[#xxxxxx|Sezione inesistente]] puntano entrambi a questa stessa pagina, con risultati diversi.
+
+== Parentesi e piped link ==
+Alcuni titoli hanno delle ''parentesi tonde'' '''( )''', il cui contenuto viene automaticamente nascosto se si aggiunge la barra verticale "|"(SHIFT + \).<br/> Scrivendo
+ <nowiki>[[</nowiki>Europa '''('''astronomia''')'''<span style="color:red">|</span>]]
+il risultato sarà: [[Europa (astronomia)|Europa]]; è quindi equivalente a scrivere <tt><nowiki>[[Europa (astronomia)|Europa]]</nowiki></tt>.
+
+== Suffissazione ==
+Tutte le lettere minuscole unite <u>dopo</u> le parentesi di chiusura "]]" vengono presentate come parte integrante del wikilink,<ref>Ciò è probabilmente dovuto al fatto che il codice di Wikipedia è stato sviluppato pensando particolarmente all'[[lingua inglese|inglese]]. In questa lingua, infatti, il plurale di norma si ottiene aggiungendo il suffisso "-s". Gli sviluppatori hanno, quindi,  progettato il software in modo da facilitare il collegamento alle pagine al singolare, posponendo la "-s" alla parentesi quadra (ad es.: <nowiki>[[car]]s</nowiki>). Ciò spiega anche perché la stessa funzione non è attiva per lettere unite prima della parentesi come prefisso.</ref> in modo che scrivere ''<nowiki>[[italia]]</nowiki>'''''no''' farà visualizzare al software "[[italia]]no", collegamento diretto alla pagina [[Italia]] e non all'aggettivo.
+
+<small>NB.: questo non vale per le lettere poste, anche se unite, <u>prima</u> delle parentesi quadre, che vengono visualizzate come normale testo non linkabile. Ad es.: ri[[tagliare]] (<nowiki>ri[[tagliare]]</nowiki>).</small>
+
+== Maiuscole e minuscole ==
+Con eccezione per la prima lettera, in tutte le restanti lettere del testo il software distingue le [[maiuscolo|maiuscole]] e le [[minuscolo|minuscole]], considerandole come lettere diverse; infatti, come mostrato in precedenza, mentre scrivere [[dante Alighieri]] porta alla stessa pagina di [[Dante Alighieri]], scrivendo [[dante ALIGHIERI]] o anche [[Dante AlighieRI]] si producono dei [[Wikipedia:link rosso|link rossi]].
+
+Stessa cosa vale anche per i titoli dopo i due punti "''':'''", che distinguono il [[Help:namespace|namespace]] della pagina: scrivere [[Wikipedia:bar]] o [[Wikipedia:Bar]] produce il medesimo risultato, perché per le lettere ''<u>subito </u>dopo'' i due punti non si fa distinzione fra Maiuscole e minuscole.
+
+Ricordare però che i wikilink a [[Help:sezioni|sezioni]] (esempio <nowiki>[[Pagina#Sezione]]</nowiki>), se la pagina esiste, appaiono sempre blu anche se il nome della sezione è errato, e che vi è distizione fra maiuscole e minuscole ''anche per la prima lettera'' della sezione.
+
+==Redirect e disambigue==
+{{Nota
+|allineamento = centrale
+|larghezza = 350px
+|titolo = Suggerimento [[Help:Popup|Popup]]
+|contenuto =
+Per la correzione dei '''wikilink errati''' può tornare utile l'utilizzo di [[Help:Popup|PopUp]], disponibile anche utilizzando il [[Wikipedia:monobook.js|monobook modulare]], settato con i seguenti parametri:
+ popupFixRedirs = true;
+ popupWatchRedirredPages = false;
+ popupRedirAutoClick = 'wpSave';
+ popupWatchDisambiggedPages = false;
+}}
+Per diversi motivi può capitare che i wikilink, anche se blu, siano "errati", perché puntano a [[Help:redirect|redirect]] o [[Help:disambigua|pagine di disambiguazione]]. I wikilink, comunemente presenti nel testo, invece non devono <span style="text-decoration: underline">mai </span> puntare a ''pagine di disambiguazione'' ed è preferibile (salvo casi speciali, vedi [[Help:Redirect]]) che puntino direttamente alle pagine interessate anziché passare per un redirect, per diversi ordini di motivi: 
+* perché i [[Speciale:RedirectDoppi|redirect doppi]] non funzionano in modo automatico. Se in una pagina A un wikilink punta ad una pagina B che è redirect, questa potrebbe a sua volta puntare ad una pagina C che è a sua volta un redirect ad una pagina D. Clickando nella pagina A sul wikilink ''non'' si verrà portati automaticamente alla pagina D. <small>(Non è sufficiente fare attenzione che il wikilink punti ad un redirect che al momento non sia doppio, perché c'è il rischio che in futuro, in seguito a [[Help:Sposta|spostamento]] del redirect con [[Wikipedia:Redirect#Redirect automatico|creazione automatica di un nuovo redirect]], il wikilink punti ad un redirect doppio).</small>
+* perché le pagine di disambigua sono troppo generiche e sono state create allo scopo di smistare i lettori nella ricerca delle pagine quindi dovrebbero essere [[Speciale:Disambigue|orfane]]. I wikilink alle disambigue vanno quindi evitati, preferendo i link alle pagine specifiche per il significato in questione.
+* [[Help:Modifiche correlate|"Modifiche correlate"]] di una pagina visualizza le modifiche apportate alle pagine linkate ''direttamente'' da quella pagina. È importante notare che nel caso la voce contenga wikilink ad un ''[[Help:Redirect|redirect]]'', lo strumento "Modifiche correlate" mostrerà solo le modifiche effettuate alla pagine del redirect e non le modifiche effettuate alla voce a cui a sua volta il redirect punta. Lo stesso dicasi per le ''[[Help:Disambigua|disambigue]]''.
+
+In [[Help:Redirect#Correggi solo i collegamenti a redirect inutili|alcuni casi]] i redirect non vanno comunque modificati.
+
+== Suggerimenti di stile ==
+Il [[Help:manuale di stile|manuale di stile]] prescrive che certe parti di testo come titoli di opere, date o acronimi siano formattati secondo particolari [[Help:markup|markup]]; in questi casi per questioni di praticità per gli altri utenti tutti i segni destinati alla formattazione del markup devono essere messi all'esterno delle parentesi quadre.<br/>Per esempio così come per ottenere il link ''[[corsivo]]'' si possa scrivere, in linea teorica, sia
+:<tt><nowiki>[[Scrittura corsiva|</nowiki><span style="color:red"><nowiki>''</nowiki></span>Corsivo<span style="color:red"><nowiki>''</nowiki></span>]]</tt>
+che
+:<tt><span style="color:red"><nowiki>''</nowiki></span><nowiki>[[Scrittura corsiva|Corsivo]]</nowiki><span style="color:red"><nowiki>''</nowiki></span></tt>
+ottenendo il medesimo risultato, soltanto il secondo modo di procedere è quello corretto perché in occasione di modifica non crea inutili lungaggini agli utenti e interferenze con altri strumenti di correzione automatici.
+
+Tenete presente inoltre che anche le parti del testo come [[punteggiatura]] (''.:,;'!?'') e altre particelle o parole - generalmente [[articolo (grammatica)|articoli]] e [[Preposizione|preposizioni]] - devono rimanere esterni al link se non costituiscono parte integrante del titolo dell'opera o dell'appellativo.
+
+Per esempio è scorretto scrivere un link come "[[Divina Commedia|la Divina Commedia]]", anche se punta alla pagina corretta, in quanto l'articolo "''la''" non fa parte del titolo dell'opera dantesca.
+
+Come è già stato detto i wikilink devono puntare direttamente a una pagina, per cui si consiglia di controllare prima di effettuare il salvataggio della pagina, che collegamenti creati siano corretti; questo controllo può essere fatto attraverso la visualizzazione dell'[[Help:anteprima|anteprima]], oppure mediante [[JavaScript]] che consentono un [[anteprima|live preview]] (come [[Wikipedia:Monobook.js/QuickEdit.js|QuickEdit]] e [[Wikipedia:popup|PopUp]]), con cui è possibile verificare in anticipo la reale destinazione dei link; in questo può agevolare un [[Browser]] che consenta la navigazione per schede<ref>Attualmente presente sia in [[Mozilla Firefox|Firefox]] che nell'ultimo [[Internet_Explorer#Novità della versione 7.0|Internet Explorer]]</ref>, o PopUp che consente di prendere visione dalla stessa pagina del contenuto delle pagine collegate.
+
+Si noti che le pagine totalmente prive di wikilink sono chiamate "[[Help:Glossario#P|Pagine senza uscita]]" e sono deprecate.
+
+==Wikilink ad altri [[Help:Namespace|namespace]]==
+I wikilink così come sono stati descritti sino ad ora conducono esclusivamente alle pagine dell'enciclopedia, del cosiddetto namespace principale; Wikipedia ha però altri diversi namespace di servizio (Wikipedia:, Utente:, Progetto:, ecc...), per dirigere un wikilink verso queste pagine la sintassi è la seguente:
+
+ <tt><nowiki>[[</nowiki>''<span style="color:brown">NameSpace</span>''''':'''''<span style="color:green">Titolo pagina</span>''<span style="color:red">|</span>]]</tt>
+
+*Il nome del namespace è quello così come viene visualizzato nell'[[URL]] della pagina
+*I due punti (''':'''), invece definiscono che quello dopo è il titolo della pagina
+*Il ''pipe'' "<span style="color:red">|</span>" serve per indicare di nascondere nella visualizzazione la parte riguardante al namespace così che 
+*:<nowiki>[[Wikipedia:Bar|]]</nowiki> è equivalente a scrivere <nowiki>[[Wikipedia:Bar|Bar]]</nowiki>
+
+=== Link a categorie, immagini ===
+Alcuni namespace come ''[[Help:Categoria|Categoria]]'' o ''[[Help:immagini|Immagine]]'' si comportano in modo diverso dagli altri, così se messi tra doppie parentesi quadre non esitano un normale wikilink, bensì inseriscono, nel primo caso, la pagina in una determinata categoria, e nel secondo inseriscono nella pagina una immagine; in questi casi per ottenere dei comuni wikilink diretti alla categoria o all'immagine, occorre anteporre al nome del namespace il segno dei due punti (''':''')
+ 
+ <tt><nowiki>[[</nowiki>'''<span style="color:red">:</span>'''''<span style="color:brown">Categoria</span>''''':'''''<span style="color:green">Nome categoria</span>''<span style="color:red">|</span>]]</tt>
+
+ <tt><nowiki>[[</nowiki>'''<span style="color:red">:</span>'''''<span style="color:brown">Immagine</span>''''':'''''<span style="color:green">Nome immagine</span>''<span style="color:red">|</span>]]</tt>
+
+== Note ==
+<references/>
+
+== Voci correlate==
+*[[Help:Link]]
+*[[Help:Appondene aqquà]]
+*[[Help:Wikificare]]
+*[[Wikipedia:Elenchi generati offline/Link a sezioni inesistenti]] (Contiene vari suggerimenti su come utilizzare e correggere i link a sezioni)
+
+[[category:Aiuto|Wikilink]]
+[[en:Wikilink#Wikilinks]]
