@@ -1,0 +1,48 @@
+{{sidebar}}
+{{TOCright Aiuto}}
+Il '''[[Special:WhatLinksHere|puntano qui]]''' è una pagina speciale che permette vedere tutte le pagine di wikipedia contenenti collegamenti diretti a una determinata pagina. Da ogni pagina è disponibile un accesso diretto attraverso il collegamento ''Puntano qui'' nel menù ''strumenti'' della barra laterale sinistra (''sidebar'').
+
+Per ciascuna pagina vengono mostrate:
+* '''''[[Help:inclusione|inclusioni]]''''', cioè pagine che includono il contenuto di quella pagina
+* '''''Pagine linkanti''''', cioè contenenti [[Help:wikilink|wikilink]] diretti a quella pagina
+* '''''[[Help:Redirect|Redirect]]''''', cioè pagine che reindirizzano a quella pagina
+
+I ''redirect'' e le ''inclusioni'' vengono indicate tra parentesi accanto ai titoli della pagina, e per ciascun viene poi indicata anche la lista di pagina che puntano a quella pagina attraverso di esso.
+
+Il link "''← collegamenti''" conduce sempre al "puntano qui" di ciascuna pagina indicata.
+
+== Filtraggi ==
+
+;Namespace
+L'elenco della pagine può essere filtrato in base al [[Help:namespace|namespace]] col menu a tendina; di default è prevista la visualizzazione di tutti.
+
+;Filtri
+Per ciascuna tipologia di collegamento (inclusioni, link, redirect) è disponibile un filtro specifico che ''mostra''/''nasconde'' le pagine appartenenti alla categoria<br/>
+Per esempio per avere un lista '''solo redirect''' è necessario nascondere sia le inclusioni che le pagine contenenti semplici wikilink, [http://it.wikipedia.org/w/index.php?title=Speciale%3APuntanoQui&hidetrans=1&hidelinks=1&target=aiuto%3Apuntano+qui&namespace= esempio]
+
+== Usi consueti ==
+* '''Disorfanamento''', il ''Puntano qui'' è uno strumento utile per verificare se una pagina è orfana, ovvero priva di collegamenti entranti da altre ''voci'' dell'enciclopedia; in questo caso è necessario usare il filtro namespace ''Principale'', e verificare che le pagine entranti non siano comunque soltanto redirect.
+
+* '''Orfanamento''', può anche capitare di dover rendere un'[[Help:immagine|immagine]], un [[aiuto|template]] o un redirect orfano; in questo caso è consigliabile controllare prima di tutto che la pagina non sia linkata o inclusa in qualche template (filtro namespace ''Template''), in quanto la pagina risulterebbe altrimenti erroneamente linkara o inclusa erroneamente nelle pagine in cui il template è presente, senza che vi sia realmente un wikilink o una inclusione diretta in questa.
+
+* '''redirect doppi''', [[Help:sposta|spostamenti di pagina]] possono dare vita a redirect doppi, che non permettono un corretto funzionamento del link, il puntano qui offrono uno strumento veloce per la loro individuazione
+
+* '''pagine inesistenti''', indica anche quali pagine linkano a voci non ancora esistenti, ovvero a quanti [[link rossi]] puntano a quella pagina, questo può servire per indicare quali pagine non ancora create sono più "urgenti" di altre.
+
+=== Note d'uso ===
+* L'ordinamento delle pagine non è sempre rigorosamente alfabetico ciò è dovuto al fatto che gli elenchi vengono ricomposti solo periodicamente all'interno delle apposite tabella del database per i collegamenti, e  i collegamenti tra un aggiornamento e l'altro vengono quindi aggiunto in fondo alla lista in ordine cronologico.
+
+* L'elenco non contiene le [[Help:Sottopagina|sottopagine]] in cui sono presenti soltanto ''link automatici'' generati dal sistema, a meno che non contenta un wikilink ordinario.
+
+* La funzione può essere anche applicata alla pagina stessa e alle altre pagine speciali, ad esempio: [http://it.wikipedia.org/w/wiki.phtml?title=Speciale:Whatlinkshere&target=Special%3AWhatlinkshere], [http://it.wikipedia.org/w/wiki.phtml?title=Speciale:Whatlinkshere&target=Special%3ARecentchanges].
+
+
+[[Category:aiuto|Puntano qui]]
+
+[[en:Help:What links here]]
+[[nl:Help:Links naar deze pagina]]
+[[pt:Ajuda:Guia de edição/Menus e ferramentas/Artigos afluentes]]
+[[sq:Ndihmë:Lidhjet këtu]]
+[[sr:Помоћ:Шта је повезано овде]]
+[[yi:הילף:וואס לינקט אהער]]
+[[zh:Help:链入页面]]
