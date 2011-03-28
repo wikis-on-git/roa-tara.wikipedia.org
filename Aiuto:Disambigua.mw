@@ -80,13 +80,13 @@ In tutti i casi è sempre bene seguire le [[Help:convenzioni di nomenclatura|con
 
 # Si definiscono titoli adeguati e diversi per ogni pagina, spostandole alla nuova denominazione tramite il comando '''[[Help:Sposta|Sposta]]''' (penultima etichetta in alto a destra), visibile soltanto agli utenti [[Help:Come registrarsi|registrati]];
 # si crea la pagina di disambiguazione coi collegamenti alle voci, ricordandosi di porre all'inizio il template {{tl|disambigua}};
-# si correggono (aiutandosi con lo strumento ''[[Help:Puntano qui|Puntano qui]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
+# si correggono (aiutandosi con lo strumento ''[[Help:Appondene aqquà|Appondene aqquà]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
 
 '''Caso B'''
 # Si definiscono titoli adeguati e diversi per le pagine dal significato non predominante, spostandole alla nuova denominazione tramite il comando '''[[Help:Sposta|Sposta]]''' (penultima etichetta in alto a destra), visibile soltanto agli utenti [[Help:Come registrarsi|registrati]];
 # si pone all'inizio della pagina con il significato nettamente predominante una o più {{tl|nota disambigua}}, alle voci alternative;
 # se necessario, si crea la pagina di disambiguazione coi collegamenti alle voci, ricordandosi di porre all'inizio il template {{tl|disambigua}}; correggere la nota disambigua nella pagina principale in modo che punti alla pagina di disambiguazione ed eliminare le note che non servono;
-# si correggono (aiutandosi con lo strumento ''[[Help:Puntano qui|Puntano qui]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
+# si correggono (aiutandosi con lo strumento ''[[Help:Appondene aqquà|Appondene aqquà]]'') tutti i collegamenti reindirizzandoli alle pagine specifiche.
 
 == Pagina di disambiguazione ==
 C'è una certa flessibilità nel costruire e persino nel decidere la necessità di una pagina di disambiguazione. Esistono, tuttavia, strutture e norme-guida da osservare.
@@ -206,17 +206,17 @@ Le pagine delle comuni abbreviazioni di ''due e tre lettere'' raggruppano la ser
 
 Le pagine di disambiguazione (di tipo A e di tipo B) non sono da considerarsi normali [[Help:Voce|voci]] dell'enciclopedia, ma pagine di "servizio" per indirizzare il lettore alla voce cercata, pertanto ''non devono essere [[Help:Categorie|categorizzate]]'' in altre categorie che non siano già quelle automaticamente messe dai template, non devono contenere altri template di navigazione, o i paragrafi standard e né tantomeno collegamenti esterni.
 
-== Interwiki ==
+== Interuicchi ==
 
 Le pagine con esclusiva funzione di disambiguazione dovrebbero contenere [[Help:Interlink|interlink]] soltanto se questi rimandano a pagine analoghe di disambiguazione dell'altra/e lingua/e; non devono cioè rimandare a pagine a contenuto specifico elencate nella pagina che si sta relazionando alle altre lingue, ma ad analoga pagina di disambiguazione.
 
 == Note ==
 {{references}}
 
-== Voci correlate ==
+== Vide pure ==
 *[[Help:Redirect]]
 *[[Help:Sposta]]
-*[[Help:Puntano qui]]
+*[[Help:Appondene aqquà]]
 *[[Help:Convenzioni di nomenclatura]]
 *[[Help:FAQ]]
 *[[Help:Disambigua/Disorfanamento]] <!-- ATTENZIONE: link non funzionante -->
