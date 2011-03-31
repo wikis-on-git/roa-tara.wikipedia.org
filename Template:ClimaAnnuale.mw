@@ -1,0 +1,411 @@
+<noinclude>{{esoteric}}</noinclude>
+<table {{Prettytable|align=center|text-align=center}}>
+
+<!-- I titoli -->
+<tr>
+<th rowspan="2" style="border-right-width: 2px;"> {{#if: {{{nome|}}} | {{{nome|}}} | Mese}} </th>
+<th colspan="12"> [[Mese|Mise]] </th>
+<th colspan="4" style="border-left-width: 2px;" > [[Staggione|Staggiune]] </th>
+<th rowspan="2" style="border-left-width: 2px; "> [[Anne]] </th>
+</tr>
+
+<tr>
+<th> [[Scennàre|Gen]] </th>
+<th> [[Febbrare|Feb]] </th>
+<th> [[Màrze|Mar]] </th>
+<th> [[Abbrile|Apr]] </th>
+<th> [[Masce|Mag]] </th>
+<th> [[Sciugne|Giu]] </th>
+<th> [[Luglie|Lug]] </th>
+<th> [[Aguste|Ago]] </th>
+<th> [[Settèmmre|Set]] </th>
+<th> [[Ottommre|Ott]] </th>
+<th> [[Novèmbre|Nov]] </th>
+<th> [[Decèmbre|Dic]] </th>
+
+<th style="border-left-width: 2px;" > [[Inverne|Inv]] </th>
+<th> [[Primavere|Pri]] </th>
+<th> [[Staggione|Est]] </th>
+<th> [[Autunne|Aut]] </th>
+
+</tr>
+
+<!-- Le temperature massime -->
+{{#if: {{{tempmax01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Temperatura|Temp. max. media]] ([[Gradi Celsius|°C]]) </th>
+<td style="background: #{{TempToColour | {{{tempmax01|}}} }}"> {{{tempmax01|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax02|}}} }}"> {{{tempmax02|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax03|}}} }}"> {{{tempmax03|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax04|}}} }}"> {{{tempmax04|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax05|}}} }}"> {{{tempmax05|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax06|}}} }}"> {{{tempmax06|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax07|}}} }}"> {{{tempmax07|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax08|}}} }}"> {{{tempmax08|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax09|}}} }}"> {{{tempmax09|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax10|}}} }}"> {{{tempmax10|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax11|}}} }}"> {{{tempmax11|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmax12|}}} }}"> {{{tempmax12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{TempToColour | {{#expr: ({{{tempmax12|0}}} + {{{tempmax01|0}}} + {{{tempmax02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmax12|0}}} + {{{tempmax01|0}}} + {{{tempmax02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmax03|0}}} + {{{tempmax04|0}}} + {{{tempmax05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmax03|0}}} + {{{tempmax04|0}}} + {{{tempmax05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmax06|0}}} + {{{tempmax07|0}}} + {{{tempmax08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmax06|0}}} + {{{tempmax07|0}}} + {{{tempmax08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmax09|0}}} + {{{tempmax10|0}}} + {{{tempmax11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmax09|0}}} + {{{tempmax10|0}}} + {{{tempmax11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{TempToColour | {{#expr: ({{{tempmax01|0}}} + {{{tempmax02|0}}} + {{{tempmax03|0}}} + {{{tempmax04|0}}} + {{{tempmax05|0}}} + {{{tempmax06|0}}} + {{{tempmax07|0}}} + {{{tempmax08|0}}} + {{{tempmax09|0}}} + {{{tempmax10|0}}} + {{{tempmax11|0}}} + {{{tempmax12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{tempmax01|0}}} + {{{tempmax02|0}}} + {{{tempmax03|0}}} + {{{tempmax04|0}}} + {{{tempmax05|0}}} + {{{tempmax06|0}}} + {{{tempmax07|0}}} + {{{tempmax08|0}}} + {{{tempmax09|0}}} + {{{tempmax10|0}}} + {{{tempmax11|0}}} + {{{tempmax12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- Le temperature medie -->
+{{#if: {{{tempmedia01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Temperatura|Temperatura media]] ([[Gradi Celsius|°C]]) </th>
+<td style="background: #{{TempToColour | {{{tempmedia01|}}} }}"> {{{tempmedia01|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia02|}}} }}"> {{{tempmedia02|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia03|}}} }}"> {{{tempmedia03|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia04|}}} }}"> {{{tempmedia04|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia05|}}} }}"> {{{tempmedia05|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia06|}}} }}"> {{{tempmedia06|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia07|}}} }}"> {{{tempmedia07|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia08|}}} }}"> {{{tempmedia08|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia09|}}} }}"> {{{tempmedia09|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia10|}}} }}"> {{{tempmedia10|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia11|}}} }}"> {{{tempmedia11|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmedia12|}}} }}"> {{{tempmedia12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{TempToColour | {{#expr: ({{{tempmedia12|0}}} + {{{tempmedia01|0}}} + {{{tempmedia02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmedia12|0}}} + {{{tempmedia01|0}}} + {{{tempmedia02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmedia03|0}}} + {{{tempmedia04|0}}} + {{{tempmedia05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmedia03|0}}} + {{{tempmedia04|0}}} + {{{tempmedia05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmedia06|0}}} + {{{tempmedia07|0}}} + {{{tempmedia08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmedia06|0}}} + {{{tempmedia07|0}}} + {{{tempmedia08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmedia09|0}}} + {{{tempmedia10|0}}} + {{{tempmedia11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmedia09|0}}} + {{{tempmedia10|0}}} + {{{tempmedia11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{TempToColour | {{#expr: ({{{tempmedia01|0}}} + {{{tempmedia02|0}}} + {{{tempmedia03|0}}} + {{{tempmedia04|0}}} + {{{tempmedia05|0}}} + {{{tempmedia06|0}}} + {{{tempmedia07|0}}} + {{{tempmedia08|0}}} + {{{tempmedia09|0}}} + {{{tempmedia10|0}}} + {{{tempmedia11|0}}} + {{{tempmedia12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{tempmedia01|0}}} + {{{tempmedia02|0}}} + {{{tempmedia03|0}}} + {{{tempmedia04|0}}} + {{{tempmedia05|0}}} + {{{tempmedia06|0}}} + {{{tempmedia07|0}}} + {{{tempmedia08|0}}} + {{{tempmedia09|0}}} + {{{tempmedia10|0}}} + {{{tempmedia11|0}}} + {{{tempmedia12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- Le temperature minime -->
+{{#if: {{{tempmin01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Temperatura|Temp. min. media]] ([[Gradi Celsius|°C]]) </th>
+<td style="background: #{{TempToColour | {{{tempmin01|}}} }}"> {{{tempmin01|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin02|}}} }}"> {{{tempmin02|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin03|}}} }}"> {{{tempmin03|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin04|}}} }}"> {{{tempmin04|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin05|}}} }}"> {{{tempmin05|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin06|}}} }}"> {{{tempmin06|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin07|}}} }}"> {{{tempmin07|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin08|}}} }}"> {{{tempmin08|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin09|}}} }}"> {{{tempmin09|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin10|}}} }}"> {{{tempmin10|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin11|}}} }}"> {{{tempmin11|}}} </td>
+<td style="background: #{{TempToColour | {{{tempmin12|}}} }}"> {{{tempmin12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{TempToColour | {{#expr: ({{{tempmin12|0}}} + {{{tempmin01|0}}} + {{{tempmin02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmin12|0}}} + {{{tempmin01|0}}} + {{{tempmin02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmin03|0}}} + {{{tempmin04|0}}} + {{{tempmin05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmin03|0}}} + {{{tempmin04|0}}} + {{{tempmin05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmin06|0}}} + {{{tempmin07|0}}} + {{{tempmin08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmin06|0}}} + {{{tempmin07|0}}} + {{{tempmin08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{TempToColour | {{#expr: ({{{tempmin09|0}}} + {{{tempmin10|0}}} + {{{tempmin11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{tempmin09|0}}} + {{{tempmin10|0}}} + {{{tempmin11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{TempToColour | {{#expr: ({{{tempmin01|0}}} + {{{tempmin02|0}}} + {{{tempmin03|0}}} + {{{tempmin04|0}}} + {{{tempmin05|0}}} + {{{tempmin06|0}}} + {{{tempmin07|0}}} + {{{tempmin08|0}}} + {{{tempmin09|0}}} + {{{tempmin10|0}}} + {{{tempmin11|0}}} + {{{tempmin12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{tempmin01|0}}} + {{{tempmin02|0}}} + {{{tempmin03|0}}} + {{{tempmin04|0}}} + {{{tempmin05|0}}} + {{{tempmin06|0}}} + {{{tempmin07|0}}} + {{{tempmin08|0}}} + {{{tempmin09|0}}} + {{{tempmin10|0}}} + {{{tempmin11|0}}} + {{{tempmin12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- Le temperature assolute massime -->
+{{#if: {{{tempassmax01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Temperatura|Temp. max. ass.]] ([[Gradi Celsius|°C]]) </th>
+<td style="background: #{{TempToColour | {{{tempassmax01|}}} }}"> {{{tempassmax01|}}} {{#if: {{{annotempassmax01 |}}} | <br /><small>([[{{{annotempassmax01 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax02|}}} }}"> {{{tempassmax02|}}} {{#if: {{{annotempassmax02 |}}} | <br /><small>([[{{{annotempassmax02 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax03|}}} }}"> {{{tempassmax03|}}} {{#if: {{{annotempassmax03 |}}} | <br /><small>([[{{{annotempassmax03 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax04|}}} }}"> {{{tempassmax04|}}} {{#if: {{{annotempassmax04 |}}} | <br /><small>([[{{{annotempassmax04 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax05|}}} }}"> {{{tempassmax05|}}} {{#if: {{{annotempassmax05 |}}} | <br /><small>([[{{{annotempassmax05 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax06|}}} }}"> {{{tempassmax06|}}} {{#if: {{{annotempassmax06 |}}} | <br /><small>([[{{{annotempassmax06 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax07|}}} }}"> {{{tempassmax07|}}} {{#if: {{{annotempassmax07 |}}} | <br /><small>([[{{{annotempassmax07 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax08|}}} }}"> {{{tempassmax08|}}} {{#if: {{{annotempassmax08 |}}} | <br /><small>([[{{{annotempassmax08 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax09|}}} }}"> {{{tempassmax09|}}} {{#if: {{{annotempassmax09 |}}} | <br /><small>([[{{{annotempassmax09 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax10|}}} }}"> {{{tempassmax10|}}} {{#if: {{{annotempassmax10 |}}} | <br /><small>([[{{{annotempassmax10 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax11|}}} }}"> {{{tempassmax11|}}} {{#if: {{{annotempassmax11 |}}} | <br /><small>([[{{{annotempassmax11 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmax12|}}} }}"> {{{tempassmax12|}}} {{#if: {{{annotempassmax12 |}}} | <br /><small>([[{{{annotempassmax12 |}}}]])</small> | }} </td>
+
+<td title="massimo" style="border-left-width: 2px;  background: #{{TempToColour | {{max|{{{tempassmax12|0}}}|{{{tempassmax01|0}}}|{{{tempassmax02|0}}}}} }}"> '''{{max|{{{tempassmax12|0}}}|{{{tempassmax01|0}}}|{{{tempassmax02|0}}}}}''' </td>
+<td title="massimo" style="background: #{{TempToColour | {{max|{{{tempassmax03|0}}}|{{{tempassmax04|0}}}|{{{tempassmax05|0}}}}} }}"> '''{{max|{{{tempassmax03|0}}}|{{{tempassmax04|0}}}|{{{tempassmax05|0}}}}}''' </td>
+<td title="massimo" style="background: #{{TempToColour | {{max|{{{tempassmax06|0}}}|{{{tempassmax07|0}}}|{{{tempassmax08|0}}}}} }}"> '''{{max|{{{tempassmax06|0}}}|{{{tempassmax07|0}}}|{{{tempassmax08|0}}}}}''' </td>
+<td title="massimo" style="background: #{{TempToColour | {{max|{{{tempassmax09|0}}}|{{{tempassmax10|0}}}|{{{tempassmax11|0}}}}} }}"> '''{{max|{{{tempassmax09|0}}}|{{{tempassmax10|0}}}|{{{tempassmax11|0}}}}}''' </td>
+
+<td title="massimo" style="border-left-width: 2px; background: #{{TempToColour | {{max
+|{{max
+ |{{max|{{{tempassmax01|0}}}|{{{tempassmax02|0}}}|{{{tempassmax03|0}}}}}
+ |{{max|{{{tempassmax04|0}}}|{{{tempassmax05|0}}}|{{{tempassmax06|0}}}}}
+ }}
+|{{max
+ |{{max|{{{tempassmax07|0}}}|{{{tempassmax08|0}}}|{{{tempassmax09|0}}}}}
+ |{{max|{{{tempassmax10|0}}}|{{{tempassmax11|0}}}|{{{tempassmax12|0}}}}}
+ }}
+}} }}"> '''{{max
+|{{max
+ |{{max|{{{tempassmax01|0}}}|{{{tempassmax02|0}}}|{{{tempassmax03|0}}}}}
+ |{{max|{{{tempassmax04|0}}}|{{{tempassmax05|0}}}|{{{tempassmax06|0}}}}}
+ }}
+|{{max
+ |{{max|{{{tempassmax07|0}}}|{{{tempassmax08|0}}}|{{{tempassmax09|0}}}}}
+ |{{max|{{{tempassmax10|0}}}|{{{tempassmax11|0}}}|{{{tempassmax12|0}}}}}
+ }}
+}}''' </td>
+</tr>
+}}
+
+<!-- Le temperature assolute minime -->
+{{#if: {{{tempassmin01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Temperatura|Temp. min. ass.]] ([[Gradi Celsius|°C]]) </th>
+<td style="background: #{{TempToColour | {{{tempassmin01|}}} }}"> {{{tempassmin01|}}} {{#if: {{{annotempassmin01 |}}} | <br /><small>([[{{{annotempassmin01 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin02|}}} }}"> {{{tempassmin02|}}} {{#if: {{{annotempassmin02 |}}} | <br /><small>([[{{{annotempassmin02 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin03|}}} }}"> {{{tempassmin03|}}} {{#if: {{{annotempassmin03 |}}} | <br /><small>([[{{{annotempassmin03 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin04|}}} }}"> {{{tempassmin04|}}} {{#if: {{{annotempassmin04 |}}} | <br /><small>([[{{{annotempassmin04 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin05|}}} }}"> {{{tempassmin05|}}} {{#if: {{{annotempassmin05 |}}} | <br /><small>([[{{{annotempassmin05 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin06|}}} }}"> {{{tempassmin06|}}} {{#if: {{{annotempassmin06 |}}} | <br /><small>([[{{{annotempassmin06 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin07|}}} }}"> {{{tempassmin07|}}} {{#if: {{{annotempassmin07 |}}} | <br /><small>([[{{{annotempassmin07 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin08|}}} }}"> {{{tempassmin08|}}} {{#if: {{{annotempassmin08 |}}} | <br /><small>([[{{{annotempassmin08 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin09|}}} }}"> {{{tempassmin09|}}} {{#if: {{{annotempassmin09 |}}} | <br /><small>([[{{{annotempassmin09 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin10|}}} }}"> {{{tempassmin10|}}} {{#if: {{{annotempassmin10 |}}} | <br /><small>([[{{{annotempassmin10 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin11|}}} }}"> {{{tempassmin11|}}} {{#if: {{{annotempassmin11 |}}} | <br /><small>([[{{{annotempassmin11 |}}}]])</small> | }} </td>
+<td style="background: #{{TempToColour | {{{tempassmin12|}}} }}"> {{{tempassmin12|}}} {{#if: {{{annotempassmin12 |}}} | <br /><small>([[{{{annotempassmin12 |}}}]])</small> | }} </td>
+
+<td title="minimo" style="border-left-width: 2px;  background: #{{TempToColour | {{min|{{{tempassmin12|0}}}|{{{tempassmin01|0}}}|{{{tempassmin02|0}}}}} }}"> '''{{min|{{{tempassmin12|0}}}|{{{tempassmin01|0}}}|{{{tempassmin02|0}}}}}''' </td>
+<td title="minimo" style="background: #{{TempToColour | {{min|{{{tempassmin03|0}}}|{{{tempassmin04|0}}}|{{{tempassmin05|0}}}}} }}"> '''{{min|{{{tempassmin03|0}}}|{{{tempassmin04|0}}}|{{{tempassmin05|0}}}}}''' </td>
+<td title="minimo" style="background: #{{TempToColour | {{min|{{{tempassmin06|0}}}|{{{tempassmin07|0}}}|{{{tempassmin08|0}}}}} }}"> '''{{min|{{{tempassmin06|0}}}|{{{tempassmin07|0}}}|{{{tempassmin08|0}}}}}''' </td>
+<td title="minimo" style="background: #{{TempToColour | {{min|{{{tempassmin09|0}}}|{{{tempassmin10|0}}}|{{{tempassmin11|0}}}}} }}"> '''{{min|{{{tempassmin09|0}}}|{{{tempassmin10|0}}}|{{{tempassmin11|0}}}}}''' </td>
+
+<td title="minimo" style="border-left-width: 2px; background: #{{TempToColour | {{min
+|{{min
+ |{{min|{{{tempassmin01|0}}}|{{{tempassmin02|0}}}|{{{tempassmin03|0}}}}}
+ |{{min|{{{tempassmin04|0}}}|{{{tempassmin05|0}}}|{{{tempassmin06|0}}}}}
+ }}
+|{{min
+ |{{min|{{{tempassmin07|0}}}|{{{tempassmin08|0}}}|{{{tempassmin09|0}}}}}
+ |{{min|{{{tempassmin10|0}}}|{{{tempassmin11|0}}}|{{{tempassmin12|0}}}}}
+ }}
+}} }}"> '''{{min
+|{{min
+ |{{min|{{{tempassmin01|0}}}|{{{tempassmin02|0}}}|{{{tempassmin03|0}}}}}
+ |{{min|{{{tempassmin04|0}}}|{{{tempassmin05|0}}}|{{{tempassmin06|0}}}}}
+ }}
+|{{min
+ |{{min|{{{tempassmin07|0}}}|{{{tempassmin08|0}}}|{{{tempassmin09|0}}}}}
+ |{{min|{{{tempassmin10|0}}}|{{{tempassmin11|0}}}|{{{tempassmin12|0}}}}}
+ }}
+}}''' </td>
+</tr>
+}}
+
+<!-- Le piovosità -->
+{{#if: {{{pioggia01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Piovosità|Piogge]] ([[millimetro|mm]]) </th>
+<td style="background: #{{RainToColour | {{{pioggia01|}}} }}"> {{{pioggia01|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia02|}}} }}"> {{{pioggia02|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia03|}}} }}"> {{{pioggia03|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia04|}}} }}"> {{{pioggia04|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia05|}}} }}"> {{{pioggia05|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia06|}}} }}"> {{{pioggia06|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia07|}}} }}"> {{{pioggia07|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia08|}}} }}"> {{{pioggia08|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia09|}}} }}"> {{{pioggia09|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia10|}}} }}"> {{{pioggia10|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia11|}}} }}"> {{{pioggia11|}}} </td>
+<td style="background: #{{RainToColour | {{{pioggia12|}}} }}"> {{{pioggia12|}}} </td>
+
+<td title="totale" style="border-left-width: 2px;   background: #{{RainToColour | {{#expr: ({{{pioggia01|0}}} + {{{pioggia02|0}}} + {{{pioggia12|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: {{{pioggia01|0}}} + {{{pioggia02|0}}} + {{{pioggia12|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{pioggia03|0}}} + {{{pioggia04|0}}} + {{{pioggia05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: {{{pioggia03|0}}} + {{{pioggia04|0}}} + {{{pioggia05|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{pioggia06|0}}} + {{{pioggia07|0}}} + {{{pioggia08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: {{{pioggia06|0}}} + {{{pioggia07|0}}} + {{{pioggia08|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{pioggia09|0}}} + {{{pioggia10|0}}} + {{{pioggia11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: {{{pioggia09|0}}} + {{{pioggia10|0}}} + {{{pioggia11|0}}} + 0.0}}'''  </td>
+
+<td title="totale" style="border-left-width: 2px;  background: #{{RainToColour | {{#expr: ({{{pioggia01|0}}} + {{{pioggia02|0}}} + {{{pioggia03|0}}} + {{{pioggia04|0}}} + {{{pioggia05|0}}} + {{{pioggia06|0}}} + {{{pioggia07|0}}} + {{{pioggia08|0}}} + {{{pioggia09|0}}} + {{{pioggia10|0}}} + {{{pioggia11|0}}} + {{{pioggia12|0}}} + 0.0) / 12.0 round 1 }} }}"> '''{{#expr: {{{pioggia01|0}}} + {{{pioggia02|0}}} + {{{pioggia03|0}}} + {{{pioggia04|0}}} + {{{pioggia05|0}}} + {{{pioggia06|0}}} + {{{pioggia07|0}}} + {{{pioggia08|0}}} + {{{pioggia09|0}}} + {{{pioggia10|0}}} + {{{pioggia11|0}}} + {{{pioggia12|0}}} + 0.0}}'''  </td>
+</tr>
+}}
+
+<!-- I giorni di pioggia -->
+{{#if: {{{giornipioggia01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Giorno di pioggia|Giorni di pioggia]] (≥ 1 [[millimetro|mm]]) </th>
+<td style="background: #{{RainToColour | {{{giornipioggia01|}}} * 10 }}"> {{{giornipioggia01|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia02|}}} * 10 }}"> {{{giornipioggia02|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia03|}}} * 10 }}"> {{{giornipioggia03|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia04|}}} * 10 }}"> {{{giornipioggia04|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia05|}}} * 10 }}"> {{{giornipioggia05|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia06|}}} * 10 }}"> {{{giornipioggia06|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia07|}}} * 10 }}"> {{{giornipioggia07|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia08|}}} * 10 }}"> {{{giornipioggia08|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia09|}}} * 10 }}"> {{{giornipioggia09|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia10|}}} * 10 }}"> {{{giornipioggia10|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia11|}}} * 10 }}"> {{{giornipioggia11|}}} </td>
+<td style="background: #{{RainToColour | {{{giornipioggia12|}}} * 10 }}"> {{{giornipioggia12|}}} </td>
+
+<td title="totale" style="border-left-width: 2px;  background: #{{RainToColour | {{#expr: ({{{giornipioggia01|0}}} + {{{giornipioggia02|0}}} + {{{giornipioggia12|0}}} + 0.0) /3 * 10 round 0}} }}"> '''{{#expr: {{{giornipioggia01|0}}} + {{{giornipioggia02|0}}} + {{{giornipioggia12|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{giornipioggia03|0}}} + {{{giornipioggia04|0}}} + {{{giornipioggia05|0}}} + 0.0) / 3 * 10 round 0}} }}"> '''{{#expr: {{{giornipioggia03|0}}} + {{{giornipioggia04|0}}} + {{{giornipioggia05|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{giornipioggia06|0}}} + {{{giornipioggia07|0}}} + {{{giornipioggia08|0}}} + 0.0) / 3 * 10 round 0}} }}"> '''{{#expr: {{{giornipioggia06|0}}} + {{{giornipioggia07|0}}} + {{{giornipioggia08|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{RainToColour | {{#expr: ({{{giornipioggia09|0}}} + {{{giornipioggia10|0}}} + {{{giornipioggia11|0}}} + 0.0) / 3 * 10 round 0}} }}"> '''{{#expr: {{{giornipioggia09|0}}} + {{{giornipioggia10|0}}} + {{{giornipioggia11|0}}} + 0.0}}'''  </td>
+
+<td title="totale" style="border-left-width: 2px; background: #{{RainToColour | {{#expr: ({{{giornipioggia01|0}}} + {{{giornipioggia02|0}}} + {{{giornipioggia03|0}}} + {{{giornipioggia04|0}}} + {{{giornipioggia05|0}}} + {{{giornipioggia06|0}}} + {{{giornipioggia07|0}}} + {{{giornipioggia08|0}}} + {{{giornipioggia09|0}}} + {{{giornipioggia10|0}}} + {{{giornipioggia11|0}}} + {{{giornipioggia12|0}}} + 0.0) / 12 * 10 round 0 }} }}"> '''{{#expr: {{{giornipioggia01|0}}} + {{{giornipioggia02|0}}} + {{{giornipioggia03|0}}} + {{{giornipioggia04|0}}} + {{{giornipioggia05|0}}} + {{{giornipioggia06|0}}} + {{{giornipioggia07|0}}} + {{{giornipioggia08|0}}} + {{{giornipioggia09|0}}} + {{{giornipioggia10|0}}} + {{{giornipioggia11|0}}} + {{{giornipioggia12|0}}} + 0.0}}'''  </td>
+</tr>
+}}
+
+<!-- Le onde di calore -->
+{{#if: {{{warm01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Onda di calore|Onde di calore]] (Giorni con T<sub>max</sub> ≥ 32 °[[Celsius|C]]) </th>
+<td style="background: #{{WarmToColour | {{{warm01|}}} }}"> {{{warm01|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm02|}}} }}"> {{{warm02|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm03|}}} }}"> {{{warm03|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm04|}}} }}"> {{{warm04|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm05|}}} }}"> {{{warm05|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm06|}}} }}"> {{{warm06|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm07|}}} }}"> {{{warm07|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm08|}}} }}"> {{{warm08|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm09|}}} }}"> {{{warm09|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm10|}}} }}"> {{{warm10|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm11|}}} }}"> {{{warm11|}}} </td>
+<td style="background: #{{WarmToColour | {{{warm12|}}} }}"> {{{warm12|}}} </td>
+
+<td title="totale" style="border-left-width: 2px;  background: #{{WarmToColour | {{#expr: ({{{warm01|0}}} + {{{warm02|0}}} + {{{warm12|0}}} + 0.0) / 3 round 0}} }}"> '''{{#expr: {{{warm01|0}}} + {{{warm02|0}}} +  {{{warm12|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{WarmToColour | {{#expr: ({{{warm03|0}}} + {{{warm04|0}}} + {{{warm05|0}}} + 0.0) / 3 round 0}} }}"> '''{{#expr: {{{warm03|0}}} + {{{warm04|0}}} + {{{warm05|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{WarmToColour | {{#expr: ({{{warm06|0}}} + {{{warm07|0}}} + {{{warm08|0}}} + 0.0) / 3 round 0}} }}"> '''{{#expr: {{{warm06|0}}} + {{{warm07|0}}} + {{{warm08|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{WarmToColour | {{#expr: ({{{warm09|0}}} + {{{warm10|0}}} + {{{warm11|0}}} + 0.0) / 3 round 0}} }}"> '''{{#expr: {{{warm09|0}}} + {{{warm10|0}}} + {{{warm11|0}}} + 0.0}}'''  </td>
+
+<td title="totale" style="border-left-width: 2px; background: #{{WarmToColour | {{#expr: ({{{warm01|0}}} + {{{warm02|0}}} + {{{warm03|0}}} + {{{warm04|0}}} + {{{warm05|0}}} + {{{warm06|0}}} + {{{warm07|0}}} + {{{warm08|0}}} + {{{warm09|0}}} + {{{warm10|0}}} + {{{warm11|0}}} + {{{warm12|0}}} + 0.0) / 12 round 0}} }}"> '''{{#expr: {{{warm01|0}}} + {{{warm02|0}}} + {{{warm03|0}}} + {{{warm04|0}}} + {{{warm05|0}}} + {{{warm06|0}}} + {{{warm07|0}}} + {{{warm08|0}}} + {{{warm09|0}}} + {{{warm10|0}}} + {{{warm11|0}}} + {{{warm12|0}}} + 0.0}}'''  </td>
+</tr>
+}}
+
+<!-- I giorni di gelo -->
+{{#if: {{{giornigelo01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Giorno di gelo|Giorni di gelo]] (T<sub>min</sub> ≤ 0 °[[Celsius|C]]) </th>
+<td style="background: #{{IceToColour | {{{giornigelo01|}}} }}"> {{{giornigelo01|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo02|}}} }}"> {{{giornigelo02|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo03|}}} }}"> {{{giornigelo03|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo04|}}} }}"> {{{giornigelo04|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo05|}}} }}"> {{{giornigelo05|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo06|}}} }}"> {{{giornigelo06|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo07|}}} }}"> {{{giornigelo07|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo08|}}} }}"> {{{giornigelo08|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo09|}}} }}"> {{{giornigelo09|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo10|}}} }}"> {{{giornigelo10|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo11|}}} }}"> {{{giornigelo11|}}} </td>
+<td style="background: #{{IceToColour | {{{giornigelo12|}}} }}"> {{{giornigelo12|}}} </td>
+
+<td title="totale" style="border-left-width: 2px;  background: #{{IceToColour | {{#expr: ({{{giornigelo01|0}}} + {{{giornigelo02|0}}} + {{{giornigelo12|0}}} + 0.0) / 3  round 0}} }}"> '''{{#expr: {{{giornigelo01|0}}} + {{{giornigelo02|0}}} +  {{{giornigelo12|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{IceToColour | {{#expr: ({{{giornigelo03|0}}} + {{{giornigelo04|0}}} + {{{giornigelo05|0}}} + 0.0}}) / 3  round 0 }}"> '''{{#expr: {{{giornigelo03|0}}} + {{{giornigelo04|0}}} + {{{giornigelo05|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{IceToColour | {{#expr: ({{{giornigelo06|0}}} + {{{giornigelo07|0}}} + {{{giornigelo08|0}}} + 0.0}}) / 3  round 0 }}"> '''{{#expr: {{{giornigelo06|0}}} + {{{giornigelo07|0}}} + {{{giornigelo08|0}}} + 0.0}}'''  </td>
+<td title="totale" style="background: #{{IceToColour | {{#expr: ({{{giornigelo09|0}}} + {{{giornigelo10|0}}} + {{{giornigelo11|0}}} + 0.0}}) / 3  round 0 }}"> '''{{#expr: {{{giornigelo09|0}}} + {{{giornigelo10|0}}} + {{{giornigelo11|0}}} + 0.0}}'''  </td>
+
+<td title="totale" style="border-left-width: 2px; background: #{{IceToColour | {{#expr: ({{{giornigelo01|0}}} + {{{giornigelo02|0}}} + {{{giornigelo03|0}}} + {{{giornigelo04|0}}} + {{{giornigelo05|0}}} + {{{giornigelo06|0}}} + {{{giornigelo07|0}}} + {{{giornigelo08|0}}} + {{{giornigelo09|0}}} + {{{giornigelo10|0}}} + {{{giornigelo11|0}}} + {{{giornigelo12|0}}} + 0.0}}) / 3  round 0 }}"> '''{{#expr: {{{giornigelo01|0}}} + {{{giornigelo02|0}}} + {{{giornigelo03|0}}} + {{{giornigelo04|0}}} + {{{giornigelo05|0}}} + {{{giornigelo06|0}}} + {{{giornigelo07|0}}} + {{{giornigelo08|0}}} + {{{giornigelo09|0}}} + {{{giornigelo10|0}}} + {{{giornigelo11|0}}} + {{{giornigelo12|0}}} + 0.0}}'''  </td>
+</tr>
+}}
+
+<!-- L'umidità -->
+{{#if: {{{umido01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Umidità|Umidità relativa]] (%) </th>
+<td style="background: #{{HumToColour | {{{umido01|}}} }}"> {{{umido01|}}} </td>
+<td style="background: #{{HumToColour | {{{umido02|}}} }}"> {{{umido02|}}} </td>
+<td style="background: #{{HumToColour | {{{umido03|}}} }}"> {{{umido03|}}} </td>
+<td style="background: #{{HumToColour | {{{umido04|}}} }}"> {{{umido04|}}} </td>
+<td style="background: #{{HumToColour | {{{umido05|}}} }}"> {{{umido05|}}} </td>
+<td style="background: #{{HumToColour | {{{umido06|}}} }}"> {{{umido06|}}} </td>
+<td style="background: #{{HumToColour | {{{umido07|}}} }}"> {{{umido07|}}} </td>
+<td style="background: #{{HumToColour | {{{umido08|}}} }}"> {{{umido08|}}} </td>
+<td style="background: #{{HumToColour | {{{umido09|}}} }}"> {{{umido09|}}} </td>
+<td style="background: #{{HumToColour | {{{umido10|}}} }}"> {{{umido10|}}} </td>
+<td style="background: #{{HumToColour | {{{umido11|}}} }}"> {{{umido11|}}} </td>
+<td style="background: #{{HumToColour | {{{umido12|}}} }}"> {{{umido12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{HumToColour | {{#expr: ({{{umido12|0}}} + {{{umido01|0}}} + {{{umido02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{umido12|0}}} + {{{umido01|0}}} + {{{umido02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HumToColour | {{#expr: ({{{umido03|0}}} + {{{umido04|0}}} + {{{umido05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{umido03|0}}} + {{{umido04|0}}} + {{{umido05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HumToColour | {{#expr: ({{{umido06|0}}} + {{{umido07|0}}} + {{{umido08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{umido06|0}}} + {{{umido07|0}}} + {{{umido08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HumToColour | {{#expr: ({{{umido09|0}}} + {{{umido10|0}}} + {{{umido11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{umido09|0}}} + {{{umido10|0}}} + {{{umido11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{HumToColour | {{#expr: ({{{umido01|0}}} + {{{umido02|0}}} + {{{umido03|0}}} + {{{umido04|0}}} + {{{umido05|0}}} + {{{umido06|0}}} + {{{umido07|0}}} + {{{umido08|0}}} + {{{umido09|0}}} + {{{umido10|0}}} + {{{umido11|0}}} + {{{umido12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{umido01|0}}} + {{{umido02|0}}} + {{{umido03|0}}} + {{{umido04|0}}} + {{{umido05|0}}} + {{{umido06|0}}} + {{{umido07|0}}} + {{{umido08|0}}} + {{{umido09|0}}} + {{{umido10|0}}} + {{{umido11|0}}} + {{{umido12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- L'eliofania -->
+{{#if: {{{elio01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Eliofanie]] assolute (ore) </th>
+<td style="background: #{{HelioToColour | {{{elio01|}}} }}"> {{{elio01|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio02|}}} }}"> {{{elio02|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio03|}}} }}"> {{{elio03|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio04|}}} }}"> {{{elio04|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio05|}}} }}"> {{{elio05|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio06|}}} }}"> {{{elio06|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio07|}}} }}"> {{{elio07|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio08|}}} }}"> {{{elio08|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio09|}}} }}"> {{{elio09|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio10|}}} }}"> {{{elio10|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio11|}}} }}"> {{{elio11|}}} </td>
+<td style="background: #{{HelioToColour | {{{elio12|}}} }}"> {{{elio12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{HelioToColour | {{#expr: ({{{elio12|0}}} + {{{elio01|0}}} + {{{elio02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{elio12|0}}} + {{{elio01|0}}} + {{{elio02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HelioToColour | {{#expr: ({{{elio03|0}}} + {{{elio04|0}}} + {{{elio05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{elio03|0}}} + {{{elio04|0}}} + {{{elio05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HelioToColour | {{#expr: ({{{elio06|0}}} + {{{elio07|0}}} + {{{elio08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{elio06|0}}} + {{{elio07|0}}} + {{{elio08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{HelioToColour | {{#expr: ({{{elio09|0}}} + {{{elio10|0}}} + {{{elio11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{elio09|0}}} + {{{elio10|0}}} + {{{elio11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{HelioToColour | {{#expr: ({{{elio01|0}}} + {{{elio02|0}}} + {{{elio03|0}}} + {{{elio04|0}}} + {{{elio05|0}}} + {{{elio06|0}}} + {{{elio07|0}}} + {{{elio08|0}}} + {{{elio09|0}}} + {{{elio10|0}}} + {{{elio11|0}}} + {{{elio12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{elio01|0}}} + {{{elio02|0}}} + {{{elio03|0}}} + {{{elio04|0}}} + {{{elio05|0}}} + {{{elio06|0}}} + {{{elio07|0}}} + {{{elio08|0}}} + {{{elio09|0}}} + {{{elio10|0}}} + {{{elio11|0}}} + {{{elio12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- La radiazione solare globale-->
+{{#if: {{{sole01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Radiazione solare]] globale media  </th>
+<td style="background: #{{SunToColour | {{{sole01|}}} }}"> {{{sole01|}}} </td>
+<td style="background: #{{SunToColour | {{{sole02|}}} }}"> {{{sole02|}}} </td>
+<td style="background: #{{SunToColour | {{{sole03|}}} }}"> {{{sole03|}}} </td>
+<td style="background: #{{SunToColour | {{{sole04|}}} }}"> {{{sole04|}}} </td>
+<td style="background: #{{SunToColour | {{{sole05|}}} }}"> {{{sole05|}}} </td>
+<td style="background: #{{SunToColour | {{{sole06|}}} }}"> {{{sole06|}}} </td>
+<td style="background: #{{SunToColour | {{{sole07|}}} }}"> {{{sole07|}}} </td>
+<td style="background: #{{SunToColour | {{{sole08|}}} }}"> {{{sole08|}}} </td>
+<td style="background: #{{SunToColour | {{{sole09|}}} }}"> {{{sole09|}}} </td>
+<td style="background: #{{SunToColour | {{{sole10|}}} }}"> {{{sole10|}}} </td>
+<td style="background: #{{SunToColour | {{{sole11|}}} }}"> {{{sole11|}}} </td>
+<td style="background: #{{SunToColour | {{{sole12|}}} }}"> {{{sole12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;  background: #{{SunToColour | {{#expr: ({{{sole12|0}}} + {{{sole01|0}}} + {{{sole02|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{sole12|0}}} + {{{sole01|0}}} + {{{sole02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{SunToColour | {{#expr: ({{{sole03|0}}} + {{{sole04|0}}} + {{{sole05|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{sole03|0}}} + {{{sole04|0}}} + {{{sole05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{SunToColour | {{#expr: ({{{sole06|0}}} + {{{sole07|0}}} + {{{sole08|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{sole06|0}}} + {{{sole07|0}}} + {{{sole08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media" style="background: #{{SunToColour | {{#expr: ({{{sole09|0}}} + {{{sole10|0}}} + {{{sole11|0}}} + 0.0) / 3.0 round 1}} }}"> '''{{#expr: ({{{sole09|0}}} + {{{sole10|0}}} + {{{sole11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px; background: #{{SunToColour | {{#expr: ({{{sole01|0}}} + {{{sole02|0}}} + {{{sole03|0}}} + {{{sole04|0}}} + {{{sole05|0}}} + {{{sole06|0}}} + {{{sole07|0}}} + {{{sole08|0}}} + {{{sole09|0}}} + {{{sole10|0}}} + {{{sole11|0}}} + {{{sole12|0}}} + 0.0) / 12.0 round 1}} }}"> '''{{#expr: ({{{sole01|0}}} + {{{sole02|0}}} + {{{sole03|0}}} + {{{sole04|0}}} + {{{sole05|0}}} + {{{sole06|0}}} + {{{sole07|0}}} + {{{sole08|0}}} + {{{sole09|0}}} + {{{sole10|0}}} + {{{sole11|0}}} + {{{sole12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+
+<!-- I venti -->
+{{#if: {{{intensità01|}}} |
+<tr>
+<th style="border-right-width: 2px"> [[Rose de le vinde|VInde]] (dir.-[[node, aunità de mesure|node]]) </th>
+<td> {{{vento01|}}} </br> {{{intensità01|}}} </td>
+<td> {{{vento02|}}} </br> {{{intensità02|}}} </td>
+<td> {{{vento03|}}} </br> {{{intensità03|}}} </td>
+<td> {{{vento04|}}} </br> {{{intensità04|}}} </td>
+<td> {{{vento05|}}} </br> {{{intensità05|}}} </td>
+<td> {{{vento06|}}} </br> {{{intensità06|}}} </td>
+<td> {{{vento07|}}} </br> {{{intensità07|}}} </td>
+<td> {{{vento08|}}} </br> {{{intensità08|}}} </td>
+<td> {{{vento09|}}} </br> {{{intensità09|}}} </td>
+<td> {{{vento10|}}} </br> {{{intensità10|}}} </td>
+<td> {{{vento11|}}} </br> {{{intensità11|}}} </td>
+<td> {{{vento12|}}} </br> {{{intensità12|}}} </td>
+
+<td title="media" style="border-left-width: 2px;" > '''{{#expr: ({{{intensità12|0}}} + {{{intensità01|0}}} + {{{intensità02|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media"> '''{{#expr: ({{{intensità03|0}}} + {{{intensità04|0}}} + {{{intensità05|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media"> '''{{#expr: ({{{intensità06|0}}} + {{{intensità07|0}}} + {{{intensità08|0}}} + 0.0) / 3.0 round 1}}''' </td>
+<td title="media"> '''{{#expr: ({{{intensità09|0}}} + {{{intensità10|0}}} + {{{intensità11|0}}} + 0.0) / 3.0 round 1}}''' </td>
+
+<td title="media" style="border-left-width: 2px;"> '''{{#expr: ({{{intensità01|0}}} + {{{intensità02|0}}} + {{{intensità03|0}}} + {{{intensità04|0}}} + {{{intensità05|0}}} + {{{intensità06|0}}} + {{{intensità07|0}}} + {{{intensità08|0}}} + {{{intensità09|0}}} + {{{intensità10|0}}} + {{{intensità11|0}}} + {{{intensità12|0}}} + 0.0) / 12.0 round 1}}'''  </td>
+</tr>
+}}
+</table><noinclude>
+{{man}}
+
+[[Category:Template sinottici - Meteorologia|{{PAGENAME}}]]
+
+</noinclude>
