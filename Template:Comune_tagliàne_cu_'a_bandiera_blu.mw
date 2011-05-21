@@ -1,0 +1,77 @@
+{{Navbox generic
+|name       = Capeluèche de provinge tagliàne
+|state      = collapsed
+|title      = {{bandiera|Italia}} Comune tagliàne cu 'a [[bandiera blu]]
+|titlestyle = font-size:90%;
+|groupstyle = text-align:right;
+|group1 = [[Itaglie nord-occidendale|Nord ovest]]
+|list1  =
+ {{Navbox generic subgroup
+ |groupstyle = text-align:left; width:18%;
+ |liststyle = text-align:left;
+ |group2 = [[Piemonte]]
+ |list2  = [[Cannero Riviera]] · [[Cannobio]] ([[Provinge d'u Verbano-Cusio-Ossola|VB]])
+ |group3 = [[Liguria]]
+ |list3  = [[Chiavari]] · [[Lavagna]] · [[Moneglia]] ([[Provinge de Genova|GE]]) · [[Camporosso]] · [[Bordighera]] · [[Loano]] ([[Provinge de Imperia|IM]]) · [[Lerici]] · [[Ameglia|Fiumaretta]] ([[Provinde de La Spezia|SP]]) · [[Finale Ligure]] · [[Noli]] · [[Spotorno]] · [[Bergeggi]] · [[Savona|Fornaci]] · [[Albissola Marina]] · [[Albisola Superiore]] · [[Celle Ligure]] · [[Varazze]] ([[Provinge de Savona|SV]])
+ }}
+|group2 = [[Itaglie nord-oriendale|Nord est]]
+|list2  =
+ {{Navbox generic subgroup
+ |groupstyle = text-align:left; width:18%;
+ |liststyle = text-align:left;
+ |group1 = [[Trendine-Alto Adige]]
+ |list1  = [[Bolzano]] · ''[[Trende]]''
+ |group2 = [[Veneto]]
+ |list2  = [[Belluno]] · [[Padova]] · [[Rovigo]] · [[Treviso]] · ''[[Venezia]]'' · [[Verona]] · [[Viscenze]]
+ |group3 = [[Friuli-Venezia Giulia]]
+ |list3  = [[Gorizia]] · [[Pordenone]] · ''[[Trieste]]'' · [[Udine]]
+ |group4 = [[Emilia-Romagna]]
+ |list4  = ''[[Bologne]]'' · [[Ferrara]] · [[Forlì]] · [[Modena]] · [[Parma]] · [[Piacenze]] · [[Ravenna]] · [[Reggio nell'Emilia|Reggio Emilia]] · [[Rimini]]
+ }}
+|group3 = [[Itaglie cendrale|Cendre]]
+|list3  =
+ {{Navbox generic subgroup
+ |groupstyle = text-align:left; width:18%;
+ |liststyle = text-align:left;
+ |group1 = [[Toscana]]
+ |list1  = [[Arezzo]] · ''[[Firenze]]'' · [[Grosseto]] · [[Livorno]] · [[Lucca]] · [[Massa (MS)|Massa]] · [[Pisa]] · [[Pistoia]] · [[Prato]] · [[Siena]]
+ |group2 = [[Marche]]
+ |list2  = ''[[Angone]]'' · [[Ascoli Piceno]] · [[Fermo]] · [[Macerata]] · [[Pesaro]] · [[Urbino]]
+ |group3 = [[Umbrie]]
+ |list3  = ''[[Perugge]]'' · [[Terni]]
+ |group4 = [[Lazie]]
+ |list4  = [[Frosinone]] · [[Latina]] · [[Rieti]] · ''[[Rome]]'' · [[Viterbo]]
+ }}
+|group4 = [[Itaglie meridionale|Sud]]
+|list4  =
+ {{Navbox generic subgroup
+ |groupstyle = text-align:left; width:18%;
+ |liststyle = text-align:left;
+ |group1 = [[Abbruzze]]
+ |list1  = ''[[L'Aquila]]'' · [[Chieti]] · [[Pescara]] · [[Teramo]]
+ |group2 = [[Molise]]
+ |list2  = ''[[Cambevasce]]'' · [[Isernia]]
+ |group3 = [[Pugghie]]
+ |list3  = [[Andria]] · ''[[Bari]]'' · [[Barletta]] · [[Brinnese]] · [[Fogge]] · [[Lecce]] · [[Tarde]] · [[Trani]]
+ |group4 = [[Campania]]
+ |list4  = [[Avellino]] · [[Benevento]] · [[Caserta]] · ''[[Napule]]'' · [[Salerno]]
+ |group5 = [[Basilicata]]
+ |list5  = [[Matera]] · ''[[Putènze]]''
+ |group6 = [[Calavrie]]
+ |list6  = ''[[Catanzaro]]'' · [[Cosenza]] · [[Crotone]] · [[Reggio Calavrie]] · [[Vibo Valentia]]
+ }}
+|group5 = [[Itaglie insulare|Isole]]
+|list5  =
+ {{Navbox generic subgroup
+ |groupstyle = text-align:left; width:18%;
+ |liststyle = text-align:left;
+ |group1 = [[Sardegna]]
+ |list1  = ''[[Cagliari]]'' · [[Carbonia]] · [[Iglesias]] · [[Lanusei]] · [[Nuoro]] · [[Olbia]] · [[Oristano]] · [[Sanluri]] · [[Sassari]] · [[Tempio Pausania]] · [[Tortolì]] · [[Villacidro]]
+ |group2 = [[Sicilia]]
+ |list2  = [[Agrigento]] · [[Caltanissetta]] · [[Catania]] · [[Enna]] · [[Messina]] · ''[[Palermo]]'' · [[Ragusa]] · [[Siracusa]] · [[Trapane]]
+ }}
+}}<noinclude>
+[[Category:Template de navigazzione - Provinge tagliàne| {{PAGENAME}}]]
+[[la:Formula:Urbes quae sunt capita provinciarum Italicarum]]
+[[sv:Mall:Italiens Provinshuvudstäder]]
+</noinclude>
