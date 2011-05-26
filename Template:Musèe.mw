@@ -1,0 +1,47 @@
+<includeonly>{| class="sinottico"
+|- class="sinottico_testata" 
+! colspan="2" bgcolor="#9AA7C6" | {{{Nome|}}}{{{NomeMuseo|}}}
+|- {{#if:{{{Immagine|}}}||class="hiddenStructure noprint"}}
+| colspan="2" bgcolor="#EAF1FF" | <center>[[File:{{{Immagine}}}|{{#if:{{{Larghezza|}}}|{{{Larghezza}}}|250px}}|{{{Didascalia|}}}]]{{#if:{{{Didascalia|}}}|<br />{{{Didascalia}}}</center>}}
+|- {{#if:{{{Tipologia|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Tipo
+| bgcolor="#EAF1FF" | {{{Tipologia}}}
+|- {{#if:{{{Data di fondazione|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Data&nbsp;fondazione
+| bgcolor="#EAF1FF" | {{{Data di fondazione}}}
+|- {{#if:{{{Data di chiusura|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Data&nbsp;chiusura
+| bgcolor="#EAF1FF" | {{{Data di chiusura}}}
+|- {{#if:{{{Fondatori|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Fondatori
+| bgcolor="#EAF1FF" | {{{Fondatori}}}
+|- {{#if:{{{Indirizzo|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Indirizzo
+| bgcolor="#EAF1FF" | {{{Indirizzo}}}
+|- {{#if:{{{Direttore|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Direttore
+| bgcolor="#EAF1FF" | {{{Direttore}}}
+|- {{#if:{{{Visitatori|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Visitatori
+| bgcolor="#EAF1FF" | {{{Visitatori}}} ([[{{{Anno visitatori}}}]])
+|- {{#if:{{{Sito|}}}||class="hiddenStructure noprint"}}
+! bgcolor="#DBE0EB" | Sito
+| bgcolor="#EAF1FF" | {{{Sito}}}
+|}</includeonly><noinclude>
+{{template complesso}}
+{{man}}
+
+[[be:Шаблон:Музей]]
+[[en:Template:Infobox museum]]
+[[es:Plantilla:Ficha de museo]]
+[[fi:Malline:Museo]]
+[[fr:Modèle:Infobox Musée]]
+[[gl:Modelo:Museo]]
+[[hy:Կաղապար:Տեղեկաքարտ Թանգարան]]
+[[it:Template:Museo]]
+[[ja:Template:博物館]]
+[[nl:Sjabloon:Infobox museum]]
+[[ru:Шаблон:Музей]]
+[[uk:Шаблон:Infobox Museum]]
+[[vi:Bản mẫu:Thông tin bảo tàng]]
+</noinclude>
