@@ -1,0 +1,50 @@
+Il [[WP:template sinottici|template sinottico]] '''Museo''' va utilizzato per le voci dei [[museo|musei]]. Basta copincollare la seguente tabella.
+
+{{TabellaTemplate
+|nome=Museo
+|parametri=
+{{parametro|Nome}}
+{{parametro|Tipologia|C|commento=tipo di materiale raccolto, con eventuali link}}
+{{parametro|Immagine|F|commento=solo nome del file}}
+{{parametro|Larghezza|F|commento=per l'immagine}}
+{{parametro|Didascalia|F|commento=per l'immagine}}
+{{parametro|Data di fondazione|C}}
+{{parametro|Data di chiusura|F}}
+{{parametro|Fondatori|F}}
+{{parametro|Indirizzo|C|commento=più preciso possibile, incluso anche lo stato}}
+{{parametro|Direttore|F}}
+{{parametro|Visitatori|A|commento=numero di visitatori, con fonte in nota}}
+{{parametro|Anno visitatori|A|commento=anno a cui si riferisce Visitatori, senza link; obbligatorio se c'è Visitatori}}
+{{parametro|Sito|F|commento=sito internet}}
+}}
+
+== Esempio (Israel Museum) ==
+{{Museo
+|Nome = Israel Museum 
+|Tipologia = [[Etnografia]], [[arte]], [[archeologia]]
+|Immagine = Israel - Jerusalem - Shrine of the Book.jpg
+|Didascalia= Il padiglione dei rotoli
+|Larghezza= 180px
+|Data di fondazione= [[1965]]
+|Indirizzo = Ruppin Boulevard, [[Gerusalemme]], [[Israele]]
+|Visitatori = 66666<ref>Prova</ref>
+|Anno visitatori = 2010
+|Sito = http://www.imj.org.il/
+}}
+<div style="width: 41em; padding:0.5em 1em; border: 1px dotted gray; background: #EFE; font-size:90%;"><tt>
+<nowiki>{{Museo</nowiki><br>
+<nowiki>|Nome = Israel Museum</nowiki> <br>
+<nowiki>|Tipologia = [[Etnografia]], [[arte]], [[archeologia]]</nowiki><br>
+<nowiki>|Immagine = Israel - Jerusalem - Shrine of the 
+Book.jpg</nowiki><br>
+<nowiki>|Didascalia= Il padiglione dei rotoli</nowiki><br>
+<nowiki>|Larghezza= 180px</nowiki><br>
+<nowiki>|Data di fondazione= [[1965]]</nowiki><br>
+<nowiki>|Indirizzo = Ruppin Boulevard, [[Gerusalemme]], [[Israele]]</nowiki><br>
+<nowiki>|Visitatori = 66666<ref>Prova</ref></nowiki><br>
+<nowiki>|Anno visitatori = 2010</nowiki><br>
+<nowiki>|Sito = http://www.imj.org.il/</nowiki><br>
+<nowiki>}}</nowiki></tt>
+</div>
+
+<references/>
