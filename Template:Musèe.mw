@@ -4,7 +4,7 @@
 |- {{#if:{{{Immagine|}}}||class="hiddenStructure noprint"}}
 | colspan="2" bgcolor="#EAF1FF" | <center>[[File:{{{Immagine}}}|{{#if:{{{Larghezza|}}}|{{{Larghezza}}}|250px}}|{{{Didascalia|}}}]]{{#if:{{{Didascalia|}}}|<br />{{{Didascalia}}}</center>}}
 |- {{#if:{{{Tipologia|}}}||class="hiddenStructure noprint"}}
-! bgcolor="#DBE0EB" | Tipo
+! bgcolor="#DBE0EB" | Tipe
 | bgcolor="#EAF1FF" | {{{Tipologia}}}
 |- {{#if:{{{Data di fondazione|}}}||class="hiddenStructure noprint"}}
 ! bgcolor="#DBE0EB" | Data&nbsp;fondazione
@@ -16,7 +16,7 @@
 ! bgcolor="#DBE0EB" | Fondatori
 | bgcolor="#EAF1FF" | {{{Fondatori}}}
 |- {{#if:{{{Indirizzo|}}}||class="hiddenStructure noprint"}}
-! bgcolor="#DBE0EB" | Indirizzo
+! bgcolor="#DBE0EB" | 'Ndirizze
 | bgcolor="#EAF1FF" | {{{Indirizzo}}}
 |- {{#if:{{{Direttore|}}}||class="hiddenStructure noprint"}}
 ! bgcolor="#DBE0EB" | Direttore
@@ -25,7 +25,7 @@
 ! bgcolor="#DBE0EB" | Visitatori
 | bgcolor="#EAF1FF" | {{{Visitatori}}} ([[{{{Anno visitatori}}}]])
 |- {{#if:{{{Sito|}}}||class="hiddenStructure noprint"}}
-! bgcolor="#DBE0EB" | Sito
+! bgcolor="#DBE0EB" | Site
 | bgcolor="#EAF1FF" | {{{Sito}}}
 |}</includeonly><noinclude>
 {{template complesso}}
