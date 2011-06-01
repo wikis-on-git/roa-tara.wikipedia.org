@@ -1,0 +1,1 @@
+<includeonly><span style="display:none">{{padleft:0{{#expr:(({{{1}}} + .5) round 0)-1}}|16|&}}.{{padleft:{{#expr:(1000000*({{{1}}}- ({{#ifexpr:({{{1}}}-0.5)=-0.5|0|{{#expr:({{{1}}}-0.5) round 0}}}}))) round 0}}|6|&}}</span>{{#if:{{{hidden|}}}||{{formatnum:{{{1}}}}}}}</includeonly>
