@@ -69,27 +69,4 @@
 |Ultima          = &nbsp;
 |StileUltima     = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}};height:50%
 
-}}{{#if: {{{cat|}}}||{{Gastronomia/Autocat
-|categoria={{{categoria|}}}
-|paese={{{paese|}}}
-|paese2={{{paese2|}}}
-|paese3={{{paese3|}}}
-|paese4={{{paese4|}}}
-|riconoscimento={{{riconoscimento|}}}
-|regione={{{regione|}}}
-|regione2={{{regione2|}}}
-|regione3={{{regione3|}}}
-|regione4={{{regione4|}}}
-|regione5={{{regione5|}}}
-|regione6={{{regione6|}}}
-|regione7={{{regione7|}}}
-|regione8={{{regione8|}}}
-|regione9={{{regione9|}}}
-|regione10={{{regione10|}}}
-|regione11={{{regione11|}}}
-|regione12={{{regione12|}}}
-|regione13={{{regione13|}}}
-|regione14={{{regione14|}}}
-|regione15={{{regione15|}}}
-|immagine={{{immagine|}}}
-}}}}</includeonly>
+}}
