@@ -69,7 +69,7 @@
 |Ultima          = &nbsp;
 |StileUltima     = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}};height:50%
 
-}}<!-- categorizzazione automatica -->[[Categoria:GastroBot]]{{#if: {{{cat|}}}||{{Gastronomia/Autocat
+}}{{#if: {{{cat|}}}||{{Gastronomia/Autocat
 |categoria={{{categoria|}}}
 |paese={{{paese|}}}
 |paese2={{{paese2|}}}
