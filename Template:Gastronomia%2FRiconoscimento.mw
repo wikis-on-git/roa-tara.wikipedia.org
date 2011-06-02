@@ -1,0 +1,37 @@
+{{#switch:{{uc:{{{1|}}}}}
+<!-- Prodotti DOP -->
+| DOP = [[Denominazione di origine protetta|D.O.P.]]
+| DOP-PTN = [[Denominazione di Origine Protetta - Protezione Transitoria Nazionale|D.O.P. - P.T.N.]]
+| GU  = [[Denominazione di origine protetta|g.U.]]
+| BOB = [[Denominazione di origine protetta|B.O.B.]]
+| POP
+| ΠΟΠ = [[Denominazione di origine protetta|Π.Ο.Π.]]
+| SAN = [[Denominazione di origine protetta|S.A.N.]]
+| PDO = [[Denominazione di origine protetta|P.D.O.]]
+| CNP = [[Denominazione di origine protetta|C.N.P.]]
+| SUB = [[Denominazione di origine protetta|S.U.B.]]
+| OEM = [[Denominazione di origine protetta|O.E.M.]]
+| AOP = [[Prodotti AOC francesi|A.O.P.]]
+| AOC = [[Prodotti AOC francesi|A.O.C.]]
+<!-- Prodotti STG -->
+| STG = [[Specialità tradizionale garantita|S.T.G.]]
+<!-- Prodotti IG e IGP -->
+| IG  = [[Indicazione Geografica|I.G.]]
+| GGA = [[Indicazione geografica protetta|G.G.A.]]
+| IGP = [[Indicazione geografica protetta|I.G.P.]]
+| IGP-PTN = [[Denominazione di Origine Protetta - Protezione Transitoria Nazionale|I.G.P. - P.T.N.]]
+| BGB = [[Indicazione geografica protetta|B.G.B.]]
+| PGE
+| ΠΓΕ = [[Indicazione geografica protetta|Π.Γ.Ε.]]
+| SMM = [[Indicazione geografica protetta|S.M.M.]]
+| PGI = [[Prodotti PGI britannici|PGI]]
+| BGA = [[Indicazione geografica protetta|B.G.A.]]
+| COG = [[Indicazione geografica protetta|C.O.G.]]
+| SGB = [[Indicazione geografica protetta|S.G.B.]]
+| OFJ = [[Indicazione geografica protetta|O.F.J.]]
+<!-- Prodotti agroalimentari -->
+| PAT = [[Prodotti agroalimentari tradizionali italiani|P.A.T.]]
+<!-- Prodotti generici -->
+|={{{riconoscimento|}}}
+| #default = <strong class="error">Errore</strong>
+}}
