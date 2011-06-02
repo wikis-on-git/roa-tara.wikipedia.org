@@ -1,0 +1,17 @@
+<includeonly>{{#switch:{{{1}}}
+|antipasto  = [[Antipasti|antipasto]]
+|primo      = [[Menu#Raggruppamenti delle portate nei menu italiani|primo piatto]]
+|secondo    = [[Menu#Raggruppamenti delle portate nei menu italiani|secondo piatto]]
+|contorno   = [[Contorni|contorno]]
+|salsa      = [[Salsa (gastronomia)|salsa]]
+|dolce
+|dessert    = [[dolce]]
+|condimento = [[condimento]]
+|unico      = piatto unico
+|formaggio  = [[formaggio]]
+|bevanda    = [[bevanda]]
+|frutta
+|ortaggio
+|ortofrutta = [[Filiera dei prodotti ortofrutticoli|ortofrutticolo]]
+|#default   = <strong class="error">Errore</strong>
+}}</includeonly>
