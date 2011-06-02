@@ -15,17 +15,16 @@
 |StileGruppo     = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}}
 |StileNome       = background:{{Gastronomia/Colori|nome|{{{riconoscimento|}}}}}
 
-|Gruppo1         = Origini
-|Nome2           = [[Alfabeto fonetico internazionale|IPA]]
+|Gruppo1         = Origgene|Nome2           = [[Alfabeto fonetico internazionale|IPA]]
 |Valore2         = {{#if:{{{IPA|}}}|/{{IPA|{{{IPA|}}}}}/|}}
-|Nome3           = Altri nomi
+|Nome3           = Otre nome
 |Valore3         = {{{altri nomi|}}}
-|Nome4           = Luog{{#if: {{{paese2|}}}|hi|o}} d'origine
+|Nome4           = Luèc{{#if: {{{paese2|}}}|he|he}} d'origgene
 |Valore4         = {{#if:{{{paese|}}}|{{Bandiera|{{{paese}}}}} [[{{{paese}}}]]|<strong class="error">Errore</strong>}}<!--
              -->{{#if:{{{paese2|}}}|<br />{{Bandiera|{{{paese2}}}}} [[{{{paese2}}}]]|}}<!--
              -->{{#if:{{{paese3|}}}|<br />{{Bandiera|{{{paese3}}}}} [[{{{paese3}}}]]|}}<!--
              -->{{#if:{{{paese4|}}}|<br />{{Bandiera|{{{paese4}}}}} [[{{{paese4}}}]]|}}
-|Nome5           = Region{{#if: {{{regione2|}}}|i|e}}
+|Nome5           = Reggion{{#if: {{{regione2|}}}|e|e}}
 |Valore5         = {{#if: {{{regione|}}}|[[{{{regione|}}}]]|}}<!--
              -->{{#if: {{{regione2|}}}|<br />[[{{{regione2}}}]]|}}<!--
              -->{{#if: {{{regione3|}}}|<br />[[{{{regione3}}}]]|}}<!--
@@ -43,27 +42,27 @@
              -->{{#if: {{{regione15|}}}|<br />[[{{{regione15}}}]]|}}
 |Nome6           = Diffusione
 |Valore6         = {{{diffusione|}}}
-|Nome7           = Creato da
+|Nome7           = Crejète da
 |Valore7         = {{{creatore|}}}
-|Nome8           = Zona di produzione
+|Nome8           = Vanne de produzione
 |Valore8         = {{{zona|}}}
 
-|Gruppo9         = Dettagli
-|Nome10          = Categoria
+|Gruppo9         = Dettaglie
+|Nome10          = Categorije
 |Valore10        = {{Gastronomia/Categoria|{{{categoria}}}}}
-|Nome11          = Riconoscimento
+|Nome11          = Reconoscimènde
 |Valore11        = {{Gastronomia/Riconoscimento|{{{riconoscimento|}}}}}
 |Nome12          = Settore
 |Valore12        = {{#if:{{{settore|}}}|{{{settore}}}}}
-|Nome13          = Consorzio di tutela
+|Nome13          = Consorzie de tutele
 |Valore13        = {{#if:{{{consorzio|}}}|{{{consorzio}}}}}
-|Nome14          = Ingredienti principali
+|Nome14          = 'Ngrediente prengepàle
 |Valore14        = {{{ingredienti|}}}
-|Nome15          = Varianti
+|Nome15          = Variande
 |Valore15        = {{{varianti|}}}
 |Nome16          = [[Caloria|Calorie]] approssimative per portata
 |Valore17        = {{{calorie|}}}
-|Nome17          = Altre informazioni
+|Nome17          = Otre 'mbormazziune
 |Valore17        = {{{altro|{{{note|}}}}}}
 
 |Ultima          = &nbsp;
