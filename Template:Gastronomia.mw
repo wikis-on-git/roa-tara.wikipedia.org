@@ -1,0 +1,95 @@
+<includeonly><!--
+-->{{#if:{{{paese|}}}||{{Gastronomia/warning|paese}}}}<!--
+-->{{#if:{{{categoria|}}}||{{Gastronomia/warning|categoria}}}}<!--
+-->{{#ifeq:{{Gastronomia/Riconoscimento|{{{riconoscimento|}}}}}|<strong class="error">Errore</strong><!--
+                                                          -->|{{Gastronomia/warning|riconoscimento}}|}}<!--
+-->{{Infobox
+|ClasseTabella   = sinottico
+|TitoloInt       = {{{nome|{{PAGENAME}}}}}
+|StileTitoloInt  = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}}
+|Immagine        = {{#if:{{{immagine|}}}<!--
+                     -->|{{Immagine sinottico|{{{immagine}}}|{{{didascalia|}}}}}<!--
+                     -->|[[File:Nessuna immagine autorizzata - Cucina.png{{!}}150px{{!}}{{{nome|{{PAGENAME}}}}}]]<!--
+                     -->}}
+|Didascalia      = <!-- non più usato - si sfrutta il template:Immagine -->
+|StileGruppo     = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}}
+|StileNome       = background:{{Gastronomia/Colori|nome|{{{riconoscimento|}}}}}
+
+|Gruppo1         = Origini
+|Nome2           = [[Alfabeto fonetico internazionale|IPA]]
+|Valore2         = {{#if:{{{IPA|}}}|/{{IPA|{{{IPA|}}}}}/|}}
+|Nome3           = Altri nomi
+|Valore3         = {{{altri nomi|}}}
+|Nome4           = Luog{{#if: {{{paese2|}}}|hi|o}} d'origine
+|Valore4         = {{#if:{{{paese|}}}|{{Bandiera|{{{paese}}}}} [[{{{paese}}}]]|<strong class="error">Errore</strong>}}<!--
+             -->{{#if:{{{paese2|}}}|<br />{{Bandiera|{{{paese2}}}}} [[{{{paese2}}}]]|}}<!--
+             -->{{#if:{{{paese3|}}}|<br />{{Bandiera|{{{paese3}}}}} [[{{{paese3}}}]]|}}<!--
+             -->{{#if:{{{paese4|}}}|<br />{{Bandiera|{{{paese4}}}}} [[{{{paese4}}}]]|}}
+|Nome5           = Region{{#if: {{{regione2|}}}|i|e}}
+|Valore5         = {{#if: {{{regione|}}}|[[{{{regione|}}}]]|}}<!--
+             -->{{#if: {{{regione2|}}}|<br />[[{{{regione2}}}]]|}}<!--
+             -->{{#if: {{{regione3|}}}|<br />[[{{{regione3}}}]]|}}<!--
+             -->{{#if: {{{regione4|}}}|<br />[[{{{regione4}}}]]|}}<!--
+             -->{{#if: {{{regione5|}}}|<br />[[{{{regione5}}}]]|}}<!--
+             -->{{#if: {{{regione6|}}}|<br />[[{{{regione6}}}]]|}}<!--
+             -->{{#if: {{{regione7|}}}|<br />[[{{{regione7}}}]]|}}<!--
+             -->{{#if: {{{regione8|}}}|<br />[[{{{regione8}}}]]|}}<!--
+             -->{{#if: {{{regione9|}}}|<br />[[{{{regione9}}}]]|}}<!--
+             -->{{#if: {{{regione10|}}}|<br />[[{{{regione10}}}]]|}}<!--
+             -->{{#if: {{{regione11|}}}|<br />[[{{{regione11}}}]]|}}<!--
+             -->{{#if: {{{regione12|}}}|<br />[[{{{regione12}}}]]|}}<!--
+             -->{{#if: {{{regione13|}}}|<br />[[{{{regione13}}}]]|}}<!--
+             -->{{#if: {{{regione14|}}}|<br />[[{{{regione14}}}]]|}}<!--
+             -->{{#if: {{{regione15|}}}|<br />[[{{{regione15}}}]]|}}
+|Nome6           = Diffusione
+|Valore6         = {{{diffusione|}}}
+|Nome7           = Creato da
+|Valore7         = {{{creatore|}}}
+|Nome8           = Zona di produzione
+|Valore8         = {{{zona|}}}
+
+|Gruppo9         = Dettagli
+|Nome10          = Categoria
+|Valore10        = {{Gastronomia/Categoria|{{{categoria}}}}}
+|Nome11          = Riconoscimento
+|Valore11        = {{Gastronomia/Riconoscimento|{{{riconoscimento|}}}}}
+|Nome12          = Settore
+|Valore12        = {{#if:{{{settore|}}}|{{{settore}}}}}
+|Nome13          = Consorzio di tutela
+|Valore13        = {{#if:{{{consorzio|}}}|{{{consorzio}}}}}
+|Nome14          = Ingredienti principali
+|Valore14        = {{{ingredienti|}}}
+|Nome15          = Varianti
+|Valore15        = {{{varianti|}}}
+|Nome16          = [[Caloria|Calorie]] approssimative per portata
+|Valore17        = {{{calorie|}}}
+|Nome17          = Altre informazioni
+|Valore17        = {{{altro|{{{note|}}}}}}
+
+|Ultima          = &nbsp;
+|StileUltima     = background:{{Gastronomia/Colori|gruppo|{{{riconoscimento|}}}}};height:50%
+
+}}<!-- categorizzazione automatica -->[[Categoria:GastroBot]]{{#if: {{{cat|}}}||{{Gastronomia/Autocat
+|categoria={{{categoria|}}}
+|paese={{{paese|}}}
+|paese2={{{paese2|}}}
+|paese3={{{paese3|}}}
+|paese4={{{paese4|}}}
+|riconoscimento={{{riconoscimento|}}}
+|regione={{{regione|}}}
+|regione2={{{regione2|}}}
+|regione3={{{regione3|}}}
+|regione4={{{regione4|}}}
+|regione5={{{regione5|}}}
+|regione6={{{regione6|}}}
+|regione7={{{regione7|}}}
+|regione8={{{regione8|}}}
+|regione9={{{regione9|}}}
+|regione10={{{regione10|}}}
+|regione11={{{regione11|}}}
+|regione12={{{regione12|}}}
+|regione13={{{regione13|}}}
+|regione14={{{regione14|}}}
+|regione15={{{regione15|}}}
+|immagine={{{immagine|}}}
+}}}}</includeonly>
