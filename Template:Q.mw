@@ -1,0 +1,14 @@
+<includeonly>{| style="padding:0; width:auto; background:none; margin-bottom:.5em; font-size:95%; color:#000; text-align:left;"
+{{#if:{{{lingua|}}} {{{4|}}}|
+{{!}} valign="top" style="border:none;width:50%; padding:0 1.2em;"{{!}} {{{{{lingua|}}}}} {{{4|}}}<div style="font-style:normal"><span style="font-size:125%; ">'''«'''</span>&nbsp;{{{3}}}&nbsp;<span style="font-size:125%;">'''»'''</span></div>
+{{!}} valign="top" style="border:none;width:50%; padding:0 1.2em;"{{!}} {{#if:{{{lingua2|}}}|{{{{{lingua2}}}}}|(<span style="font-weight: bolder; font-size: 80%;">[[Lingua italiana|IT]]</span>)}}<div style="font-style:normal"><span style="font-size:125%; ">'''«'''</span>&nbsp;{{{1}}}&nbsp;<span style="font-size:125%; ">'''»'''</span></div>
+{{!}}- {{#if:{{{2|}}}||class="hiddenStructure noprint"}}
+{{!}} colspan="2" style="padding:0 1.2em;border:none"{{!}}{{#if:{{{2|}}}|<div style="font-style:normal">(<small>{{{2}}}</small>)</div>}}
+|
+{{!}} style="padding:0 1.2em; vertical-align:top;border:none"{{!}}
+{{!}} style="padding:0 1.2em 0 0;border:none"{{!}}<span style="font-style:normal; font-size:125%; ">'''«'''</span>&nbsp;{{{1}}}&nbsp;<span style="font-size:125%; ">'''»'''</span></div>
+{{!}}- {{#if:{{{2|}}}||class="hiddenStructure noprint"}}
+{{!}} style="padding:0 1.2em;border:none"{{!}}
+{{!}} style="padding:0 1.2em 0 0;border:none"{{!}}{{#if:{{{2|}}}|<div style="font-style:normal">(<small>{{{2}}}</small>)</div>}}
+}}
+|}</includeonly>
