@@ -1,0 +1,20 @@
+{{#if: {{{title|}}}
+  |{{#if: {{{author|}}}
+    |{{{author}}}
+  }}{{#if: {{{date|}}}
+    |&#32;({{{date}}}). 
+    |. 
+  }}{{#if: {{{url|}}}
+    |&#32;{{#if: {{{curly|}}}|“|"}}''[{{{url}}} {{{title}}}]''{{#if: {{{curly|}}}|”|"}}
+    |&#32;{{#if: {{{curly|}}}|“|"}}''{{{title}}}''{{#if: {{{curly|}}}|”|"}}
+  }}{{#if: {{{format|}}}
+    | &#32;({{{format}}})
+  }}. {{#if: {{{version|}}}
+    |{{{version}}}.&#32;
+  }}{{#if: {{{publisher|}}}
+    |{{{publisher}}}.&#32;
+  }}{{#if: {{{accessdate|}}}
+    |&#32;Conzultate 'u {{{accessdate}}}.
+  }}
+  |Template copiate da en.wikipedia.org Referirse ad 'u site de origgene pe' 'a documendaziune sus a ll'ause.
+}}
