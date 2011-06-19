@@ -1,0 +1,21 @@
+<includeonly>{{cita pubblicazione
+|cognome = {{{last|}}}
+|nome = {{{first|}}}
+|autore = {{{author|}}}
+|linkautore = {{{authorlink|}}}
+|coautore = {{{coauthors|}}}
+|date = {{{date|}}}
+|anne = {{{year|}}}
+|mise = {{{month|}}}
+|titole = {{{title|}}}
+|riviste = {{{journal|}}}
+|volume = {{{volume|}}}
+|numere = {{{issue|}}}
+|paggene = {{{pages|}}}
+|doi = {{{doi|}}}
+|id = {{{id|}}}
+|url = {{{url|}}}
+|lènga = {{{language|}}}
+|accesse = {{{accessdate|}}}
+|cid = {{{ref|}}}
+}}</includeonly>
