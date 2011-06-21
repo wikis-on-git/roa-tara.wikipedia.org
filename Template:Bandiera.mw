@@ -1,0 +1,19 @@
+<noinclude>{{templateprotetto}}</noinclude><includeonly>[[Image:{{Naz/{{{1}}}|a}}|Bandiera&#32;{{Naz/{{{1}}}|b}}{{Naz/{{{1}}}|c}}|border|{{{dim|20}}}px]]{{#ifeq:{{{2}}}|nome|&nbsp;[[{{ #if:{{Naz/{{{1}}}|e}}|{{Naz/{{{1}}}|e}}{{!}}|}}{{Naz/{{{1}}}|c}}]]}}</includeonly><noinclude>{{man}}
+
+[[Categoria:Template bandierine| ]]
+
+[[ar:قالب:Flagicon]]
+[[ca:Plantilla:Bandera]]
+[[cs:Šablona:Flagicon]]
+[[cy:Nodyn:Eicon baner]]
+[[en:Template:Flagicon]]
+[[es:Plantilla:Flagicon]]
+[[fr:Modèle:Drapeau]]
+[[hsb:Předłoha:Chorhoj]]
+[[hu:Sablon:Zászló]]
+[[ja:Template:Flagicon]]
+[[ko:틀:국기나라]]
+[[pt:Predefinição:Flagicon]]
+[[ro:Format:Flagicon]]
+[[th:แม่แบบ:Flagicon]]
+</noinclude>
