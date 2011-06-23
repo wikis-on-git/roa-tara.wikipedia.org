@@ -1,0 +1,5 @@
+<includeonly>{{ #switch: {{{1}}}	
+| a = Flag of Johnston Atoll (local).svg
+| b = dë&#32;
+| c = Atollo Johnston
+}}</includeonly>
