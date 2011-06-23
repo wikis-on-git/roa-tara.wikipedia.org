@@ -1,0 +1,5 @@
+<includeonly>{{ #switch: {{{1}}}	
+| a = Flag of Washington, D.C..svg
+| b = de&#32;
+| c = Destritte de Columbia
+}}</includeonly>
