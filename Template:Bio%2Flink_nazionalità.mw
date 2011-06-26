@@ -1,16 +1,14 @@
 <includeonly>{{ #switch: {{{1}}}
 | afghana
 | afghano		= Afghanistan
-| albanese		= Albania
+| albanese		= Albanie
 | algerina
 | algerino		= Algeria
 | andorrana
 | andorrano		= Andorra
 | angolana
 | angolano		= Angola
-| argendine
-| argentina
-| argentino		= Argentina
+| argendine		= Argendine
 | armena
 | armeno		= Armenia
 | australiana
