@@ -1,0 +1,426 @@
+<includeonly>{{ #switch: {{{1}}}
+| abate                    = abate
+| accademiche               = accademiche
+| agente de Polizia        = Polizia de Stato
+| agente scelto de Polizia = Polizia de Stato
+| allenatore de atletica
+| allenatore de atletica leggera
+| allenatrice de atletica
+| allenatrice de atletica leggera
+| allenatore de baseball
+| allenatrice de baseball
+| ex allenatore de calcio
+| allenatore de calcio
+| allenatrice de calcio
+| allenatore de calcio a 5
+| allenatrice de calcio a 5
+| allenatore de football americane
+| allenatore de ginnastica artistiche
+| allenatrice de ginnastica artistiche
+| allenatore de hockey sus a 'u ghiacce
+| allenatrice de hockey sus a 'u ghiacce
+| allenatore de judo
+| allenatrice de judo
+| allenatore de pallacanestre
+| allenatrice de pallacanestre
+| allenatore de pallavolo
+| allenatrice de pallavolo
+| allenatore de pattinaggio
+| allenatrice de pattinaggio
+| allenatore de pugilato
+| allenatrice de pugilato
+| allenatore de rugby
+| allenatrice de rugby     = allenatore
+| ambiendaliste            = ambientalisme
+| anarchica
+| anarchico                = anarchia
+| animatrice               = animatore
+| annunciatrice televisiva = annunciatore televisivo
+| antiquaria               = antiquario
+| antifascista             = antifascista
+| antropologa              = antropologo
+| arbitro di pallacanestro = arbitro (pallacanestro)
+| archeologa               = archeologo
+| architette               = architette
+| arciere                  = tiro con l'arco
+| arcivescovo cattolico    = arcivescovo
+| artista marziale         = arte marziale
+| assistente di Polizia    = Polizia di Stato
+| astrofisica              = astrofisico
+| astrologa                = astrologo
+| ex astronauta            = astronauta
+| astronoma                = astronomo
+| atleta
+| ex atleta                = atletica leggera
+| attivista                = attivismo politico
+| attore 
+| attrice
+| attrice cinematografeche
+| attrice televisive
+| attore cinematografeche
+| attore televisive        = attore
+| attrice pornografeche
+| attore pornografeche      = pornografije
+| attrice tiatrale
+| attore tiatrale          = attore tiatrale
+| autore di fumetti        
+| autrice di fumetti       = autori di fumetti
+| autrice televisiva       = autore televisivo
+| aviatrice                = aviatore
+| ballerina                = ballerino
+| banchiere                = banca
+| basso                    = basso (voce)
+| batteriologa
+| batteriologo             = batteriologia
+| biathleta
+| biatleta                 = biathlon
+| bibliotecaria
+| bibliotecario            = biblioteca
+| biochimica
+| biochimico               = biochimica
+| biografa
+| biografo                 = biografia
+| biologa                  = biologo
+| bobbista                 = bob
+| botanica                 = botanico
+| cabarettista             = Cabaret (spettacolo)
+| calciatore
+| calciatrice
+| ex calciatore
+| ex calciatrice           = calciatore
+| canoista                 = Canoa (sport)
+| canottiera
+| canottiere               = canottaggio
+| candande pop
+| candande rock
+| candande lirico
+| candande lirica          = Candande
+| candautrice              = candautore
+| cardiochirurgo           = Cardiochirurgia
+| casting director         = casting (cinema)
+| cavaliere                
+| cavallerizza             = equitazione
+| cestista                 
+| ex cestista              = pallacanestro
+| chimica                  = chimico
+| chimico fisico           = chimica fisica
+| chitarrista              
+| ex chitarrista           = chitarra
+| ciclista                 
+| ex ciclista              = Ciclismo
+| circense                 = Circo (spettacolo)
+| clarinettista            = Clarinetto
+| clavicembalista          = Clavicembalo
+| collaboratore di giustizia
+| collaboratrice di giustizia = pentitismo
+| conduttrice radiofoneche  = conduttore radiofoneche
+| conduttrice televisive   = conduttore televisive
+| contessa                 = conte
+| contrabbassista          = contrabbassista
+| coreografa               = coreografo
+| criminale                = reato
+| criminologa              = criminologo
+| critica cinematografica  = critico cinematografico
+| critica d'arte           = critico d'arte
+| critica letteraria       = critico letterario
+| critica televisiva       = critico televisivo
+| crittanalista            = crittoanalisi
+| crittografa
+| crittografo            = crittografia
+| crittologa
+| crittologo            = crittologia
+| danzatore
+| danzatrice               = danza
+| deejay                   = disc jockey
+| delfino                  = delfino (titolo)
+| deputata                 = deputato
+| diplomatica              = diplomatico
+| direttore del casting
+| direttrice del casting   = casting (cinema)
+| direttore di banda 
+| direttrice di banda = Banda musicale
+| direttore di coro
+| direttrice di coro       = direttore d'orchestra
+| direttore teatrale
+| direttrice teatrale      = teatro
+| ex dirigente d'azienda
+| dirigente d'azienda      = management
+| dirigente infermieristica
+| dirigente infermieristico = infermiere
+| dirigente sportiva
+| dirigente sportivo       = dirigente
+| disegnatore             
+| disegnatrice             = disegno
+| divulgatrice scientifica = divulgatore scientifico
+| doppiatrice              = doppiatore
+| comiche
+| commediografa
+| commediografo
+| tragediografo
+| tragediografa
+| drammaturga              = drammaturgo
+| combosetore              = combosetore
+| ecologo                  = ecologia
+| educatore scout
+| educatrice scout         = scautismo
+| enologo                  = enologia
+| entomologo
+| entomologa               = entomologia
+| enigmista                = enigmistica
+| esperantista             = lingua esperanto
+| etnologa                 
+| etnologo                 = etnologia
+| etnomusicologa
+| etnomusicologo           = etnomusicologia
+| etologa                  = etologo
+| fantino                  = ippica
+| farmacologa              = farmacologo
+| filantropa               
+| filantropo               = filantropo
+| filologa
+| filologo                 = filologia
+| filologa classica
+| filologo classico        = filologia classica
+| felosofa                 = felosofe
+| first lady               = first lady
+| fiseche                  = fiseche
+| flautista                = flautista
+| ex fondista
+| fondista                 = sci di fondo
+| fotografa                = fotografo
+| generale                 = generale
+| geografa                 = geografo
+| geologa                  = geologo
+| ginnasta                 = ginnastica
+| ex giocatore di badminton
+| ex giocatrice di badminton
+| giocatore di badminton
+| giocatrice di badminton = badminton
+| giocatore di baseball
+| giocatrice di baseball   = baseball
+| giocatore di biliardo    = biliardo
+| giocatore di bridge      
+| giocatrice di bridge     = bridge (gioco)
+| ex giocatore di calcio a 5 = giocatore di calcio a 5
+| giocatore di curling
+| giocatrice di curling
+| ex giocatore di curling
+| ex giocatrice di curling = curling
+| ex giocatore di football americano
+| giocatore di football americano = football americano
+| giocatore di snooker     = snooker
+| giocatore di squash      = squash
+| giocatore di poker
+| giocatrice di poker      = giocatore professionista di poker
+| sciurnaliste sportive     = sciurnaliste
+| glossopoete
+| glossopoetesse
+| glottoteta               = glottoteta
+| glottologa               = glottologo
+| golfista                 = golf
+| grammatica
+| grammatico               = grammatica
+| hacker                   = hacker
+| hockeista su ghiaccio    = hockey su ghiaccio
+| hockeista in-line        = hockey in-line
+| hockeista su pista       = hockey su pista
+| hockeista su prato       = hockey su prato
+| illusionista             = illusionismo
+| illustratrice            = illustratore
+| imitatrice               = imitatore
+| imprenditrice            = imprenditore
+| incisore                 = incisione
+| judoka                   = judo
+| karateka                 = karate
+| librettista              = libretto
+| linguista                = linguistica
+| logico                   = logica
+| lottatore
+| lottatrice               = lotta
+| lottatore di sumo        = sumo
+| liutaio
+| liutaia                  = liuteria                         
+| ex magistrata
+| magistrata
+| ex magistrato
+| magistrato               = magistrato
+| matemateche              = matemateche
+| medaglista               = medaglista
+| mercenario               = mercenario
+| minatore                 = minatore
+| miniatore
+| miniatrice
+| miniaturista             = miniatura
+| missionaria              = missionario
+| modello
+| modella                  = modello (professione)
+| frate
+| monaco                   
+| monaca 
+| suora                    = monachesimo
+| montatore                
+| montatrice               = montatore (cinema)
+| musicologa                   = musicologo
+| museciste = museciste
+| ex motociclista
+| motociclista             = motociclismo
+| naturalista              = scienze naturali
+| neurofisiologo           = neurofisiologia
+| neurologo                = neurologia
+| neuroscienziata
+| neuroscienziato          = neuroscienze
+| nobildonna
+| nobile
+| nobiluomo                = nobiltà
+| ex nuotatore
+| nuotatore
+| ex nuotatrice
+| nuotatrice               = nuoto
+| oboista                  = oboe
+| oceanografa
+| oceanografo              = oceanografia
+| oculista                 = oculistica
+| operaio
+| operaia                  = operaio
+| operatrice cinematografica
+| operatore cinematografico = cinema
+| orientalista             = orientalismo
+| orientista               = orienteering
+| organista                = organo (musica)
+| orologiaia
+| orologiaio               = orologeria
+| paleontologa             = paleontologo
+| pallanuotista            = pallanuoto
+| ex pallavolista
+| pallavolista             = pallavolo
+| pallonista               = pallone elastico
+| papa                     = papa
+| pattinatore
+| pattinatrice             = pattinaggio
+| pattinatrice di figura
+| pattinatore di figura    = pattinaggio di figura
+| pedagogista              = pedagogo
+| pentatleta               = pentathlon moderno
+| performance artist       = performance art
+| copilota di rally
+| pilota di rally          = rally
+| pilota automobilistico
+| pilota automobilistica   = automobilismo
+| pettore
+| pettrice                 = pettore
+| poetesse                 = poete
+| uomo politico
+| politeche                 = politeche
+| politologa
+| politologo               = scienze politiche
+| poliziotta               = poliziotto
+| pornostar                = pornostar
+| predicatore              = predicazione
+| preparatore atletico     = preparatore atletico
+| presidente del consiglio = presidente del Consiglio dei Ministri
+| produttore cinematografeche 
+| produttrice cinematografeche = Produzione cinematografeche 
+| produttore televisivo
+| produttrice televisiva   = Televisione
+| produttrice discografica
+| produttore discografico = produzione discografica
+| psichiatra               = psichiatria
+| psicologa                = psicologo
+| pubblicitaria
+| pubblicitario            = pubblicità
+| releggiose
+| releggiose                = releggione
+| reggiste cinematografeche  = reggie cinematografeche
+| rivoluzionaria           = rivoluzionario
+| romanziera
+| romanziere               = romanzo
+| sacerdotessa             = sacerdote
+| saltatrice con gli sci
+| saltatore con gli sci    
+| ex saltatore con gli sci
+| ex saltatrice con gli sci = Salto con gli sci 
+| sceneggiatrice           = sceneggiatore
+| scenografa               = scenografo
+| schermidore
+| schermitrice             = scherma
+| sciatore
+| sciatrice             
+| ex sciatore
+| ex sciatrice             = sci
+| sciatore alpino
+| sciatrice alpina 
+| ex sciatore alpino
+| ex sciatrice alpina      = sci alpino 
+| sciatore nordico
+| sciatrice nordica 
+| ex sciatore nordico
+| ex sciatrice nordica     = sci nordico
+| sciatore nautico
+| sciatrice nautica
+| ex sciatore nautico
+| ex sciatrice nautica     = sci nautico
+| scienziata               = scienziato
+| scrittrice               = screttore
+| senatrice                = senatore
+| signore                  = signoria cittadina
+| slamballer               = slamball
+| slittinista              = slittino
+| snowboarder              = snowboarding
+| sollevatrice
+| sollevatore              = sollevamento pesi
+| imperatore
+| imperatrice
+| re
+| regina
+| zar
+| zarina
+| sovrana                  = sovrano
+| storiografo
+| storiografa
+| storica                  = storico
+| storica dell'architettura
+| storico dell'architettura        = storia dell'architettura
+| storica dell'arte
+| storico dell'arte        = storia dell'arte
+| suonatore di banjo
+| suonatrice di banjo      = banjo
+| supermodella
+| supermodello             = supermodel
+| ex skeletonista
+| skeletonista             = skeleton
+| skateboarder             = Skateboard
+| tennista
+| ex tennista              = tennis
+| tennistavolista          = tennis tavolo
+| ex terrorista = terrorista
+| torero
+| traduttrice
+| traduttore               = traduzione
+| triatleta                = triathlon
+| trombonista              = trombonisti
+| tuffatore
+| tuffatrice               = tuffi
+| ufficiale                = ufficiale militare
+| umanista                 = umanesimo
+| velista                  = vela (sport)
+| vescovo                  = vescovo
+| vescovo cattolico        = vescovo
+| violiste                 = viole, strumende musecale
+| violoncelliste           = violoncelliste
+| ex wrestler
+| wrestler                 = wrestling
+| zar
+| zarina                   = zar
+| zoologa                  = zoologo
+| {{{1}}}
+}}</includeonly><noinclude>
+{{finestra|col1=#CC0099|col2=#FFBFEF|col3=white|sfondo=|titolo=Inserimento attività|link=|contenuto=
+Ogni nuova attività genera categorie e liste incrociate; a volte esistono liste di una o due voci solamente; ognuno ritiene indispensabile l'attività che sta inserendo; per favore controllate presso il '''[[Discussioni progetto:Biografie/Attività|progetto]]''' che ci sia il necessario consenso.
+}}
+{{esoteric}}
+Questo template viene utilizzato nel template {{tl|Bio}} per convertire le attività da femminile (che può essere usato nell'incipit) a maschile (usato nel link) o per rendere possibili i link a voci particolari. All'interno di questo template le attività sono in ordine alfabetico al fine di rendere più agevole la manutenzione delle stesse. Se un attività ha pochi rappresentanti si consiglia di discutere nella pagina [[Discussioni progetto:Biografie/Attività]] l'opportunità di un accorpamento.
+
+Quando l'attività corrisponde già al titolo di una voce NON serve inserirla in questo template. 
+
+Se aggiungi una nuova attività che inizia con la lettera "'''e'''", ricordati di aggiungerla anche '''[[:Template:Bio/eufonica|qui]]'''.
+[[Category:Template Bio]]</noinclude>
