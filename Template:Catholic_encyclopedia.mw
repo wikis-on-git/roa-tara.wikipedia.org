@@ -1,0 +1,13 @@
+<includeonly>{{cita libro
+|titolo=[[Catholic Encyclopedia]]
+|anno=1917
+|editore=Encyclopedia Press
+|capitolo={{#if:{{{3|}}}|<!--
+-->[[s:en:Catholic Encyclopedia (1913)/{{{1|}}}|{{{1|}}}]], [[s:en:Catholic Encyclopedia (1913)/{{{2|}}}|{{{2|}}}]] e [[s:en:Catholic Encyclopedia (1913)/{{{3|}}}|{{{3|}}}]]|<!--
+-->{{#if:{{{2|}}}|<!--
+-->[[s:en:Catholic Encyclopedia (1913)/{{{1|}}}|{{{1|}}}]] e [[s:en:Catholic Encyclopedia (1913)/{{{2|}}}|{{{2|}}}]]|<!--
+-->{{#if:{{{1|}}}|<!--
+-->[[s:en:Catholic Encyclopedia (1913)/{{{1|}}}|{{{1|}}}]]<!--
+-->}} }} }}
+|lingua='nglise
+}}</includeonly>
