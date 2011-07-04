@@ -1,0 +1,37 @@
+<includeonly>{{Box titolo|DEFFAD|{{{nomeTerritorio}}}|amministrazioni}}
+|- {{#if: {{{nomeUfficiale|}}} | {{Box sezione|E9FFC7|{{{nomeUfficiale}}}|}} }}
+{{#if:{{{linkBandiera|}}}{{{linkStemma|}}}|{{Box bandiera stemma | linkBandiera = {{{linkBandiera|}}} | paginaBandiera = {{{paginaBandiera|}}} | linkStemma = {{{linkStemma|}}} | paginaStemma = {{{paginaStemma|}}} }} }}
+|- {{#if:{{{panorama|}}} | {{Box mappa|{{{panorama}}}|{{{pxMappa|}}} }} | }} 
+{{Box link|[[State]]|{{{stato}}}}} 
+|- {{ #ifexist: template:città/{{{stato}}} |
+{{città/{{{stato}}} | {{{suddivisioneAmministrativa1|}}} | {{{suddivisioneAmministrativa2|}}} | {{{suddivisioneAmministrativa3|}}} | {{{suddivisioneAmministrativa4|}}}  | {{{suddivisioneAmministrativa5|}}} }}|}}
+|- {{#if:{{{prefettura|}}}|{{!}} {{Box|Prefetture|[[{{{prefettura}}}]]}} }}
+|- {{#if:{{{comune|}}}|{{!}} {{Box|[[Comune]]|[[{{{comune}}}]]}} }}
+|- {{#if:{{{provincia|}}}|{{!}} {{Box|[[Provinge]]|[[{{{provincia}}}]]}} }}
+|- {{#if:{{{regione|}}}|{{!}}  {{Box|[[Reggione]]|{{{regione}}}}} }}
+|- {{#if:{{{capoluogo|}}}|{{!}} {{Box|[[Capeluèche]]|{{{capoluogo}}}}} }}
+|- {{#if:{{{latitudineNS|}}}|{{Box coordinate|{{{latitudineGradi}}}|{{{latitudinePrimi}}}|{{{latitudineSecondi|}}}|{{{latitudineNS}}}|{{{longitudineGradi}}}|{{{longitudinePrimi}}}|{{{longitudineSecondi|}}}|{{{longitudineEW}}}}} }}
+|- {{#if:{{{latitudine_d|}}}| {{Geobox coordinate dec|latitudine={{{latitudine_d}}}|longitudine={{{longitudine_d}}} }} }}
+|- {{#if:{{{altitudine|}}}|{{!}} {{Box|[[Altitudine]]|{{{altitudine}}}&nbsp;[[metre|m]]&nbsp;[[metre sus a 'u levèlle d'u mare|s.l.m.]]}} }}
+|- {{#if:{{{superficie|}}}|{{!}} {{Box|[[Aree|Grannèzze]]|{{{superficie}}}&nbsp;[[chilometro quadro|km&sup2;]]}} }}
+|- {{#if:{{{abitanti|}}}|{{!}} {{Box|[[Popolazzione|Crestiáne]]|{{{abitanti}}}&nbsp;&nbsp;<small>({{{anno}}})</small>}} }}
+|- {{#if:{{{densità|}}}|{{!}} {{Box|[[Denzetà d'a popolazzione|Denzetate]]|{{{densità}}}&nbsp;{{geografia/densita}}}} }}
+|- {{#if:{{{fuso|}}}|{{!}} {{Box|[[Fuse orarije]]|[[UTC{{{fuso}}}]]}} }}
+|- {{#if:{{{codiceISO|}}}|{{!}} {{Box|[[ISO 3166-2]]|{{{codiceISO}}}}} }}
+|- {{#if:{{{cap|}}}|{{!}} {{Box|[[Codece postale|CAP]]|{{{cap}}}}} }}
+|- {{#if:{{{prefisso|}}}|{{!}} {{Box|[[Prefisse telefoneche|Prefisse tel]]|{{{prefisso}}}}} }}
+|- {{#if:{{{targa|}}}|{{!}} {{Box|[[Targhe automobbelisteche|Targhe aut.]]|{{{targa}}}}} }}
+|- {{#if:{{{status|}}}|{{!}} {{Box|Status|{{{status}}}}} }}
+|- {{#if:{{{sindaco|}}}|{{!}} {{Box|[[Sinnache]]|{{{sindaco}}}}} }}
+|- {{#if:{{{presidente|}}}|{{!}} {{Box|[[Presidende]]|{{{presidente}}}}} }}
+|- {{#if:{{{governatore|}}}|{{!}} {{Box|[[Guvernature (burocrazie muderne)|Guvernature]]|{{{governatore}}}}} }}
+|- {{#if:{{{note|}}}|{{!}} {{Box note|{{{note}}}}} }}
+|- {{#if:{{{analfabetismo|}}}|{{!}} {{Box|[[Analfabbètisme]]|{{{analfabetismo}}}}}  }}
+|- {{#if:{{{linkMappa|}}} | {{Box mappa|{{{linkMappa}}}|{{{pxMappa|}}} }} | }}
+|- {{#if:{{{noteMappa|}}}|{{!}} {{Box note|{{{noteMappa}}}}} }}
+|- {{#if: {{{simboli|}}} | {{Box sezione|E9FFC7|<small>'''Simbole'''</small>|}} }}
+|- {{#if:{{{fiore|}}}|{{!}} {{Box|Fiore|{{{fiore}}}}} }}
+|- {{#if:{{{albero|}}}|{{!}} {{Box|Albero|{{{albero}}}}} }}
+|- {{#if:{{{uccello|}}}|{{!}} {{Box|Uccello|{{{uccello}}}}} }}
+|- {{#if:{{{sito|}}}|{{!}} {{Box sito|{{{sito}}}}} }}
+{{Box fine}}</includeonly>
