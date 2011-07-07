@@ -1,14 +1,6 @@
-<!--'''Template:Babel'''-->
-<noinclude>
-<span dir="ltr" />
-usage:<br />
-'''LTR:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49}}</nowiki><br />
-'''RTL:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49|float=left}}</nowiki><br />
-<span>
-</noinclude>
 {| name="userboxes" id="userboxes" style="float: {{{float|right}}}; margin-left: 1em; margin-bottom: 1ex; width: 242px; border: 1px solid #99B3FF; clear: right"
 |- 
-! [[<!-- {{ns:project}}: -->Babel]]
+! [[Project:Babel]]
 |-
 |{{#if: {{{1|}}}
 |{{User {{{1}}}|&#x20;}}|<center style="background-color:#eee">''Please add you language skipps here:''<br /> <code><nowiki>{{Babel|nap|eng-2|ita-3|</nowiki></code>&nbsp;&hellip;&nbsp;<code> <nowiki>}}</nowiki></code></center>}}{{#if: {{{2|}}}
@@ -63,6 +55,12 @@ usage:<br />
 |-
 | style="text-align: center" | [[:Category:Utinde pe lènghe|Utinde pe lènghe]]
 |}<noinclude>
+
+<span dir="ltr">
+usage:<br />
+'''LTR:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49}}</nowiki><br />
+'''RTL:''' <nowiki>{{Babel|code_01|code_02|code_03| ... |code_49|float=left}}</nowiki><br />
+</span>
 
 [[ab:Ашаблон:Babel]]
 [[ace:Pola:Babel]]
