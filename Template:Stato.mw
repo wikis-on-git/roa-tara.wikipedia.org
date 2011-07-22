@@ -1,0 +1,88 @@
+<includeonly>{{Box titolo|{{stato/coloretitolo}}|{{{nomeCorrente}}}|stati}}
+{{Box bandiera|{{{linkBandiera}}}|{{{paginaBandiera}}}|{{{linkStemma}}}|{{{paginaStemma}}}}} 
+|- {{#if:{{{motto |}}}||class="hiddenStructure noprint"}}  | {{Box sezione|efefef|''Motto:&nbsp;{{{motto}}}''}}
+|- {{#if:{{{linkLocalizzazione|}}}|{{Box mappa|{{{linkLocalizzazione}}}|250}}}}
+{{Box sezione|{{stato/coloretitolo}}|'''<nowiki>'</nowiki>Mbormaziune'''}}
+{{Box|Nome comblete|{{{nomeCompleto}}}}}
+{{Box|Nome ufficiale|{{{nomeUfficiale}}}}} 
+{{Box|[[Lènga ufficiale]]|{{{lingua}}}}} 
+{{Box|[[Capitale, cetate|Capitale]]|{{{capitale}}} {{#if:{{{capitaleAbitanti|}}}|&nbsp;<small>({{{capitaleAbitanti}}}&nbsp;cr.{{#if:{{{capitaleAbitantiAnno|}}}
+|&nbsp;/&nbsp;{{{capitaleAbitantiAnno}}}}})</small>}} }} 
+{{Box sezione|{{stato/coloretitolo}}|'''Politica'''}}
+{{Box|[[Forme de guverne|Guverne]]|{{{governo}}}}} 
+{{#if:{{{elenco capi di stato|}}}|{{Box|{{{elenco capi di stato}}}|{{{presidente}}}}}|{{Box|[[Cape de state]]|{{{presidente}}}}} }} 
+{{#if:{{{elenco capi di governo|}}}|{{Box|{{{elenco capi di governo}}}|{{{primoMinistro}}}}}|{{Box|Capo di governo|{{{primoMinistro}}}}} }} 
+{{#if:{{{indipendenza|}}}|{{Box|Indipendenze|{{{indipendenza}}}}} }}
+{{#if:{{{dipendenza|}}}|{{Box|Dipendente da|{{{dipendenza}}}}} }}
+{{#if:{{{ingressoONU|}}}|{{Box|Trasute jndr'à l'[[Organizzazione de le Naziune Aunìte|ONU]]|{{{ingressoONU}}}}} }}
+{{#if:{{{ingressoUE|}}}|{{Box|Trasute jndr'à l'[[Aunione Europèe|UE]]|{{{ingressoUE}}}}} }} 
+{{Box sezione|{{stato/coloretitolo}}|'''Superficie'''}}
+{{Box|[[Area|Totale]]|{{{superficieTotale}}} {{geografia/area}} &nbsp;([[Elenghe de state pe area|{{{superficieOrdine}}}º]])}} 
+{{Box|% delle acque|{{#ifeq:{{{superficieAcqua}}}|trascurabile|trascurabile|{{{superficieAcqua}}}&nbsp;%}}}} 
+{{Box sezione|{{stato/coloretitolo}}|'''Popolazzione'''}}
+{{Box|[[Popolazione|Totale]]{{#if:{{{popolazioneAnno|}}}| &nbsp;<small>({{{popolazioneAnno}}})</small>|}}|{{{popolazioneTotale}}}&nbsp;{{geografia/abitanti}} &nbsp;([[Lista di stati per popolazione|{{{popolazioneOrdine}}}º]])}}
+{{Box|[[Densità di popolazione|Densità]]|{{{popolazioneDensita}}}&nbsp;{{geografia/densita}} &nbsp;{{#if:{{{popolazioneDensitaOrdine|}}}|([[Lista di stati per densità di popolazione|{{{popolazioneDensitaOrdine}}}º]])}}}} 
+{{Box sezione|{{stato/coloretitolo}}|'''Sciugrafije'''}}
+{{Box|[[Continende]]|{{{continente}}}}} 
+{{Box|[[Fuse orarie]]|{{{orario}}}}} 
+{{Box sezione|{{stato/coloretitolo}}|'''Economije'''}}
+{{Box|[[ISO 4217|Valuta]]|{{{valuta}}}}} 
+{{#if:{{{PIL|}}}|{{Box|[[Prodotto Interno Lordo|PIL]]&nbsp;([[Parità dei poteri di acquisto|PPA]])&nbsp;&nbsp;<small>({{{PILAnno}}})</small>|{{{PIL}}}&nbsp;{{geografia/PIL}} {{{PILValuta}}}&nbsp;&nbsp;([[Lista di stati per PIL (PPA)|{{{PILOrdine}}}º]])}}}} 
+{{#if:{{{PILprocapite|}}}|{{Box|[[reddito procapite|PIL procapite]] ([[Parità dei poteri di acquisto|PPA]])&nbsp;&nbsp;<small>({{{PILprocapiteAnno}}})</small>|{{{PILprocapite}}}&nbsp;{{{PILprocapiteValuta}}}&nbsp;&nbsp;([[Lista di stati per PIL (PPA) procapite|{{{PILprocapiteOrdine}}}º]])}}}} 
+{{#if:{{{HDI|}}}|{{Box|[[Indice di sviluppo umano|ISU]]&nbsp;&nbsp;<small>({{{HDIAnno}}})</small>|{{{HDI}}}&nbsp;&nbsp;([[Lista di stati per Indice di sviluppo umano|{{{HDIOrdine}}}º]])}}}} 
+{{Box|Energia|{{{energia}}} {{#if:{{{energia}}}|&nbsp;kW/ab.}} }} 
+{{Box sezione|{{stato/coloretitolo}}|'''Varie'''}}
+{{Box|[[Dominio di primo livello|TLD]]|{{{tld}}}}} 
+{{Box|[[Prefissi telefonici internazionali|Prefisso tel.]]|{{{telefono}}}}} 
+{{Box|[[Sigla automobilistica internazionale|Sigla autom.]]|{{{targa}}}}} 
+{{Box|[[:Category:Inni nazionali|Inno nazionale]]|{{{inno}}}}} 
+{{Box|[[Festa nazionale]]|{{{festa}}}}} 
+|- {{#if:{{{linkMappa|}}}||class="hiddenStructure noprint"}}  | {{#if:{{{pxMappa|}}}|{{Box mappa|{{{linkMappa}}}|{{{pxMappa}}}}}|{{Box mappa|{{{linkMappa}}}}}}}
+|- {{#if:{{{note|}}}||class="hiddenStructure noprint"}}  | {{Box note|{{{note}}}}}
+|- {{#if:{{{stato precedente|}}}|{{Box sezione|{{stato/coloretitolo}}|'''Evoluzione storica'''}}{{Box|Stato precedente|{{{stato precedente}}}}}|}}
+|- {{#if:{{{portale|}}}||class="hiddenStructure noprint"}} 
+! style="padding-left:20px; font-size:90%; background:#EFEFEF; border:1px solid #808080" align="center" colspan="2" | <span style="float:right">[[Image:Portal.svg|20px|Portale:Portali]]</span> Vè vide 'u [[Portale:{{{portale}}}|Portale {{{portale}}}]] 
+{{Box fine}}</includeonly><noinclude>{{esoteric}}{{man}}
+[[Category:Template sinottici - Sciugrafije|Stato]]
+
+[[af:Sjabloon:Landtabel-mini-nl]]
+[[an:Plantilla:Infobox País]]
+[[ar:قالب:معلومات بلد]]
+[[bg:Шаблон:Държава]]
+[[br:Patrom:Infobox bro]]
+[[ca:Plantilla:Taula d'estat]]
+[[cs:Šablona:Infobox stát]]
+[[cy:Nodyn:Gwybodlen Gwlad]]
+[[da:Skabelon:Infoboks land]]
+[[de:Vorlage:Infobox Staat]]
+[[el:Πρότυπο:Πληροφορίες Χώρας]]
+[[en:Template:Infobox Country]]
+[[eo:Ŝablono:Landtabelo]]
+[[es:Plantilla:Infobox País]]
+[[fi:Malline:Valtion tiedot]]
+[[fiu-vro:Näüdüs:Country Infobox]]
+[[fr:Modèle:Infobox Pays]]
+[[he:תבנית:מדינה]]
+[[hsb:Předłoha:Stat]]
+[[ia:Patrono:Infobox pais]]
+[[ja:Template:基礎情報 国]]
+[[ka:თარგი:ინფოდაფა ქვეყანა]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Infobox ದೇಶ]]
+[[ko:틀:나라 정보]]
+[[lad:Template:Infobox Pais]]
+[[ln:Template:Infobox Esé]]
+[[ms:Templat:Negeri]]
+[[nn:Mal:Infoboks land2]]
+[[no:Mal:Infoboks land]]
+[[pt:Predefinição:Info país]]
+[[rmy:Sikavno:MoxtonThema]]
+[[ro:Format:CutieŢări]]
+[[ru:Шаблон:Страна]]
+[[sl:Predloga:Infopolje Država]]
+[[sr:Шаблон:Кутијица за државе]]
+[[sv:Mall:Landsfakta]]
+[[th:แม่แบบ:กล่องข้อมูล ประเทศ]]
+[[ur:سانچہ:خانۂ معلومات ملک]]
+[[vi:Tiêu bản:Tóm tắt về quốc gia]]
+[[zh:Template:Infobox Country]]
+</noinclude>
