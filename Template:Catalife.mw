@@ -1,0 +1,1 @@
+{{cita web|url=http://www.catalogueoflife.org/{{ #ifeq: {{{4|}}}|specie|details/species|browse/tree}}/id/{{{1}}}|titolo=Catalogue of Life: {{{2}}}|accesso={{{3}}} }}
