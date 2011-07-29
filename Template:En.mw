@@ -1,0 +1,49 @@
+<noinclude>{{templateprotetto}}</noinclude>(<span style="font-weight:bolder; font-size:80%">[[Lènga 'nglise|EN]]</span>) {{ #if: {{{1| }}}|[{{{1|}}} {{{2|}}}]  <span style="font-weight:bolder;  font-size:60%">[http://www.babelfish.altavista.com/babelfish/trurl_pagecontent?lp=en_it&url=http%3A%2F%2F{{{1}}} ->Traduci con Babelfish]</span> | }}<noinclude>
+
+Sintassi:<br>
+'''<nowiki>{{en}} [http://en.wikipedia.org Home page di Wikipedia in inglese] </nowiki>'''  ->  {{en}} [http://en.wikipedia.org Home page di Wikipedia in inglese] 
+
+'''<nowiki>{{en|http://en.wikipedia.org|Home page di Wikipedia in inglese}}</nowiki>'''  ->  {{en|http://en.wikipedia.org|Home page di Wikipedia in inglese}}
+
+Attenzione: i traduttori funzionano solo con pagine con testo di dimensioni limitate (5-8 kB), rendendo "errore 157" nel caso il testo sia troppo. Il traduttore può andare in errore anche con server lenti a rispondere, a causa dei limiti di Babelfish.
+
+[[Category:Template lingue dei collegamenti esterni|En]]
+
+<!--interwiki-->
+[[bs:Šablon:En simbol]]
+[[ca:Plantilla:En]]
+[[cs:Šablona:En]]
+[[cy:Nodyn:Eicon en]]
+[[da:Skabelon:En sprog]]
+[[el:Πρότυπο:En]]
+[[en:Template:En icon]]
+[[es:Plantilla:En icon]]
+[[eu:Txantiloi:En]]
+[[fi:Malline:En]]
+[[fr:Modèle:En]]
+[[gl:Template:En]]
+[[hi:Template:En]]
+[[hr:Predložak:En icon]]
+[[hu:Sablon:En]]
+[[ia:Patrono:En]]
+[[id:Templat:En]]
+[[ja:Template:En icon]]
+[[lb:Template:En]]
+[[li:Sjabloon:En]]
+[[mk:Шаблон:En]]
+[[ms:Templat:En icon]]
+[[nl:Sjabloon:En]]
+[[pt:Predefinição:((en))]]
+[[ro:Format:En icon]]
+[[ru:Шаблон:Ref-en]]
+[[sh:Template:En icon]]
+[[sk:Šablóna:Eng icon]]
+[[sl:Predloga:Ikona en]]
+[[sr:Шаблон:En]]
+[[sv:Mall:En ikon]]
+[[tl:Template:En icon]]
+[[tr:Şablon:İng]]
+[[vi:Tiêu bản:En icon]]
+[[zh:Template:En icon]]
+[[zh-classical:Template:En]]
+</noinclude>
