@@ -1,0 +1,46 @@
+(<span style="font-weight:bolder; font-size:80%">[[Lènga frangese|FR]]</span>) {{ #if: {{{1| }}}|[{{{1|}}} {{{2|}}}]  <span style="font-weight:bolder;  font-size:60%">[http://www.babelfish.altavista.com/babelfish/trurl_pagecontent?lp=fr_it&url=http%3A%2F%2F{{{1}}} ->Traduci con Babelfish]</span> | }}<noinclude>
+
+Sinossi:<br>
+'''<nowiki>{{fr}} [http://fr.wikipedia.org Home page di Wikipedia in francese] </nowiki>'''  ->  {{fr}} [http://fr.wikipedia.org Home page di Wikipedia in francese] 
+
+'''<nowiki>{{fr|http://fr.wikipedia.org|Home page di Wikipedia in francese}}</nowiki>'''  ->  {{fr|http://fr.wikipedia.org|Home page di Wikipedia in francese}}
+
+Attenzione: i traduttori funzionano solo con pagine con testo di dimensioni limitate (5-8 kB), rendendo "errore 157" nel caso il testo sia troppo. Il traduttore può andare in errore anche con server lenti a rispondere, a causa dei limiti di Babelfish.
+
+[[Category:Template lingue dei collegamenti esterni|Fr]]
+
+<!--interwiki-->
+[[bs:Šablon:Fr simbol]]
+[[ca:Plantilla:Fr]]
+[[cs:Šablona:Fr]]
+[[cy:Nodyn:Eicon fr]]
+[[da:Skabelon:Fr sprog]]
+[[dsb:Pśedłoga:Ref-fr]]
+[[el:Πρότυπο:Fr]]
+[[en:Template:Fr icon]]
+[[es:Plantilla:Fr]]
+[[eu:Txantiloi:Fr]]
+[[fi:Malline:Fr]]
+[[fr:Modèle:Fr]]
+[[gl:Modelo:Fr]]
+[[hr:Predložak:Fra icon]]
+[[hsb:Předłoha:Ref-fr]]
+[[id:Templat:Fr]]
+[[ja:Template:Fr icon]]
+[[lb:Schabloun:Fr]]
+[[li:Sjabloon:Fr]]
+[[mk:Шаблон:Fr]]
+[[ml:ഫലകം:Fr icon]]
+[[nl:Sjabloon:Fr]]
+[[pt:Predefinição:((fr))]]
+[[ro:Format:Fr icon]]
+[[ru:Шаблон:Ref-fr]]
+[[sh:Template:Fr icon]]
+[[sk:Šablóna:Fra icon]]
+[[sl:Predloga:Ikona fr]]
+[[sr:Шаблон:Fr]]
+[[sv:Mall:Fr ikon]]
+[[tr:Şablon:Fra]]
+[[vi:Tiêu bản:Fr icon]]
+[[zh:Template:Fr icon]]
+</noinclude>
