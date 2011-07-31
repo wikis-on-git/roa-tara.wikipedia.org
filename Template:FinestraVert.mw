@@ -1,0 +1,9 @@
+<div style="margin-bottom:.5em"><div style="padding:0; border:1px solid #{{{border-color|ED2024}}}; background-color:#{{{content-color|F3FBFE}}}"><h2 style="padding:.1em .6em; margin:0; font-size:110%; border-bottom:1px solid #{{{border-color|ABCDEF}}}; background-color:#{{{background-color|1160A5}}};color:#{{{color|FFFFFF}}}">'''{{{titolo}}}'''</h2><span class="noprint" style="margin-top:-2em; padding:0 4px; float:right; font-size:80%" {{#if:{{{info|}}}{{{link|}}}||class="hiddenStructure noprint"}}><span style="color:#{{{font-color}}}"><span {{#if:{{{info|}}}||class="hiddenStructure noprint"}}>{{{info|}}} - </span>[http://roa-tara.wikipedia.org/w/index.php?title={{{link}}}&action=edit {{{modifica|cange}}}]</span></span>
+<div style="margin-top:{{{padding|.5em}}}; padding:{{{padding|0 .8em .2em}}}; font-size:{{{font-size}}}; background-color:#{{{content-color|F3FBFE}}}">
+{{{contenuto}}}</div></div>
+<div style="background:#B2B2B2; height:1px; margin:0 0px; font-size:0">[[image:pix.gif|1px]]</div>
+<div style="border-left:1px solid #DFDFE0; border-right:1px solid #DFDFE0; background:#C7C7C7; height:1px; margin:0 0px; font-size:0">[[image:pix.gif|1px]]</div>
+<div style="border-left:1px solid #EDEDED; border-right:1px solid #EDEDED; background:#DFDFE0; height:1px; margin:0 1px; font-size:0">[[image:pix.gif|1px]]</div>
+<div style="background:#F2F2F3; height:1px; margin:0 2px; font-size:0">[[image:pix.gif|1px]]</div>
+<div style="background:#FCFCFC; height:1px; margin:0 5px; font-size:0">[[image:pix.gif|1px]]</div>
+</div>
