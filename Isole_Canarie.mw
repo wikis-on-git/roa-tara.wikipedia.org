@@ -83,6 +83,154 @@ Popolazzione de lle isole;
 
 * El Hierro - 10.892 crestiáne
 
+== Clime ==
+{{ClimaAnnuale
+| nome = <!-- Se non indicato, apparirà "Mese" -->
+<!-- Temperature massime mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmax01 = 25
+| tempmax02 = 26
+| tempmax03 = 27
+| tempmax04 = 28
+| tempmax05 = 29
+| tempmax06 = 30
+| tempmax07 = 32
+| tempmax08 = 31
+| tempmax09 = 30
+| tempmax10 = 29
+| tempmax11 = 27
+| tempmax12 = 26
+<!-- Temperature medie mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmedia01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| tempmedia02 = 
+| tempmedia03 = 
+| tempmedia04 = 
+| tempmedia05 = 
+| tempmedia06 = 
+| tempmedia07 = 
+| tempmedia08 = 
+| tempmedia09 = 
+| tempmedia10 = 
+| tempmedia11 = 
+| tempmedia12 = 
+<!-- Temperature minime mensili (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempmin01 = 17
+| tempmin02 = 18
+| tempmin03 = 19
+| tempmin04 = 20
+| tempmin05 = 21
+| tempmin06 = 22
+| tempmin07 = 24
+| tempmin08 = 24
+| tempmin09 = 23
+| tempmin10 = 22
+| tempmin11 = 21
+| tempmin12 = 20
+<!-- Temperature massime assolute mensili e relativo anno di rilevazione (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempassmax01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| annotempassmax01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| tempassmax02 = 
+| annotempassmax02 = 
+| tempassmax03 = 
+| annotempassmax03 = 
+| tempassmax04 = 
+| annotempassmax04 = 
+| tempassmax05 = 
+| annotempassmax05 = 
+| tempassmax06 = 
+| annotempassmax06 = 
+| tempassmax07 = 
+| annotempassmax07 = 
+| tempassmax08 = 
+| annotempassmax08 = 
+| tempassmax09 = 
+| annotempassmax09 = 
+| tempassmax10 = 
+| annotempassmax10 = 
+| tempassmax11 = 
+| annotempassmax11 = 
+| tempassmax12 = 
+| annotempassmax12 = 
+<!-- Temperature minime assolute mensili e relativo anno di rilevazione (numero anche con cifre decimali, misurato in °C), da gennaio (01) a dicembre (12) -->
+| tempassmin01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| annotempassmin01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| tempassmin02 = 
+| annotempassmin02 = 
+| tempassmin03 = 
+| annotempassmin03 = 
+| tempassmin04 = 
+| annotempassmin04 = 
+| tempassmin05 = 
+| annotempassmin05 = 
+| tempassmin06 = 
+| annotempassmin06 = 
+| tempassmin07 = 
+| annotempassmin07 = 
+| tempassmin08 = 
+| annotempassmin08 = 
+| tempassmin09 = 
+| annotempassmin09 = 
+| tempassmin10 = 
+| annotempassmin10 = 
+| tempassmin11 = 
+| annotempassmin11 = 
+| tempassmin12 = 
+| annotempassmin12 = 
+<!-- Piovosità totale mensile (numero anche con cifre decimali, misurato in mm), da gennaio (01) a dicembre (12) -->
+| pioggia01 = 18
+| pioggia02 = 24
+| pioggia03 = 14
+| pioggia04 = 7
+| pioggia05 = 2
+| pioggia06 = 0
+| pioggia07 = 0
+| pioggia08 = 0
+| pioggia09 = 10
+| pioggia10 = 13
+| pioggia11 = 18
+| pioggia12 = 27
+<!-- I giorni di pioggia (numero anche con cifre decimali, senza unità di misura), da gennaio (01) a dicembre (12) -->
+| giornipioggia01 = 6
+| giornipioggia02 = 4
+| giornipioggia03 = 3
+| giornipioggia04 = 2
+| giornipioggia05 = 2
+| giornipioggia06 = 1
+| giornipioggia07 = 0
+| giornipioggia08 = 0
+| giornipioggia09 = 2
+| giornipioggia10 = 5
+| giornipioggia11 = 6
+| giornipioggia12 = 7
+<!-- Le onde di calore (numero di giorni, anche con cifre decimali, con T.<small>max</small> ≥ 32 °C), da gennaio (01) a dicembre (12) -->
+| warm01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| warm02 = 
+| warm03 = 
+| warm04 = 
+| warm05 = 
+| warm06 = 
+| warm07 = 
+| warm08 = 
+| warm09 = 
+| warm10 = 
+| warm11 = 
+| warm12 =
+<!-- I giorni di gelo (numero anche con cifre decimali, senza unità di misura), da gennaio (01) a dicembre (12) -->
+| giornigelo01 = <!-- Se non vuoi far apparire la riga, non mettere il dato qui -->
+| giornigelo02 = 
+| giornigelo03 = 
+| giornigelo04 = 
+| giornigelo05 = 
+| giornigelo06 = 
+| giornigelo07 = 
+| giornigelo08 = 
+| giornigelo09 = 
+| giornigelo10 = 
+| giornigelo11 = 
+| giornigelo12 =
+}}
+
+Essendo le Isole Canarie in pieno Oceano Atlantico e comunque non troppo vicino all'equatore la temperatura dell'acqua risulta abbastaza fredda durante tutto l'anno.
+
 == Note ==
 <references/>
 
