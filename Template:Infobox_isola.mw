@@ -101,7 +101,7 @@
 |Gruppo50  = {{#if:{{{Abitanti<includeonly>|</includeonly>}}}|Demografije}}
 |Nome51    = [[Crestiáne]]
 |Valore51  = {{#if:{{{Abitanti<includeonly>|</includeonly>}}}|{{{Abitanti<includeonly>|</includeonly>}}} {{#if:{{{Anno_censimento<includeonly>|</includeonly>}}}|<small>({{{Anno_censimento<includeonly>|</includeonly>}}})}}</small>}}
-|Nome52    = [[Denzetà d'à popolazzione|Denzetate]]
+|Nome52    = [[Denzetà d'a popolazzione|Denzetate]]
 |Valore52  = {{#if:{{{Densità<includeonly>|</includeonly>}}}|{{{Densità<includeonly>|</includeonly>}}} ab./km²}}
 |Nome53    = [[Etnehe (onomasteche)|Etneche]]
 |Valore53  = {{{Etnico<includeonly>|</includeonly>}}}{{{Demonimo<includeonly>|</includeonly>}}}
@@ -111,6 +111,6 @@
 |Valore55  = {{{Sito_web<includeonly>|</includeonly>}}}
 |Nome56    = 
 |Valore56  =  {{#if:{{{Ref|}}}|<P ALIGN=RIGHT>{{{Ref}}}</P>|<P ALIGN=RIGHT><sup class="noprint"><span class="noprint" style="color:red;">&#91;[[Wikipedia:Cita le fonti|''senza&nbsp;fonte'']]&#93;</span></sup></P><includeonly>[[Category:Voci con template infobox isola senza fonti|{{PAGENAME}}]]</includeonly>}}
-|Ultima    = '''[[:Category:isole|voci di isole presenti su Wikipedia]]'''{{#if:{{{Localizzazione|}}}||<includeonly>[[Category:Voci con template infobox isola senza localizzazione|{{PAGENAME}}]]</includeonly>}}{{#if:{{{Longitudine_EW|}}}||{{#if:{{{Longitudine_d|}}}||<includeonly>[[Category:Voci con template infobox isola senza coordinate|{{PAGENAME}}]]</includeonly>}}}}
+|Ultima    = '''[[:Category:isole|Vôsce de isole ca se iacchiene sus a Uicchpèdie]]'''{{#if:{{{Localizzazione|}}}||<includeonly>[[Category:Voci con template infobox isola senza localizzazione|{{PAGENAME}}]]</includeonly>}}{{#if:{{{Longitudine_EW|}}}||{{#if:{{{Longitudine_d|}}}||<includeonly>[[Category:Voci con template infobox isola senza coordinate|{{PAGENAME}}]]</includeonly>}}}}
 |StileUltima = background:lightsteelblue;
 }}<noinclude>{{man}}</noinclude>
