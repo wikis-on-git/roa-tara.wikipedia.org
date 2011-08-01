@@ -23,37 +23,37 @@
 |Valore3    ={{#if:{{{Mappa_localizzazione|}}}|{{Mappa di localizzazione|{{{Mappa_localizzazione}}}|label={{{Nome_originale}}}|latitudineGradi={{{ML_latitudineGradi}}}|latitudinePrimi={{{ML_latitudinePrimi}}}|longitudineGradi={{{ML_longitudineGradi}}}|longitudinePrimi={{{ML_longitudineGradi}}}|marksize={{{ML_marksize}}}|width={{{ML_width}}}|caption=}}}}
 |Nome4      =
 |Valore4    = {{#if:{{{Mappa2<includeonly>|</includeonly>}}}| [[File:{{{Mappa2<includeonly>|</includeonly>}}}|center|{{#if:{{{LarghezzaMappa2<includeonly>|</includeonly>}}}|{{{LarghezzaMappa2}}}|250x300px}}|Altra mappa di {{PAGENAME}}]]}}
-|Nome5      = Localizzazione
+|Nome5      = Addò se iacchije
 |Valore5    = {{{Localizzazione<includeonly>|</includeonly>}}}
-|Nome6      = [[Coordinate geografiche|Coordinate]]
+|Nome6      = [[Coordinate sciugrafeche|Coordinate]]
 |Valore6    = {{#if:{{{Latitudine_NS<includeonly>|</includeonly>}}}|{{<noinclude>tl|</noinclude>coord|{{{Latitudine_Gradi}}}|{{{Latitudine_Primi}}}|{{{Latitudine_Secondi<includeonly>|</includeonly>}}}|{{{Latitudine_NS}}}|{{{Longitudine_Gradi}}}|{{{Longitudine_Primi}}}|{{{Longitudine_Secondi<includeonly>|</includeonly>}}}|{{{Longitudine_EW}}}|format=dms|display=inline,title}}}}
-|Nome7      = [[Coordinate geografiche|Coordinate]]
+|Nome7      = [[Coordinate sciugrafeche|Coordinate]]
 |Valore7    = {{#if:{{{Latitudine_d<includeonly>|</includeonly>}}}|{{<noinclude>tl|</noinclude>coord|{{{Latitudine_d}}}|{{{Longitudine_d}}}|format=dms|display=inline,title}}}} 
 |Gruppo8    = {{#if:{{{Arcipelago<includeonly>|</includeonly>}}}{{{Superficie_km2|}}}{{{Superficie|}}}
 {{{Dimensioni1_km|}}}{{{Dimensioni1|}}}|Geografia fisica}}
-|Nome9      = [[Arcipelago]]
+|Nome9      = [[Arcipelaghe]]
 |Valore9    = {{{Arcipelago<includeonly>|</includeonly>}}}
-|Nome10     = [[Area|Superficie]]
-|Valore10   = {{#if:{{{Superficie_km2<includeonly>|</includeonly>}}}|{{{Superficie_km2<includeonly>|</includeonly>}}} [[Chilometro quadro|km²]]}}
-|Nome11     = [[Area|Superficie]]
+|Nome10     = [[Arèe|Grannèzze]]
+|Valore10   = {{#if:{{{Superficie_km2<includeonly>|</includeonly>}}}|{{{Superficie_km2<includeonly>|</includeonly>}}} [[Chilometre quadrate|km²]]}}
+|Nome11     = [[Arèe|Grannèzze]]
 |Valore11   = {{{Superficie<includeonly>|</includeonly>}}}
-|Nome12     = Numero isole
+|Nome12     = Numere isole
 |Valore12   = {{{Numero_isole<includeonly>|</includeonly>}}}
-|Nome13     = Isole principali
+|Nome13     = Isole prengepále
 |Valore13   = {{{Isole_principali<includeonly>|</includeonly>}}}
-|Nome14     = Classifica
+|Nome14     = Classifeche
 |Valore14   = {{{Classifica<includeonly>|</includeonly>}}}
-|Nome15     = Dimensioni
+|Nome15     = Dimenzione
 |Valore15   = {{{Dimensioni1_km<includeonly>|</includeonly>}}}{{#if:{{{Dimensioni2_km<includeonly>|</includeonly>}}}| x {{{Dimensioni2_km<includeonly>|</includeonly>}}}}} {{#if:{{{Dimensioni1_km<includeonly>|</includeonly>}}}| [[chilometro|km]]}}
-|Nome16     = Dimensioni
+|Nome16     = Dimenzione
 |Valore16   = {{{Dimensioni1<includeonly>|</includeonly>}}}{{#if:{{{Dimensioni2<includeonly>|</includeonly>}}}| x {{{Dimensioni2<includeonly>|</includeonly>}}}}}
-|Nome17     = Sviluppo costiero
+|Nome17     = Sveluppe costiere
 |Valore17   = {{{Coste<includeonly>|</includeonly>}}}
-|Nome18     = Sviluppo costiero
-|Valore18   = {{#if:{{{Coste_km<includeonly>|</includeonly>}}}|{{{Coste_km<includeonly>|</includeonly>}}} [[chilometro|km]]}}
-|Nome19     = Altitudine massima
-|Valore19   = {{#if:{{{Altitudine<includeonly>|</includeonly>}}}|{{{Altitudine<includeonly>|</includeonly>}}} [[Metri sul livello del mare|m s.l.m.]]}}
-|Nome20     = Classificazione geologica
+|Nome18     = Sveluppe costiere
+|Valore18   = {{#if:{{{Coste_km<includeonly>|</includeonly>}}}|{{{Coste_km<includeonly>|</includeonly>}}} [[chilometre|km]]}}
+|Nome19     = Altitudene masseme
+|Valore19   = {{#if:{{{Altitudine<includeonly>|</includeonly>}}}|{{{Altitudine<includeonly>|</includeonly>}}} [[Metre sus a 'u levèlle d'u mare|m s.l.m.]]}}
+|Nome20     = Classefecazione sciuloggeche
 |Valore20   = {{{Classificazione<includeonly>|</includeonly>}}}
 |Gruppo30   = {{#if:{{{Stato<includeonly>|</includeonly>}}}{{{Suddivisione1|}}}{{{ISO|}}}{{{Centro|}}}{{{Abitanti|}}}{{{Sito web|}}}|Geografia politica}}
 |Nome31     = {{{Stato_definizione<includeonly>|</includeonly>}}}
