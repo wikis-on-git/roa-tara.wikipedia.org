@@ -1,0 +1,116 @@
+<noinclude>{{esoteric}}</noinclude>
+{{Infobox
+|ClasseTabella   = toccolours vcard
+|StileTabella    = width: 300px;
+|TitoloInt       = {{#if:{{{Nome<includeonly>|</includeonly>}}}|'''{{{Nome}}}'''|'''{{PAGENAME}}'''}}{{#if:{{{Nome_originale<includeonly>|</includeonly>}}}|<br/>'''''{{{Nome_originale}}}'''''}}{{#if:{{{Soprannome<includeonly>|</includeonly>}}}|<br/>''{{{Soprannome}}}''}}
+|ClasseTitoloInt = fn org
+|StileTitoloInt  = padding:0.3em; background:lightsteelblue;
+|Immagine        = {{#if:{{{Immagine<includeonly>|</includeonly>}}}
+                     | [[File:{{{Immagine<includeonly>|</includeonly>}}}|center|{{#if:{{{LarghezzaImmagine<includeonly>|</includeonly>}}}|{{{LarghezzaImmagine}}}|250x300px}}|<!--
+                       -->{{{Didascalia<includeonly>|</includeonly>}}}]]
+                       <div style="padding:0.3em 0 0.5em"><!--
+                       -->{{{Didascalia<includeonly>|</includeonly>}}}<!--
+                       -->|<includeonly>[[Categoria:Voci con template infobox isola senza immagini|{{PAGENAME}}]]</includeonly>
+                   }}
+|StileImmagine   = padding-top:0.5em; line-height:1.2em;
+|StileGruppo     = background:lightsteelblue;
+|StileNome       = width:50%; padding:0.3em; background:#f9f9f9; line-height:1.1em;
+|StileValore     = width:50%; padding:0.3em; line-height:1.2em; vertical-align:middle; 
+|Gruppo1 = {{#if:{{{Mappa<includeonly>|</includeonly>}}}{{{Localizzazione|}}}{{{latitudineGradi|}}}|Localizzazione}}
+|Nome2   = 
+|Valore2 = {{#if:{{{Mappa<includeonly>|</includeonly>}}}| [[File:{{{Mappa<includeonly>|</includeonly>}}}|center|{{#if:{{{LarghezzaMappa<includeonly>|</includeonly>}}}|{{{LarghezzaMappa}}}|250x300px}}|Mappa di {{PAGENAME}}]]}}
+|Nome3      =
+|Valore3    ={{#if:{{{Mappa_localizzazione|}}}|{{Mappa di localizzazione|{{{Mappa_localizzazione}}}|label={{{Nome_originale}}}|latitudineGradi={{{ML_latitudineGradi}}}|latitudinePrimi={{{ML_latitudinePrimi}}}|longitudineGradi={{{ML_longitudineGradi}}}|longitudinePrimi={{{ML_longitudineGradi}}}|marksize={{{ML_marksize}}}|width={{{ML_width}}}|caption=}}}}
+|Nome4      =
+|Valore4    = {{#if:{{{Mappa2<includeonly>|</includeonly>}}}| [[File:{{{Mappa2<includeonly>|</includeonly>}}}|center|{{#if:{{{LarghezzaMappa2<includeonly>|</includeonly>}}}|{{{LarghezzaMappa2}}}|250x300px}}|Altra mappa di {{PAGENAME}}]]}}
+|Nome5      = Localizzazione
+|Valore5    = {{{Localizzazione<includeonly>|</includeonly>}}}
+|Nome6      = [[Coordinate geografiche|Coordinate]]
+|Valore6    = {{#if:{{{Latitudine_NS<includeonly>|</includeonly>}}}|{{<noinclude>tl|</noinclude>coord|{{{Latitudine_Gradi}}}|{{{Latitudine_Primi}}}|{{{Latitudine_Secondi<includeonly>|</includeonly>}}}|{{{Latitudine_NS}}}|{{{Longitudine_Gradi}}}|{{{Longitudine_Primi}}}|{{{Longitudine_Secondi<includeonly>|</includeonly>}}}|{{{Longitudine_EW}}}|format=dms|display=inline,title}}}}
+|Nome7      = [[Coordinate geografiche|Coordinate]]
+|Valore7    = {{#if:{{{Latitudine_d<includeonly>|</includeonly>}}}|{{<noinclude>tl|</noinclude>coord|{{{Latitudine_d}}}|{{{Longitudine_d}}}|format=dms|display=inline,title}}}} 
+|Gruppo8    = {{#if:{{{Arcipelago<includeonly>|</includeonly>}}}{{{Superficie_km2|}}}{{{Superficie|}}}
+{{{Dimensioni1_km|}}}{{{Dimensioni1|}}}|Geografia fisica}}
+|Nome9      = [[Arcipelago]]
+|Valore9    = {{{Arcipelago<includeonly>|</includeonly>}}}
+|Nome10     = [[Area|Superficie]]
+|Valore10   = {{#if:{{{Superficie_km2<includeonly>|</includeonly>}}}|{{{Superficie_km2<includeonly>|</includeonly>}}} [[Chilometro quadro|km²]]}}
+|Nome11     = [[Area|Superficie]]
+|Valore11   = {{{Superficie<includeonly>|</includeonly>}}}
+|Nome12     = Numero isole
+|Valore12   = {{{Numero_isole<includeonly>|</includeonly>}}}
+|Nome13     = Isole principali
+|Valore13   = {{{Isole_principali<includeonly>|</includeonly>}}}
+|Nome14     = Classifica
+|Valore14   = {{{Classifica<includeonly>|</includeonly>}}}
+|Nome15     = Dimensioni
+|Valore15   = {{{Dimensioni1_km<includeonly>|</includeonly>}}}{{#if:{{{Dimensioni2_km<includeonly>|</includeonly>}}}| x {{{Dimensioni2_km<includeonly>|</includeonly>}}}}} {{#if:{{{Dimensioni1_km<includeonly>|</includeonly>}}}| [[chilometro|km]]}}
+|Nome16     = Dimensioni
+|Valore16   = {{{Dimensioni1<includeonly>|</includeonly>}}}{{#if:{{{Dimensioni2<includeonly>|</includeonly>}}}| x {{{Dimensioni2<includeonly>|</includeonly>}}}}}
+|Nome17     = Sviluppo costiero
+|Valore17   = {{{Coste<includeonly>|</includeonly>}}}
+|Nome18     = Sviluppo costiero
+|Valore18   = {{#if:{{{Coste_km<includeonly>|</includeonly>}}}|{{{Coste_km<includeonly>|</includeonly>}}} [[chilometro|km]]}}
+|Nome19     = Altitudine massima
+|Valore19   = {{#if:{{{Altitudine<includeonly>|</includeonly>}}}|{{{Altitudine<includeonly>|</includeonly>}}} [[Metri sul livello del mare|m s.l.m.]]}}
+|Nome20     = Classificazione geologica
+|Valore20   = {{{Classificazione<includeonly>|</includeonly>}}}
+|Gruppo30   = {{#if:{{{Stato<includeonly>|</includeonly>}}}{{{Suddivisione1|}}}{{{ISO|}}}{{{Centro|}}}{{{Abitanti|}}}{{{Sito web|}}}|Geografia politica}}
+|Nome31     = {{{Stato_definizione<includeonly>|</includeonly>}}}
+|Valore31   = {{#ifexist: Template:{{{Stato}}}| {{{{{Stato}}}}} | {{{Stato}}} }} 
+
+|Nome32     = {{#if:{{{Suddivisione1|}}}<!-- 
+                -->|{{#if:{{{Stato|}}}<!--
+                      -->|{{#ifexist:Template:Naz/{{{Stato}}}<!--
+                                 -->|{{#ifexist:Template:DivAmm/{{{Stato}}}<!--
+                                            -->|[[{{DivAmm/{{{Stato}}}|1L}}|{{DivAmm/{{{Stato}}}|1}}]]<!--
+                                            -->|{{{Suddivisione1_nome|Regione}}}}}<!--
+                                 -->|{{{Suddivisione1_nome|Regione}}}}}<!--                        
+                      -->|{{{Suddivisione1_nome|Regione}}}}}<!--
+                -->|{{{Suddivisione1_nome|Regione}}}}}
+|Valore32   = {{{Suddivisione1|}}}
+
+|Nome33     = {{#if:{{{Suddivisione2|}}}<!-- 
+                -->|{{#if:{{{Stato|}}}<!--
+                      -->|{{#ifexist:Template:Naz/{{{Stato}}}<!--
+                                 -->|{{#ifexist:Template:DivAmm/{{{Stato}}}<!--
+                                            -->|[[{{DivAmm/{{{Stato}}}|2L}}|{{DivAmm/{{{Stato}}}|2}}]]<!--
+                                            -->|{{{Suddivisione2_nome|Provincia}}}}}<!--
+                                 -->|{{{Suddivisione2_nome|Provincia}}}}}<!--                        
+                      -->|{{{Suddivisione2_nome|Provincia}}}}}<!--
+                -->|{{{Suddivisione2_nome|Provincia}}}}}
+|Valore33   = {{{Suddivisione2|}}}
+
+|Nome34     = {{{Suddivisione3_nome<includeonly>|</includeonly>}}}
+|Valore34   = {{{Suddivisione3<includeonly>|</includeonly>}}}
+|Nome35     = {{{Suddivisione4_nome<includeonly>|</includeonly>}}} 
+|Valore35   = {{{Suddivisione4<includeonly>|</includeonly>}}}
+|Nome36     = {{{Suddivisione5_nome<includeonly>|</includeonly>}}} 
+|Valore36   = {{{Suddivisione5<includeonly>|</includeonly>}}}
+|Nome37     = {{{Suddivisione6_nome<includeonly>|</includeonly>}}} 
+|Valore37   = {{{Suddivisione6<includeonly>|</includeonly>}}}
+|Nome40    = [[ISO 3166-2]]
+|Valore40  = {{{ISO<includeonly>|</includeonly>}}}
+|Nome41    = Centro principale 
+|Valore41  = {{#if:{{{Centro<includeonly>|</includeonly>}}}|{{{Centro<includeonly>|</includeonly>}}} {{#if:{{{Abitanti_centro<includeonly>|</includeonly>}}}|({{{Abitanti_centro<includeonly>|</includeonly>}}})}}}}
+|Nome42    = Porti principali 
+|Valore42  = {{{Porti_principali<includeonly>|</includeonly>}}} 
+|Nome43    = Aeroporti principali 
+|Valore43  = {{{Aeroporti_principali<includeonly>|</includeonly>}}} 
+
+|Gruppo50  = {{#if:{{{Abitanti<includeonly>|</includeonly>}}}|Demografia}}
+|Nome51    = [[Abitanti]]
+|Valore51  = {{#if:{{{Abitanti<includeonly>|</includeonly>}}}|{{{Abitanti<includeonly>|</includeonly>}}} {{#if:{{{Anno_censimento<includeonly>|</includeonly>}}}|<small>({{{Anno_censimento<includeonly>|</includeonly>}}})}}</small>}}
+|Nome52    = [[Densità]]
+|Valore52  = {{#if:{{{Densità<includeonly>|</includeonly>}}}|{{{Densità<includeonly>|</includeonly>}}} ab./km²}}
+|Nome53    = [[Etnico (onomastica)|Etnico]]
+|Valore53  = {{{Etnico<includeonly>|</includeonly>}}}{{{Demonimo<includeonly>|</includeonly>}}}
+|Nome54    = Gruppi etnici
+|Valore54  = {{{Gruppi_etnici<includeonly>|</includeonly>}}}
+|Nome55    = Sito web
+|Valore55  = {{{Sito_web<includeonly>|</includeonly>}}}
+|Nome56    = 
+|Valore56  =  {{#if:{{{Ref|}}}|<P ALIGN=RIGHT>{{{Ref}}}</P>|<P ALIGN=RIGHT><sup class="noprint"><span class="noprint" style="color:red;">&#91;[[Wikipedia:Cita le fonti|''senza&nbsp;fonte'']]&#93;</span></sup></P><includeonly>[[Categoria:Voci con template infobox isola senza fonti|{{PAGENAME}}]]</includeonly>}}
+|Ultima    = '''[[:Categoria:isole|voci di isole presenti su Wikipedia]]'''{{#if:{{{Localizzazione|}}}||<includeonly>[[Categoria:Voci con template infobox isola senza localizzazione|{{PAGENAME}}]]</includeonly>}}{{#if:{{{Longitudine_EW|}}}||{{#if:{{{Longitudine_d|}}}||<includeonly>[[Categoria:Voci con template infobox isola senza coordinate|{{PAGENAME}}]]</includeonly>}}}}
+|StileUltima = background:lightsteelblue;
+}}<noinclude>{{man}}</noinclude>
