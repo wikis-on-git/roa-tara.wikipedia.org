@@ -110,7 +110,7 @@
 |Nome55    = Site web
 |Valore55  = {{{Sito_web<includeonly>|</includeonly>}}}
 |Nome56    = 
-|Valore56  =  {{#if:{{{Ref|}}}|<P ALIGN=RIGHT>{{{Ref}}}</P>|<P ALIGN=RIGHT><sup class="noprint"><span class="noprint" style="color:red;">&#91;[[Wikipedia:Cita le fonti|''senza&nbsp;fonte'']]&#93;</span></sup></P><includeonly>[[Category:Voci con template infobox isola senza fonti|{{PAGENAME}}]]</includeonly>}}
-|Ultima    = '''[[:Category:isole|Vôsce de isole ca se iacchiene sus a Uicchipèdie]]'''{{#if:{{{Localizzazione|}}}||<includeonly>[[Category:Voci con template infobox isola senza localizzazione|{{PAGENAME}}]]</includeonly>}}{{#if:{{{Longitudine_EW|}}}||{{#if:{{{Longitudine_d|}}}||<includeonly>[[Category:Voci con template infobox isola senza coordinate|{{PAGENAME}}]]</includeonly>}}}}
+|Valore56  =  {{#if:{{{Ref|}}}|<P ALIGN=RIGHT>{{{Ref}}}</P>|<P ALIGN=RIGHT><sup class="noprint"><span class="noprint" style="color:red;">&#91;[[Wikipedia:Cita le fonti|''senza&nbsp;fonte'']]&#93;</span></sup></P>}}
+|Ultima    = '''[[:Category:isole|Vôsce de isole ca se iacchiene sus a Uicchipèdie]]'''{{#if:{{{Localizzazione|}}}}}{{#if:{{{Longitudine_EW|}}}||{{#if:{{{Longitudine_d|}}}}}}}
 |StileUltima = background:lightsteelblue;
 }}<noinclude>{{man}}</noinclude>
